@@ -1,5 +1,12 @@
 name: Daily WaveTour Events
 
+# You will get an error on the automatic updates committing
+# if you do not have this line
+# You didn't need it before, which is why a lot of yml job files
+# you see will not have it (but you need it now!!!)
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
