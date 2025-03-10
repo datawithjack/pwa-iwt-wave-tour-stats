@@ -21,7 +21,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run WaveTour Events Script
-        run: wave_tour_events.py
+        run: event_update.py
 
       - name: Commit updated events data if changed
         run: |
