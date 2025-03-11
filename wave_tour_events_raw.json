@@ -1389,7 +1389,7 @@
                 {
                     "id": "187570",
                     "name": "Scotland: 3 STAR Tiree Wave Classic",
-                    "status": "results_published",
+                    "status": "published",
                     "date": "2024-10-11T22:00:00Z",
                     "daysWindow": 7,
                     "hideFinals": null,
@@ -1407,7 +1407,7 @@
                             "name": "2024 European: Wave Rankings"
                         }
                     ],
-                    "currentScheduleIndex": 4
+                    "currentScheduleIndex": 0
                 },
                 {
                     "id": "81557",
