@@ -20,6 +20,7 @@ id,name,status,date,daysWindow,Updates
 147529,Scotland: 2 STAR Tiree Wave Classic,results_published,2023-10-14T00:00:00Z,7,
 181652,HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final,results_published,2023-10-22T18:00:00Z,13,
 147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,results_published,2024-02-02T00:00:00Z,3,
+187570,Scotland: 3 STAR Tiree Wave Classic,results_published,2024-10-11T22:00:00Z,7,published -> results_published
 118319,CHILE: 4 STAR SURAZO Infernal - Women,results_published,2023-03-25T00:00:00Z,9,
 117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,results_published,2023-03-16T00:00:00Z,6,
 118385,CHILE: 4 STAR SURAZO Infernal - Masters & Youth,results_published,2023-03-25T00:00:00Z,9,
@@ -69,7 +70,6 @@ id,name,status,date,daysWindow,Updates
 74594,Ireland: 2 STAR Mayo Mayhem,results_published,2023-09-29T00:00:00Z,3,
 187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,results_published,2024-10-04T22:00:00Z,3,
 72450,France: 2 STAR Championnat De France Funboard Vagues 2023,results_published,2023-11-18T00:00:00Z,2,
-187570,Scotland: 3 STAR Tiree Wave Classic,published,2024-10-11T22:00:00Z,7,results_published -> published
 81557,Japan: 1 STAR Cold Breeze,results_published,2022-12-24T00:00:00Z,2,
 277082,Israel: 3 STAR Storm Rider Haifa,on_hold,2025-01-16T21:00:00Z,43,
 187565,PERU: 4 STAR Pacasmayo Classic World Cup,results_published,2024-08-03T22:00:00Z,14,

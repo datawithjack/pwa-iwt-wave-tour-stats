@@ -417,6 +417,29 @@
                     "currentScheduleIndex": 9
                 },
                 {
+                    "id": "187570",
+                    "name": "Scotland: 3 STAR Tiree Wave Classic",
+                    "status": "results_published",
+                    "date": "2024-10-11T22:00:00Z",
+                    "daysWindow": 7,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 4
+                },
+                {
                     "id": "118319",
                     "name": "CHILE: 4 STAR SURAZO Infernal - Women",
                     "status": "results_published",
@@ -1385,29 +1408,6 @@
                         }
                     ],
                     "currentScheduleIndex": 2
-                },
-                {
-                    "id": "187570",
-                    "name": "Scotland: 3 STAR Tiree Wave Classic",
-                    "status": "published",
-                    "date": "2024-10-11T22:00:00Z",
-                    "daysWindow": 7,
-                    "hideFinals": null,
-                    "series": [
-                        {
-                            "id": "23784",
-                            "name": "2024 PWA IWT World Wave Rankings"
-                        },
-                        {
-                            "id": "30055",
-                            "name": "WORLD: Rolling Wave Rankings - seeding"
-                        },
-                        {
-                            "id": "23785",
-                            "name": "2024 European: Wave Rankings"
-                        }
-                    ],
-                    "currentScheduleIndex": 0
                 },
                 {
                     "id": "81557",
