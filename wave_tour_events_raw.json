@@ -1045,25 +1045,6 @@
                     "currentScheduleIndex": 0
                 },
                 {
-                    "id": "321866",
-                    "name": "Hawaii: 4 STAR Hawaii World Cup",
-                    "status": "scheduled",
-                    "date": "2025-04-14T18:00:00Z",
-                    "daysWindow": 5,
-                    "hideFinals": null,
-                    "series": [
-                        {
-                            "id": "30055",
-                            "name": "WORLD: Rolling Wave Rankings - seeding"
-                        },
-                        {
-                            "id": "42825",
-                            "name": "2025 Americas Wave Tour Rankings"
-                        }
-                    ],
-                    "currentScheduleIndex": 0
-                },
-                {
                     "id": "321869",
                     "name": "SPAIN: 5 STAR Tenerife World Cup",
                     "status": "scheduled",
@@ -1941,6 +1922,25 @@
                         }
                     ],
                     "currentScheduleIndex": 49
+                },
+                {
+                    "id": "321866",
+                    "name": "Hawaii: 4 STAR Hawaii World Cup",
+                    "status": "scheduled",
+                    "date": "2025-04-14T18:00:00Z",
+                    "daysWindow": 5,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
                 }
             ]
         }
