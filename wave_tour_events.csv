@@ -48,7 +48,6 @@ id,name,status,date,daysWindow,Updates
 214877,Germany: 2 Star The German Wave Tour ,results_published,2023-06-11T23:00:00Z,5,
 263420,France: 3 STAR Wissant Wave Classic,results_published,2024-12-20T22:00:00Z,2,
 72455,HAWAII: detail heat results,results_published,2023-10-23T00:00:00Z,13,
-187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,results_published,2024-02-02T21:00:00Z,1,
 187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,results_published,2024-10-21T21:00:00Z,12,
 321871,HAWAII: 5 STAR Aloha Classic Grand Final,scheduled,2025-10-13T18:00:00Z,12,
 321869,SPAIN: 5 STAR Tenerife World Cup,scheduled,2025-08-01T07:00:00Z,10,
@@ -92,7 +91,8 @@ id,name,status,date,daysWindow,Updates
 322589,Japan: 2 STAR JWA Junior Wave ,results_published,2024-12-26T23:00:00Z,3,
 268537,Chile: 2 STAR Llico Historico Vichuquen,results_published,2025-01-17T13:00:00Z,3,
 321870,GERMANY: 5 STAR Sylt World Cup,scheduled,2025-09-26T06:00:00Z,10,
-321865,CHILE: 5 STAR Surazo Infernal World Cup,upcoming,2025-03-24T11:00:00Z,14,
 321863,Japan: 4 STAR Omaezaki Japan World Cup,results_published,2025-02-17T23:00:00Z,7,
-277082,Israel: 3 STAR Storm Rider Haifa,finished,2025-01-16T21:00:00Z,75,on_hold -> finished
+277082,Israel: 3 STAR Storm Rider Haifa,finished,2025-01-16T21:00:00Z,75,
+321865,CHILE: 5 STAR Surazo Infernal World Cup,drawn,2025-03-24T11:00:00Z,14,upcoming -> drawn
+187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,on,2024-02-02T21:00:00Z,1,results_published -> on
 321866,Hawaii: 4 STAR Hawaii World Cup,upcoming,2025-04-13T18:00:00Z,5,
