@@ -1345,6 +1345,29 @@
                     "currentScheduleIndex": 4
                 },
                 {
+                    "id": "321865",
+                    "name": "CHILE: 5 STAR Surazo Infernal World Cup",
+                    "status": "drawn",
+                    "date": "2025-03-24T11:00:00Z",
+                    "daysWindow": 14,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
                     "id": "72450",
                     "name": "France: 2 STAR Championnat De France Funboard Vagues 2023",
                     "status": "results_published",
@@ -1878,32 +1901,9 @@
                     "currentScheduleIndex": 0
                 },
                 {
-                    "id": "321865",
-                    "name": "CHILE: 5 STAR Surazo Infernal World Cup",
-                    "status": "upcoming",
-                    "date": "2025-03-24T11:00:00Z",
-                    "daysWindow": 14,
-                    "hideFinals": null,
-                    "series": [
-                        {
-                            "id": "45135",
-                            "name": "2025 WORLD WAVE RANKINGS"
-                        },
-                        {
-                            "id": "42825",
-                            "name": "2025 Americas Wave Tour Rankings"
-                        },
-                        {
-                            "id": "30055",
-                            "name": "WORLD: Rolling Wave Rankings - seeding"
-                        }
-                    ],
-                    "currentScheduleIndex": 0
-                },
-                {
                     "id": "187554",
                     "name": "Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024",
-                    "status": "on",
+                    "status": "results_published",
                     "date": "2024-02-02T21:00:00Z",
                     "daysWindow": 1,
                     "hideFinals": null,
