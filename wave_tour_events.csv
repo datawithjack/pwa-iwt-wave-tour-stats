@@ -49,6 +49,7 @@ id,name,status,date,daysWindow,Updates
 263420,France: 3 STAR Wissant Wave Classic,results_published,2024-12-20T22:00:00Z,2,
 72455,HAWAII: detail heat results,results_published,2023-10-23T00:00:00Z,13,
 187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,results_published,2024-10-21T21:00:00Z,12,
+321866,Hawaii: 4 STAR Hawaii World Cup,upcoming,2025-04-13T18:00:00Z,5,
 321871,HAWAII: 5 STAR Aloha Classic Grand Final,scheduled,2025-10-13T18:00:00Z,12,
 321869,SPAIN: 5 STAR Tenerife World Cup,scheduled,2025-08-01T07:00:00Z,10,
 321868, SPAIN: 5 STAR Gran Canaria World Cup,scheduled,2025-07-05T07:00:00Z,9,
@@ -67,13 +68,13 @@ id,name,status,date,daysWindow,Updates
 72485,Australia: 2 STAR Lancelin Wave Classic,results_published,2023-01-18T00:00:00Z,4,
 74594,Ireland: 2 STAR Mayo Mayhem,results_published,2023-09-29T00:00:00Z,3,
 187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,results_published,2024-10-04T22:00:00Z,3,
-321865,CHILE: 5 STAR Surazo Infernal World Cup,drawn,2025-03-24T11:00:00Z,14,upcoming -> drawn
 72450,France: 2 STAR Championnat De France Funboard Vagues 2023,results_published,2023-11-18T00:00:00Z,2,
 81557,Japan: 1 STAR Cold Breeze,results_published,2022-12-24T00:00:00Z,2,
 187565,PERU: 4 STAR Pacasmayo Classic World Cup,results_published,2024-08-03T22:00:00Z,14,
 305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,results_published,2024-11-15T21:00:00Z,2,
 322524,PERU: 3 STAR Pacasmayo Classic World Cup,scheduled,2025-08-23T13:00:00Z,9,
 268535,Chile: 3 STAR Sirena Wave Classic,results_published,2024-12-12T13:00:00Z,3,
+296885,Test,on,2022-01-01T18:00:00Z,2,finished -> on
 268536,Chile: 3 STAR Surazo Infernal Navidad,results_published,2024-11-07T13:00:00Z,4,
 321864,Puerto Rico: 4 STAR Puerto Rico World Cup,results_published,2025-03-09T12:00:00Z,1,
 322457,Taiwan: 1 STAR Taitung Wave Classic,results_published,2024-11-01T00:00:00Z,30,
@@ -87,12 +88,11 @@ id,name,status,date,daysWindow,Updates
 322556,Scotland: 3 STAR Tiree Wave Classic,scheduled,2025-10-11T07:00:00Z,7,
 322557,Chile: 3 STAR Surazo Infernal Navidad,scheduled,2025-11-01T11:00:00Z,30,
 322558,France: 3 STAR Wissant Wave Classic,scheduled,2025-11-01T07:00:00Z,30,
-296885,Test,finished,2022-01-01T18:00:00Z,2,
 295232,Judges Training Event,finished,2023-10-01T18:00:00Z,8,
+321865,CHILE: 5 STAR Surazo Infernal World Cup,upcoming,2025-03-24T11:00:00Z,14,drawn -> upcoming
 322589,Japan: 2 STAR JWA Junior Wave ,results_published,2024-12-26T23:00:00Z,3,
 268537,Chile: 2 STAR Llico Historico Vichuquen,results_published,2025-01-17T13:00:00Z,3,
 321870,GERMANY: 5 STAR Sylt World Cup,scheduled,2025-09-26T06:00:00Z,10,
 321863,Japan: 4 STAR Omaezaki Japan World Cup,results_published,2025-02-17T23:00:00Z,7,
 277082,Israel: 3 STAR Storm Rider Haifa,finished,2025-01-16T21:00:00Z,75,
-187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,results_published,2024-02-02T21:00:00Z,1,on -> results_published
-321866,Hawaii: 4 STAR Hawaii World Cup,upcoming,2025-04-13T18:00:00Z,5,
+187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,results_published,2024-02-02T21:00:00Z,1,

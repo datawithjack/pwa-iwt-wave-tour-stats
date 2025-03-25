@@ -999,6 +999,29 @@
                     "currentScheduleIndex": 54
                 },
                 {
+                    "id": "321866",
+                    "name": "Hawaii: 4 STAR Hawaii World Cup",
+                    "status": "upcoming",
+                    "date": "2025-04-13T18:00:00Z",
+                    "daysWindow": 5,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
                     "id": "321871",
                     "name": "HAWAII: 5 STAR Aloha Classic Grand Final",
                     "status": "scheduled",
@@ -1345,29 +1368,6 @@
                     "currentScheduleIndex": 4
                 },
                 {
-                    "id": "321865",
-                    "name": "CHILE: 5 STAR Surazo Infernal World Cup",
-                    "status": "drawn",
-                    "date": "2025-03-24T11:00:00Z",
-                    "daysWindow": 14,
-                    "hideFinals": null,
-                    "series": [
-                        {
-                            "id": "45135",
-                            "name": "2025 WORLD WAVE RANKINGS"
-                        },
-                        {
-                            "id": "42825",
-                            "name": "2025 Americas Wave Tour Rankings"
-                        },
-                        {
-                            "id": "30055",
-                            "name": "WORLD: Rolling Wave Rankings - seeding"
-                        }
-                    ],
-                    "currentScheduleIndex": 0
-                },
-                {
                     "id": "72450",
                     "name": "France: 2 STAR Championnat De France Funboard Vagues 2023",
                     "status": "results_published",
@@ -1492,6 +1492,25 @@
                         }
                     ],
                     "currentScheduleIndex": 0
+                },
+                {
+                    "id": "296885",
+                    "name": "Test",
+                    "status": "on",
+                    "date": "2022-01-01T18:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 1
                 },
                 {
                     "id": "268536",
@@ -1769,25 +1788,6 @@
                     "currentScheduleIndex": 0
                 },
                 {
-                    "id": "296885",
-                    "name": "Test",
-                    "status": "finished",
-                    "date": "2022-01-01T18:00:00Z",
-                    "daysWindow": 2,
-                    "hideFinals": null,
-                    "series": [
-                        {
-                            "id": "30055",
-                            "name": "WORLD: Rolling Wave Rankings - seeding"
-                        },
-                        {
-                            "id": "23784",
-                            "name": "2024 PWA IWT World Wave Rankings"
-                        }
-                    ],
-                    "currentScheduleIndex": 0
-                },
-                {
                     "id": "295232",
                     "name": "Judges Training Event",
                     "status": "finished",
@@ -1795,6 +1795,29 @@
                     "daysWindow": 8,
                     "hideFinals": null,
                     "series": [],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "321865",
+                    "name": "CHILE: 5 STAR Surazo Infernal World Cup",
+                    "status": "upcoming",
+                    "date": "2025-03-24T11:00:00Z",
+                    "daysWindow": 14,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
                     "currentScheduleIndex": 0
                 },
                 {
@@ -1919,29 +1942,6 @@
                         {
                             "id": "23784",
                             "name": "2024 PWA IWT World Wave Rankings"
-                        }
-                    ],
-                    "currentScheduleIndex": 0
-                },
-                {
-                    "id": "321866",
-                    "name": "Hawaii: 4 STAR Hawaii World Cup",
-                    "status": "upcoming",
-                    "date": "2025-04-13T18:00:00Z",
-                    "daysWindow": 5,
-                    "hideFinals": null,
-                    "series": [
-                        {
-                            "id": "45135",
-                            "name": "2025 WORLD WAVE RANKINGS"
-                        },
-                        {
-                            "id": "30055",
-                            "name": "WORLD: Rolling Wave Rankings - seeding"
-                        },
-                        {
-                            "id": "42825",
-                            "name": "2025 Americas Wave Tour Rankings"
                         }
                     ],
                     "currentScheduleIndex": 0
