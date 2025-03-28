@@ -24,11 +24,11 @@ from sqlalchemy.dialects.mysql import insert
 # )
 
 db_config = {
-    'user': os.getenv('DB_USER', 'avnadmin'),
-    'password': os.getenv('DB_PASSWORD', 'AVNS_ND3WBdcIqIQvtuWr2ka'),
-    'host': os.getenv('DB_HOST', 'mysql-world-wave-tour-database-pwa-iwt-windsurf-stats.l.aivencloud.com'),
-    'port': os.getenv('DB_PORT', '28343'),
-    'database': os.getenv('DB_DATABASE', 'defaultdb')
+    'user': os.getenv('DB_USER', 'avnadmin').strip(),
+    'password': os.getenv('DB_PASSWORD', 'AVNS_ND3WBdcIqIQvtuWr2ka').strip(),
+    'host': os.getenv('DB_HOST', 'mysql-world-wave-tour-database-pwa-iwt-windsurf-stats.l.aivencloud.com').strip(),
+    'port': os.getenv('DB_PORT', '28343').strip(),
+    'database': os.getenv('DB_DATABASE', 'defaultdb').strip()
 }
 
 # Build the connection string; if SSL is required, include the ssl_ca parameter.
