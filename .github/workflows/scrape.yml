@@ -28,7 +28,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run WaveTour Events Script
-        run: python "event_update.py"
+        run: python "daily_events_check_and_update.py"
 
       - name: Commit updated events data if changed
         run: |
