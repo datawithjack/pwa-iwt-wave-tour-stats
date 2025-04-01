@@ -110,6 +110,11 @@ def export_heat_progression_and_results(event_id, category_code):
     final_df = pd.DataFrame(all_data)
     heat_progression_df = pd.DataFrame(heat_progression_data)
     
+    # If no wave events were processed, return empty results immediately.
+    if final_df.empty:
+        print(f"No wave events found for event_id: {event_id} and category_code: {category_code}")
+        return final_df, heat_progression_df, []
+    
     # Create an athlete_id by combining sailor name and number
     final_df['athlete_id'] = final_df['Sailor Name'].astype(str) + '_' + final_df['Sailor Number'].astype(str)
     
@@ -189,25 +194,25 @@ def export_heat_scores(event_id, category_code, heat_ids):
             # Process each sailor in the heat
             for sailor_info in heatsheet_json['heat']['sailors']:
                 sailor = sailor_info['sailor']
-                sailor_name = unicodedata.normalize('NFKD', sailor['sailorName'])
-                
+                # Use .get() so that missing keys return an empty string
+                sailor_name = unicodedata.normalize('NFKD', sailor.get('sailorName', ''))
                 base_info = {
                     'event_id': event_id,   # Include event_id from XML extraction
                     'Category': category_code,
-                    'Sailor Name': sailor_name,
-                    'Sail Number': sailor['sailNo'],
+                    'Sailor Name': sailor.get('sailorName', ''),
+                    'Sail Number': sailor.get('sailNo', ''),
                     'Heatsheet ID': heat_id,
                     'Heat No': heatsheet_json['heat']['heatNo'],
-                    'Total Wave': sailor['totalWave'],
-                    'Total Jump': sailor['totalJump'],
-                    'Total Points': sailor['totalPoints'],
-                    'Position': sailor['totalPos'],
+                    'Total Wave': sailor.get('totalWave', ''),
+                    'Total Jump': sailor.get('totalJump', ''),
+                    'Total Points': sailor.get('totalPoints', ''),
+                    'Position': sailor.get('totalPos', ''),
                 }
                 
                 combined_info = {**heat_info, **base_info}
                 
                 # Process each score (wave or jump)
-                for score_type, score_list in sailor['scores'].items():
+                for score_type, score_list in sailor.get('scores', {}).items():
                     for score in score_list:
                         if not isinstance(score, dict):
                             continue
@@ -223,8 +228,34 @@ def export_heat_scores(event_id, category_code, heat_ids):
             print(f"Failed to retrieve or parse heatsheet for Heat ID {heat_id}. Error: {e}")
             continue
     
+    # Define the required columns for the output DataFrame
+    required_columns = [
+        'source',
+        'event_id',
+        'heat_id',
+        'eventDivisionId',
+        'athleteId',
+        'score',
+        'modified_total',
+        'modifier',
+        'type',
+        'counting',
+        'total_wave',
+        'total_jump',
+        'total_points'
+    ]
+    
     # Create a DataFrame from the collected heat data
     heatsheet_df = pd.DataFrame(heat_data)
+    
+    # If no data was collected, or required keys are missing, return an empty DataFrame.
+    if heatsheet_df.empty:
+        print("No heat scores data available; returning empty DataFrame.")
+        return pd.DataFrame(columns=required_columns)
+    
+    if 'Sailor Name' not in heatsheet_df.columns or 'Sail Number' not in heatsheet_df.columns:
+        print("Required keys ('Sailor Name' or 'Sail Number') not found in heat scores data; skipping export for this category_code.")
+        return pd.DataFrame(columns=required_columns)
     
     # Add source column with value 'PWA'
     heatsheet_df['source'] = 'PWA'
@@ -260,7 +291,7 @@ def export_heat_scores(event_id, category_code, heat_ids):
     heatsheet_df['modifier'] = ''
     
     # Reorder columns as specified
-    heatsheet_df = heatsheet_df[[
+    heatsheet_df = heatsheet_df[[ 
         'source',
         'event_id',
         'heat_id',
@@ -323,4 +354,5 @@ def export_heat_data(event_id, category_code):
 
 # Example usage:
 # Replace with your actual event_id and category_code values
-export_heat_data(357, 857)
+# if __name__ == '__main__':
+export_heat_data(363, 931)
