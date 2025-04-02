@@ -1,0 +1,121 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "253880",
+            "heatDurationMinutes": 6,
+            "defaultEventDurationMinutes": 20,
+            "formatDefinition": {
+                "progression": {
+                    "default": [
+                        {
+                            "max": 8
+                        }
+                    ]
+                },
+                "runProgression": {},
+                "heatSizes": {
+                    "default": 16
+                },
+                "seeds": {},
+                "defaultHeatDurationMinutes": 6,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": null,
+                "totalCountingRides": 1,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "114869",
+                "name": "U15 Boys"
+            },
+            "eventDivisions": [],
+            "heats": [
+                {
+                    "id": "1670623",
+                    "eventDivisionId": "253880",
+                    "round": "Final",
+                    "roundPosition": 0,
+                    "position": 0,
+                    "startTime": "2023-04-24T21:00:19Z",
+                    "endTime": "2023-04-24T21:00:30Z",
+                    "heatDurationMinutes": 6,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 16
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1169643",
+                            "total": 1.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1169643": [
+                                    {
+                                        "scores": {
+                                            "72236": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1167311",
+                            "total": 2.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1167311": [
+                                    {
+                                        "scores": {
+                                            "72236": 2.0
+                                        },
+                                        "total": 2.0,
+                                        "modified_total": 2.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1170707",
+                            "total": 3.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1170707": [
+                                    {
+                                        "scores": {
+                                            "72236": 3.0
+                                        },
+                                        "total": 3.0,
+                                        "modified_total": 3.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        }
+                    ]
+                }
+            ],
+            "template": {
+                "id": "9",
+                "name": "Surf life saving"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "118715"
+            }
+        }
+    }
+}

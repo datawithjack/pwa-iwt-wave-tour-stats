@@ -1,0 +1,181 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "353292",
+            "heatDurationMinutes": 17,
+            "defaultEventDurationMinutes": 17,
+            "formatDefinition": {
+                "progression": {
+                    "default": [
+                        {
+                            "max": 0
+                        }
+                    ]
+                },
+                "runProgression": {},
+                "heatSizes": {
+                    "default": 6
+                },
+                "seeds": {},
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 2,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "114871",
+                "name": "Junior Girls"
+            },
+            "eventDivisions": [],
+            "heats": [
+                {
+                    "id": "2087942",
+                    "eventDivisionId": "353292",
+                    "round": "Final",
+                    "roundPosition": 0,
+                    "position": 0,
+                    "startTime": "2024-02-25T06:00:55Z",
+                    "endTime": "2024-02-25T06:01:22Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 6
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1177773",
+                            "total": 1.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1177773": [
+                                    {
+                                        "scores": {
+                                            "72236": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1166237",
+                            "total": 2.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1166237": [
+                                    {
+                                        "scores": {
+                                            "72236": 2.0
+                                        },
+                                        "total": 2.0,
+                                        "modified_total": 2.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1166832",
+                            "total": 3.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1166832": [
+                                    {
+                                        "scores": {
+                                            "72236": 3.0
+                                        },
+                                        "total": 3.0,
+                                        "modified_total": 3.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1165931",
+                            "total": 4.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1165931": [
+                                    {
+                                        "scores": {
+                                            "72236": 4.0
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        },
+                        {
+                            "athleteId": "1176427",
+                            "total": 4.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1176427": [
+                                    {
+                                        "scores": {
+                                            "72236": 4.0
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        },
+                        {
+                            "athleteId": "1169644",
+                            "total": 4.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1169644": [
+                                    {
+                                        "scores": {
+                                            "72236": 4.0
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                }
+            ],
+            "template": {
+                "id": "8152",
+                "name": "Placing results (32 athletes)"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "187562"
+            }
+        }
+    }
+}

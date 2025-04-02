@@ -1,0 +1,38 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "471649",
+            "heatDurationMinutes": 15,
+            "defaultEventDurationMinutes": 25,
+            "formatDefinition": {
+                "progression": null,
+                "runProgression": null,
+                "heatSizes": {
+                    "default": 32
+                },
+                "seeds": null,
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 2,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "180439",
+                "name": "Pro Junior GIrls"
+            },
+            "eventDivisions": [],
+            "heats": [],
+            "template": {
+                "id": "8152",
+                "name": "Placing results (32 athletes)"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "270680"
+            }
+        }
+    }
+}

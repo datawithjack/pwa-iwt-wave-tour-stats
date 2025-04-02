@@ -1,0 +1,44 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "353242",
+            "heatDurationMinutes": 20,
+            "defaultEventDurationMinutes": 17,
+            "formatDefinition": {
+                "progression": {
+                    "default": [
+                        {
+                            "max": 0
+                        }
+                    ]
+                },
+                "runProgression": {},
+                "heatSizes": {
+                    "default": 4
+                },
+                "seeds": {},
+                "defaultHeatDurationMinutes": 6,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": null,
+                "totalCountingRides": 1,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "76093",
+                "name": "Women"
+            },
+            "eventDivisions": [],
+            "heats": [],
+            "template": {
+                "id": "9",
+                "name": "Surf life saving"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "187553"
+            }
+        }
+    }
+}

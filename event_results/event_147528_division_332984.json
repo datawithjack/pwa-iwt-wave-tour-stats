@@ -1,0 +1,146 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "332984",
+            "heatDurationMinutes": 15,
+            "defaultEventDurationMinutes": 15,
+            "formatDefinition": {
+                "progression": {},
+                "runProgression": {},
+                "heatSizes": {
+                    "default": 32,
+                    "0": 4
+                },
+                "seeds": {},
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 2,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "114869",
+                "name": "U15 Boys"
+            },
+            "eventDivisions": [],
+            "heats": [
+                {
+                    "id": "1877785",
+                    "eventDivisionId": "332984",
+                    "round": "Final",
+                    "roundPosition": 0,
+                    "position": 0,
+                    "startTime": "2023-10-18T08:49:40Z",
+                    "endTime": "2023-10-18T08:50:14Z",
+                    "heatDurationMinutes": 15,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "923887",
+                            "total": 1.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "923887": [
+                                    {
+                                        "scores": {
+                                            "72236": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "923886",
+                            "total": 2.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "923886": [
+                                    {
+                                        "scores": {
+                                            "72236": 2.0
+                                        },
+                                        "total": 2.0,
+                                        "modified_total": 2.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "937113",
+                            "total": 3.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "937113": [
+                                    {
+                                        "scores": {
+                                            "72236": 3.0
+                                        },
+                                        "total": 3.0,
+                                        "modified_total": 3.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "923888",
+                            "total": 4.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "923888": [
+                                    {
+                                        "scores": {
+                                            "72236": 4.0
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                }
+            ],
+            "template": {
+                "id": "8152",
+                "name": "Placing results (32 athletes)"
+            },
+            "eventDivisionPointAllocations": [
+                {
+                    "id": "10033",
+                    "eventDivisionId": "332984",
+                    "seasonId": "8538",
+                    "pointAllocation": {
+                        "id": "303",
+                        "name": "Double Elimination 2 rider heats - (Pozo yes, Sylt maybe)"
+                    }
+                }
+            ],
+            "event": {
+                "id": "147528"
+            }
+        }
+    }
+}

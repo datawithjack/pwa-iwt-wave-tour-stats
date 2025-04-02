@@ -1,0 +1,81 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "585833",
+            "heatDurationMinutes": 15,
+            "defaultEventDurationMinutes": 17,
+            "formatDefinition": {
+                "progression": {
+                    "default": [
+                        {
+                            "max": 0
+                        }
+                    ]
+                },
+                "runProgression": {},
+                "heatSizes": {
+                    "default": 4
+                },
+                "seeds": {},
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 2,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "76093",
+                "name": "Women"
+            },
+            "eventDivisions": [],
+            "heats": [
+                {
+                    "id": "2518163",
+                    "eventDivisionId": "585833",
+                    "round": "Final",
+                    "roundPosition": 0,
+                    "position": 0,
+                    "startTime": "2025-01-12T20:03:06Z",
+                    "endTime": "2025-01-12T20:03:08Z",
+                    "heatDurationMinutes": 15,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1502029",
+                            "total": 1.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1502029": [
+                                    {
+                                        "scores": {
+                                            "72236": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        }
+                    ]
+                }
+            ],
+            "template": {
+                "id": "8152",
+                "name": "Placing results (32 athletes)"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "322457"
+            }
+        }
+    }
+}

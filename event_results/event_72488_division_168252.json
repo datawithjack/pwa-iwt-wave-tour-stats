@@ -1,0 +1,81 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "168252",
+            "heatDurationMinutes": 6,
+            "defaultEventDurationMinutes": 20,
+            "formatDefinition": {
+                "progression": {
+                    "default": [
+                        {
+                            "max": 8
+                        }
+                    ]
+                },
+                "runProgression": {},
+                "heatSizes": {
+                    "default": 16
+                },
+                "seeds": {},
+                "defaultHeatDurationMinutes": 6,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": null,
+                "totalCountingRides": 1,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "76093",
+                "name": "Women"
+            },
+            "eventDivisions": [],
+            "heats": [
+                {
+                    "id": "1670721",
+                    "eventDivisionId": "168252",
+                    "round": "Final",
+                    "roundPosition": 0,
+                    "position": 0,
+                    "startTime": "2023-04-24T22:00:13Z",
+                    "endTime": "2023-04-24T22:00:16Z",
+                    "heatDurationMinutes": 6,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 16
+                    },
+                    "result": [
+                        {
+                            "athleteId": "529331",
+                            "total": 1.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "529331": [
+                                    {
+                                        "scores": {
+                                            "72236": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        }
+                    ]
+                }
+            ],
+            "template": {
+                "id": "9",
+                "name": "Surf life saving"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "72488"
+            }
+        }
+    }
+}

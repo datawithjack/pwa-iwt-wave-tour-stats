@@ -1,0 +1,36 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "186166",
+            "heatDurationMinutes": null,
+            "defaultEventDurationMinutes": 20,
+            "formatDefinition": {
+                "progression": null,
+                "runProgression": null,
+                "heatSizes": null,
+                "seeds": null,
+                "defaultHeatDurationMinutes": null,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 2,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "76095",
+                "name": "Masters"
+            },
+            "eventDivisions": [],
+            "heats": [],
+            "template": {
+                "id": "1",
+                "name": "Surfing individual"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "81590"
+            }
+        }
+    }
+}

@@ -1,0 +1,3063 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "467760",
+            "heatDurationMinutes": 25,
+            "defaultEventDurationMinutes": 20,
+            "formatDefinition": {
+                "progression": {
+                    "0": [
+                        {
+                            "to_round": 2,
+                            "max": 2
+                        },
+                        {
+                            "to_round": 1,
+                            "max": 2
+                        }
+                    ],
+                    "1": [
+                        {
+                            "to_round": 2,
+                            "max": 2
+                        }
+                    ],
+                    "2": [
+                        {
+                            "to_round": 3,
+                            "max": 2
+                        }
+                    ],
+                    "3": [
+                        {
+                            "to_round": 5,
+                            "max": 2
+                        }
+                    ]
+                },
+                "runProgression": {},
+                "heatSizes": {},
+                "seeds": {},
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 2,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "76092",
+                "name": "Men"
+            },
+            "eventDivisions": [],
+            "heats": [
+                {
+                    "id": "2453081",
+                    "eventDivisionId": "467760",
+                    "round": "Round 1",
+                    "roundPosition": 0,
+                    "position": 0,
+                    "startTime": "2024-11-07T23:08:08Z",
+                    "endTime": "2024-11-07T23:14:39Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1207547",
+                            "total": 10.94,
+                            "winBy": 2.28,
+                            "needs": null,
+                            "rides": {
+                                "1207547": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 4.0,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.83,
+                                        "modified_total": 3.83,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 4.0,
+                                            "357351": 2.5
+                                        },
+                                        "total": 3.17,
+                                        "modified_total": 3.17,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.0,
+                                            "357352": 1.0,
+                                            "357351": 1.1
+                                        },
+                                        "total": 1.03,
+                                        "modified_total": 1.03,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.0,
+                                            "357352": 5.0,
+                                            "357351": 4.5
+                                        },
+                                        "total": 5.17,
+                                        "modified_total": 5.17,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.8,
+                                            "357352": 5.0,
+                                            "357351": 6.5
+                                        },
+                                        "total": 5.77,
+                                        "modified_total": 5.77,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1212625",
+                            "total": 8.66,
+                            "winBy": null,
+                            "needs": 6.11,
+                            "rides": {
+                                "1212625": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 2.5,
+                                            "357351": 3.0
+                                        },
+                                        "total": 2.83,
+                                        "modified_total": 2.83,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 3.5,
+                                            "357351": 4.0
+                                        },
+                                        "total": 3.83,
+                                        "modified_total": 3.83,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.0,
+                                            "357352": 4.5,
+                                            "357351": 5.0
+                                        },
+                                        "total": 4.83,
+                                        "modified_total": 4.83,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1329185",
+                            "total": 6.67,
+                            "winBy": null,
+                            "needs": 4.99,
+                            "rides": {
+                                "1329185": [
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 1.5,
+                                            "357351": 2.0
+                                        },
+                                        "total": 1.83,
+                                        "modified_total": 1.83,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 2.5,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.0,
+                                        "modified_total": 3.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.5,
+                                            "357351": 4.0
+                                        },
+                                        "total": 3.67,
+                                        "modified_total": 3.67,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1437366",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 8.66,
+                            "rides": {
+                                "1437366": []
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453082",
+                    "eventDivisionId": "467760",
+                    "round": "Round 1",
+                    "roundPosition": 0,
+                    "position": 1,
+                    "startTime": "2024-11-07T23:14:55Z",
+                    "endTime": "2024-11-07T23:22:12Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1437353",
+                            "total": 11.33,
+                            "winBy": 3.6,
+                            "needs": null,
+                            "rides": {
+                                "1437353": [
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357351": 4.0,
+                                            "357353": 4.8
+                                        },
+                                        "total": 4.27,
+                                        "modified_total": 4.27,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 6.0,
+                                            "357352": 5.5,
+                                            "357353": 4.5
+                                        },
+                                        "total": 5.33,
+                                        "modified_total": 5.33,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357351": 4.5,
+                                            "357352": 4.5
+                                        },
+                                        "total": 4.33,
+                                        "modified_total": 4.33,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.5,
+                                            "357351": 6.0,
+                                            "357353": 5.5
+                                        },
+                                        "total": 6.0,
+                                        "modified_total": 6.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.1,
+                                            "357352": 3.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.37,
+                                        "modified_total": 3.37,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357353": 4.3,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.1,
+                                        "modified_total": 4.1,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1438222",
+                            "total": 7.73,
+                            "winBy": null,
+                            "needs": 7.43,
+                            "rides": {
+                                "1438222": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 3.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.5,
+                                        "modified_total": 3.5,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.7,
+                                            "357352": 3.5,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.9,
+                                        "modified_total": 3.9,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357352": 2.5,
+                                            "357351": 3.0
+                                        },
+                                        "total": 2.67,
+                                        "modified_total": 2.67,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.5,
+                                            "357351": 4.5
+                                        },
+                                        "total": 3.83,
+                                        "modified_total": 3.83,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 3.0,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.5,
+                                        "modified_total": 3.5,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1437351",
+                            "total": 7.4,
+                            "winBy": null,
+                            "needs": 3.56,
+                            "rides": {
+                                "1437351": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.2,
+                                            "357352": 3.0,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.23,
+                                        "modified_total": 3.23,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.3,
+                                            "357352": 2.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.1,
+                                        "modified_total": 2.1,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.3,
+                                            "357352": 2.5,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.77,
+                                        "modified_total": 2.77,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 4.0,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.17,
+                                        "modified_total": 4.17,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "769113",
+                            "total": 7.13,
+                            "winBy": null,
+                            "needs": 3.93,
+                            "rides": {
+                                "769113": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.4,
+                                            "357352": 3.5,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.8,
+                                        "modified_total": 3.8,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357352": 1.5,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.0,
+                                        "modified_total": 2.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.5,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.33,
+                                        "modified_total": 3.33,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 1.5,
+                                            "357351": 2.0
+                                        },
+                                        "total": 1.83,
+                                        "modified_total": 1.83,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453083",
+                    "eventDivisionId": "467760",
+                    "round": "Round 1",
+                    "roundPosition": 0,
+                    "position": 2,
+                    "startTime": "2024-11-07T23:22:52Z",
+                    "endTime": "2024-11-07T23:32:55Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1437356",
+                            "total": 14.17,
+                            "winBy": 4.67,
+                            "needs": null,
+                            "rides": {
+                                "1437356": [
+                                    {
+                                        "scores": {
+                                            "357351": 4.0,
+                                            "357353": 3.5,
+                                            "357352": 4.5
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 6.0,
+                                            "357353": 5.5,
+                                            "357352": 5.0
+                                        },
+                                        "total": 5.5,
+                                        "modified_total": 5.5,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.0,
+                                            "357351": 6.5,
+                                            "357352": 5.5
+                                        },
+                                        "total": 6.0,
+                                        "modified_total": 6.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 8.5,
+                                            "357353": 8.0,
+                                            "357352": 8.0
+                                        },
+                                        "total": 8.17,
+                                        "modified_total": 8.17,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.0,
+                                            "357352": 4.5,
+                                            "357351": 5.0
+                                        },
+                                        "total": 4.83,
+                                        "modified_total": 4.83,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1206490",
+                            "total": 9.5,
+                            "winBy": null,
+                            "needs": 9.17,
+                            "rides": {
+                                "1206490": [
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 2.5,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.17,
+                                        "modified_total": 2.17,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 5.0,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.17,
+                                        "modified_total": 4.17,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.3,
+                                            "357352": 2.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 1.77,
+                                        "modified_total": 1.77,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.0,
+                                            "357352": 5.5,
+                                            "357351": 4.5
+                                        },
+                                        "total": 5.0,
+                                        "modified_total": 5.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 4.5,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.5,
+                                        "modified_total": 4.5,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1380909",
+                            "total": 5.77,
+                            "winBy": null,
+                            "needs": 6.4,
+                            "rides": {
+                                "1380909": [
+                                    {
+                                        "scores": {
+                                            "357353": 1.5,
+                                            "357352": 2.5,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.0,
+                                        "modified_total": 2.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.67,
+                                        "modified_total": 2.67,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.8,
+                                            "357352": 3.0,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.1,
+                                        "modified_total": 3.1,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1385631",
+                            "total": 5.16,
+                            "winBy": null,
+                            "needs": 6.67,
+                            "rides": {
+                                "1385631": [
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 3.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.33,
+                                        "modified_total": 2.33,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 2.5,
+                                            "357351": 3.0
+                                        },
+                                        "total": 2.83,
+                                        "modified_total": 2.83,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453084",
+                    "eventDivisionId": "467760",
+                    "round": "Round 1",
+                    "roundPosition": 0,
+                    "position": 3,
+                    "startTime": "2024-11-07T23:34:22Z",
+                    "endTime": "2024-11-07T23:39:28Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1438205",
+                            "total": 7.27,
+                            "winBy": 1.21,
+                            "needs": null,
+                            "rides": {
+                                "1438205": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 2.5,
+                                            "357351": 3.2
+                                        },
+                                        "total": 2.9,
+                                        "modified_total": 2.9,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.0,
+                                            "357352": 3.5,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.17,
+                                        "modified_total": 4.17,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.3,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.1,
+                                        "modified_total": 3.1,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1206482",
+                            "total": 6.06,
+                            "winBy": null,
+                            "needs": 3.85,
+                            "rides": {
+                                "1206482": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.8,
+                                            "357352": 3.0,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.43,
+                                        "modified_total": 3.43,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357352": 3.1,
+                                            "357351": 2.3
+                                        },
+                                        "total": 2.63,
+                                        "modified_total": 2.63,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1206567",
+                            "total": 4.94,
+                            "winBy": null,
+                            "needs": 3.4,
+                            "rides": {
+                                "1206567": [
+                                    {
+                                        "scores": {
+                                            "357353": 1.0,
+                                            "357352": 2.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 1.67,
+                                        "modified_total": 1.67,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357352": 2.3,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.27,
+                                        "modified_total": 2.27,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357352": 3.0,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.67,
+                                        "modified_total": 2.67,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1385622",
+                            "total": 3.86,
+                            "winBy": null,
+                            "needs": 4.03,
+                            "rides": {
+                                "1385622": [
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 2.0,
+                                            "357351": 1.5
+                                        },
+                                        "total": 1.83,
+                                        "modified_total": 1.83,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 2.1,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.03,
+                                        "modified_total": 2.03,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453085",
+                    "eventDivisionId": "467760",
+                    "round": "Round 1",
+                    "roundPosition": 0,
+                    "position": 4,
+                    "startTime": "2024-11-07T23:39:45Z",
+                    "endTime": "2024-11-07T23:44:37Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1205619",
+                            "total": 10.94,
+                            "winBy": 3.4,
+                            "needs": null,
+                            "rides": {
+                                "1205619": [
+                                    {
+                                        "scores": {
+                                            "357353": 5.5,
+                                            "357352": 5.5,
+                                            "357351": 4.5
+                                        },
+                                        "total": 5.17,
+                                        "modified_total": 5.17,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.0,
+                                            "357352": 5.8,
+                                            "357351": 5.5
+                                        },
+                                        "total": 5.77,
+                                        "modified_total": 5.77,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1437567",
+                            "total": 7.54,
+                            "winBy": null,
+                            "needs": 7.17,
+                            "rides": {
+                                "1437567": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 3.8,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.77,
+                                        "modified_total": 3.77,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.8,
+                                            "357351": 4.5
+                                        },
+                                        "total": 3.77,
+                                        "modified_total": 3.77,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "529958",
+                            "total": 6.57,
+                            "winBy": null,
+                            "needs": 3.74,
+                            "rides": {
+                                "529958": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 4.2,
+                                            "357351": 3.2
+                                        },
+                                        "total": 3.8,
+                                        "modified_total": 3.8,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357352": 3.3,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.77,
+                                        "modified_total": 2.77,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1438209",
+                            "total": 5.4,
+                            "winBy": null,
+                            "needs": 4.54,
+                            "rides": {
+                                "1438209": [
+                                    {
+                                        "scores": {
+                                            "357352": 2.7,
+                                            "357351": 2.5,
+                                            "357353": 2.0
+                                        },
+                                        "total": 2.4,
+                                        "modified_total": 2.4,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 1.0,
+                                            "357353": 2.0,
+                                            "357352": 2.2
+                                        },
+                                        "total": 1.73,
+                                        "modified_total": 1.73,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 3.0,
+                                            "357353": 3.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.0,
+                                        "modified_total": 3.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453086",
+                    "eventDivisionId": "467760",
+                    "round": "Round 2",
+                    "roundPosition": 1,
+                    "position": 0,
+                    "startTime": "2024-11-07T23:44:54Z",
+                    "endTime": "2024-11-07T23:48:17Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1437366",
+                            "total": 7.93,
+                            "winBy": 1.57,
+                            "needs": null,
+                            "rides": {
+                                "1437366": [
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357351": 4.5,
+                                            "357353": 4.5
+                                        },
+                                        "total": 4.33,
+                                        "modified_total": 4.33,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 3.5,
+                                            "357353": 2.5,
+                                            "357352": 3.2
+                                        },
+                                        "total": 3.07,
+                                        "modified_total": 3.07,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 4.0,
+                                            "357353": 3.0,
+                                            "357352": 3.8
+                                        },
+                                        "total": 3.6,
+                                        "modified_total": 3.6,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1329185",
+                            "total": 6.36,
+                            "winBy": null,
+                            "needs": 4.5,
+                            "rides": {
+                                "1329185": [
+                                    {
+                                        "scores": {
+                                            "357353": 2.8,
+                                            "357352": 3.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 2.93,
+                                        "modified_total": 2.93,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.3,
+                                            "357352": 3.5,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.43,
+                                        "modified_total": 3.43,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.5,
+                                            "357352": 2.0,
+                                            "357351": 1.5
+                                        },
+                                        "total": 1.67,
+                                        "modified_total": 1.67,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1438209",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 6.36,
+                            "rides": {
+                                "1438209": []
+                            },
+                            "place": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453087",
+                    "eventDivisionId": "467760",
+                    "round": "Round 2",
+                    "roundPosition": 1,
+                    "position": 1,
+                    "startTime": "2024-11-07T23:48:28Z",
+                    "endTime": "2024-11-07T23:54:51Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1380909",
+                            "total": 10.26,
+                            "winBy": 2.53,
+                            "needs": null,
+                            "rides": {
+                                "1380909": [
+                                    {
+                                        "scores": {
+                                            "357353": 5.2,
+                                            "357352": 5.3,
+                                            "357351": 5.5
+                                        },
+                                        "total": 5.33,
+                                        "modified_total": 5.33,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 5.8,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.93,
+                                        "modified_total": 4.93,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.2,
+                                            "357352": 4.3,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.17,
+                                        "modified_total": 4.17,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "769113",
+                            "total": 7.73,
+                            "winBy": null,
+                            "needs": 6.36,
+                            "rides": {
+                                "769113": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.2,
+                                            "357352": 3.0,
+                                            "357351": 4.5
+                                        },
+                                        "total": 3.9,
+                                        "modified_total": 3.9,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 4.0,
+                                            "357351": 4.0
+                                        },
+                                        "total": 3.83,
+                                        "modified_total": 3.83,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1206567",
+                            "total": 6.04,
+                            "winBy": null,
+                            "needs": 4.36,
+                            "rides": {
+                                "1206567": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.3,
+                                            "357352": 3.3,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.37,
+                                        "modified_total": 3.37,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357352": 2.0,
+                                            "357351": 3.5
+                                        },
+                                        "total": 2.67,
+                                        "modified_total": 2.67,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1385622",
+                            "total": 4.73,
+                            "winBy": null,
+                            "needs": 4.43,
+                            "rides": {
+                                "1385622": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.4,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.3,
+                                        "modified_total": 3.3,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 0.8,
+                                            "357351": 1.5
+                                        },
+                                        "total": 1.43,
+                                        "modified_total": 1.43,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453096",
+                    "eventDivisionId": "467760",
+                    "round": "Round 2",
+                    "roundPosition": 1,
+                    "position": 2,
+                    "startTime": "2024-11-07T23:55:31Z",
+                    "endTime": "2024-11-07T23:59:58Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "529958",
+                            "total": 8.27,
+                            "winBy": 1.03,
+                            "needs": null,
+                            "rides": {
+                                "529958": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 3.2,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.57,
+                                        "modified_total": 3.57,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.0,
+                                            "357352": 3.8,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.27,
+                                        "modified_total": 4.27,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357351": 4.0,
+                                            "357353": 4.0
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1437351",
+                            "total": 7.24,
+                            "winBy": null,
+                            "needs": 4.21,
+                            "rides": {
+                                "1437351": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.0,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.17,
+                                        "modified_total": 3.17,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357352": 2.5,
+                                            "357351": 3.0
+                                        },
+                                        "total": 2.67,
+                                        "modified_total": 2.67,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357351": 4.5,
+                                            "357352": 4.2
+                                        },
+                                        "total": 4.07,
+                                        "modified_total": 4.07,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1385631",
+                            "total": 5.0,
+                            "winBy": null,
+                            "needs": 4.41,
+                            "rides": {
+                                "1385631": [
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357352": 2.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.17,
+                                        "modified_total": 2.17,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.0,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.83,
+                                        "modified_total": 2.83,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453089",
+                    "eventDivisionId": "467760",
+                    "round": "Quarterfinal",
+                    "roundPosition": 2,
+                    "position": 0,
+                    "startTime": "2024-11-10T17:29:59Z",
+                    "endTime": "2024-11-10T17:53:13Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "769113",
+                            "total": 13.0,
+                            "winBy": 3.47,
+                            "needs": null,
+                            "rides": {
+                                "769113": [
+                                    {
+                                        "scores": {
+                                            "357353": 6.5,
+                                            "357352": 6.5,
+                                            "357351": 6.0
+                                        },
+                                        "total": 6.33,
+                                        "modified_total": 6.33,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 7.0,
+                                            "357352": 6.5,
+                                            "357351": 6.5
+                                        },
+                                        "total": 6.67,
+                                        "modified_total": 6.67,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 2.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.0,
+                                        "modified_total": 2.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.0,
+                                            "357352": 5.5,
+                                            "357351": 4.5
+                                        },
+                                        "total": 5.0,
+                                        "modified_total": 5.0,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1207547",
+                            "total": 9.53,
+                            "winBy": null,
+                            "needs": 7.87,
+                            "rides": {
+                                "1207547": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.7,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.4,
+                                        "modified_total": 3.4,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 2.5,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.5,
+                                        "modified_total": 2.5,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 4.2,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.4,
+                                        "modified_total": 4.4,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 3.5,
+                                            "357351": 4.0
+                                        },
+                                        "total": 3.83,
+                                        "modified_total": 3.83,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.0,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.17,
+                                        "modified_total": 3.17,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.5,
+                                            "357352": 1.5,
+                                            "357351": 1.5
+                                        },
+                                        "total": 1.5,
+                                        "modified_total": 1.5,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.4,
+                                            "357352": 5.0,
+                                            "357351": 5.0
+                                        },
+                                        "total": 5.13,
+                                        "modified_total": 5.13,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1206490",
+                            "total": 8.9,
+                            "winBy": null,
+                            "needs": 4.81,
+                            "rides": {
+                                "1206490": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 4.5,
+                                            "357351": 3.5
+                                        },
+                                        "total": 4.17,
+                                        "modified_total": 4.17,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.3,
+                                            "357352": 2.2,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.17,
+                                        "modified_total": 2.17,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.5,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.17,
+                                        "modified_total": 3.17,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.7,
+                                            "357352": 4.5,
+                                            "357351": 5.0
+                                        },
+                                        "total": 4.73,
+                                        "modified_total": 4.73,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1206482",
+                            "total": 7.93,
+                            "winBy": null,
+                            "needs": 5.2,
+                            "rides": {
+                                "1206482": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 4.5,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.33,
+                                        "modified_total": 4.33,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.5,
+                                            "357352": 1.5,
+                                            "357351": 1.5
+                                        },
+                                        "total": 1.5,
+                                        "modified_total": 1.5,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.8,
+                                            "357352": 4.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.6,
+                                        "modified_total": 3.6,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 2.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.0,
+                                        "modified_total": 2.0,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453090",
+                    "eventDivisionId": "467760",
+                    "round": "Quarterfinal",
+                    "roundPosition": 2,
+                    "position": 1,
+                    "startTime": "2024-11-10T17:55:19Z",
+                    "endTime": "2024-11-10T18:17:12Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1437353",
+                            "total": 10.2,
+                            "winBy": 0.36,
+                            "needs": null,
+                            "rides": {
+                                "1437353": [
+                                    {
+                                        "scores": {
+                                            "357352": 5.0,
+                                            "357351": 4.5,
+                                            "357353": 4.8
+                                        },
+                                        "total": 4.77,
+                                        "modified_total": 4.77,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.5,
+                                            "357352": 5.5,
+                                            "357351": 5.0
+                                        },
+                                        "total": 5.33,
+                                        "modified_total": 5.33,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 5.1,
+                                            "357353": 5.0,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.87,
+                                        "modified_total": 4.87,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 2.0,
+                                            "357353": 2.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.0,
+                                        "modified_total": 2.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 4.3,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.27,
+                                        "modified_total": 4.27,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1380909",
+                            "total": 9.84,
+                            "winBy": null,
+                            "needs": 4.83,
+                            "rides": {
+                                "1380909": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.2,
+                                            "357352": 3.8,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.83,
+                                        "modified_total": 3.83,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.0,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.83,
+                                        "modified_total": 2.83,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 4.0,
+                                            "357351": 4.9
+                                        },
+                                        "total": 4.47,
+                                        "modified_total": 4.47,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.7,
+                                            "357352": 3.7,
+                                            "357351": 4.0
+                                        },
+                                        "total": 3.8,
+                                        "modified_total": 3.8,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.4,
+                                            "357352": 5.2,
+                                            "357351": 5.5
+                                        },
+                                        "total": 5.37,
+                                        "modified_total": 5.37,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.7,
+                                            "357352": 2.9,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.37,
+                                        "modified_total": 3.37,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "529958",
+                            "total": 7.07,
+                            "winBy": null,
+                            "needs": 6.07,
+                            "rides": {
+                                "529958": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.4,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.3,
+                                        "modified_total": 3.3,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.3,
+                                            "357351": 2.8
+                                        },
+                                        "total": 3.2,
+                                        "modified_total": 3.2,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.67,
+                                        "modified_total": 2.67,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.7,
+                                            "357352": 3.6,
+                                            "357351": 4.0
+                                        },
+                                        "total": 3.77,
+                                        "modified_total": 3.77,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1438205",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 9.84,
+                            "rides": {
+                                "1438205": []
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453094",
+                    "eventDivisionId": "467760",
+                    "round": "Quarterfinal",
+                    "roundPosition": 2,
+                    "position": 2,
+                    "startTime": "2024-11-10T18:18:49Z",
+                    "endTime": "2024-11-10T18:42:28Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1437356",
+                            "total": 13.97,
+                            "winBy": 5.1,
+                            "needs": null,
+                            "rides": {
+                                "1437356": [
+                                    {
+                                        "scores": {
+                                            "357352": 6.8,
+                                            "357353": 6.8,
+                                            "357351": 6.8
+                                        },
+                                        "total": 6.8,
+                                        "modified_total": 6.8,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 4.5,
+                                            "357353": 4.2,
+                                            "357352": 3.8
+                                        },
+                                        "total": 4.17,
+                                        "modified_total": 4.17,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 4.5,
+                                            "357353": 4.5,
+                                            "357352": 5.0
+                                        },
+                                        "total": 4.67,
+                                        "modified_total": 4.67,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 7.0,
+                                            "357353": 7.5,
+                                            "357352": 7.0
+                                        },
+                                        "total": 7.17,
+                                        "modified_total": 7.17,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1437366",
+                            "total": 8.87,
+                            "winBy": null,
+                            "needs": 8.6,
+                            "rides": {
+                                "1437366": [
+                                    {
+                                        "scores": {
+                                            "357351": 3.5,
+                                            "357352": 3.8,
+                                            "357353": 3.2
+                                        },
+                                        "total": 3.5,
+                                        "modified_total": 3.5,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 5.6,
+                                            "357351": 5.5,
+                                            "357353": 5.0
+                                        },
+                                        "total": 5.37,
+                                        "modified_total": 5.37,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1212625",
+                            "total": 5.57,
+                            "winBy": null,
+                            "needs": 5.7,
+                            "rides": {
+                                "1212625": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.2,
+                                            "357352": 3.3,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.17,
+                                        "modified_total": 3.17,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.3,
+                                            "357352": 2.4,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.4,
+                                        "modified_total": 2.4,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1329185",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 8.87,
+                            "rides": {
+                                "1329185": []
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453098",
+                    "eventDivisionId": "467760",
+                    "round": "Quarterfinal",
+                    "roundPosition": 2,
+                    "position": 3,
+                    "startTime": "2024-11-10T18:45:02Z",
+                    "endTime": "2024-11-10T19:07:15Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1205619",
+                            "total": 7.83,
+                            "winBy": 0.83,
+                            "needs": null,
+                            "rides": {
+                                "1205619": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 5.0,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.5,
+                                        "modified_total": 4.5,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.2,
+                                            "357352": 3.8,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.33,
+                                        "modified_total": 3.33,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.0,
+                                            "357352": 1.0,
+                                            "357351": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.7,
+                                            "357352": 2.6,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.1,
+                                        "modified_total": 2.1,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.5,
+                                            "357352": 1.5,
+                                            "357351": 1.5
+                                        },
+                                        "total": 1.5,
+                                        "modified_total": 1.5,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1438222",
+                            "total": 7.0,
+                            "winBy": null,
+                            "needs": 4.11,
+                            "rides": {
+                                "1438222": [
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 1.5,
+                                            "357351": 2.0
+                                        },
+                                        "total": 1.83,
+                                        "modified_total": 1.83,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.7,
+                                            "357352": 4.0,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.73,
+                                        "modified_total": 3.73,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.0,
+                                            "357352": 1.0,
+                                            "357351": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.3,
+                                            "357352": 3.5,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.27,
+                                        "modified_total": 3.27,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.8,
+                                            "357352": 3.0,
+                                            "357351": 2.9
+                                        },
+                                        "total": 2.9,
+                                        "modified_total": 2.9,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.0,
+                                            "357351": 2.5
+                                        },
+                                        "total": 3.0,
+                                        "modified_total": 3.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 2.9,
+                                            "357351": 3.0
+                                        },
+                                        "total": 2.97,
+                                        "modified_total": 2.97,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1437567",
+                            "total": 5.36,
+                            "winBy": null,
+                            "needs": 4.17,
+                            "rides": {
+                                "1437567": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 2.5,
+                                            "357351": 3.0
+                                        },
+                                        "total": 2.83,
+                                        "modified_total": 2.83,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 2.0,
+                                            "357351": 1.5
+                                        },
+                                        "total": 1.83,
+                                        "modified_total": 1.83,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.7,
+                                            "357352": 2.2,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.47,
+                                        "modified_total": 2.47,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.3,
+                                            "357352": 2.8,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.53,
+                                        "modified_total": 2.53,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1437351",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 7.0,
+                            "rides": {
+                                "1437351": []
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453091",
+                    "eventDivisionId": "467760",
+                    "round": "Semifinal",
+                    "roundPosition": 3,
+                    "position": 0,
+                    "startTime": "2024-11-10T19:10:08Z",
+                    "endTime": "2024-11-10T19:35:48Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1207547",
+                            "total": 10.8,
+                            "winBy": 0.63,
+                            "needs": null,
+                            "rides": {
+                                "1207547": [
+                                    {
+                                        "scores": {
+                                            "357353": 5.2,
+                                            "357352": 5.5,
+                                            "357351": 4.5
+                                        },
+                                        "total": 5.07,
+                                        "modified_total": 5.07,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.0,
+                                            "357351": 5.5,
+                                            "357353": 5.7
+                                        },
+                                        "total": 5.73,
+                                        "modified_total": 5.73,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.1,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.03,
+                                        "modified_total": 3.03,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 5.0,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.33,
+                                        "modified_total": 4.33,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.1,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.03,
+                                        "modified_total": 3.03,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 4.5,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.17,
+                                        "modified_total": 4.17,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1380909",
+                            "total": 10.17,
+                            "winBy": null,
+                            "needs": 5.31,
+                            "rides": {
+                                "1380909": [
+                                    {
+                                        "scores": {
+                                            "357353": 5.5,
+                                            "357352": 6.0,
+                                            "357351": 5.0
+                                        },
+                                        "total": 5.5,
+                                        "modified_total": 5.5,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 2.0,
+                                            "357351": 1.9
+                                        },
+                                        "total": 1.97,
+                                        "modified_total": 1.97,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.0,
+                                            "357352": 1.0,
+                                            "357351": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.2,
+                                            "357352": 3.0,
+                                            "357351": 2.8
+                                        },
+                                        "total": 3.0,
+                                        "modified_total": 3.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.2,
+                                            "357352": 3.8,
+                                            "357351": 5.0
+                                        },
+                                        "total": 4.67,
+                                        "modified_total": 4.67,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1437353",
+                            "total": 9.4,
+                            "winBy": null,
+                            "needs": 5.11,
+                            "rides": {
+                                "1437353": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.2,
+                                            "357352": 4.0,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.57,
+                                        "modified_total": 3.57,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.8,
+                                            "357351": 4.0,
+                                            "357353": 4.2
+                                        },
+                                        "total": 4.33,
+                                        "modified_total": 4.33,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 3.0,
+                                            "357352": 4.0,
+                                            "357353": 3.5
+                                        },
+                                        "total": 3.5,
+                                        "modified_total": 3.5,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 5.0,
+                                            "357352": 5.2,
+                                            "357353": 5.0
+                                        },
+                                        "total": 5.07,
+                                        "modified_total": 5.07,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 2.5,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.33,
+                                        "modified_total": 2.33,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "769113",
+                            "total": 8.44,
+                            "winBy": null,
+                            "needs": 5.41,
+                            "rides": {
+                                "769113": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.8,
+                                            "357352": 5.0,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.77,
+                                        "modified_total": 4.77,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 4.0,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.67,
+                                        "modified_total": 3.67,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 3.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.33,
+                                        "modified_total": 2.33,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.0,
+                                            "357351": 3.3
+                                        },
+                                        "total": 3.27,
+                                        "modified_total": 3.27,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 1.5,
+                                            "357351": 2.0
+                                        },
+                                        "total": 1.83,
+                                        "modified_total": 1.83,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453097",
+                    "eventDivisionId": "467760",
+                    "round": "Semifinal",
+                    "roundPosition": 3,
+                    "position": 1,
+                    "startTime": "2024-11-10T19:39:05Z",
+                    "endTime": "2024-11-10T19:58:31Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1438222",
+                            "total": 10.73,
+                            "winBy": 1.33,
+                            "needs": null,
+                            "rides": {
+                                "1438222": [
+                                    {
+                                        "scores": {
+                                            "357353": 2.8,
+                                            "357352": 3.0,
+                                            "357351": 2.8
+                                        },
+                                        "total": 2.87,
+                                        "modified_total": 2.87,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.7,
+                                            "357352": 4.8,
+                                            "357351": 5.0
+                                        },
+                                        "total": 4.83,
+                                        "modified_total": 4.83,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.3,
+                                            "357352": 4.2,
+                                            "357351": 4.8
+                                        },
+                                        "total": 4.77,
+                                        "modified_total": 4.77,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.9,
+                                            "357352": 6.0,
+                                            "357351": 5.8
+                                        },
+                                        "total": 5.9,
+                                        "modified_total": 5.9,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.8,
+                                            "357352": 4.0,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.1,
+                                        "modified_total": 4.1,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.4,
+                                            "357352": 4.4,
+                                            "357351": 4.3
+                                        },
+                                        "total": 4.37,
+                                        "modified_total": 4.37,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.6,
+                                            "357351": 3.8
+                                        },
+                                        "total": 3.63,
+                                        "modified_total": 3.63,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1437356",
+                            "total": 9.4,
+                            "winBy": null,
+                            "needs": 5.74,
+                            "rides": {
+                                "1437356": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.8,
+                                            "357352": 5.2,
+                                            "357351": 5.0
+                                        },
+                                        "total": 5.0,
+                                        "modified_total": 5.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.2,
+                                            "357351": 4.0,
+                                            "357352": 5.0
+                                        },
+                                        "total": 4.4,
+                                        "modified_total": 4.4,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357351": 3.5,
+                                            "357352": 4.0
+                                        },
+                                        "total": 3.67,
+                                        "modified_total": 3.67,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.5,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.5,
+                                        "modified_total": 3.5,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1437366",
+                            "total": 8.07,
+                            "winBy": null,
+                            "needs": 5.01,
+                            "rides": {
+                                "1437366": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.5,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.5,
+                                        "modified_total": 3.5,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.2,
+                                            "357351": 4.5,
+                                            "357353": 4.5
+                                        },
+                                        "total": 4.4,
+                                        "modified_total": 4.4,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357353": 3.5,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.67,
+                                        "modified_total": 3.67,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1205619",
+                            "total": 7.46,
+                            "winBy": null,
+                            "needs": 5.27,
+                            "rides": {
+                                "1205619": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.0,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.83,
+                                        "modified_total": 2.83,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 4.4,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.13,
+                                        "modified_total": 4.13,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 4.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.33,
+                                        "modified_total": 3.33,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.5,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.33,
+                                        "modified_total": 3.33,
+                                        "modifier": null
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2453093",
+                    "eventDivisionId": "467760",
+                    "round": "Final",
+                    "roundPosition": 4,
+                    "position": 0,
+                    "startTime": "2024-11-10T20:49:59Z",
+                    "endTime": "2024-11-10T21:22:20Z",
+                    "heatDurationMinutes": 25,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1380909",
+                            "total": 9.72,
+                            "winBy": 0.46,
+                            "needs": null,
+                            "rides": {
+                                "1380909": [
+                                    {
+                                        "scores": {
+                                            "357355": 5.8,
+                                            "357354": 5.4,
+                                            "357353": 5.3,
+                                            "357352": 5.0,
+                                            "357351": 4.8
+                                        },
+                                        "total": 5.26,
+                                        "modified_total": 5.26,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357355": 1.0,
+                                            "357354": 1.0,
+                                            "357353": 1.0,
+                                            "357352": 1.0,
+                                            "357351": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357355": 4.5,
+                                            "357354": 4.6,
+                                            "357353": 4.8,
+                                            "357352": 4.5,
+                                            "357351": 3.9
+                                        },
+                                        "total": 4.46,
+                                        "modified_total": 4.46,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1437356",
+                            "total": 9.26,
+                            "winBy": null,
+                            "needs": 4.91,
+                            "rides": {
+                                "1437356": [
+                                    {
+                                        "scores": {
+                                            "357355": 3.5,
+                                            "357354": 3.0,
+                                            "357353": 3.0,
+                                            "357352": 3.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.1,
+                                        "modified_total": 3.1,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357355": 1.5,
+                                            "357354": 1.5,
+                                            "357353": 1.5,
+                                            "357352": 1.5,
+                                            "357351": 1.5
+                                        },
+                                        "total": 1.5,
+                                        "modified_total": 1.5,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357355": 2.5,
+                                            "357354": 2.6,
+                                            "357353": 2.5,
+                                            "357352": 2.5,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.42,
+                                        "modified_total": 2.42,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357355": 5.0,
+                                            "357354": 5.0,
+                                            "357353": 4.9,
+                                            "357352": 4.8,
+                                            "357351": 4.4
+                                        },
+                                        "total": 4.82,
+                                        "modified_total": 4.82,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357355": 3.5,
+                                            "357354": 3.2,
+                                            "357353": 3.0,
+                                            "357352": 3.0,
+                                            "357351": 2.5
+                                        },
+                                        "total": 3.04,
+                                        "modified_total": 3.04,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357355": 4.5,
+                                            "357354": 4.4,
+                                            "357353": 4.5,
+                                            "357352": 4.5,
+                                            "357351": 4.3
+                                        },
+                                        "total": 4.44,
+                                        "modified_total": 4.44,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1438222",
+                            "total": 6.72,
+                            "winBy": null,
+                            "needs": 6.12,
+                            "rides": {
+                                "1438222": [
+                                    {
+                                        "scores": {
+                                            "357354": 3.4,
+                                            "357353": 3.2,
+                                            "357351": 3.0,
+                                            "357355": 3.0,
+                                            "357352": 3.0
+                                        },
+                                        "total": 3.12,
+                                        "modified_total": 3.12,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.7,
+                                            "357354": 3.6,
+                                            "357352": 3.5,
+                                            "357355": 3.5,
+                                            "357351": 3.7
+                                        },
+                                        "total": 3.6,
+                                        "modified_total": 3.6,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1207547",
+                            "total": 5.06,
+                            "winBy": null,
+                            "needs": 6.16,
+                            "rides": {
+                                "1207547": [
+                                    {
+                                        "scores": {
+                                            "357355": 3.8,
+                                            "357354": 3.5,
+                                            "357353": 4.0,
+                                            "357352": 3.5,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.56,
+                                        "modified_total": 3.56,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357355": 1.0,
+                                            "357354": 1.0,
+                                            "357353": 1.0,
+                                            "357352": 1.0,
+                                            "357351": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null
+                                    },
+                                    {
+                                        "scores": {
+                                            "357355": 1.5,
+                                            "357354": 1.5,
+                                            "357353": 1.5,
+                                            "357352": 1.5,
+                                            "357351": 1.5
+                                        },
+                                        "total": 1.5,
+                                        "modified_total": 1.5,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                }
+            ],
+            "template": {
+                "id": "4427",
+                "name": "Waves only"
+            },
+            "eventDivisionPointAllocations": [
+                {
+                    "id": "25181",
+                    "eventDivisionId": "467760",
+                    "seasonId": "42825",
+                    "pointAllocation": {
+                        "id": "4390",
+                        "name": "2024 PWA IWT LiveHeats points allocation"
+                    }
+                }
+            ],
+            "event": {
+                "id": "268536"
+            }
+        }
+    }
+}

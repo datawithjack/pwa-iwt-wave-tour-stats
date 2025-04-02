@@ -1,0 +1,115 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "454486",
+            "heatDurationMinutes": 15,
+            "defaultEventDurationMinutes": 20,
+            "formatDefinition": {
+                "progression": {},
+                "runProgression": {},
+                "heatSizes": {
+                    "default": 48
+                },
+                "seeds": {},
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 2,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "180439",
+                "name": "Pro Junior GIrls"
+            },
+            "eventDivisions": [],
+            "heats": [
+                {
+                    "id": "2334454",
+                    "eventDivisionId": "454486",
+                    "round": "Final",
+                    "roundPosition": 0,
+                    "position": 0,
+                    "startTime": "2024-07-08T20:48:25Z",
+                    "endTime": "2024-07-08T20:48:36Z",
+                    "heatDurationMinutes": 15,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 48
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1207521",
+                            "total": 1.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1207521": [
+                                    {
+                                        "scores": {
+                                            "72236": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1177773",
+                            "total": 2.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1177773": [
+                                    {
+                                        "scores": {
+                                            "72236": 2.0
+                                        },
+                                        "total": 2.0,
+                                        "modified_total": 2.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1198918",
+                            "total": 3.0,
+                            "winBy": null,
+                            "needs": null,
+                            "rides": {
+                                "1198918": [
+                                    {
+                                        "scores": {
+                                            "72236": 3.0
+                                        },
+                                        "total": 3.0,
+                                        "modified_total": 3.0,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        }
+                    ]
+                }
+            ],
+            "template": {
+                "id": "8153",
+                "name": "Placing results (48 athletes)"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "187564"
+            }
+        }
+    }
+}

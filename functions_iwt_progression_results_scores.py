@@ -10,14 +10,11 @@ GRAPHQL_URL = "https://liveheats.com/api/graphql"
 OUTPUT_DIR = "event_results"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+
 def fetch_event_division_results(event_id, division_id):
     """
     Fetches event division results from the GraphQL API for the given event and division IDs.
     Saves the resulting JSON to a file and returns the JSON data.
-
-    :param event_id: The event identifier as a string.
-    :param division_id: The division identifier as a string.
-    :return: The JSON data as a Python dict, or None if the fetch failed.
     """
     query = """
     query getEventDivision($id: ID!) {
@@ -105,25 +102,24 @@ def fetch_event_division_results(event_id, division_id):
         print(response.text)
         return None
 
+
 def flatten_heat_progression(data, event_id, division_id):
     """
     Processes the JSON data to flatten and export heat progression information.
-    The output CSV file is named 'iwt_heat_progression_format.csv'.
-    Adds a new column 'sex' with the division name from the JSON.
-    
-    :param data: The JSON data (dict) obtained from the API.
-    :param event_id: The event identifier as a string.
-    :param division_id: The division identifier as a string.
+    Returns a DataFrame with a new 'sex' column (the division name).
     """
-    import pandas as pd
-    import copy
+    try:
+        event_division = data['data']['eventDivision']
+        division_name = event_division['division']['name']
+        original_heats = event_division['heats']
+        progression_dict = event_division['formatDefinition']['progression']
+    except (KeyError, TypeError) as e:
+        print(f"Skipping flatten_heat_progression for event {event_id} division {division_id}: missing data ({e})")
+        return None
 
-    # Extract the division name from JSON and assign it to the new 'sex' column.
-    division_name = data['data']['eventDivision']['division']['name']
-
-    # Extract relevant fields from JSON
-    original_heats = data['data']['eventDivision']['heats']
-    progression_dict = data['data']['eventDivision']['formatDefinition']['progression']
+    if not original_heats or not progression_dict:
+        print(f"Skipping flatten_heat_progression for event {event_id} division {division_id}: incomplete progression data.")
+        return None
 
     # Make a deep copy so we can modify freely
     heats_progression = copy.deepcopy(original_heats)
@@ -152,10 +148,8 @@ def flatten_heat_progression(data, event_id, division_id):
                 heat[f'progression_{i}_max'] = None
                 heat[f'progression_{i}_to_round'] = None
 
-        # Rename "id" to "heat_id"
+        # Rename "id" to "heat_id" and remove "result" field
         heat['heat_id'] = heat.pop('id', None)
-
-        # Remove the "result" field (not needed for progression export)
         heat.pop('result', None)
 
     # Flatten the data
@@ -195,30 +189,34 @@ def flatten_heat_progression(data, event_id, division_id):
     # Insert the new "source" column at the very start
     df_progression.insert(0, 'source', 'Live Heats')
 
-    # Export to CSV
-    csv_filename = 'iwt_heat_progression_format.csv'
-    df_progression.to_csv(csv_filename, index=False)
-    print(f"Exported {csv_filename}")
+    return df_progression
+
 
 def flatten_heat_results_and_scores(data, event_id, division_id):
     """
-    Processes the JSON data to export heat results and heat scores.
-    Two CSV files are created: 'iwt_heat_results.csv' and 'iwt_heat_scores.csv'.
-    
-    After creating the scores DataFrame, we also:
-      - Use 'Jumps' instead of 'Jump' in the filter condition for total_jump.
-      - Rename columns: ride_total->score, category->type, scoring_ride->counting.
-      - Replace 'Jumps'->'Jump' and 'Waves'->'Wave' in the new 'type' column.
+    Processes the JSON data to create heat results and heat scores DataFrames.
+    Returns a tuple (df_results, df_scores). This function now also includes the
+    heat's "round" and "roundPosition" in the results.
     """
-    original_heats = data['data']['eventDivision']['heats']
+    try:
+        original_heats = data['data']['eventDivision']['heats']
+    except (KeyError, TypeError) as e:
+        print(f"Skipping flatten_heat_results_and_scores for event {event_id} division {division_id}: missing heats data ({e})")
+        return None, None
+
+    if not original_heats:
+        print(f"Skipping flatten_heat_results_and_scores for event {event_id} division {division_id}: no heats found.")
+        return None, None
+
     results_rows = []
     scores_rows = []
 
     for heat in original_heats:
         heat_id = heat.get('id')
         eventDivisionId = heat.get('eventDivisionId')
-        
-        # Process each result entry for the heat
+        round_label = heat.get('round')
+        round_position = heat.get('roundPosition', 0)
+
         if 'result' in heat and heat['result']:
             for res in heat['result']:
                 base = {
@@ -229,10 +227,12 @@ def flatten_heat_results_and_scores(data, event_id, division_id):
                     'result_total': res.get('total'),
                     'winBy': res.get('winBy'),
                     'needs': res.get('needs'),
-                    'place': res.get('place')
+                    'place': res.get('place'),
+                    'round': round_label,
+                    'roundPosition': round_position
                 }
                 results_rows.append(base)
-                
+
                 # Process ride information if available
                 rides = res.get('rides')
                 if rides and isinstance(rides, dict):
@@ -253,27 +253,20 @@ def flatten_heat_results_and_scores(data, event_id, division_id):
         else:
             continue
 
-    # -------------------------------
-    # 1) Create and export heat results
-    # -------------------------------
+    # Create the heat results DataFrame
     df_results = pd.DataFrame(results_rows, columns=[
-        'event_id', 'heat_id', 'eventDivisionId', 'athleteId', 
-        'result_total', 'winBy', 'needs', 'place'
+        'event_id', 'heat_id', 'eventDivisionId', 'athleteId',
+        'result_total', 'winBy', 'needs', 'place', 'round', 'roundPosition'
     ])
-    df_results.insert(0, 'source', 'Live Heats')  # Insert 'source' at start
-    csv_results = "iwt_heat_results.csv"
-    df_results.to_csv(csv_results, index=False)
-    print(f"Exported {csv_results}")
+    df_results.insert(0, 'source', 'Live Heats')
 
-    # -------------------------------
-    # 2) Create and process heat scores
-    # -------------------------------
+    # Create the heat scores DataFrame
     df_scores = pd.DataFrame(scores_rows, columns=[
-        'event_id', 'heat_id', 'eventDivisionId', 'athleteId', 
+        'event_id', 'heat_id', 'eventDivisionId', 'athleteId',
         'ride_total', 'modified_total', 'modifier', 'category', 'scoring_ride'
     ])
 
-    # Calculate total_wave: sum of ride_total where category="Waves" and scoring_ride=True
+    # Calculate totals for Waves, Jumps, and all scoring rides
     grouped_wave = (
         df_scores[(df_scores['category'] == "Waves") & (df_scores['scoring_ride'] == True)]
         .groupby(['heat_id', 'athleteId'])['ride_total']
@@ -281,8 +274,6 @@ def flatten_heat_results_and_scores(data, event_id, division_id):
         .reset_index()
         .rename(columns={'ride_total': 'total_wave'})
     )
-
-    # Calculate total_jump: sum of ride_total where category="Jumps" and scoring_ride=True
     grouped_jump = (
         df_scores[(df_scores['category'] == "Jumps") & (df_scores['scoring_ride'] == True)]
         .groupby(['heat_id', 'athleteId'])['ride_total']
@@ -290,8 +281,6 @@ def flatten_heat_results_and_scores(data, event_id, division_id):
         .reset_index()
         .rename(columns={'ride_total': 'total_jump'})
     )
-
-    # Calculate total_points: sum of ride_total where scoring_ride=True (all categories)
     grouped_points = (
         df_scores[df_scores['scoring_ride'] == True]
         .groupby(['heat_id', 'athleteId'])['ride_total']
@@ -304,38 +293,28 @@ def flatten_heat_results_and_scores(data, event_id, division_id):
     df_scores = pd.merge(df_scores, grouped_wave, on=['heat_id', 'athleteId'], how='left')
     df_scores = pd.merge(df_scores, grouped_jump, on=['heat_id', 'athleteId'], how='left')
     df_scores = pd.merge(df_scores, grouped_points, on=['heat_id', 'athleteId'], how='left')
-
-    # Replace NaN with 0 for total_wave, total_jump, total_points
     df_scores[['total_wave', 'total_jump', 'total_points']] = df_scores[
         ['total_wave', 'total_jump', 'total_points']
     ].fillna(0)
 
-    # Insert 'source' column at the beginning
-    df_scores.insert(0, 'source', 'Live Heats')
+    # Insert 'source' column if not already present
+    if 'source' not in df_scores.columns:
+        df_scores.insert(0, 'source', 'Live Heats')
 
-    # -------------------------------
-    # 3) Rename columns per your request
-    #    ride_total -> score
-    #    category   -> type
-    #    scoring_ride -> counting
-    # -------------------------------
+    # Rename columns as requested
     df_scores.rename(columns={
         'ride_total': 'score',
         'category': 'type',
         'scoring_ride': 'counting'
     }, inplace=True)
 
-    # -------------------------------
-    # 4) Replace 'Jumps' -> 'Jump' and 'Waves' -> 'Wave' in the new 'type' column
-    # -------------------------------
+    # Replace 'Jumps' with 'Jump' and 'Waves' with 'Wave' in the type column
     df_scores['type'] = df_scores['type'].replace({
         'Jumps': 'Jump',
         'Waves': 'Wave'
     })
 
-    # -------------------------------
-    # 5) Reorder columns before exporting
-    # -------------------------------
+    # Reorder columns
     desired_scores_columns = [
         'source', 'event_id', 'heat_id', 'eventDivisionId', 'athleteId',
         'score', 'modified_total', 'modifier', 'type', 'counting',
@@ -343,26 +322,169 @@ def flatten_heat_results_and_scores(data, event_id, division_id):
     ]
     df_scores = df_scores.reindex(columns=desired_scores_columns)
 
-    # Export iwt_heat_scores.csv
-    csv_scores = "iwt_heat_scores.csv"
-    df_scores.to_csv(csv_scores, index=False)
-    print(f"Exported {csv_scores}")
+    return df_results, df_scores
 
-def process_event_division(event_id, division_id):
+
+def create_final_rank_no_heat_info(json_data, event_id, division_id):
     """
-    Main pipeline function that fetches event division data and then processes
-    the data to generate three CSV exports: iwt_heat_progression_format.csv,
-    iwt_heat_results.csv, and iwt_heat_scores.csv.
+    Creates a final rank DataFrame (with athleteId and place)
+    from a JSON that contains only one heat (no detailed heat info).
+    Additional columns "source", "event_id", and "eventDivisionId" are added.
+    If no rank/place results are found, returns None.
     """
-    data = fetch_event_division_results(event_id, division_id)
-    if data:
-        flatten_heat_progression(data, event_id, division_id)
-        flatten_heat_results_and_scores(data, event_id, division_id)
+    try:
+        heats = json_data["data"]["eventDivision"]["heats"]
+        if heats and len(heats) > 0:
+            results = heats[0].get("result", [])
+        else:
+            results = []
+    except Exception as e:
+        print("Error accessing heats:", e)
+        results = []
+
+    ranking = []
+    for res in results:
+        athlete = res.get("athleteId")
+        try:
+            place = int(res.get("place", 999))
+        except Exception as ex:
+            place = 999
+        if athlete is not None:
+            ranking.append({"athleteId": athlete, "place": place})
+    
+    if not ranking:
+        print(f"No rank/place results for event {event_id}, division {division_id}. Skipping final ranking.")
+        return None
+
+    df_final_rank = pd.DataFrame(ranking, columns=["athleteId", "place"])
+    df_final_rank["source"] = "Live Heats"
+    df_final_rank["event_id"] = event_id
+    df_final_rank["eventDivisionId"] = division_id
+    df_final_rank = df_final_rank[["source", "event_id", "eventDivisionId", "athleteId", "place"]]
+    return df_final_rank
+
+
+def calculate_final_rank_heat_info(df_results, event_id, division_id):
+    """
+    Calculates the final ranking DataFrame from the detailed heat results DataFrame.
+    Uses each athlete's best performance determined by a higher roundPosition and a lower place.
+    Returns a DataFrame with athleteId and overall final rank (place),
+    plus extra columns "source", "event_id", and "eventDivisionId".
+    If no ranking information is found, returns None.
+    """
+    athlete_best = {}
+    for idx, row in df_results.iterrows():
+        athlete = row['athleteId']
+        round_position = row.get("roundPosition", 0)
+        try:
+            place = int(row.get("place", 999))
+        except Exception:
+            place = 999
+
+        if athlete in athlete_best:
+            stored = athlete_best[athlete]
+            if round_position > stored["roundPosition"] or (round_position == stored["roundPosition"] and place < stored["place"]):
+                athlete_best[athlete] = {"roundPosition": round_position, "place": place}
+        else:
+            athlete_best[athlete] = {"roundPosition": round_position, "place": place}
+
+    sorted_athletes = sorted(athlete_best.items(), key=lambda item: (-item[1]["roundPosition"], item[1]["place"]))
+    
+    if not sorted_athletes:
+        print(f"No ranking information for event {event_id}, division {division_id}.")
+        return None
+
+    final_ranking = []
+    current_rank = 0
+    prev_key = None
+
+    for i, (athlete, info) in enumerate(sorted_athletes):
+        current_key = (info["roundPosition"], info["place"])
+        if i == 0:
+            current_rank = 1
+        else:
+            if current_key != prev_key:
+                current_rank = i + 1
+        final_ranking.append({"athleteId": athlete, "place": current_rank})
+        prev_key = current_key
+
+    if not final_ranking:
+        print(f"No final ranking generated for event {event_id}, division {division_id}.")
+        return None
+
+    df_final_rank = pd.DataFrame(final_ranking)
+    df_final_rank["source"] = "Live Heats"
+    df_final_rank["event_id"] = event_id
+    df_final_rank["eventDivisionId"] = division_id
+    df_final_rank = df_final_rank[["source", "event_id", "eventDivisionId", "athleteId", "place"]]
+    return df_final_rank
+
+
+def is_no_heat_info(json_data):
+    """
+    Determines whether the JSON is in the no-heat-info format.
+    Checks if, for each result in the first heat, the following hold true:
+      - Converting "total" to int equals the integer value of "place".
+      - If rides are present, the first ride's "total" (converted to int) also equals that place.
+    """
+    try:
+        heats = json_data["data"]["eventDivision"]["heats"]
+        if not heats:
+            return False
+        first_heat = heats[0]
+        results = first_heat.get("result", [])
+        if not results:
+            return False
+        for res in results:
+            total_val = res.get("total")
+            place_val = res.get("place")
+            if total_val is None or place_val is None:
+                return False
+            try:
+                place_int = int(place_val)
+            except Exception:
+                return False
+            if int(total_val) != place_int:
+                return False
+            rides = res.get("rides")
+            if rides and isinstance(rides, dict):
+                first_key = next(iter(rides))
+                ride_list = rides[first_key]
+                if ride_list and len(ride_list) > 0:
+                    ride_total = ride_list[0].get("total")
+                    if ride_total is None or int(ride_total) != place_int:
+                        return False
+        return True
+    except Exception as e:
+        print("Error in is_no_heat_info:", e)
+        return False
+
+
+def process_event_division(json_data, event_id, division_id):
+    """
+    Processes the event division JSON.
+    - If the JSON is detected as no-heat-info (using is_no_heat_info()), only create the final rank DataFrame.
+    - Otherwise (heat info present), run all processing functions and then compute the overall final rank.
+    """
+    if is_no_heat_info(json_data):
+        df_final_rank = create_final_rank_no_heat_info(json_data, event_id, division_id)
+        return {"df_final_rank": df_final_rank}
     else:
-        print("No data fetched, process terminated.")
+        df_progression = flatten_heat_progression(json_data, event_id, division_id)
+        df_results, df_scores = flatten_heat_results_and_scores(json_data, event_id, division_id)
+        
+        if df_results is not None and "roundPosition" not in df_results.columns:
+            df_results["roundPosition"] = 0
 
-# Example usage:
-if __name__ == "__main__":
-    event_id = "321863"
-    division_id = "584936"
-    process_event_division(event_id, division_id)
+        if df_results is not None:
+            df_final_rank = calculate_final_rank_heat_info(df_results, event_id, division_id)
+        else:
+            print(f"Skipping final rank calculation for event {event_id} division {division_id} due to missing heat results data.")
+            df_final_rank = None
+
+        return {
+            "df_progression": df_progression,
+            "df_results": df_results,
+            "df_scores": df_scores,
+            "df_final_rank": df_final_rank
+        }

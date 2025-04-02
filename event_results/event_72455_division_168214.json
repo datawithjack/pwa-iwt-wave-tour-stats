@@ -1,0 +1,450 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "168214",
+            "heatDurationMinutes": 15,
+            "defaultEventDurationMinutes": 18,
+            "formatDefinition": {
+                "progression": {
+                    "0": [
+                        {
+                            "to_round": 2,
+                            "max": null
+                        },
+                        {
+                            "to_round": 1,
+                            "max": null
+                        }
+                    ]
+                },
+                "runProgression": {},
+                "heatSizes": {
+                    "0": 4,
+                    "2": 3
+                },
+                "seeds": {},
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 2,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "76095",
+                "name": "Masters"
+            },
+            "eventDivisions": [],
+            "heats": [
+                {
+                    "id": "1886079",
+                    "eventDivisionId": "168214",
+                    "round": "Round 1",
+                    "roundPosition": 0,
+                    "position": 0,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1076677",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1076677": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1199509",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1199509": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1205039",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1205039": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1076680",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1076680": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1087575",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1087575": []
+                            },
+                            "place": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "1886082",
+                    "eventDivisionId": "168214",
+                    "round": "Round 1",
+                    "roundPosition": 0,
+                    "position": 1,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "791455",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "791455": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1164252",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1164252": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1076676",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1076676": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1076683",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1076683": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1087576",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1087576": []
+                            },
+                            "place": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "1886084",
+                    "eventDivisionId": "168214",
+                    "round": "Round 1",
+                    "roundPosition": 0,
+                    "position": 2,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1076681",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1076681": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1086827",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1086827": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "813428",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "813428": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1084037",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1084037": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1087577",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1087577": []
+                            },
+                            "place": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "1886085",
+                    "eventDivisionId": "168214",
+                    "round": "Round 1",
+                    "roundPosition": 0,
+                    "position": 3,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1076678",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1076678": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "842633",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "842633": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1301829",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1301829": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1205557",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1205557": []
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1088557",
+                            "total": 0.0,
+                            "winBy": null,
+                            "needs": 0.01,
+                            "rides": {
+                                "1088557": []
+                            },
+                            "place": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "1886080",
+                    "eventDivisionId": "168214",
+                    "round": "Round 2",
+                    "roundPosition": 1,
+                    "position": 0,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": []
+                },
+                {
+                    "id": "1886093",
+                    "eventDivisionId": "168214",
+                    "round": "Round 2",
+                    "roundPosition": 1,
+                    "position": 1,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": []
+                },
+                {
+                    "id": "1886083",
+                    "eventDivisionId": "168214",
+                    "round": "Quarterfinal",
+                    "roundPosition": 2,
+                    "position": 0,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 3
+                    },
+                    "result": []
+                },
+                {
+                    "id": "1886090",
+                    "eventDivisionId": "168214",
+                    "round": "Quarterfinal",
+                    "roundPosition": 2,
+                    "position": 1,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 3
+                    },
+                    "result": []
+                },
+                {
+                    "id": "1886091",
+                    "eventDivisionId": "168214",
+                    "round": "Quarterfinal",
+                    "roundPosition": 2,
+                    "position": 2,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 3
+                    },
+                    "result": []
+                },
+                {
+                    "id": "1886092",
+                    "eventDivisionId": "168214",
+                    "round": "Quarterfinal",
+                    "roundPosition": 2,
+                    "position": 3,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 3
+                    },
+                    "result": []
+                },
+                {
+                    "id": "1886087",
+                    "eventDivisionId": "168214",
+                    "round": "Semifinal",
+                    "roundPosition": 3,
+                    "position": 0,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": []
+                },
+                {
+                    "id": "1886089",
+                    "eventDivisionId": "168214",
+                    "round": "Semifinal",
+                    "roundPosition": 3,
+                    "position": 1,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": []
+                },
+                {
+                    "id": "1886088",
+                    "eventDivisionId": "168214",
+                    "round": "Final",
+                    "roundPosition": 4,
+                    "position": 0,
+                    "startTime": null,
+                    "endTime": null,
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 10,
+                        "heatSize": 4
+                    },
+                    "result": []
+                }
+            ],
+            "template": {
+                "id": "10200",
+                "name": "16 Man Dingle Elimination"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "72455"
+            }
+        }
+    }
+}

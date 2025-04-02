@@ -1,0 +1,95 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "353346",
+            "heatDurationMinutes": 15,
+            "defaultEventDurationMinutes": 20,
+            "formatDefinition": {
+                "progression": {},
+                "runProgression": {},
+                "heatSizes": {},
+                "seeds": {},
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 2,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "76093",
+                "name": "Women"
+            },
+            "eventDivisions": [],
+            "heats": [
+                {
+                    "id": "2418547",
+                    "eventDivisionId": "353346",
+                    "round": "Final",
+                    "roundPosition": 0,
+                    "position": 0,
+                    "startTime": "2024-10-06T02:13:19Z",
+                    "endTime": "2024-10-06T02:14:38Z",
+                    "heatDurationMinutes": 15,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1111080",
+                            "total": 1.4,
+                            "winBy": 0.6,
+                            "needs": null,
+                            "rides": {
+                                "1111080": [
+                                    {
+                                        "scores": {
+                                            "357351": 1.4
+                                        },
+                                        "total": 1.4,
+                                        "modified_total": 1.4,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1050500",
+                            "total": 0.8,
+                            "winBy": null,
+                            "needs": 0.61,
+                            "rides": {
+                                "1050500": [
+                                    {
+                                        "scores": {
+                                            "357351": 0.8
+                                        },
+                                        "total": 0.8,
+                                        "modified_total": 0.8,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        }
+                    ]
+                }
+            ],
+            "template": {
+                "id": "4425",
+                "name": "2 Jump + 2 Wave"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "187576"
+            }
+        }
+    }
+}

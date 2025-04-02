@@ -1,0 +1,47 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "467761",
+            "heatDurationMinutes": 15,
+            "defaultEventDurationMinutes": 20,
+            "formatDefinition": {
+                "progression": {
+                    "0": [
+                        {
+                            "max": 2
+                        }
+                    ],
+                    "1": [
+                        {
+                            "max": 0
+                        }
+                    ]
+                },
+                "runProgression": {},
+                "heatSizes": {},
+                "seeds": {},
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 4,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "76095",
+                "name": "Masters"
+            },
+            "eventDivisions": [],
+            "heats": [],
+            "template": {
+                "id": "20099",
+                "name": "8 single - 4 riders"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "268536"
+            }
+        }
+    }
+}

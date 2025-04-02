@@ -1,0 +1,3257 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "353294",
+            "heatDurationMinutes": 15,
+            "defaultEventDurationMinutes": 17,
+            "formatDefinition": {
+                "progression": {
+                    "2": [
+                        {
+                            "max": 2
+                        }
+                    ],
+                    "3": [
+                        {
+                            "max": 2
+                        }
+                    ],
+                    "0": [
+                        {
+                            "max": 2
+                        }
+                    ],
+                    "1": [
+                        {
+                            "to_round": 3,
+                            "max": 2
+                        },
+                        {
+                            "to_round": 2,
+                            "max": 2
+                        }
+                    ],
+                    "4": [
+                        {
+                            "max": 2
+                        }
+                    ],
+                    "5": [
+                        {
+                            "max": 0
+                        }
+                    ]
+                },
+                "runProgression": {},
+                "heatSizes": {
+                    "3": 3
+                },
+                "seeds": {
+                    "1": 14
+                },
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 4,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "76093",
+                "name": "Women"
+            },
+            "eventDivisions": [],
+            "heats": [
+                {
+                    "id": "2122744",
+                    "eventDivisionId": "353294",
+                    "round": "Round 1",
+                    "roundPosition": 0,
+                    "position": 0,
+                    "startTime": "2024-04-04T17:20:00Z",
+                    "endTime": "2024-04-04T17:37:00Z",
+                    "heatDurationMinutes": 15,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1437408",
+                            "total": 7.2,
+                            "winBy": 3.37,
+                            "needs": null,
+                            "rides": {
+                                "1437408": [
+                                    {
+                                        "scores": {
+                                            "357351": 4.8,
+                                            "357353": 5.0,
+                                            "357352": 4.8
+                                        },
+                                        "total": 4.87,
+                                        "modified_total": 4.87,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 3.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.33,
+                                        "modified_total": 2.33,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.7,
+                                            "357351": 1.8,
+                                            "357352": 1.5
+                                        },
+                                        "total": 1.67,
+                                        "modified_total": 1.67,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1206273",
+                            "total": 3.83,
+                            "winBy": null,
+                            "needs": 3.38,
+                            "rides": {
+                                "1206273": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357351": 4.0,
+                                            "357352": 3.5
+                                        },
+                                        "total": 3.83,
+                                        "modified_total": 3.83,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1206272",
+                            "total": 2.06,
+                            "winBy": null,
+                            "needs": 1.78,
+                            "rides": {
+                                "1206272": [
+                                    {
+                                        "scores": {
+                                            "357353": 0.5,
+                                            "357351": 1.0,
+                                            "357352": 1.0
+                                        },
+                                        "total": 0.83,
+                                        "modified_total": 0.83,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 1.0,
+                                            "357352": 1.2,
+                                            "357351": 1.5
+                                        },
+                                        "total": 1.23,
+                                        "modified_total": 1.23,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122745",
+                    "eventDivisionId": "353294",
+                    "round": "Round 2 Pro Seeding Round",
+                    "roundPosition": 1,
+                    "position": 0,
+                    "startTime": "2024-04-04T21:00:07Z",
+                    "endTime": "2024-04-04T21:17:44Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1205034",
+                            "total": 18.24,
+                            "winBy": 5.54,
+                            "needs": null,
+                            "rides": {
+                                "1205034": [
+                                    {
+                                        "scores": {
+                                            "357352": 6.2,
+                                            "357353": 6.0,
+                                            "357351": 6.0
+                                        },
+                                        "total": 6.07,
+                                        "modified_total": 6.07,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 6.6,
+                                            "357353": 6.5,
+                                            "357352": 6.9
+                                        },
+                                        "total": 6.67,
+                                        "modified_total": 6.67,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.5,
+                                            "357351": 5.0,
+                                            "357352": 6.0
+                                        },
+                                        "total": 5.5,
+                                        "modified_total": 5.5,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "815310",
+                            "total": 12.7,
+                            "winBy": null,
+                            "needs": 5.54,
+                            "rides": {
+                                "815310": [
+                                    {
+                                        "scores": {
+                                            "357352": 7.0,
+                                            "357353": 8.0,
+                                            "357351": 7.3
+                                        },
+                                        "total": 7.43,
+                                        "modified_total": 7.43,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 2.5,
+                                            "357353": 2.5,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.5,
+                                        "modified_total": 2.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.5,
+                                            "357352": 5.3,
+                                            "357351": 5.0
+                                        },
+                                        "total": 5.27,
+                                        "modified_total": 5.27,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.5,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.17,
+                                        "modified_total": 3.17,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1198791",
+                            "total": 8.8,
+                            "winBy": null,
+                            "needs": 3.91,
+                            "rides": {
+                                "1198791": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 5.2,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.73,
+                                        "modified_total": 4.73,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 2.0,
+                                            "357353": 1.5,
+                                            "357351": 2.0
+                                        },
+                                        "total": 1.83,
+                                        "modified_total": 1.83,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 4.2,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.07,
+                                        "modified_total": 4.07,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1206273",
+                            "total": 2.97,
+                            "winBy": null,
+                            "needs": 9.73,
+                            "rides": {
+                                "1206273": [
+                                    {
+                                        "scores": {
+                                            "357352": 3.0,
+                                            "357351": 3.0,
+                                            "357353": 2.9
+                                        },
+                                        "total": 2.97,
+                                        "modified_total": 2.97,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122746",
+                    "eventDivisionId": "353294",
+                    "round": "Round 2 Pro Seeding Round",
+                    "roundPosition": 1,
+                    "position": 1,
+                    "startTime": "2024-04-04T21:20:00Z",
+                    "endTime": "2024-04-04T21:38:36Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1210135",
+                            "total": 12.23,
+                            "winBy": 1.36,
+                            "needs": null,
+                            "rides": {
+                                "1210135": [
+                                    {
+                                        "scores": {
+                                            "357353": 5.5,
+                                            "357352": 6.2,
+                                            "357351": 6.0
+                                        },
+                                        "total": 5.9,
+                                        "modified_total": 5.9,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.8,
+                                            "357351": 4.5,
+                                            "357352": 5.0
+                                        },
+                                        "total": 4.77,
+                                        "modified_total": 4.77,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.5,
+                                            "357352": 5.5,
+                                            "357351": 7.0
+                                        },
+                                        "total": 6.33,
+                                        "modified_total": 6.33,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1177773",
+                            "total": 10.87,
+                            "winBy": null,
+                            "needs": 1.36,
+                            "rides": {
+                                "1177773": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 4.5,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.17,
+                                        "modified_total": 4.17,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 5.5,
+                                            "357351": 3.9
+                                        },
+                                        "total": 4.47,
+                                        "modified_total": 4.47,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.3,
+                                            "357352": 6.4,
+                                            "357351": 6.5
+                                        },
+                                        "total": 6.4,
+                                        "modified_total": 6.4,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 3.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.0,
+                                        "modified_total": 3.0,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1203243",
+                            "total": 9.5,
+                            "winBy": null,
+                            "needs": 1.38,
+                            "rides": {
+                                "1203243": [
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.17,
+                                        "modified_total": 3.17,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 4.5,
+                                            "357351": 3.5
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357351": 3.5,
+                                            "357352": 4.5
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.5,
+                                            "357352": 5.5,
+                                            "357351": 5.5
+                                        },
+                                        "total": 5.5,
+                                        "modified_total": 5.5,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1202115",
+                            "total": 2.5,
+                            "winBy": null,
+                            "needs": 8.37,
+                            "rides": {
+                                "1202115": [
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357352": 3.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.5,
+                                        "modified_total": 2.5,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122747",
+                    "eventDivisionId": "353294",
+                    "round": "Round 2 Pro Seeding Round",
+                    "roundPosition": 1,
+                    "position": 2,
+                    "startTime": "2024-04-04T21:40:00Z",
+                    "endTime": "2024-04-04T21:57:22Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1207521",
+                            "total": 13.5,
+                            "winBy": 1.97,
+                            "needs": null,
+                            "rides": {
+                                "1207521": [
+                                    {
+                                        "scores": {
+                                            "357353": 6.5,
+                                            "357352": 6.5,
+                                            "357351": 6.5
+                                        },
+                                        "total": 6.5,
+                                        "modified_total": 6.5,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 7.0,
+                                            "357352": 7.0,
+                                            "357353": 7.0
+                                        },
+                                        "total": 7.0,
+                                        "modified_total": 7.0,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 6.8,
+                                            "357352": 6.5,
+                                            "357353": 6.0
+                                        },
+                                        "total": 6.43,
+                                        "modified_total": 6.43,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1198918",
+                            "total": 11.53,
+                            "winBy": null,
+                            "needs": 1.98,
+                            "rides": {
+                                "1198918": [
+                                    {
+                                        "scores": {
+                                            "357351": 5.5,
+                                            "357353": 5.2,
+                                            "357352": 5.8
+                                        },
+                                        "total": 5.5,
+                                        "modified_total": 5.5,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.0,
+                                            "357352": 5.6,
+                                            "357351": 6.5
+                                        },
+                                        "total": 6.03,
+                                        "modified_total": 6.03,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": null,
+                                        "total": null,
+                                        "modified_total": null,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "820787",
+                            "total": 11.2,
+                            "winBy": null,
+                            "needs": 0.33,
+                            "rides": {
+                                "820787": [
+                                    {
+                                        "scores": {
+                                            "357352": 6.3,
+                                            "357353": 7.0,
+                                            "357351": 5.5
+                                        },
+                                        "total": 6.27,
+                                        "modified_total": 6.27,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.8,
+                                            "357353": 5.0,
+                                            "357351": 5.0
+                                        },
+                                        "total": 4.93,
+                                        "modified_total": 4.93,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 3.5,
+                                            "357353": 3.0,
+                                            "357352": 3.5
+                                        },
+                                        "total": 3.33,
+                                        "modified_total": 3.33,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "815441",
+                            "total": 8.33,
+                            "winBy": null,
+                            "needs": 3.21,
+                            "rides": {
+                                "815441": [
+                                    {
+                                        "scores": {
+                                            "357351": 2.2,
+                                            "357353": 2.0,
+                                            "357352": 3.0
+                                        },
+                                        "total": 2.4,
+                                        "modified_total": 2.4,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 2.5,
+                                            "357353": 3.0,
+                                            "357352": 3.0
+                                        },
+                                        "total": 2.83,
+                                        "modified_total": 2.83,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.0,
+                                            "357352": 4.5,
+                                            "357351": 5.0
+                                        },
+                                        "total": 4.83,
+                                        "modified_total": 4.83,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 4.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.5,
+                                        "modified_total": 3.5,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357351": 3.5,
+                                            "357352": 3.5
+                                        },
+                                        "total": 3.17,
+                                        "modified_total": 3.17,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122748",
+                    "eventDivisionId": "353294",
+                    "round": "Round 2 Pro Seeding Round",
+                    "roundPosition": 1,
+                    "position": 3,
+                    "startTime": "2024-04-04T22:00:00Z",
+                    "endTime": "2024-04-04T22:17:08Z",
+                    "heatDurationMinutes": 17,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1589294",
+                            "total": 12.74,
+                            "winBy": 2.67,
+                            "needs": null,
+                            "rides": {
+                                "1589294": [
+                                    {
+                                        "scores": {
+                                            "357352": 6.1,
+                                            "357351": 5.5,
+                                            "357353": 5.5
+                                        },
+                                        "total": 5.7,
+                                        "modified_total": 5.7,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.5,
+                                            "357351": 5.7,
+                                            "357352": 6.0
+                                        },
+                                        "total": 6.07,
+                                        "modified_total": 6.07,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 6.0,
+                                            "357352": 7.0,
+                                            "357353": 7.0
+                                        },
+                                        "total": 6.67,
+                                        "modified_total": 6.67,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1205855",
+                            "total": 10.07,
+                            "winBy": null,
+                            "needs": 2.68,
+                            "rides": {
+                                "1205855": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357352": 4.8,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.27,
+                                        "modified_total": 4.27,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.0,
+                                            "357353": 6.2,
+                                            "357351": 5.2
+                                        },
+                                        "total": 5.8,
+                                        "modified_total": 5.8,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "820028",
+                            "total": 9.13,
+                            "winBy": null,
+                            "needs": 0.95,
+                            "rides": {
+                                "820028": [
+                                    {
+                                        "scores": {
+                                            "357352": 1.0,
+                                            "357353": 1.0,
+                                            "357351": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.9,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.63,
+                                        "modified_total": 3.63,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.5,
+                                            "357353": 5.0,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.5,
+                                        "modified_total": 4.5,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1437408",
+                            "total": 6.6,
+                            "winBy": null,
+                            "needs": 3.48,
+                            "rides": {
+                                "1437408": [
+                                    {
+                                        "scores": {
+                                            "357351": 1.0,
+                                            "357353": 1.0,
+                                            "357352": 1.0
+                                        },
+                                        "total": 1.0,
+                                        "modified_total": 1.0,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 3.8,
+                                            "357351": 4.0
+                                        },
+                                        "total": 3.77,
+                                        "modified_total": 3.77,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 2.5,
+                                            "357352": 3.0,
+                                            "357353": 3.0
+                                        },
+                                        "total": 2.83,
+                                        "modified_total": 2.83,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122749",
+                    "eventDivisionId": "353294",
+                    "round": "Round 3 Redemption ",
+                    "roundPosition": 2,
+                    "position": 0,
+                    "startTime": "2024-04-05T19:20:03Z",
+                    "endTime": "2024-04-05T19:47:20Z",
+                    "heatDurationMinutes": 27,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1203243",
+                            "total": 14.86,
+                            "winBy": 2.56,
+                            "needs": null,
+                            "rides": {
+                                "1203243": [
+                                    {
+                                        "scores": {
+                                            "357351": 4.0,
+                                            "357353": 4.2,
+                                            "357352": 3.0
+                                        },
+                                        "total": 3.73,
+                                        "modified_total": 3.73,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.3,
+                                            "357351": 5.0,
+                                            "357353": 5.5
+                                        },
+                                        "total": 4.93,
+                                        "modified_total": 4.93,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.9,
+                                            "357351": 4.5,
+                                            "357352": 5.0
+                                        },
+                                        "total": 4.8,
+                                        "modified_total": 4.8,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.8,
+                                            "357351": 5.0,
+                                            "357353": 4.2
+                                        },
+                                        "total": 4.67,
+                                        "modified_total": 4.67,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 4.7,
+                                            "357351": 5.0
+                                        },
+                                        "total": 4.73,
+                                        "modified_total": 4.73,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.6,
+                                            "357351": 5.8,
+                                            "357353": 5.0
+                                        },
+                                        "total": 5.13,
+                                        "modified_total": 5.13,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "815441",
+                            "total": 12.3,
+                            "winBy": null,
+                            "needs": 2.56,
+                            "rides": {
+                                "815441": [
+                                    {
+                                        "scores": {
+                                            "357351": 5.5,
+                                            "357352": 5.5,
+                                            "357353": 5.5
+                                        },
+                                        "total": 5.5,
+                                        "modified_total": 5.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 5.0,
+                                            "357351": 6.5,
+                                            "357353": 6.0
+                                        },
+                                        "total": 5.83,
+                                        "modified_total": 5.83,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357351": 2.2,
+                                            "357352": 2.0
+                                        },
+                                        "total": 2.4,
+                                        "modified_total": 2.4,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.0,
+                                            "357351": 6.5,
+                                            "357353": 6.9
+                                        },
+                                        "total": 6.47,
+                                        "modified_total": 6.47,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 3.5,
+                                            "357353": 3.5,
+                                            "357351": 4.5
+                                        },
+                                        "total": 3.83,
+                                        "modified_total": 3.83,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1198791",
+                            "total": 8.0,
+                            "winBy": null,
+                            "needs": 4.31,
+                            "rides": {
+                                "1198791": [
+                                    {
+                                        "scores": {
+                                            "357352": 1.0,
+                                            "357351": 2.0,
+                                            "357353": 1.2
+                                        },
+                                        "total": 1.4,
+                                        "modified_total": 1.4,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357351": 4.5,
+                                            "357353": 4.0
+                                        },
+                                        "total": 4.17,
+                                        "modified_total": 4.17,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 2.0,
+                                            "357353": 1.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 1.67,
+                                        "modified_total": 1.67,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357351": 3.5,
+                                            "357352": 3.5
+                                        },
+                                        "total": 3.5,
+                                        "modified_total": 3.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 4.0,
+                                            "357352": 3.8,
+                                            "357353": 3.7
+                                        },
+                                        "total": 3.83,
+                                        "modified_total": 3.83,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 2.8,
+                                            "357353": 3.5,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.27,
+                                        "modified_total": 3.27,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1437408",
+                            "total": 6.63,
+                            "winBy": null,
+                            "needs": 5.68,
+                            "rides": {
+                                "1437408": [
+                                    {
+                                        "scores": {
+                                            "357351": 2.0,
+                                            "357353": 1.5,
+                                            "357352": 2.0
+                                        },
+                                        "total": 1.83,
+                                        "modified_total": 1.83,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.2,
+                                            "357352": 3.9,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.03,
+                                        "modified_total": 4.03,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 1.5,
+                                            "357352": 1.0,
+                                            "357353": 2.0
+                                        },
+                                        "total": 1.5,
+                                        "modified_total": 1.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.0,
+                                            "357352": 2.8,
+                                            "357351": 3.0
+                                        },
+                                        "total": 2.6,
+                                        "modified_total": 2.6,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122750",
+                    "eventDivisionId": "353294",
+                    "round": "Round 3 Redemption ",
+                    "roundPosition": 2,
+                    "position": 1,
+                    "startTime": "2024-04-05T19:50:00Z",
+                    "endTime": "2024-04-05T20:17:12Z",
+                    "heatDurationMinutes": 27,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "820787",
+                            "total": 12.5,
+                            "winBy": 2.8,
+                            "needs": null,
+                            "rides": {
+                                "820787": [
+                                    {
+                                        "scores": {
+                                            "357352": 5.2,
+                                            "357353": 6.2,
+                                            "357351": 6.3
+                                        },
+                                        "total": 5.9,
+                                        "modified_total": 5.9,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.5,
+                                            "357352": 6.8,
+                                            "357351": 6.5
+                                        },
+                                        "total": 6.6,
+                                        "modified_total": 6.6,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 5.7,
+                                            "357353": 6.0,
+                                            "357351": 5.8
+                                        },
+                                        "total": 5.83,
+                                        "modified_total": 5.83,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 4.5,
+                                            "357352": 4.5,
+                                            "357353": 4.5
+                                        },
+                                        "total": 4.5,
+                                        "modified_total": 4.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "820028",
+                            "total": 9.7,
+                            "winBy": null,
+                            "needs": 2.81,
+                            "rides": {
+                                "820028": [
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357353": 4.5,
+                                            "357351": 4.6
+                                        },
+                                        "total": 4.37,
+                                        "modified_total": 4.37,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 1.8,
+                                            "357353": 2.0,
+                                            "357351": 1.8
+                                        },
+                                        "total": 1.87,
+                                        "modified_total": 1.87,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.3,
+                                            "357352": 4.2,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.17,
+                                        "modified_total": 4.17,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.6,
+                                            "357351": 4.0,
+                                            "357353": 4.9
+                                        },
+                                        "total": 4.5,
+                                        "modified_total": 4.5,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 5.2,
+                                            "357353": 5.4,
+                                            "357351": 5.0
+                                        },
+                                        "total": 5.2,
+                                        "modified_total": 5.2,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1202115",
+                            "total": 6.77,
+                            "winBy": null,
+                            "needs": 2.94,
+                            "rides": {
+                                "1202115": [
+                                    {
+                                        "scores": {
+                                            "357352": 2.5,
+                                            "357353": 2.2,
+                                            "357351": 3.0
+                                        },
+                                        "total": 2.57,
+                                        "modified_total": 2.57,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 3.2,
+                                            "357351": 3.5,
+                                            "357353": 3.5
+                                        },
+                                        "total": 3.4,
+                                        "modified_total": 3.4,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 3.6,
+                                            "357353": 3.2,
+                                            "357352": 3.3
+                                        },
+                                        "total": 3.37,
+                                        "modified_total": 3.37,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 2.0,
+                                            "357352": 3.2,
+                                            "357353": 2.2
+                                        },
+                                        "total": 2.47,
+                                        "modified_total": 2.47,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 1.5,
+                                            "357353": 1.5,
+                                            "357352": 1.5
+                                        },
+                                        "total": 1.5,
+                                        "modified_total": 1.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357351": 3.2,
+                                            "357352": 3.0
+                                        },
+                                        "total": 3.23,
+                                        "modified_total": 3.23,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1206273",
+                            "total": 4.34,
+                            "winBy": null,
+                            "needs": 5.36,
+                            "rides": {
+                                "1206273": [
+                                    {
+                                        "scores": {
+                                            "357352": 1.2,
+                                            "357353": 1.5,
+                                            "357351": 1.0
+                                        },
+                                        "total": 1.23,
+                                        "modified_total": 1.23,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 2.0,
+                                            "357351": 2.2,
+                                            "357353": 2.0
+                                        },
+                                        "total": 2.07,
+                                        "modified_total": 2.07,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 1.0,
+                                            "357353": 1.8,
+                                            "357351": 1.0
+                                        },
+                                        "total": 1.27,
+                                        "modified_total": 1.27,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 2.8,
+                                            "357352": 2.0,
+                                            "357353": 2.0
+                                        },
+                                        "total": 2.27,
+                                        "modified_total": 2.27,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 0.5,
+                                            "357351": 0.5,
+                                            "357352": 0.5
+                                        },
+                                        "total": 0.5,
+                                        "modified_total": 0.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122751",
+                    "eventDivisionId": "353294",
+                    "round": "Quarterfinal",
+                    "roundPosition": 3,
+                    "position": 0,
+                    "startTime": "2024-04-06T21:30:00Z",
+                    "endTime": "2024-04-06T21:57:56Z",
+                    "heatDurationMinutes": 22,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 3
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1205034",
+                            "total": 11.34,
+                            "winBy": 1.2,
+                            "needs": null,
+                            "rides": {
+                                "1205034": [
+                                    {
+                                        "scores": {
+                                            "357352": 5.5,
+                                            "357353": 5.0,
+                                            "357351": 5.0
+                                        },
+                                        "total": 5.17,
+                                        "modified_total": 5.17,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.5,
+                                            "357353": 6.0,
+                                            "357351": 6.0
+                                        },
+                                        "total": 6.17,
+                                        "modified_total": 6.17,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.9,
+                                            "357351": 5.0,
+                                            "357353": 4.0
+                                        },
+                                        "total": 4.63,
+                                        "modified_total": 4.63,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 5.0,
+                                            "357352": 4.8,
+                                            "357353": 4.9
+                                        },
+                                        "total": 4.9,
+                                        "modified_total": 4.9,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "820028",
+                            "total": 10.14,
+                            "winBy": null,
+                            "needs": 1.21,
+                            "rides": {
+                                "820028": [
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357351": 4.1,
+                                            "357353": 3.9
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 5.3,
+                                            "357352": 5.8,
+                                            "357353": 5.0
+                                        },
+                                        "total": 5.37,
+                                        "modified_total": 5.37,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 4.8,
+                                            "357352": 5.0,
+                                            "357353": 4.5
+                                        },
+                                        "total": 4.77,
+                                        "modified_total": 4.77,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357351": 4.2,
+                                            "357353": 4.3
+                                        },
+                                        "total": 4.17,
+                                        "modified_total": 4.17,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1177773",
+                            "total": 8.27,
+                            "winBy": null,
+                            "needs": 1.88,
+                            "rides": {
+                                "1177773": [
+                                    {
+                                        "scores": {
+                                            "357352": 3.8,
+                                            "357351": 3.8,
+                                            "357353": 3.7
+                                        },
+                                        "total": 3.77,
+                                        "modified_total": 3.77,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.5,
+                                            "357351": 4.2,
+                                            "357353": 4.8
+                                        },
+                                        "total": 4.5,
+                                        "modified_total": 4.5,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.2,
+                                            "357352": 3.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.07,
+                                        "modified_total": 3.07,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122752",
+                    "eventDivisionId": "353294",
+                    "round": "Quarterfinal",
+                    "roundPosition": 3,
+                    "position": 1,
+                    "startTime": "2024-04-06T21:00:01Z",
+                    "endTime": "2024-04-06T21:27:10Z",
+                    "heatDurationMinutes": 22,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 3
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1210135",
+                            "total": 12.43,
+                            "winBy": 3.56,
+                            "needs": null,
+                            "rides": {
+                                "1210135": [
+                                    {
+                                        "scores": {
+                                            "357351": 5.3,
+                                            "357352": 5.5,
+                                            "357353": 6.0
+                                        },
+                                        "total": 5.6,
+                                        "modified_total": 5.6,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 6.8,
+                                            "357353": 6.5,
+                                            "357352": 7.2
+                                        },
+                                        "total": 6.83,
+                                        "modified_total": 6.83,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "815441",
+                            "total": 8.87,
+                            "winBy": null,
+                            "needs": 3.57,
+                            "rides": {
+                                "815441": [
+                                    {
+                                        "scores": {
+                                            "357351": 5.0,
+                                            "357352": 5.0,
+                                            "357353": 4.3
+                                        },
+                                        "total": 4.77,
+                                        "modified_total": 4.77,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.5,
+                                            "357351": 3.8,
+                                            "357353": 4.0
+                                        },
+                                        "total": 4.1,
+                                        "modified_total": 4.1,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357351": 4.0,
+                                            "357353": 4.3
+                                        },
+                                        "total": 4.1,
+                                        "modified_total": 4.1,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 3.5,
+                                            "357351": 3.3,
+                                            "357353": 3.7
+                                        },
+                                        "total": 3.5,
+                                        "modified_total": 3.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 3.9,
+                                            "357352": 3.5,
+                                            "357353": 3.4
+                                        },
+                                        "total": 3.6,
+                                        "modified_total": 3.6,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "815310",
+                            "total": 6.26,
+                            "winBy": null,
+                            "needs": 2.62,
+                            "rides": {
+                                "815310": [
+                                    {
+                                        "scores": {
+                                            "357352": 2.8,
+                                            "357353": 2.5,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.43,
+                                        "modified_total": 2.43,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 1.5,
+                                            "357352": 0.8,
+                                            "357353": 0.5
+                                        },
+                                        "total": 0.93,
+                                        "modified_total": 0.93,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 3.5,
+                                            "357352": 4.0,
+                                            "357353": 4.0
+                                        },
+                                        "total": 3.83,
+                                        "modified_total": 3.83,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": null,
+                                        "total": null,
+                                        "modified_total": null,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122753",
+                    "eventDivisionId": "353294",
+                    "round": "Quarterfinal",
+                    "roundPosition": 3,
+                    "position": 2,
+                    "startTime": "2024-04-06T22:00:00Z",
+                    "endTime": "2024-04-06T22:28:01Z",
+                    "heatDurationMinutes": 22,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 3
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1207521",
+                            "total": 25.34,
+                            "winBy": 12.34,
+                            "needs": null,
+                            "rides": {
+                                "1207521": [
+                                    {
+                                        "scores": {
+                                            "357353": 7.0,
+                                            "357351": 6.2,
+                                            "357352": 6.5
+                                        },
+                                        "total": 6.57,
+                                        "modified_total": 6.57,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 1.5,
+                                            "357352": 2.0,
+                                            "357353": 2.5
+                                        },
+                                        "total": 2.0,
+                                        "modified_total": 2.0,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 5.5,
+                                            "357353": 4.5,
+                                            "357351": 5.0
+                                        },
+                                        "total": 5.0,
+                                        "modified_total": 5.0,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 7.6,
+                                            "357353": 7.2,
+                                            "357352": 8.0
+                                        },
+                                        "total": 7.6,
+                                        "modified_total": 7.6,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.0,
+                                            "357352": 5.5,
+                                            "357351": 6.0
+                                        },
+                                        "total": 5.5,
+                                        "modified_total": 5.5,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.0,
+                                            "357353": 5.5,
+                                            "357351": 5.5
+                                        },
+                                        "total": 5.67,
+                                        "modified_total": 5.67,
+                                        "modifier": null,
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 4.0,
+                                            "357353": 4.0,
+                                            "357352": 4.0
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1205855",
+                            "total": 13.0,
+                            "winBy": null,
+                            "needs": 18.45,
+                            "rides": {
+                                "1205855": [
+                                    {
+                                        "scores": {
+                                            "357353": 7.0,
+                                            "357351": 6.7,
+                                            "357352": 7.0
+                                        },
+                                        "total": 6.9,
+                                        "modified_total": 6.9,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.5,
+                                            "357353": 5.5,
+                                            "357351": 6.3
+                                        },
+                                        "total": 6.1,
+                                        "modified_total": 6.1,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 4.9,
+                                            "357353": 3.5,
+                                            "357352": 4.0
+                                        },
+                                        "total": 4.13,
+                                        "modified_total": 4.13,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 2.5,
+                                            "357352": 3.0,
+                                            "357351": 2.0
+                                        },
+                                        "total": 2.5,
+                                        "modified_total": 2.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357351": 3.0,
+                                            "357353": 4.0
+                                        },
+                                        "total": 3.67,
+                                        "modified_total": 3.67,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "820787",
+                            "total": 10.16,
+                            "winBy": null,
+                            "needs": 2.85,
+                            "rides": {
+                                "820787": [
+                                    {
+                                        "scores": {
+                                            "357351": 5.0,
+                                            "357353": 4.5,
+                                            "357352": 5.0
+                                        },
+                                        "total": 4.83,
+                                        "modified_total": 4.83,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357351": 3.8,
+                                            "357352": 4.0
+                                        },
+                                        "total": 4.1,
+                                        "modified_total": 4.1,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 5.0,
+                                            "357351": 4.7,
+                                            "357353": 4.5
+                                        },
+                                        "total": 4.73,
+                                        "modified_total": 4.73,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357351": 4.5,
+                                            "357352": 3.5
+                                        },
+                                        "total": 3.67,
+                                        "modified_total": 3.67,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 0.5,
+                                            "357352": 1.0,
+                                            "357351": 1.0
+                                        },
+                                        "total": 0.83,
+                                        "modified_total": 0.83,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 1.0,
+                                            "357353": 1.5,
+                                            "357352": 1.0
+                                        },
+                                        "total": 1.17,
+                                        "modified_total": 1.17,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.0,
+                                            "357351": 4.5,
+                                            "357353": 5.5
+                                        },
+                                        "total": 5.33,
+                                        "modified_total": 5.33,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122754",
+                    "eventDivisionId": "353294",
+                    "round": "Quarterfinal",
+                    "roundPosition": 3,
+                    "position": 3,
+                    "startTime": "2024-04-07T16:00:00Z",
+                    "endTime": "2024-04-07T16:24:12Z",
+                    "heatDurationMinutes": 22,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 3
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1203243",
+                            "total": 9.73,
+                            "winBy": 1.86,
+                            "needs": null,
+                            "rides": {
+                                "1203243": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 4.5,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.5,
+                                        "modified_total": 4.5,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 5.0,
+                                            "357352": 5.2,
+                                            "357353": 5.5
+                                        },
+                                        "total": 5.23,
+                                        "modified_total": 5.23,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.5,
+                                            "357351": 4.0,
+                                            "357353": 5.0
+                                        },
+                                        "total": 4.5,
+                                        "modified_total": 4.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 2.5,
+                                            "357352": 2.7,
+                                            "357353": 3.0
+                                        },
+                                        "total": 2.73,
+                                        "modified_total": 2.73,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": null,
+                                        "total": null,
+                                        "modified_total": null,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": null,
+                                        "total": null,
+                                        "modified_total": null,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1589294",
+                            "total": 7.87,
+                            "winBy": null,
+                            "needs": 1.87,
+                            "rides": {
+                                "1589294": [
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357351": 3.5,
+                                            "357353": 4.5
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 3.2,
+                                            "357353": 4.0,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.4,
+                                        "modified_total": 3.4,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 3.3,
+                                            "357353": 3.5,
+                                            "357351": 3.0
+                                        },
+                                        "total": 3.27,
+                                        "modified_total": 3.27,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.6,
+                                            "357351": 4.0,
+                                            "357353": 3.0
+                                        },
+                                        "total": 3.87,
+                                        "modified_total": 3.87,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1198918",
+                            "total": 7.57,
+                            "winBy": null,
+                            "needs": 0.31,
+                            "rides": {
+                                "1198918": [
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357351": 3.5,
+                                            "357352": 3.5
+                                        },
+                                        "total": 3.67,
+                                        "modified_total": 3.67,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.5,
+                                            "357352": 2.7,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.9,
+                                        "modified_total": 2.9,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 3.7,
+                                            "357351": 3.0,
+                                            "357353": 4.0
+                                        },
+                                        "total": 3.57,
+                                        "modified_total": 3.57,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.0,
+                                            "357351": 3.7,
+                                            "357352": 4.0
+                                        },
+                                        "total": 3.9,
+                                        "modified_total": 3.9,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 3.0,
+                                            "357352": 2.8,
+                                            "357351": 3.5
+                                        },
+                                        "total": 3.1,
+                                        "modified_total": 3.1,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122755",
+                    "eventDivisionId": "353294",
+                    "round": "Semifinal",
+                    "roundPosition": 4,
+                    "position": 0,
+                    "startTime": "2024-04-07T18:08:40Z",
+                    "endTime": "2024-04-07T18:30:03Z",
+                    "heatDurationMinutes": 22,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1210135",
+                            "total": 15.24,
+                            "winBy": 0.48,
+                            "needs": null,
+                            "rides": {
+                                "1210135": [
+                                    {
+                                        "scores": {
+                                            "357352": 6.9,
+                                            "357351": 8.0,
+                                            "357353": 7.5
+                                        },
+                                        "total": 7.47,
+                                        "modified_total": 7.47,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 7.5,
+                                            "357351": 7.5,
+                                            "357353": 6.5
+                                        },
+                                        "total": 7.17,
+                                        "modified_total": 7.17,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 7.8,
+                                            "357351": 7.5,
+                                            "357353": 8.0
+                                        },
+                                        "total": 7.77,
+                                        "modified_total": 7.77,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 6.0,
+                                            "357352": 5.5,
+                                            "357353": 5.0
+                                        },
+                                        "total": 5.5,
+                                        "modified_total": 5.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": null,
+                                        "total": null,
+                                        "modified_total": null,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "815441",
+                            "total": 14.76,
+                            "winBy": null,
+                            "needs": 0.49,
+                            "rides": {
+                                "815441": [
+                                    {
+                                        "scores": {
+                                            "357352": 7.5,
+                                            "357353": 6.5,
+                                            "357351": 8.0
+                                        },
+                                        "total": 7.33,
+                                        "modified_total": 7.33,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 7.1,
+                                            "357353": 6.0,
+                                            "357351": 7.5
+                                        },
+                                        "total": 6.87,
+                                        "modified_total": 6.87,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 5.3,
+                                            "357351": 5.0,
+                                            "357353": 4.5
+                                        },
+                                        "total": 4.93,
+                                        "modified_total": 4.93,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 7.8,
+                                            "357351": 7.5,
+                                            "357353": 7.0
+                                        },
+                                        "total": 7.43,
+                                        "modified_total": 7.43,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 5.3,
+                                            "357351": 5.0,
+                                            "357353": 4.0
+                                        },
+                                        "total": 4.77,
+                                        "modified_total": 4.77,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.4,
+                                            "357351": 6.0,
+                                            "357353": 6.0
+                                        },
+                                        "total": 6.13,
+                                        "modified_total": 6.13,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 5.5,
+                                            "357351": 5.8,
+                                            "357353": 5.0
+                                        },
+                                        "total": 5.43,
+                                        "modified_total": 5.43,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1205034",
+                            "total": 10.13,
+                            "winBy": null,
+                            "needs": 4.64,
+                            "rides": {
+                                "1205034": [
+                                    {
+                                        "scores": {
+                                            "357353": 5.5,
+                                            "357352": 5.0,
+                                            "357351": 5.5
+                                        },
+                                        "total": 5.33,
+                                        "modified_total": 5.33,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 5.5,
+                                            "357352": 4.0,
+                                            "357353": 4.0
+                                        },
+                                        "total": 4.5,
+                                        "modified_total": 4.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.9,
+                                            "357353": 4.5,
+                                            "357351": 5.0
+                                        },
+                                        "total": 4.8,
+                                        "modified_total": 4.8,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 4.0,
+                                            "357352": 4.0,
+                                            "357353": 3.0
+                                        },
+                                        "total": 3.67,
+                                        "modified_total": 3.67,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "820028",
+                            "total": 9.6,
+                            "winBy": null,
+                            "needs": 5.17,
+                            "rides": {
+                                "820028": [
+                                    {
+                                        "scores": {
+                                            "357352": 4.5,
+                                            "357351": 5.0,
+                                            "357353": 4.0
+                                        },
+                                        "total": 4.5,
+                                        "modified_total": 4.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.2,
+                                            "357351": 5.5,
+                                            "357353": 4.0
+                                        },
+                                        "total": 4.57,
+                                        "modified_total": 4.57,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.8,
+                                            "357353": 4.5,
+                                            "357351": 5.8
+                                        },
+                                        "total": 5.03,
+                                        "modified_total": 5.03,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 4.8,
+                                            "357352": 4.5,
+                                            "357353": 4.0
+                                        },
+                                        "total": 4.43,
+                                        "modified_total": 4.43,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122756",
+                    "eventDivisionId": "353294",
+                    "round": "Semifinal",
+                    "roundPosition": 4,
+                    "position": 1,
+                    "startTime": "2024-04-07T18:30:13Z",
+                    "endTime": "2024-04-07T18:53:36Z",
+                    "heatDurationMinutes": 22,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1207521",
+                            "total": 15.1,
+                            "winBy": 2.8,
+                            "needs": null,
+                            "rides": {
+                                "1207521": [
+                                    {
+                                        "scores": {
+                                            "357352": 7.8,
+                                            "357353": 8.0,
+                                            "357351": 7.5
+                                        },
+                                        "total": 7.77,
+                                        "modified_total": 7.77,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 7.5,
+                                            "357351": 7.2,
+                                            "357353": 7.0
+                                        },
+                                        "total": 7.23,
+                                        "modified_total": 7.23,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 8.0,
+                                            "357351": 7.5,
+                                            "357353": 6.5
+                                        },
+                                        "total": 7.33,
+                                        "modified_total": 7.33,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.5,
+                                            "357351": 7.2,
+                                            "357352": 7.0
+                                        },
+                                        "total": 6.9,
+                                        "modified_total": 6.9,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1205855",
+                            "total": 12.3,
+                            "winBy": null,
+                            "needs": 2.81,
+                            "rides": {
+                                "1205855": [
+                                    {
+                                        "scores": {
+                                            "357352": 5.3,
+                                            "357353": 6.0,
+                                            "357351": 5.5
+                                        },
+                                        "total": 5.6,
+                                        "modified_total": 5.6,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.0,
+                                            "357353": 5.0,
+                                            "357351": 4.5
+                                        },
+                                        "total": 5.17,
+                                        "modified_total": 5.17,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.9,
+                                            "357353": 6.0,
+                                            "357351": 6.5
+                                        },
+                                        "total": 6.47,
+                                        "modified_total": 6.47,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.0,
+                                            "357353": 5.5,
+                                            "357351": 6.0
+                                        },
+                                        "total": 5.83,
+                                        "modified_total": 5.83,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "1589294",
+                            "total": 11.33,
+                            "winBy": null,
+                            "needs": 0.98,
+                            "rides": {
+                                "1589294": [
+                                    {
+                                        "scores": {
+                                            "357353": 5.5,
+                                            "357352": 4.6,
+                                            "357351": 5.0
+                                        },
+                                        "total": 5.03,
+                                        "modified_total": 5.03,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 4.5,
+                                            "357352": 4.2,
+                                            "357353": 5.0
+                                        },
+                                        "total": 4.57,
+                                        "modified_total": 4.57,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.0,
+                                            "357352": 5.7,
+                                            "357351": 5.5
+                                        },
+                                        "total": 5.73,
+                                        "modified_total": 5.73,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 6.0,
+                                            "357353": 5.8,
+                                            "357352": 5.0
+                                        },
+                                        "total": 5.6,
+                                        "modified_total": 5.6,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1203243",
+                            "total": 10.06,
+                            "winBy": null,
+                            "needs": 2.25,
+                            "rides": {
+                                "1203243": [
+                                    {
+                                        "scores": {
+                                            "357352": 2.9,
+                                            "357353": 3.5,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.97,
+                                        "modified_total": 2.97,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.0,
+                                            "357353": 4.0,
+                                            "357351": 4.0
+                                        },
+                                        "total": 4.0,
+                                        "modified_total": 4.0,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 4.7,
+                                            "357353": 5.0,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.73,
+                                        "modified_total": 4.73,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 3.0,
+                                            "357353": 2.0,
+                                            "357351": 2.5
+                                        },
+                                        "total": 2.5,
+                                        "modified_total": 2.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 2.0,
+                                            "357353": 1.5,
+                                            "357351": 1.0
+                                        },
+                                        "total": 1.5,
+                                        "modified_total": 1.5,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.5,
+                                            "357352": 5.0,
+                                            "357351": 5.5
+                                        },
+                                        "total": 5.33,
+                                        "modified_total": 5.33,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "2122757",
+                    "eventDivisionId": "353294",
+                    "round": "Final",
+                    "roundPosition": 5,
+                    "position": 0,
+                    "startTime": "2024-04-07T19:48:38Z",
+                    "endTime": "2024-04-07T20:14:56Z",
+                    "heatDurationMinutes": 27,
+                    "config": {
+                        "maxRideScore": 11,
+                        "heatSize": 4
+                    },
+                    "result": [
+                        {
+                            "athleteId": "1210135",
+                            "total": 14.23,
+                            "winBy": 0.73,
+                            "needs": null,
+                            "rides": {
+                                "1210135": [
+                                    {
+                                        "scores": {
+                                            "357353": 6.0,
+                                            "357352": 6.7,
+                                            "357351": 6.5
+                                        },
+                                        "total": 6.4,
+                                        "modified_total": 6.4,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.8,
+                                            "357352": 4.2,
+                                            "357351": 4.5
+                                        },
+                                        "total": 4.83,
+                                        "modified_total": 4.83,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.0,
+                                            "357352": 7.0,
+                                            "357351": 8.0
+                                        },
+                                        "total": 7.0,
+                                        "modified_total": 7.0,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 7.5,
+                                            "357352": 7.7,
+                                            "357353": 6.5
+                                        },
+                                        "total": 7.23,
+                                        "modified_total": 7.23,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "1"
+                        },
+                        {
+                            "athleteId": "1207521",
+                            "total": 13.5,
+                            "winBy": null,
+                            "needs": 0.74,
+                            "rides": {
+                                "1207521": [
+                                    {
+                                        "scores": {
+                                            "357353": 5.3,
+                                            "357351": 7.0,
+                                            "357352": 6.9
+                                        },
+                                        "total": 6.4,
+                                        "modified_total": 6.4,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 3.8,
+                                            "357351": 4.0,
+                                            "357353": 3.5
+                                        },
+                                        "total": 3.77,
+                                        "modified_total": 3.77,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 7.2,
+                                            "357351": 7.5,
+                                            "357353": 6.5
+                                        },
+                                        "total": 7.07,
+                                        "modified_total": 7.07,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 7.3,
+                                            "357353": 6.0,
+                                            "357351": 6.0
+                                        },
+                                        "total": 6.43,
+                                        "modified_total": 6.43,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 4.5,
+                                            "357352": 5.3,
+                                            "357351": 5.0
+                                        },
+                                        "total": 4.93,
+                                        "modified_total": 4.93,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 5.7,
+                                            "357351": 5.0,
+                                            "357353": 6.0
+                                        },
+                                        "total": 5.57,
+                                        "modified_total": 5.57,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "2"
+                        },
+                        {
+                            "athleteId": "815441",
+                            "total": 12.46,
+                            "winBy": null,
+                            "needs": 1.78,
+                            "rides": {
+                                "815441": [
+                                    {
+                                        "scores": {
+                                            "357353": 5.3,
+                                            "357351": 6.5,
+                                            "357352": 6.2
+                                        },
+                                        "total": 6.0,
+                                        "modified_total": 6.0,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.0,
+                                            "357352": 5.8,
+                                            "357351": 5.5
+                                        },
+                                        "total": 5.43,
+                                        "modified_total": 5.43,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.0,
+                                            "357351": 6.0,
+                                            "357353": 6.0
+                                        },
+                                        "total": 6.0,
+                                        "modified_total": 6.0,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357352": 6.2,
+                                            "357351": 7.5,
+                                            "357353": 5.0
+                                        },
+                                        "total": 6.23,
+                                        "modified_total": 6.23,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.5,
+                                            "357352": 6.7,
+                                            "357351": 6.5
+                                        },
+                                        "total": 6.23,
+                                        "modified_total": 6.23,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    }
+                                ]
+                            },
+                            "place": "3"
+                        },
+                        {
+                            "athleteId": "1205855",
+                            "total": 12.0,
+                            "winBy": null,
+                            "needs": 2.24,
+                            "rides": {
+                                "1205855": [
+                                    {
+                                        "scores": {
+                                            "357353": 5.0,
+                                            "357352": 5.9,
+                                            "357351": 5.0
+                                        },
+                                        "total": 5.3,
+                                        "modified_total": 5.3,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 3.8,
+                                            "357352": 3.6,
+                                            "357353": 3.0
+                                        },
+                                        "total": 3.47,
+                                        "modified_total": 3.47,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    },
+                                    {
+                                        "scores": {
+                                            "357351": 5.5,
+                                            "357352": 5.8,
+                                            "357353": 5.5
+                                        },
+                                        "total": 5.6,
+                                        "modified_total": 5.6,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 6.0,
+                                            "357352": 6.2,
+                                            "357351": 7.0
+                                        },
+                                        "total": 6.4,
+                                        "modified_total": 6.4,
+                                        "modifier": null,
+                                        "category": "Waves",
+                                        "scoring_ride": true
+                                    },
+                                    {
+                                        "scores": {
+                                            "357353": 5.0,
+                                            "357352": 4.8,
+                                            "357351": 5.0
+                                        },
+                                        "total": 4.93,
+                                        "modified_total": 4.93,
+                                        "modifier": null,
+                                        "category": "Waves"
+                                    }
+                                ]
+                            },
+                            "place": "4"
+                        }
+                    ]
+                }
+            ],
+            "template": {
+                "id": "13861",
+                "name": "Challengers to 16"
+            },
+            "eventDivisionPointAllocations": [
+                {
+                    "id": "24456",
+                    "eventDivisionId": "353294",
+                    "seasonId": "23784",
+                    "pointAllocation": {
+                        "id": "4525",
+                        "name": "Chile Wave Women"
+                    }
+                },
+                {
+                    "id": "24493",
+                    "eventDivisionId": "353294",
+                    "seasonId": "30055",
+                    "pointAllocation": {
+                        "id": "4525",
+                        "name": "Chile Wave Women"
+                    }
+                }
+            ],
+            "event": {
+                "id": "187563"
+            }
+        }
+    }
+}

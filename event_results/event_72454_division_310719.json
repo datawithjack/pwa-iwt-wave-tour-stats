@@ -1,0 +1,36 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "310719",
+            "heatDurationMinutes": 15,
+            "defaultEventDurationMinutes": 26,
+            "formatDefinition": {
+                "progression": null,
+                "runProgression": null,
+                "heatSizes": null,
+                "seeds": null,
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 4,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "146394",
+                "name": "Open Juniors U20"
+            },
+            "eventDivisions": [],
+            "heats": [],
+            "template": {
+                "id": "4425",
+                "name": "2 Jump + 2 Wave"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "72454"
+            }
+        }
+    }
+}

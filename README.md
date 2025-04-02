@@ -29,4 +29,12 @@ website comments and frothometer button
 4. If event not in DB add it in
 
 
-# Report Improvement 
+# Report Improvement
+
+- compare best and average counting scores (jumps and waves) to fleet average for whole fleet, top 10, finalists
+- update rank formatting in the table on results page so doesnt break when sorted  (dynamic formatting)
+
+
+# Long Term Projects
+- replace powerbi with website
+- add chat bot to ask questions

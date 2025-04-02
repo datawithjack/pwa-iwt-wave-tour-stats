@@ -1,0 +1,42 @@
+{
+    "data": {
+        "eventDivision": {
+            "id": "471654",
+            "heatDurationMinutes": 25,
+            "defaultEventDurationMinutes": 17,
+            "formatDefinition": {
+                "progression": {
+                    "default": [
+                        {
+                            "max": 0
+                        }
+                    ]
+                },
+                "runProgression": {},
+                "heatSizes": {},
+                "seeds": {},
+                "defaultHeatDurationMinutes": 15,
+                "numberOfRounds": null
+            },
+            "heatConfig": {
+                "hasPriority": true,
+                "totalCountingRides": 2,
+                "athleteRidesLimit": null
+            },
+            "division": {
+                "id": "180439",
+                "name": "Pro Junior GIrls"
+            },
+            "eventDivisions": [],
+            "heats": [],
+            "template": {
+                "id": "4427",
+                "name": "Waves only"
+            },
+            "eventDivisionPointAllocations": [],
+            "event": {
+                "id": "270681"
+            }
+        }
+    }
+}
