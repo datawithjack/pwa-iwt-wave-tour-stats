@@ -2,26 +2,13 @@ import os
 import requests
 import json
 import pandas as pd
+import re
 from sqlalchemy import create_engine, MetaData, Table, Column, BigInteger, Text
 from sqlalchemy.dialects.mysql import insert
 
 # ------------------------------
 # Database Configuration & Setup
 # ------------------------------
-
-# Replace these with your actual MySQL connection details
-# db_config = {
-#     'user': 'avnadmin',
-#     'password': 'AVNS_ND3WBdcIqIQvtuWr2ka',
-#     'host': 'mysql-world-wave-tour-database-pwa-iwt-windsurf-stats.l.aivencloud.com',
-#     'port': '28343',  # Default MySQL port; change if needed
-#     'database': 'defaultdb'
-# }
-
-# # Create the MySQL engine using SQLAlchemy
-# engine = create_engine(
-#     f"mysql+pymysql://{db_config['user']}:{db_config['password']}@{db_config['host']}:{db_config['port']}/{db_config['database']}"
-# )
 
 db_config = {
     'user': os.getenv('DB_USER', 'avnadmin').strip(),
@@ -39,8 +26,7 @@ engine = create_engine(
     f"mysql+pymysql://{db_config['user']}:{db_config['password']}@{db_config['host']}:{db_config['port']}/{db_config['database']}{ssl_args}"
 )
 
-
-# Create a metadata instance and define the table
+# Create a metadata instance and define the table with the new columns
 metadata = MetaData()
 all_events = Table(
     'ALL_EVENTS',
@@ -48,9 +34,12 @@ all_events = Table(
     Column('id', BigInteger, primary_key=True),
     Column('name', Text),
     Column('status', Text),
-    Column('date', Text),
+    Column('start_date', Text),  # renamed from date
+    Column('finish_date', Text),
     Column('daysWindow', BigInteger),
-    Column('Updates', Text)
+    Column('Updates', Text),
+    Column('location', Text),
+    Column('stars', Text)
 )
 
 # Create the table in the database if it does not exist
@@ -63,7 +52,7 @@ def fetch_wave_tour_events():
     """
     Fetch events from the API.
     Saves raw JSON data to 'wave_tour_events_raw.json' for reference.
-    Returns a DataFrame with the required columns.
+    Returns a DataFrame with the required and newly formatted columns.
     """
     url = "https://liveheats.com/api/graphql"
     headers = {
@@ -106,9 +95,31 @@ def fetch_wave_tour_events():
         events = data["data"]["organisationByShortName"]["events"]
         df = pd.json_normalize(events)
         
-        # Select only the required columns
+        # Select only the required columns from the API response
         columns_needed = ["id", "name", "status", "date", "daysWindow"]
         df = df[columns_needed]
+        
+        # ------------------------------
+        # Data Transformations
+        # ------------------------------
+        # 1. Format the date column into dd/mm/yyyy and rename to start_date.
+        df['start_date'] = pd.to_datetime(df['date']).dt.strftime('%d/%m/%Y')
+        df.drop(columns=['date'], inplace=True)
+        
+        # 2. Create finish_date = start_date + daysWindow (in days)
+        finish_dt = pd.to_datetime(df['start_date'], format='%d/%m/%Y') + pd.to_timedelta(df['daysWindow'], unit='D')
+        df['finish_date'] = finish_dt.dt.strftime('%d/%m/%Y')
+        
+        # 3. Create location column from the name (first part up to the colon) and convert to proper case.
+        df['location'] = df['name'].str.split(':').str[0].str.strip().str.title()
+        
+        # 4. Create stars column by extracting the number preceding the word "star" in the name column.
+        df['stars'] = df['name'].apply(
+            lambda x: re.search(r'(\d+)\s*star', x, re.IGNORECASE).group(1) if re.search(r'(\d+)\s*star', x, re.IGNORECASE) else None
+        )
+        
+        # 5. Clean the status column by replacing underscores with spaces and converting to proper case.
+        df['status'] = df['status'].str.replace('_', ' ').str.title()
         
         return df
     else:

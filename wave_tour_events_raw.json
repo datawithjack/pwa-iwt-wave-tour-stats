@@ -1,0 +1,1956 @@
+{
+    "data": {
+        "organisationByShortName": {
+            "events": [
+                {
+                    "id": "190953",
+                    "name": "HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final",
+                    "status": "results_published",
+                    "date": "2023-10-22T22:00:00Z",
+                    "daysWindow": 12,
+                    "hideFinals": false,
+                    "series": [],
+                    "currentScheduleIndex": 3
+                },
+                {
+                    "id": "147526",
+                    "name": "Denmark: 2 STAR Open Windsurf Wave Championships",
+                    "status": "results_published",
+                    "date": "2023-06-10T00:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "164024",
+                    "name": "PERU: 2 STAR Pacasmayo Classic",
+                    "status": "results_published",
+                    "date": "2023-08-25T13:00:00Z",
+                    "daysWindow": 10,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 1
+                },
+                {
+                    "id": "72489",
+                    "name": "Australia: 2 STAR Margaret River Wavesailing Classic",
+                    "status": "results_published",
+                    "date": "2023-01-26T00:00:00Z",
+                    "daysWindow": 4,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "117331",
+                    "name": "SPAIN: 5 STAR Gran Canaria World Cup",
+                    "status": "results_published",
+                    "date": "2023-07-01T00:00:00Z",
+                    "daysWindow": 9,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 8
+                },
+                {
+                    "id": "72452",
+                    "name": "FIJI.PRO: 5 STAR 2023 FIJI SURF PRO ",
+                    "status": "results_published",
+                    "date": "2023-06-01T00:00:00Z",
+                    "daysWindow": 11,
+                    "hideFinals": false,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 18
+                },
+                {
+                    "id": "147528",
+                    "name": "DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final",
+                    "status": "results_published",
+                    "date": "2023-10-14T00:00:00Z",
+                    "daysWindow": 7,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 5
+                },
+                {
+                    "id": "220586",
+                    "name": "Japan: 2 STAR Cold Breeze",
+                    "status": "results_published",
+                    "date": "2023-12-22T21:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "28107",
+                            "name": "2024 Asian: Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "164717",
+                    "name": "CHILE: 2 STAR SURAZO Infernal - Men",
+                    "status": "results_published",
+                    "date": "2023-03-24T13:00:00Z",
+                    "daysWindow": 9,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "187568",
+                    "name": "Morocco: Junior 100% Moulay Wave Classic",
+                    "status": "results_published",
+                    "date": "2024-04-26T22:00:00Z",
+                    "daysWindow": 8,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 1
+                },
+                {
+                    "id": "187555",
+                    "name": "Taiwan: 1 STAR Taitung Wave Classic",
+                    "status": "results_published",
+                    "date": "2023-10-31T21:00:00Z",
+                    "daysWindow": 30,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "28107",
+                            "name": "2024 Asian: Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "187556",
+                    "name": "Australia: 1 STAR Merimbula Classic",
+                    "status": "results_published",
+                    "date": "2023-11-22T21:00:00Z",
+                    "daysWindow": 4,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "28108",
+                            "name": "2024 Oceania: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "187578",
+                    "name": "Wales: 2 STAR Rhosneigr Wave Classic 2024",
+                    "status": "results_published",
+                    "date": "2024-09-20T22:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 3
+                },
+                {
+                    "id": "187558",
+                    "name": "Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp",
+                    "status": "results_published",
+                    "date": "2024-01-15T21:00:00Z",
+                    "daysWindow": 6,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "28108",
+                            "name": "2024 Oceania: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "249495",
+                    "name": "AFRICA: 3 STAR REGIONAL FINAL Moulay Wave Classic",
+                    "status": "results_published",
+                    "date": "2024-04-26T22:00:00Z",
+                    "daysWindow": 8,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30054",
+                            "name": "2024 African: Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 1
+                },
+                {
+                    "id": "187564",
+                    "name": "SPAIN: 5 STAR Gran Canaria World Cup",
+                    "status": "results_published",
+                    "date": "2024-06-27T22:00:00Z",
+                    "daysWindow": 10,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "270680",
+                    "name": "PERU: 100% Masters Juniors Peru World Cup",
+                    "status": "results_published",
+                    "date": "2024-08-03T13:00:00Z",
+                    "daysWindow": 15,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23787",
+                            "name": "2024 The Americas: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "285332",
+                    "name": "France: 2 STAR French Windsurf Championship at Pole Nautique Hague",
+                    "status": "results_published",
+                    "date": "2024-11-23T12:00:00Z",
+                    "daysWindow": 23,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "147529",
+                    "name": "Scotland: 2 STAR Tiree Wave Classic",
+                    "status": "results_published",
+                    "date": "2023-10-14T00:00:00Z",
+                    "daysWindow": 7,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 4
+                },
+                {
+                    "id": "181652",
+                    "name": "HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final",
+                    "status": "results_published",
+                    "date": "2023-10-22T18:00:00Z",
+                    "daysWindow": 13,
+                    "hideFinals": false,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 3
+                },
+                {
+                    "id": "147592",
+                    "name": "Australia: 2 STAR North Windsurfing East Coast Titles. Sydney",
+                    "status": "results_published",
+                    "date": "2024-02-02T00:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "28108",
+                            "name": "2024 Oceania: Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 9
+                },
+                {
+                    "id": "187570",
+                    "name": "Scotland: 3 STAR Tiree Wave Classic",
+                    "status": "results_published",
+                    "date": "2024-10-11T22:00:00Z",
+                    "daysWindow": 7,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 4
+                },
+                {
+                    "id": "118319",
+                    "name": "CHILE: 4 STAR SURAZO Infernal - Women",
+                    "status": "results_published",
+                    "date": "2023-03-25T00:00:00Z",
+                    "daysWindow": 9,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "117362",
+                    "name": "JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO",
+                    "status": "results_published",
+                    "date": "2023-03-16T00:00:00Z",
+                    "daysWindow": 6,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "118385",
+                    "name": "CHILE: 4 STAR SURAZO Infernal - Masters & Youth",
+                    "status": "results_published",
+                    "date": "2023-03-25T00:00:00Z",
+                    "daysWindow": 9,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "118715",
+                    "name": "JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters",
+                    "status": "results_published",
+                    "date": "2023-03-16T00:00:00Z",
+                    "daysWindow": 6,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 5
+                },
+                {
+                    "id": "147591",
+                    "name": "Australia: 2 STAR Severne Wavesailing Nationals",
+                    "status": "results_published",
+                    "date": "2023-11-11T00:00:00Z",
+                    "daysWindow": 9,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "28108",
+                            "name": "2024 Oceania: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 49
+                },
+                {
+                    "id": "187563",
+                    "name": "CHILE: 5 STAR Surazo Infernal World Cup",
+                    "status": "results_published",
+                    "date": "2024-03-31T21:00:00Z",
+                    "daysWindow": 12,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 88
+                },
+                {
+                    "id": "350012",
+                    "name": "Ireland: 2 STAR Magheroarty Classic",
+                    "status": "scheduled",
+                    "date": "2025-08-08T07:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "72487",
+                    "name": "Australia: 2 STAR Sydney Classic",
+                    "status": "results_published",
+                    "date": "2022-12-10T00:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "270681",
+                    "name": "SPAIN: 100% Masters Juniors Tenerife Classic World Cup",
+                    "status": "results_published",
+                    "date": "2024-08-03T13:00:00Z",
+                    "daysWindow": 15,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 4
+                },
+                {
+                    "id": "81590",
+                    "name": "Japan: 2 STAR Winter Cup",
+                    "status": "results_published",
+                    "date": "2023-02-04T00:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "221942",
+                    "name": "Argentina : 2 Star Mar Del Plata ",
+                    "status": "results_published",
+                    "date": "2024-04-13T22:00:00Z",
+                    "daysWindow": 17,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23787",
+                            "name": "2024 The Americas: Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 4
+                },
+                {
+                    "id": "220652",
+                    "name": "Japan: 2 STAR All Japan",
+                    "status": "results_published",
+                    "date": "2024-01-05T21:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "28107",
+                            "name": "2024 Asian: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "216630",
+                    "name": "Germany : 2 Star German Wave Tour Event #2",
+                    "status": "finished",
+                    "date": "2024-08-31T22:00:00Z",
+                    "daysWindow": 91,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "187577",
+                    "name": "Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships",
+                    "status": "cancelled",
+                    "date": "2024-10-16T21:00:00Z",
+                    "daysWindow": 4,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "187575",
+                    "name": "New Zealand: 1 STAR Taranki Wave Classic",
+                    "status": "finished",
+                    "date": "2024-10-24T21:00:00Z",
+                    "daysWindow": 4,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "172539",
+                    "name": "Australia 2 STAR Woolgoolga Classic NSW",
+                    "status": "results_published",
+                    "date": "2023-09-29T22:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "28108",
+                            "name": "2024 Oceania: Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 4
+                },
+                {
+                    "id": "117330",
+                    "name": "Morocco: 2 STAR Wave Classic Moulay",
+                    "status": "results_published",
+                    "date": "2023-04-01T00:00:00Z",
+                    "daysWindow": 8,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "117333",
+                    "name": "GERMANY: 5 STAR Sylt World Cup",
+                    "status": "results_published",
+                    "date": "2023-09-22T00:00:00Z",
+                    "daysWindow": 10,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 1
+                },
+                {
+                    "id": "187553",
+                    "name": "Morocco: 3 STAR Moulay Wave Classic",
+                    "status": "results_published",
+                    "date": "2024-04-26T22:00:00Z",
+                    "daysWindow": 8,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        },
+                        {
+                            "id": "30054",
+                            "name": "2024 African: Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "187560",
+                    "name": "Guadeloupe: 2 STAR King Of Moule",
+                    "status": "results_published",
+                    "date": "2024-01-20T21:00:00Z",
+                    "daysWindow": 1,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23787",
+                            "name": "2024 The Americas: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "214686",
+                    "name": "GERMANY: 5 STAR Sylt World Cup MEN",
+                    "status": "results_published",
+                    "date": "2023-09-21T23:00:00Z",
+                    "daysWindow": 12,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "165509",
+                    "name": "Israel: 2 STAR Znavot Wave Classic - Chemical Riders",
+                    "status": "results_published",
+                    "date": "2024-01-31T22:00:00Z",
+                    "daysWindow": 60,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 4
+                },
+                {
+                    "id": "72454",
+                    "name": "PERU: 4 STAR Pacasmayo Classic",
+                    "status": "results_published",
+                    "date": "2023-08-26T00:00:00Z",
+                    "daysWindow": 10,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 40
+                },
+                {
+                    "id": "187562",
+                    "name": "JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup",
+                    "status": "results_published",
+                    "date": "2024-02-18T21:00:00Z",
+                    "daysWindow": 7,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 33
+                },
+                {
+                    "id": "214877",
+                    "name": "Germany: 2 Star The German Wave Tour ",
+                    "status": "results_published",
+                    "date": "2023-06-11T23:00:00Z",
+                    "daysWindow": 5,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "263420",
+                    "name": "France: 3 STAR Wissant Wave Classic",
+                    "status": "results_published",
+                    "date": "2024-12-20T22:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "72455",
+                    "name": "HAWAII: detail heat results",
+                    "status": "results_published",
+                    "date": "2023-10-23T00:00:00Z",
+                    "daysWindow": 13,
+                    "hideFinals": false,
+                    "series": [],
+                    "currentScheduleIndex": 59
+                },
+                {
+                    "id": "187569",
+                    "name": "HAWAI'I: 5 STAR Aloha Classic GRAND FINAL",
+                    "status": "results_published",
+                    "date": "2024-10-21T21:00:00Z",
+                    "daysWindow": 12,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 54
+                },
+                {
+                    "id": "321866",
+                    "name": "Hawaii: 4 STAR Hawaii World Cup",
+                    "status": "upcoming",
+                    "date": "2025-04-13T18:00:00Z",
+                    "daysWindow": 5,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "321871",
+                    "name": "HAWAII: 5 STAR Aloha Classic Grand Final",
+                    "status": "scheduled",
+                    "date": "2025-10-13T18:00:00Z",
+                    "daysWindow": 12,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "321869",
+                    "name": "SPAIN: 5 STAR Tenerife World Cup",
+                    "status": "scheduled",
+                    "date": "2025-08-01T07:00:00Z",
+                    "daysWindow": 10,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "321868",
+                    "name": " SPAIN: 5 STAR Gran Canaria World Cup",
+                    "status": "scheduled",
+                    "date": "2025-07-05T07:00:00Z",
+                    "daysWindow": 9,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "81623",
+                    "name": "AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY)",
+                    "status": "results_published",
+                    "date": "2023-02-25T00:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "187559",
+                    "name": "Chile: 2 STAR Sirena Wave Classic",
+                    "status": "results_published",
+                    "date": "2023-12-02T21:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23787",
+                            "name": "2024 The Americas: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "187567",
+                    "name": "GERMANY: 5 STAR Sylt World Cup",
+                    "status": "results_published",
+                    "date": "2024-09-26T22:00:00Z",
+                    "daysWindow": 10,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "199466",
+                    "name": "SPAIN: 4 STAR TBC Tenerife World Cup",
+                    "status": "results_published",
+                    "date": "2024-08-05T22:00:00Z",
+                    "daysWindow": 7,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "72449",
+                    "name": "Chile: 2 STAR SIRENA Wave Classic",
+                    "status": "results_published",
+                    "date": "2022-12-03T00:00:00Z",
+                    "daysWindow": 9,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "74629",
+                    "name": "Guadeloupe: 2 STAR Wanalao Wave Classic",
+                    "status": "results_published",
+                    "date": "2023-01-15T00:00:00Z",
+                    "daysWindow": 15,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "74528",
+                    "name": "Puerto.Rico: 2 STAR Wind Warriors",
+                    "status": "results_published",
+                    "date": "2023-02-25T00:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "72488",
+                    "name": "Australia: 2 STAR SEVERNE East Coast Titles ",
+                    "status": "results_published",
+                    "date": "2023-02-04T00:00:00Z",
+                    "daysWindow": 9,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "74628",
+                    "name": "Taiwan: 1 STAR Wave Jam ",
+                    "status": "results_published",
+                    "date": "2022-11-18T00:00:00Z",
+                    "daysWindow": 10,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "272891",
+                    "name": "Ireland: 3 STAR Mayo Mayhem",
+                    "status": "results_published",
+                    "date": "2024-09-26T21:00:00Z",
+                    "daysWindow": 10,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "72453",
+                    "name": "CHILE: 4 STAR SURAZO Infernal - Pro Men",
+                    "status": "results_published",
+                    "date": "2023-03-25T00:00:00Z",
+                    "daysWindow": 9,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "72485",
+                    "name": "Australia: 2 STAR Lancelin Wave Classic",
+                    "status": "results_published",
+                    "date": "2023-01-18T00:00:00Z",
+                    "daysWindow": 4,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "74594",
+                    "name": "Ireland: 2 STAR Mayo Mayhem",
+                    "status": "results_published",
+                    "date": "2023-09-29T00:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "187576",
+                    "name": "Australia: 2 STAR SurfFX North Coast Woopi Classic",
+                    "status": "results_published",
+                    "date": "2024-10-04T22:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "28108",
+                            "name": "2024 Oceania: Wave Rankings"
+                        },
+                        {
+                            "id": "45069",
+                            "name": "2025 Oceania Wave Tour Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 4
+                },
+                {
+                    "id": "72450",
+                    "name": "France: 2 STAR Championnat De France Funboard Vagues 2023",
+                    "status": "results_published",
+                    "date": "2023-11-18T00:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "81557",
+                    "name": "Japan: 1 STAR Cold Breeze",
+                    "status": "results_published",
+                    "date": "2022-12-24T00:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "8538",
+                            "name": "2023 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 3
+                },
+                {
+                    "id": "187565",
+                    "name": "PERU: 4 STAR Pacasmayo Classic World Cup",
+                    "status": "results_published",
+                    "date": "2024-08-03T22:00:00Z",
+                    "daysWindow": 14,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23787",
+                            "name": "2024 The Americas: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 42
+                },
+                {
+                    "id": "305429",
+                    "name": "Australia: 2 Star WSS Sydney Wavesailing Smackfest",
+                    "status": "results_published",
+                    "date": "2024-11-15T21:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45069",
+                            "name": "2025 Oceania Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "28108",
+                            "name": "2024 Oceania: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 7
+                },
+                {
+                    "id": "322524",
+                    "name": "PERU: 3 STAR Pacasmayo Classic World Cup",
+                    "status": "scheduled",
+                    "date": "2025-08-23T13:00:00Z",
+                    "daysWindow": 9,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "268535",
+                    "name": "Chile: 3 STAR Sirena Wave Classic",
+                    "status": "results_published",
+                    "date": "2024-12-12T13:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "268536",
+                    "name": "Chile: 3 STAR Surazo Infernal Navidad",
+                    "status": "results_published",
+                    "date": "2024-11-07T13:00:00Z",
+                    "daysWindow": 4,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "321864",
+                    "name": "Puerto Rico: 4 STAR Puerto Rico World Cup",
+                    "status": "results_published",
+                    "date": "2025-03-09T12:00:00Z",
+                    "daysWindow": 1,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 31
+                },
+                {
+                    "id": "322457",
+                    "name": "Taiwan: 1 STAR Taitung Wave Classic",
+                    "status": "results_published",
+                    "date": "2024-11-01T00:00:00Z",
+                    "daysWindow": 30,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45070",
+                            "name": "2025 Asia Wave Tour Rankings"
+                        },
+                        {
+                            "id": "28107",
+                            "name": "2024 Asian: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "266589",
+                    "name": "Australia: 4 STAR Margaret River Wavesailing Classic",
+                    "status": "results_published",
+                    "date": "2025-01-31T13:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": true,
+                    "series": [
+                        {
+                            "id": "45069",
+                            "name": "2025 Oceania Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "321767",
+                    "name": "Chile: 3 STAR Surazo Infernal Navidad - women's results ",
+                    "status": "results_published",
+                    "date": "2024-11-07T11:00:00Z",
+                    "daysWindow": 4,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "322490",
+                    "name": "Morocco: 3 STAR Moulay Wave Classic",
+                    "status": "scheduled",
+                    "date": "2025-04-26T07:00:00Z",
+                    "daysWindow": 8,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "45102",
+                            "name": "2025 Africa Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "322523",
+                    "name": "Ireland: 3 STAR Mayo Mayhem",
+                    "status": "scheduled",
+                    "date": "2025-09-01T07:00:00Z",
+                    "daysWindow": 30,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "318167",
+                    "name": "Belgium 2 Star Nationals ",
+                    "status": "results_published",
+                    "date": "2024-10-18T06:00:00Z",
+                    "daysWindow": 4,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 2
+                },
+                {
+                    "id": "275136",
+                    "name": "Netherlands: 2 STAR Slam Om Domburg",
+                    "status": "finished",
+                    "date": "2024-07-31T22:00:00Z",
+                    "daysWindow": 122,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "322525",
+                    "name": "Denmark: 3 STAR Danish Open Wave Championships",
+                    "status": "scheduled",
+                    "date": "2025-09-01T06:00:00Z",
+                    "daysWindow": 30,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "322556",
+                    "name": "Scotland: 3 STAR Tiree Wave Classic",
+                    "status": "scheduled",
+                    "date": "2025-10-11T07:00:00Z",
+                    "daysWindow": 7,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "322557",
+                    "name": "Chile: 3 STAR Surazo Infernal Navidad",
+                    "status": "scheduled",
+                    "date": "2025-11-01T11:00:00Z",
+                    "daysWindow": 30,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "322558",
+                    "name": "France: 3 STAR Wissant Wave Classic",
+                    "status": "scheduled",
+                    "date": "2025-11-01T07:00:00Z",
+                    "daysWindow": 30,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "295232",
+                    "name": "Judges Training Event",
+                    "status": "finished",
+                    "date": "2023-10-01T18:00:00Z",
+                    "daysWindow": 8,
+                    "hideFinals": null,
+                    "series": [],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "322589",
+                    "name": "Japan: 2 STAR JWA Junior Wave ",
+                    "status": "results_published",
+                    "date": "2024-12-26T23:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45070",
+                            "name": "2025 Asia Wave Tour Rankings"
+                        },
+                        {
+                            "id": "28107",
+                            "name": "2024 Asian: Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 1
+                },
+                {
+                    "id": "268537",
+                    "name": "Chile: 2 STAR Llico Historico Vichuquen",
+                    "status": "results_published",
+                    "date": "2025-01-17T13:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "321870",
+                    "name": "GERMANY: 5 STAR Sylt World Cup",
+                    "status": "scheduled",
+                    "date": "2025-09-26T06:00:00Z",
+                    "daysWindow": 10,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "296885",
+                    "name": "Test",
+                    "status": "finished",
+                    "date": "2022-01-01T18:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 1
+                },
+                {
+                    "id": "321863",
+                    "name": "Japan: 4 STAR Omaezaki Japan World Cup",
+                    "status": "results_published",
+                    "date": "2025-02-17T23:00:00Z",
+                    "daysWindow": 7,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45070",
+                            "name": "2025 Asia Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 49
+                },
+                {
+                    "id": "277082",
+                    "name": "Israel: 3 STAR Storm Rider Haifa",
+                    "status": "finished",
+                    "date": "2025-01-16T21:00:00Z",
+                    "daysWindow": 75,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "187554",
+                    "name": "Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024",
+                    "status": "results_published",
+                    "date": "2024-02-02T21:00:00Z",
+                    "daysWindow": 1,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        },
+                        {
+                            "id": "28108",
+                            "name": "2024 Oceania: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "266588",
+                    "name": "Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp",
+                    "status": "results_published",
+                    "date": "2025-01-14T13:00:00Z",
+                    "daysWindow": 6,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "45069",
+                            "name": "2025 Oceania Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "321865",
+                    "name": "CHILE: 5 STAR Surazo Infernal World Cup",
+                    "status": "on",
+                    "date": "2025-03-24T11:00:00Z",
+                    "daysWindow": 14,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 84
+                }
+            ]
+        }
+    }
+}
