@@ -1,0 +1,2562 @@
+﻿event_id,eventDivisionId,sex,round_name,round_order,heat_id,heat_order,total_winners_progressing,winners_progressing_to_round_order,total_losers_progressing,losers_progressing_to_round_order,source
+357,857,Men,Round 1,0,1657_28a,28,2,,,,PWA
+357,857,Men,Round 1,0,1657_29a,29,2,,,,PWA
+357,857,Men,Round 1,0,1657_30a,30,2,,,,PWA
+357,857,Men,Round 1,0,1657_31a,31,2,,,,PWA
+357,857,Men,Round 1,0,1657_32a,32,2,,,,PWA
+357,857,Men,Round 1,0,1657_33a,33,2,,,,PWA
+357,857,Men,Round 1,0,1657_34a,34,2,,,,PWA
+357,857,Men,Round 1,0,1657_35a,35,2,,,,PWA
+357,857,Men,Round 2,1,1657_36a,36,2,,,,PWA
+357,857,Men,Round 2,1,1657_37a,37,2,,,,PWA
+357,857,Men,Round 2,1,1657_38a,38,2,,,,PWA
+357,857,Men,Round 2,1,1657_39a,39,2,,,,PWA
+357,857,Men,Round 3,2,1657_40a,40,2,,,,PWA
+357,857,Men,Round 3,2,1657_41a,41,2,,,,PWA
+357,857,Men,Round 3,2,1657_42a,42,2,,,,PWA
+357,857,Men,Round 3,2,1657_43a,43,2,,,,PWA
+357,857,Men,Round 4,3,1657_44a,44,2,,,,PWA
+357,857,Men,Round 4,3,1657_45a,45,2,,,,PWA
+357,857,Men,Round 5,4,1657_46a,46,2,,,,PWA
+357,876,Women,Round 1,0,1663_14a,14,2,,,,PWA
+357,876,Women,Round 1,0,1663_15a,15,2,,,,PWA
+357,876,Women,Round 1,0,1663_16a,16,2,,,,PWA
+357,876,Women,Round 1,0,1663_17a,17,2,,,,PWA
+357,876,Women,Round 2,1,1663_18a,18,2,,,,PWA
+357,876,Women,Round 2,1,1663_19a,19,2,,,,PWA
+357,876,Women,Round 3,2,1663_20a,20,2,,,,PWA
+357,855,Men,Round 1,0,1657_1a,1,2,,,,PWA
+357,855,Men,Round 1,0,1657_2a,2,2,,,,PWA
+357,855,Men,Round 1,0,1657_3a,3,2,,,,PWA
+357,855,Men,Round 1,0,1657_4a,4,2,,,,PWA
+357,855,Men,Round 1,0,1657_5a,5,2,,,,PWA
+357,855,Men,Round 1,0,1657_6a,6,2,,,,PWA
+357,855,Men,Round 1,0,1657_7a,7,2,,,,PWA
+357,855,Men,Round 1,0,1657_8a,8,2,,,,PWA
+357,855,Men,Round 2,1,1657_9a,9,2,,,,PWA
+357,855,Men,Round 2,1,1657_10a,10,2,,,,PWA
+357,855,Men,Round 2,1,1657_11a,11,2,,,,PWA
+357,855,Men,Round 2,1,1657_12a,12,2,,,,PWA
+357,855,Men,Round 2,1,1657_13a,13,2,,,,PWA
+357,855,Men,Round 2,1,1657_14a,14,2,,,,PWA
+357,855,Men,Round 2,1,1657_15a,15,2,,,,PWA
+357,855,Men,Round 2,1,1657_16a,16,2,,,,PWA
+357,855,Men,Round 3,2,1657_17a,17,2,,,,PWA
+357,855,Men,Round 3,2,1657_18a,18,2,,,,PWA
+357,855,Men,Round 3,2,1657_19a,19,2,,,,PWA
+357,855,Men,Round 3,2,1657_20a,20,2,,,,PWA
+357,855,Men,Round 4,3,1657_21a,21,2,,,,PWA
+357,855,Men,Round 4,3,1657_22a,22,2,,,,PWA
+357,855,Men,Round 5,4,1657_23a,23,2,,,,PWA
+357,855,Men,Round 6,5,1657_24a,24,2,,,,PWA
+357,855,Men,Round 6,5,1657_25a,25,2,,,,PWA
+357,855,Men,Round 7,6,1657_26a,26,2,,,,PWA
+357,855,Men,Round 7,6,1657_27a,27,2,,,,PWA
+357,856,Women,Round 1,0,1663_1a,1,2,,,,PWA
+357,856,Women,Round 1,0,1663_2a,2,2,,,,PWA
+357,856,Women,Round 2,1,1663_3a,3,2,,,,PWA
+357,856,Women,Round 2,1,1663_4a,4,2,,,,PWA
+357,856,Women,Round 2,1,1663_5a,5,2,,,,PWA
+357,856,Women,Round 2,1,1663_6a,6,2,,,,PWA
+357,856,Women,Round 3,2,1663_7a,7,2,,,,PWA
+357,856,Women,Round 3,2,1663_8a,8,2,,,,PWA
+357,856,Women,Round 4,3,1663_9a,9,2,,,,PWA
+357,856,Women,Round 5,4,1663_10a,10,2,,,,PWA
+357,856,Women,Round 5,4,1663_11a,11,2,,,,PWA
+357,856,Women,Round 6,5,1663_12a,12,2,,,,PWA
+357,856,Women,Round 6,5,1663_13a,13,2,,,,PWA
+358,926,Men,Round 1,0,1754_24a,24,2,,,,PWA
+358,926,Men,Round 1,0,1754_25a,25,2,,,,PWA
+358,926,Men,Round 1,0,1754_26a,26,2,,,,PWA
+358,926,Men,Round 1,0,1754_27a,27,2,,,,PWA
+358,926,Men,Round 1,0,1754_28a,28,2,,,,PWA
+358,926,Men,Round 1,0,1754_29a,29,2,,,,PWA
+358,926,Men,Round 1,0,1754_30a,30,2,,,,PWA
+358,926,Men,Round 1,0,1754_31a,31,2,,,,PWA
+358,926,Men,Round 2,1,1754_32a,32,2,,,,PWA
+358,926,Men,Round 2,1,1754_33a,33,2,,,,PWA
+358,926,Men,Round 2,1,1754_34a,34,2,,,,PWA
+358,926,Men,Round 2,1,1754_35a,35,2,,,,PWA
+358,926,Men,Round 3,2,1754_36a,36,2,,,,PWA
+358,926,Men,Round 3,2,1754_37a,37,2,,,,PWA
+358,926,Men,Round 3,2,1754_38a,38,2,,,,PWA
+358,926,Men,Round 3,2,1754_39a,39,2,,,,PWA
+358,926,Men,Round 4,3,1754_40a,40,2,,,,PWA
+358,926,Men,Round 4,3,1754_41a,41,2,,,,PWA
+358,926,Men,Round 5,4,1754_42a,42,2,,,,PWA
+358,926,Men,Round 5,4,1754_43a,43,2,,,,PWA
+358,926,Men,Round 6,5,1754_44a,44,2,,,,PWA
+358,926,Men,Round 7,6,1754_45a,45,2,,,,PWA
+358,926,Men,Round 7,6,1754_46a,46,2,,,,PWA
+358,926,Men,Round 7,6,1754_47a,47,2,,,,PWA
+358,926,Men,Round 7,6,1754_48a,48,2,,,,PWA
+358,926,Men,Round 7,6,1754_49a,49,2,,,,PWA
+358,926,Men,Round 7,6,1754_50a,50,2,,,,PWA
+358,927,Women,Round 1,0,1758_24a,24,2,,,,PWA
+358,927,Women,Round 1,0,1758_25a,25,2,,,,PWA
+358,927,Women,Round 1,0,1758_26a,26,2,,,,PWA
+358,927,Women,Round 1,0,1758_27a,27,2,,,,PWA
+358,927,Women,Round 1,0,1758_28a,28,2,,,,PWA
+358,927,Women,Round 1,0,1758_29a,29,2,,,,PWA
+358,927,Women,Round 1,0,1758_30a,30,2,,,,PWA
+358,927,Women,Round 1,0,1758_31a,31,2,,,,PWA
+358,927,Women,Round 2,1,1758_32a,32,2,,,,PWA
+358,927,Women,Round 2,1,1758_33a,33,2,,,,PWA
+358,927,Women,Round 2,1,1758_34a,34,2,,,,PWA
+358,927,Women,Round 2,1,1758_35a,35,2,,,,PWA
+358,927,Women,Round 3,2,1758_36a,36,2,,,,PWA
+358,927,Women,Round 3,2,1758_37a,37,2,,,,PWA
+358,927,Women,Round 3,2,1758_38a,38,2,,,,PWA
+358,927,Women,Round 3,2,1758_39a,39,2,,,,PWA
+358,927,Women,Round 4,3,1758_40a,40,2,,,,PWA
+358,927,Women,Round 4,3,1758_41a,41,2,,,,PWA
+358,927,Women,Round 5,4,1758_42a,42,2,,,,PWA
+358,927,Women,Round 5,4,1758_43a,43,2,,,,PWA
+358,927,Women,Round 6,5,1758_44a,44,2,,,,PWA
+358,927,Women,Round 7,6,1758_45a,45,2,,,,PWA
+358,927,Women,Round 7,6,1758_46a,46,2,,,,PWA
+358,927,Women,Round 7,6,1758_47a,47,2,,,,PWA
+358,927,Women,Round 7,6,1758_48a,48,2,,,,PWA
+358,927,Women,Round 7,6,1758_49a,49,2,,,,PWA
+358,927,Women,Round 7,6,1758_50a,50,2,,,,PWA
+358,924,Men,Round 1,0,1754_1a,1,2,,,,PWA
+358,924,Men,Round 1,0,1754_2a,2,2,,,,PWA
+358,924,Men,Round 1,0,1754_3a,3,2,,,,PWA
+358,924,Men,Round 1,0,1754_4a,4,2,,,,PWA
+358,924,Men,Round 1,0,1754_5a,5,2,,,,PWA
+358,924,Men,Round 1,0,1754_6a,6,2,,,,PWA
+358,924,Men,Round 1,0,1754_7a,7,2,,,,PWA
+358,924,Men,Round 1,0,1754_8a,8,2,,,,PWA
+358,924,Men,Round 2,1,1754_9a,9,2,,,,PWA
+358,924,Men,Round 2,1,1754_10a,10,2,,,,PWA
+358,924,Men,Round 2,1,1754_11a,11,2,,,,PWA
+358,924,Men,Round 2,1,1754_12a,12,2,,,,PWA
+358,924,Men,Round 2,1,1754_13a,13,2,,,,PWA
+358,924,Men,Round 2,1,1754_14a,14,2,,,,PWA
+358,924,Men,Round 2,1,1754_15a,15,2,,,,PWA
+358,924,Men,Round 2,1,1754_16a,16,2,,,,PWA
+358,924,Men,Round 3,2,1754_17a,17,2,,,,PWA
+358,924,Men,Round 3,2,1754_18a,18,2,,,,PWA
+358,924,Men,Round 3,2,1754_19a,19,2,,,,PWA
+358,924,Men,Round 3,2,1754_20a,20,2,,,,PWA
+358,924,Men,Round 4,3,1754_21a,21,2,,,,PWA
+358,924,Men,Round 4,3,1754_22a,22,2,,,,PWA
+358,924,Men,Round 5,4,1754_23a,23,2,,,,PWA
+358,925,Women,Round 1,0,1758_1a,1,2,,,,PWA
+358,925,Women,Round 1,0,1758_2a,2,2,,,,PWA
+358,925,Women,Round 1,0,1758_3a,3,2,,,,PWA
+358,925,Women,Round 1,0,1758_4a,4,2,,,,PWA
+358,925,Women,Round 1,0,1758_5a,5,2,,,,PWA
+358,925,Women,Round 1,0,1758_6a,6,2,,,,PWA
+358,925,Women,Round 1,0,1758_7a,7,2,,,,PWA
+358,925,Women,Round 1,0,1758_8a,8,2,,,,PWA
+358,925,Women,Round 2,1,1758_9a,9,2,,,,PWA
+358,925,Women,Round 2,1,1758_10a,10,2,,,,PWA
+358,925,Women,Round 2,1,1758_11a,11,2,,,,PWA
+358,925,Women,Round 2,1,1758_12a,12,2,,,,PWA
+358,925,Women,Round 2,1,1758_13a,13,2,,,,PWA
+358,925,Women,Round 2,1,1758_14a,14,2,,,,PWA
+358,925,Women,Round 2,1,1758_15a,15,2,,,,PWA
+358,925,Women,Round 2,1,1758_16a,16,2,,,,PWA
+358,925,Women,Round 3,2,1758_17a,17,2,,,,PWA
+358,925,Women,Round 3,2,1758_18a,18,2,,,,PWA
+358,925,Women,Round 3,2,1758_19a,19,2,,,,PWA
+358,925,Women,Round 3,2,1758_20a,20,2,,,,PWA
+358,925,Women,Round 4,3,1758_21a,21,2,,,,PWA
+358,925,Women,Round 4,3,1758_22a,22,2,,,,PWA
+358,925,Women,Round 5,4,1758_23a,23,2,,,,PWA
+363,929,Men,Round 1,0,1761_1a,1 a,1,,,,PWA
+363,929,Men,Round 1,0,1761_1b,1 b,1,,,,PWA
+363,929,Men,Round 1,0,1761_2a,2 a,1,,,,PWA
+363,929,Men,Round 1,0,1761_2b,2 b,1,,,,PWA
+363,929,Men,Round 1,0,1761_3a,3 a,1,,,,PWA
+363,929,Men,Round 1,0,1761_3b,3 b,1,,,,PWA
+363,929,Men,Round 1,0,1761_4a,4 a,1,,,,PWA
+363,929,Men,Round 1,0,1761_4b,4 b,1,,,,PWA
+363,929,Men,Round 1,0,1761_5a,5 a,1,,,,PWA
+363,929,Men,Round 1,0,1761_5b,5 b,1,,,,PWA
+363,929,Men,Round 1,0,1761_6a,6 a,1,,,,PWA
+363,929,Men,Round 1,0,1761_6b,6 b,1,,,,PWA
+363,929,Men,Round 1,0,1761_7a,7 a,1,,,,PWA
+363,929,Men,Round 1,0,1761_7b,7 b,1,,,,PWA
+363,929,Men,Round 1,0,1761_8a,8 a,1,,,,PWA
+363,929,Men,Round 1,0,1761_8b,8 b,1,,,,PWA
+363,929,Men,Round 2,1,1761_9a,9 a,1,,,,PWA
+363,929,Men,Round 2,1,1761_9b,9 b,1,,,,PWA
+363,929,Men,Round 2,1,1761_10a,10 a,1,,,,PWA
+363,929,Men,Round 2,1,1761_10b,10 b,1,,,,PWA
+363,929,Men,Round 2,1,1761_11a,11 a,1,,,,PWA
+363,929,Men,Round 2,1,1761_11b,11 b,1,,,,PWA
+363,929,Men,Round 2,1,1761_12a,12 a,1,,,,PWA
+363,929,Men,Round 2,1,1761_12b,12 b,1,,,,PWA
+363,929,Men,Round 3,2,1761_13a,13 a,1,,,,PWA
+363,929,Men,Round 3,2,1761_13b,13 b,1,,,,PWA
+363,929,Men,Round 3,2,1761_14a,14 a,1,,,,PWA
+363,929,Men,Round 3,2,1761_14b,14 b,1,,,,PWA
+363,929,Men,Round 4,3,1761_15a,15 a,1,,,,PWA
+363,929,Men,Round 4,3,1761_15b,15 b,1,,,,PWA
+363,929,Men,Round 5,4,1761_16a,16,1,,,,PWA
+363,929,Men,Round 5,4,1761_17a,17,1,,,,PWA
+363,928,Women,Round 1,0,1764_1a,1 a,1,,,,PWA
+363,928,Women,Round 1,0,1764_1b,1 b,1,,,,PWA
+363,928,Women,Round 1,0,1764_2a,2 a,1,,,,PWA
+363,928,Women,Round 1,0,1764_2b,2 b,1,,,,PWA
+363,928,Women,Round 1,0,1764_3a,3 a,1,,,,PWA
+363,928,Women,Round 1,0,1764_3b,3 b,1,,,,PWA
+363,928,Women,Round 1,0,1764_4a,4 a,1,,,,PWA
+363,928,Women,Round 1,0,1764_4b,4 b,1,,,,PWA
+363,928,Women,Round 2,1,1764_5a,5 a,1,,,,PWA
+363,928,Women,Round 2,1,1764_5b,5 b,1,,,,PWA
+363,928,Women,Round 2,1,1764_6a,6 a,1,,,,PWA
+363,928,Women,Round 2,1,1764_6b,6 b,1,,,,PWA
+363,928,Women,Round 3,2,1764_7a,7 a,1,,,,PWA
+363,928,Women,Round 3,2,1764_7b,7 b,1,,,,PWA
+363,928,Women,Round 4,3,1764_8a,8,1,,,,PWA
+363,928,Women,Round 4,3,1764_9a,9,1,,,,PWA
+363,931,Men,Round 1,0,1761_18a,18 a,1,,,,PWA
+363,931,Men,Round 1,0,1761_18b,18 b,1,,,,PWA
+363,931,Men,Round 1,0,1761_19a,19 a,1,,,,PWA
+363,931,Men,Round 1,0,1761_19b,19 b,1,,,,PWA
+363,931,Men,Round 1,0,1761_20a,20 a,1,,,,PWA
+363,931,Men,Round 1,0,1761_20b,20 b,1,,,,PWA
+363,931,Men,Round 1,0,1761_21a,21 a,1,,,,PWA
+363,931,Men,Round 1,0,1761_21b,21 b,1,,,,PWA
+363,931,Men,Round 2,1,1761_22a,22 a,1,,,,PWA
+363,931,Men,Round 2,1,1761_22b,22 b,1,,,,PWA
+363,931,Men,Round 2,1,1761_23a,23 a,1,,,,PWA
+363,931,Men,Round 2,1,1761_23b,23 b,1,,,,PWA
+363,931,Men,Round 2,1,1761_24a,24 a,1,,,,PWA
+363,931,Men,Round 2,1,1761_24b,24 b,1,,,,PWA
+363,931,Men,Round 2,1,1761_25a,25 a,1,,,,PWA
+363,931,Men,Round 2,1,1761_25b,25 b,1,,,,PWA
+363,931,Men,Round 3,2,1761_26a,26 a,1,,,,PWA
+363,931,Men,Round 3,2,1761_26b,26 b,1,,,,PWA
+363,931,Men,Round 3,2,1761_27a,27 a,1,,,,PWA
+363,931,Men,Round 3,2,1761_27b,27 b,1,,,,PWA
+363,931,Men,Round 4,3,1761_28a,28 a,1,,,,PWA
+363,931,Men,Round 4,3,1761_28b,28 b,1,,,,PWA
+363,931,Men,Round 4,3,1761_29a,29 a,1,,,,PWA
+363,931,Men,Round 4,3,1761_29b,29 b,1,,,,PWA
+363,931,Men,Round 5,4,1761_30a,30 a,1,,,,PWA
+363,931,Men,Round 5,4,1761_30b,30 b,1,,,,PWA
+363,931,Men,Round 6,5,1761_31a,31,1,,,,PWA
+363,931,Men,Round 6,5,1761_32a,32,1,,,,PWA
+363,931,Men,Round 6,5,1761_33a,33,1,,,,PWA
+363,931,Men,Round 6,5,1761_34a,34,1,,,,PWA
+363,931,Men,Round 6,5,1761_35a,35,1,,,,PWA
+363,931,Men,Round 6,5,1761_36a,36,1,,,,PWA
+338,762,Women,Round 1,0,1554_18a,18 a,1,,,,PWA
+338,762,Women,Round 1,0,1554_18b,18 b,1,,,,PWA
+338,762,Women,Round 1,0,1554_19a,19 a,1,,,,PWA
+338,762,Women,Round 1,0,1554_19b,19 b,1,,,,PWA
+338,762,Women,Round 1,0,1554_20a,20 a,1,,,,PWA
+338,762,Women,Round 1,0,1554_20b,20 b,1,,,,PWA
+338,762,Women,Round 1,0,1554_21a,21 a,1,,,,PWA
+338,762,Women,Round 1,0,1554_21b,21 b,1,,,,PWA
+338,762,Women,Round 2,1,1554_22a,22 a,1,,,,PWA
+338,762,Women,Round 2,1,1554_22b,22 b,1,,,,PWA
+338,762,Women,Round 2,1,1554_23a,23 a,1,,,,PWA
+338,762,Women,Round 2,1,1554_23b,23 b,1,,,,PWA
+338,762,Women,Round 2,1,1554_24a,24 a,1,,,,PWA
+338,762,Women,Round 2,1,1554_24b,24 b,1,,,,PWA
+338,762,Women,Round 2,1,1554_25a,25 a,1,,,,PWA
+338,762,Women,Round 2,1,1554_25b,25 b,1,,,,PWA
+338,762,Women,Round 3,2,1554_26a,26 a,1,,,,PWA
+338,762,Women,Round 3,2,1554_26b,26 b,1,,,,PWA
+338,762,Women,Round 3,2,1554_27a,27 a,1,,,,PWA
+338,762,Women,Round 3,2,1554_27b,27 b,1,,,,PWA
+338,762,Women,Round 4,3,1554_28a,28 a,1,,,,PWA
+338,762,Women,Round 4,3,1554_28b,28 b,1,,,,PWA
+338,762,Women,Round 4,3,1554_29a,29 a,1,,,,PWA
+338,762,Women,Round 4,3,1554_29b,29 b,1,,,,PWA
+338,762,Women,Round 5,4,1554_30a,30 a,1,,,,PWA
+338,762,Women,Round 5,4,1554_30b,30 b,1,,,,PWA
+338,762,Women,Round 6,5,1554_31a,31,1,,,,PWA
+338,762,Women,Round 6,5,1554_32a,32,1,,,,PWA
+338,762,Women,Round 6,5,1554_33a,33,1,,,,PWA
+338,762,Women,Round 6,5,1554_34a,34,1,,,,PWA
+338,762,Women,Round 6,5,1554_35a,35,1,,,,PWA
+338,762,Women,Round 6,5,1554_36a,36,1,,,,PWA
+338,758,Women,Round 1,0,1554_1a,1 a,1,,,,PWA
+338,758,Women,Round 1,0,1554_1b,1 b,1,,,,PWA
+338,758,Women,Round 1,0,1554_2a,2 a,1,,,,PWA
+338,758,Women,Round 1,0,1554_2b,2 b,1,,,,PWA
+338,758,Women,Round 1,0,1554_3a,3 a,1,,,,PWA
+338,758,Women,Round 1,0,1554_3b,3 b,1,,,,PWA
+338,758,Women,Round 1,0,1554_4a,4 a,1,,,,PWA
+338,758,Women,Round 1,0,1554_4b,4 b,1,,,,PWA
+338,758,Women,Round 1,0,1554_5a,5 a,1,,,,PWA
+338,758,Women,Round 1,0,1554_5b,5 b,1,,,,PWA
+338,758,Women,Round 1,0,1554_6a,6 a,1,,,,PWA
+338,758,Women,Round 1,0,1554_6b,6 b,1,,,,PWA
+338,758,Women,Round 1,0,1554_7a,7 a,1,,,,PWA
+338,758,Women,Round 1,0,1554_7b,7 b,1,,,,PWA
+338,758,Women,Round 1,0,1554_8a,8 a,1,,,,PWA
+338,758,Women,Round 1,0,1554_8b,8 b,1,,,,PWA
+338,758,Women,Round 2,1,1554_9a,9 a,1,,,,PWA
+338,758,Women,Round 2,1,1554_9b,9 b,1,,,,PWA
+338,758,Women,Round 2,1,1554_10a,10 a,1,,,,PWA
+338,758,Women,Round 2,1,1554_10b,10 b,1,,,,PWA
+338,758,Women,Round 2,1,1554_11a,11 a,1,,,,PWA
+338,758,Women,Round 2,1,1554_11b,11 b,1,,,,PWA
+338,758,Women,Round 2,1,1554_12a,12 a,1,,,,PWA
+338,758,Women,Round 2,1,1554_12b,12 b,1,,,,PWA
+338,758,Women,Round 3,2,1554_13a,13 a,1,,,,PWA
+338,758,Women,Round 3,2,1554_13b,13 b,1,,,,PWA
+338,758,Women,Round 3,2,1554_14a,14 a,1,,,,PWA
+338,758,Women,Round 3,2,1554_14b,14 b,1,,,,PWA
+338,758,Women,Round 4,3,1554_15a,15 a,1,,,,PWA
+338,758,Women,Round 4,3,1554_15b,15 b,1,,,,PWA
+338,758,Women,Round 5,4,1554_16a,16,1,,,,PWA
+338,758,Women,Round 5,4,1554_17a,17,1,,,,PWA
+338,759,Men,Round 1,0,1551_26a,26 a,1,,,,PWA
+338,759,Men,Round 1,0,1551_26b,26 b,1,,,,PWA
+338,759,Men,Round 1,0,1551_27a,27 a,1,,,,PWA
+338,759,Men,Round 1,0,1551_27b,27 b,1,,,,PWA
+338,759,Men,Round 1,0,1551_28a,28 a,1,,,,PWA
+338,759,Men,Round 1,0,1551_28b,28 b,1,,,,PWA
+338,759,Men,Round 1,0,1551_29a,29 a,1,,,,PWA
+338,759,Men,Round 1,0,1551_29b,29 b,1,,,,PWA
+338,759,Men,Round 1,0,1551_30a,30 a,1,,,,PWA
+338,759,Men,Round 1,0,1551_30b,30 b,1,,,,PWA
+338,759,Men,Round 1,0,1551_31a,31 a,1,,,,PWA
+338,759,Men,Round 1,0,1551_31b,31 b,1,,,,PWA
+338,759,Men,Round 1,0,1551_32a,32 a,1,,,,PWA
+338,759,Men,Round 1,0,1551_32b,32 b,1,,,,PWA
+338,759,Men,Round 1,0,1551_33a,33 a,1,,,,PWA
+338,759,Men,Round 1,0,1551_33b,33 b,1,,,,PWA
+338,759,Men,Round 2,1,1551_34a,34 a,1,,,,PWA
+338,759,Men,Round 2,1,1551_34b,34 b,1,,,,PWA
+338,759,Men,Round 2,1,1551_35a,35 a,1,,,,PWA
+338,759,Men,Round 2,1,1551_35b,35 b,1,,,,PWA
+338,759,Men,Round 2,1,1551_36a,36 a,1,,,,PWA
+338,759,Men,Round 2,1,1551_36b,36 b,1,,,,PWA
+338,759,Men,Round 2,1,1551_37a,37 a,1,,,,PWA
+338,759,Men,Round 2,1,1551_37b,37 b,1,,,,PWA
+338,759,Men,Round 3,2,1551_38a,38 a,1,,,,PWA
+338,759,Men,Round 3,2,1551_38b,38 b,1,,,,PWA
+338,759,Men,Round 3,2,1551_39a,39 a,1,,,,PWA
+338,759,Men,Round 3,2,1551_39b,39 b,1,,,,PWA
+338,759,Men,Round 3,2,1551_40a,40 a,1,,,,PWA
+338,759,Men,Round 3,2,1551_40b,40 b,1,,,,PWA
+338,759,Men,Round 3,2,1551_41a,41 a,1,,,,PWA
+338,759,Men,Round 3,2,1551_41b,41 b,1,,,,PWA
+338,759,Men,Round 4,3,1551_42a,42 a,1,,,,PWA
+338,759,Men,Round 4,3,1551_42b,42 b,1,,,,PWA
+338,759,Men,Round 4,3,1551_43a,43 a,1,,,,PWA
+338,759,Men,Round 4,3,1551_43b,43 b,1,,,,PWA
+338,759,Men,Round 5,4,1551_44a,44 a,1,,,,PWA
+338,759,Men,Round 5,4,1551_44b,44 b,1,,,,PWA
+338,759,Men,Round 5,4,1551_45a,45 a,1,,,,PWA
+338,759,Men,Round 5,4,1551_45b,45 b,1,,,,PWA
+338,759,Men,Round 6,5,1551_46a,46 a,1,,,,PWA
+338,759,Men,Round 6,5,1551_46b,46 b,1,,,,PWA
+338,759,Men,Round 7,6,1551_47a,47,1,,,,PWA
+338,759,Men,Round 7,6,1551_48a,48,1,,,,PWA
+338,759,Men,Round 7,6,1551_49a,49,1,,,,PWA
+338,759,Men,Round 7,6,1551_50a,50,1,,,,PWA
+338,759,Men,Round 7,6,1551_51a,51,1,,,,PWA
+338,759,Men,Round 7,6,1551_52a,52,1,,,,PWA
+338,755,Men,Round 1,0,1551_1a,1 a,1,,,,PWA
+338,755,Men,Round 1,0,1551_1b,1 b,1,,,,PWA
+338,755,Men,Round 1,0,1551_2a,2 a,1,,,,PWA
+338,755,Men,Round 1,0,1551_2b,2 b,1,,,,PWA
+338,755,Men,Round 1,0,1551_3a,3 a,1,,,,PWA
+338,755,Men,Round 1,0,1551_3b,3 b,1,,,,PWA
+338,755,Men,Round 1,0,1551_4a,4 a,1,,,,PWA
+338,755,Men,Round 1,0,1551_4b,4 b,1,,,,PWA
+338,755,Men,Round 1,0,1551_5a,5 a,1,,,,PWA
+338,755,Men,Round 1,0,1551_5b,5 b,1,,,,PWA
+338,755,Men,Round 1,0,1551_6a,6 a,1,,,,PWA
+338,755,Men,Round 1,0,1551_6b,6 b,1,,,,PWA
+338,755,Men,Round 1,0,1551_7a,7 a,1,,,,PWA
+338,755,Men,Round 1,0,1551_7b,7 b,1,,,,PWA
+338,755,Men,Round 1,0,1551_8a,8 a,1,,,,PWA
+338,755,Men,Round 1,0,1551_8b,8 b,1,,,,PWA
+338,755,Men,Round 2,1,1551_9a,9 a,1,,,,PWA
+338,755,Men,Round 2,1,1551_9b,9 b,1,,,,PWA
+338,755,Men,Round 2,1,1551_10a,10 a,1,,,,PWA
+338,755,Men,Round 2,1,1551_10b,10 b,1,,,,PWA
+338,755,Men,Round 2,1,1551_11a,11 a,1,,,,PWA
+338,755,Men,Round 2,1,1551_11b,11 b,1,,,,PWA
+338,755,Men,Round 2,1,1551_12a,12 a,1,,,,PWA
+338,755,Men,Round 2,1,1551_12b,12 b,1,,,,PWA
+338,755,Men,Round 2,1,1551_13a,13 a,1,,,,PWA
+338,755,Men,Round 2,1,1551_13b,13 b,1,,,,PWA
+338,755,Men,Round 2,1,1551_14a,14 a,1,,,,PWA
+338,755,Men,Round 2,1,1551_14b,14 b,1,,,,PWA
+338,755,Men,Round 2,1,1551_15a,15 a,1,,,,PWA
+338,755,Men,Round 2,1,1551_15b,15 b,1,,,,PWA
+338,755,Men,Round 2,1,1551_16a,16 a,1,,,,PWA
+338,755,Men,Round 2,1,1551_16b,16 b,1,,,,PWA
+338,755,Men,Round 3,2,1551_17a,17 a,1,,,,PWA
+338,755,Men,Round 3,2,1551_17b,17 b,1,,,,PWA
+338,755,Men,Round 3,2,1551_18a,18 a,1,,,,PWA
+338,755,Men,Round 3,2,1551_18b,18 b,1,,,,PWA
+338,755,Men,Round 3,2,1551_19a,19 a,1,,,,PWA
+338,755,Men,Round 3,2,1551_19b,19 b,1,,,,PWA
+338,755,Men,Round 3,2,1551_20a,20 a,1,,,,PWA
+338,755,Men,Round 3,2,1551_20b,20 b,1,,,,PWA
+338,755,Men,Round 4,3,1551_21a,21 a,1,,,,PWA
+338,755,Men,Round 4,3,1551_21b,21 b,1,,,,PWA
+338,755,Men,Round 4,3,1551_22a,22 a,1,,,,PWA
+338,755,Men,Round 4,3,1551_22b,22 b,1,,,,PWA
+338,755,Men,Round 5,4,1551_23a,23 a,1,,,,PWA
+338,755,Men,Round 5,4,1551_23b,23 b,1,,,,PWA
+338,755,Men,Round 6,5,1551_24a,24,1,,,,PWA
+338,755,Men,Round 6,5,1551_25a,25,1,,,,PWA
+342,826,Men,Round 1,0,1636_1a,1 a,1,,,,PWA
+342,826,Men,Round 1,0,1636_1b,1 b,1,,,,PWA
+342,826,Men,Round 1,0,1636_2a,2 a,1,,,,PWA
+342,826,Men,Round 1,0,1636_2b,2 b,1,,,,PWA
+342,826,Men,Round 1,0,1636_3a,3 a,1,,,,PWA
+342,826,Men,Round 1,0,1636_3b,3 b,1,,,,PWA
+342,826,Men,Round 1,0,1636_4a,4 a,1,,,,PWA
+342,826,Men,Round 1,0,1636_4b,4 b,1,,,,PWA
+342,826,Men,Round 1,0,1636_5a,5 a,1,,,,PWA
+342,826,Men,Round 1,0,1636_5b,5 b,1,,,,PWA
+342,826,Men,Round 1,0,1636_6a,6 a,1,,,,PWA
+342,826,Men,Round 1,0,1636_6b,6 b,1,,,,PWA
+342,826,Men,Round 1,0,1636_7a,7 a,1,,,,PWA
+342,826,Men,Round 1,0,1636_7b,7 b,1,,,,PWA
+342,826,Men,Round 1,0,1636_8a,8 a,1,,,,PWA
+342,826,Men,Round 1,0,1636_8b,8 b,1,,,,PWA
+342,826,Men,Round 2,1,1636_9a,9 a,1,,,,PWA
+342,826,Men,Round 2,1,1636_9b,9 b,1,,,,PWA
+342,826,Men,Round 2,1,1636_10a,10 a,1,,,,PWA
+342,826,Men,Round 2,1,1636_10b,10 b,1,,,,PWA
+342,826,Men,Round 2,1,1636_11a,11 a,1,,,,PWA
+342,826,Men,Round 2,1,1636_11b,11 b,1,,,,PWA
+342,826,Men,Round 2,1,1636_12a,12 a,1,,,,PWA
+342,826,Men,Round 2,1,1636_12b,12 b,1,,,,PWA
+342,826,Men,Round 3,2,1636_13a,13 a,1,,,,PWA
+342,826,Men,Round 3,2,1636_13b,13 b,1,,,,PWA
+342,826,Men,Round 3,2,1636_14a,14 a,1,,,,PWA
+342,826,Men,Round 3,2,1636_14b,14 b,1,,,,PWA
+342,826,Men,Round 4,3,1636_15a,15 a,1,,,,PWA
+342,826,Men,Round 4,3,1636_15b,15 b,1,,,,PWA
+342,826,Men,Round 5,4,1636_16a,16,1,,,,PWA
+342,826,Men,Round 5,4,1636_17a,17,1,,,,PWA
+342,835,Women,Round 1,0,1628_10a,10 a,1,,,,PWA
+342,835,Women,Round 1,0,1628_10b,10 b,1,,,,PWA
+342,835,Women,Round 1,0,1628_11a,11 a,1,,,,PWA
+342,835,Women,Round 1,0,1628_11b,11 b,1,,,,PWA
+342,835,Women,Round 2,1,1628_12a,12 a,1,,,,PWA
+342,835,Women,Round 2,1,1628_12b,12 b,1,,,,PWA
+342,835,Women,Round 2,1,1628_13a,13 a,1,,,,PWA
+342,835,Women,Round 2,1,1628_13b,13 b,1,,,,PWA
+342,835,Women,Round 3,2,1628_14a,14 a,1,,,,PWA
+342,835,Women,Round 3,2,1628_14b,14 b,1,,,,PWA
+342,835,Women,Round 4,3,1628_15a,15,1,,,,PWA
+342,835,Women,Round 4,3,1628_16a,16,1,,,,PWA
+342,835,Women,Round 4,3,1628_17a,17,1,,,,PWA
+342,835,Women,Round 4,3,1628_18a,18,1,,,,PWA
+342,835,Women,Round 4,3,1628_19a,19,1,,,,PWA
+342,835,Women,Round 4,3,1628_20a,20,1,,,,PWA
+342,825,Women,Round 1,0,1628_1a,1 a,1,,,,PWA
+342,825,Women,Round 1,0,1628_1b,1 b,1,,,,PWA
+342,825,Women,Round 1,0,1628_2a,2 a,1,,,,PWA
+342,825,Women,Round 1,0,1628_2b,2 b,1,,,,PWA
+342,825,Women,Round 1,0,1628_3a,3 a,1,,,,PWA
+342,825,Women,Round 1,0,1628_3b,3 b,1,,,,PWA
+342,825,Women,Round 1,0,1628_4a,4 a,1,,,,PWA
+342,825,Women,Round 1,0,1628_4b,4 b,1,,,,PWA
+342,825,Women,Round 2,1,1628_5a,5 a,1,,,,PWA
+342,825,Women,Round 2,1,1628_5b,5 b,1,,,,PWA
+342,825,Women,Round 2,1,1628_6a,6 a,1,,,,PWA
+342,825,Women,Round 2,1,1628_6b,6 b,1,,,,PWA
+342,825,Women,Round 3,2,1628_7a,7 a,1,,,,PWA
+342,825,Women,Round 3,2,1628_7b,7 b,1,,,,PWA
+342,825,Women,Round 4,3,1628_8a,8,1,,,,PWA
+342,825,Women,Round 4,3,1628_9a,9,1,,,,PWA
+324,707,Men,Round 1,0,1474_16a,16,2,,,,PWA
+324,707,Men,Round 1,0,1474_17a,17,2,,,,PWA
+324,707,Men,Round 1,0,1474_18a,18,2,,,,PWA
+324,707,Men,Round 1,0,1474_19a,19,2,,,,PWA
+324,707,Men,Round 2,1,1474_20a,20,2,,,,PWA
+324,707,Men,Round 2,1,1474_21a,21,2,,,,PWA
+324,707,Men,Round 2,1,1474_22a,22,2,,,,PWA
+324,707,Men,Round 2,1,1474_23a,23,2,,,,PWA
+324,707,Men,Round 3,2,1474_24a,24,2,,,,PWA
+324,707,Men,Round 3,2,1474_25a,25,2,,,,PWA
+324,707,Men,Round 4,3,1474_26a,26,2,,,,PWA
+324,707,Men,Round 4,3,1474_27a,27,2,,,,PWA
+324,707,Men,Round 5,4,1474_28a,28,2,,,,PWA
+324,707,Men,Round 6,5,1474_29a,29,2,,,,PWA
+324,707,Men,Round 6,5,1474_30a,30,2,,,,PWA
+324,707,Men,Round 6,5,1474_31a,31,2,,,,PWA
+324,707,Men,Round 6,5,1474_32a,32,2,,,,PWA
+324,707,Men,Round 6,5,1474_33a,33,2,,,,PWA
+324,707,Men,Round 6,5,1474_34a,34,2,,,,PWA
+324,706,Men,Round 1,0,1474_1a,1,2,,,,PWA
+324,706,Men,Round 1,0,1474_2a,2,2,,,,PWA
+324,706,Men,Round 1,0,1474_3a,3,2,,,,PWA
+324,706,Men,Round 1,0,1474_4a,4,2,,,,PWA
+324,706,Men,Round 1,0,1474_5a,5,2,,,,PWA
+324,706,Men,Round 1,0,1474_6a,6,2,,,,PWA
+324,706,Men,Round 1,0,1474_7a,7,2,,,,PWA
+324,706,Men,Round 1,0,1474_8a,8,2,,,,PWA
+324,706,Men,Round 2,1,1474_9a,9,2,,,,PWA
+324,706,Men,Round 2,1,1474_10a,10,2,,,,PWA
+324,706,Men,Round 2,1,1474_11a,11,2,,,,PWA
+324,706,Men,Round 2,1,1474_12a,12,2,,,,PWA
+324,706,Men,Round 3,2,1474_13a,13,2,,,,PWA
+324,706,Men,Round 3,2,1474_14a,14,2,,,,PWA
+324,706,Men,Round 4,3,1474_15a,15,2,,,,PWA
+328,710,Women,Round 1,0,1477_18a,18 a,1,,,,PWA
+328,710,Women,Round 1,0,1477_18b,18 b,1,,,,PWA
+328,710,Women,Round 1,0,1477_19a,19 a,1,,,,PWA
+328,710,Women,Round 1,0,1477_19b,19 b,1,,,,PWA
+328,710,Women,Round 1,0,1477_20a,20 a,1,,,,PWA
+328,710,Women,Round 1,0,1477_20b,20 b,1,,,,PWA
+328,710,Women,Round 1,0,1477_21a,21 a,1,,,,PWA
+328,710,Women,Round 1,0,1477_21b,21 b,1,,,,PWA
+328,710,Women,Round 2,1,1477_22a,22 a,1,,,,PWA
+328,710,Women,Round 2,1,1477_22b,22 b,1,,,,PWA
+328,710,Women,Round 2,1,1477_23a,23 a,1,,,,PWA
+328,710,Women,Round 2,1,1477_23b,23 b,1,,,,PWA
+328,710,Women,Round 2,1,1477_24a,24 a,1,,,,PWA
+328,710,Women,Round 2,1,1477_24b,24 b,1,,,,PWA
+328,710,Women,Round 2,1,1477_25a,25 a,1,,,,PWA
+328,710,Women,Round 2,1,1477_25b,25 b,1,,,,PWA
+328,710,Women,Round 3,2,1477_26a,26 a,1,,,,PWA
+328,710,Women,Round 3,2,1477_26b,26 b,1,,,,PWA
+328,710,Women,Round 3,2,1477_27a,27 a,1,,,,PWA
+328,710,Women,Round 3,2,1477_27b,27 b,1,,,,PWA
+328,710,Women,Round 4,3,1477_28a,28 a,1,,,,PWA
+328,710,Women,Round 4,3,1477_28b,28 b,1,,,,PWA
+328,710,Women,Round 4,3,1477_29a,29 a,1,,,,PWA
+328,710,Women,Round 4,3,1477_29b,29 b,1,,,,PWA
+328,710,Women,Round 5,4,1477_30a,30 a,1,,,,PWA
+328,710,Women,Round 5,4,1477_30b,30 b,1,,,,PWA
+328,710,Women,Round 6,5,1477_31a,31,1,,,,PWA
+328,710,Women,Round 6,5,1477_32a,32,1,,,,PWA
+328,710,Women,Round 6,5,1477_33a,33,1,,,,PWA
+328,710,Women,Round 6,5,1477_34a,34,1,,,,PWA
+328,710,Women,Round 6,5,1477_35a,35,1,,,,PWA
+328,710,Women,Round 6,5,1477_36a,36,1,,,,PWA
+328,711,Men,Round 1,0,1476_26a,26 a,1,,,,PWA
+328,711,Men,Round 1,0,1476_26b,26 b,1,,,,PWA
+328,711,Men,Round 1,0,1476_27a,27 a,1,,,,PWA
+328,711,Men,Round 1,0,1476_27b,27 b,1,,,,PWA
+328,711,Men,Round 1,0,1476_28a,28 a,1,,,,PWA
+328,711,Men,Round 1,0,1476_28b,28 b,1,,,,PWA
+328,711,Men,Round 1,0,1476_29a,29 a,1,,,,PWA
+328,711,Men,Round 1,0,1476_29b,29 b,1,,,,PWA
+328,711,Men,Round 1,0,1476_30a,30 a,1,,,,PWA
+328,711,Men,Round 1,0,1476_30b,30 b,1,,,,PWA
+328,711,Men,Round 1,0,1476_31a,31 a,1,,,,PWA
+328,711,Men,Round 1,0,1476_31b,31 b,1,,,,PWA
+328,711,Men,Round 1,0,1476_32a,32 a,1,,,,PWA
+328,711,Men,Round 1,0,1476_32b,32 b,1,,,,PWA
+328,711,Men,Round 1,0,1476_33a,33 a,1,,,,PWA
+328,711,Men,Round 1,0,1476_33b,33 b,1,,,,PWA
+328,711,Men,Round 2,1,1476_34a,34 a,1,,,,PWA
+328,711,Men,Round 2,1,1476_34b,34 b,1,,,,PWA
+328,711,Men,Round 2,1,1476_35a,35 a,1,,,,PWA
+328,711,Men,Round 2,1,1476_35b,35 b,1,,,,PWA
+328,711,Men,Round 2,1,1476_36a,36 a,1,,,,PWA
+328,711,Men,Round 2,1,1476_36b,36 b,1,,,,PWA
+328,711,Men,Round 2,1,1476_37a,37 a,1,,,,PWA
+328,711,Men,Round 2,1,1476_37b,37 b,1,,,,PWA
+328,711,Men,Round 3,2,1476_38a,38 a,1,,,,PWA
+328,711,Men,Round 3,2,1476_38b,38 b,1,,,,PWA
+328,711,Men,Round 3,2,1476_39a,39 a,1,,,,PWA
+328,711,Men,Round 3,2,1476_39b,39 b,1,,,,PWA
+328,711,Men,Round 3,2,1476_40a,40 a,1,,,,PWA
+328,711,Men,Round 3,2,1476_40b,40 b,1,,,,PWA
+328,711,Men,Round 3,2,1476_41a,41 a,1,,,,PWA
+328,711,Men,Round 3,2,1476_41b,41 b,1,,,,PWA
+328,711,Men,Round 4,3,1476_42a,42 a,1,,,,PWA
+328,711,Men,Round 4,3,1476_42b,42 b,1,,,,PWA
+328,711,Men,Round 4,3,1476_43a,43 a,1,,,,PWA
+328,711,Men,Round 4,3,1476_43b,43 b,1,,,,PWA
+328,711,Men,Round 5,4,1476_44a,44 a,1,,,,PWA
+328,711,Men,Round 5,4,1476_44b,44 b,1,,,,PWA
+328,711,Men,Round 5,4,1476_45a,45 a,1,,,,PWA
+328,711,Men,Round 5,4,1476_45b,45 b,1,,,,PWA
+328,711,Men,Round 6,5,1476_46a,46 a,1,,,,PWA
+328,711,Men,Round 6,5,1476_46b,46 b,1,,,,PWA
+328,711,Men,Round 7,6,1476_47a,47,1,,,,PWA
+328,711,Men,Round 7,6,1476_48a,48,1,,,,PWA
+328,711,Men,Round 7,6,1476_49a,49,1,,,,PWA
+328,711,Men,Round 7,6,1476_50a,50,1,,,,PWA
+328,711,Men,Round 7,6,1476_51a,51,1,,,,PWA
+328,711,Men,Round 7,6,1476_52a,52,1,,,,PWA
+328,708,Men,Round 1,0,1476_1a,1 a,1,,,,PWA
+328,708,Men,Round 1,0,1476_1b,1 b,1,,,,PWA
+328,708,Men,Round 1,0,1476_2a,2 a,1,,,,PWA
+328,708,Men,Round 1,0,1476_2b,2 b,1,,,,PWA
+328,708,Men,Round 1,0,1476_3a,3 a,1,,,,PWA
+328,708,Men,Round 1,0,1476_3b,3 b,1,,,,PWA
+328,708,Men,Round 1,0,1476_4a,4 a,1,,,,PWA
+328,708,Men,Round 1,0,1476_4b,4 b,1,,,,PWA
+328,708,Men,Round 1,0,1476_5a,5 a,1,,,,PWA
+328,708,Men,Round 1,0,1476_5b,5 b,1,,,,PWA
+328,708,Men,Round 1,0,1476_6a,6 a,1,,,,PWA
+328,708,Men,Round 1,0,1476_6b,6 b,1,,,,PWA
+328,708,Men,Round 1,0,1476_7a,7 a,1,,,,PWA
+328,708,Men,Round 1,0,1476_7b,7 b,1,,,,PWA
+328,708,Men,Round 1,0,1476_8a,8 a,1,,,,PWA
+328,708,Men,Round 1,0,1476_8b,8 b,1,,,,PWA
+328,708,Men,Round 2,1,1476_9a,9 a,1,,,,PWA
+328,708,Men,Round 2,1,1476_9b,9 b,1,,,,PWA
+328,708,Men,Round 2,1,1476_10a,10 a,1,,,,PWA
+328,708,Men,Round 2,1,1476_10b,10 b,1,,,,PWA
+328,708,Men,Round 2,1,1476_11a,11 a,1,,,,PWA
+328,708,Men,Round 2,1,1476_11b,11 b,1,,,,PWA
+328,708,Men,Round 2,1,1476_12a,12 a,1,,,,PWA
+328,708,Men,Round 2,1,1476_12b,12 b,1,,,,PWA
+328,708,Men,Round 2,1,1476_13a,13 a,1,,,,PWA
+328,708,Men,Round 2,1,1476_13b,13 b,1,,,,PWA
+328,708,Men,Round 2,1,1476_14a,14 a,1,,,,PWA
+328,708,Men,Round 2,1,1476_14b,14 b,1,,,,PWA
+328,708,Men,Round 2,1,1476_15a,15 a,1,,,,PWA
+328,708,Men,Round 2,1,1476_15b,15 b,1,,,,PWA
+328,708,Men,Round 2,1,1476_16a,16 a,1,,,,PWA
+328,708,Men,Round 2,1,1476_16b,16 b,1,,,,PWA
+328,708,Men,Round 3,2,1476_17a,17 a,1,,,,PWA
+328,708,Men,Round 3,2,1476_17b,17 b,1,,,,PWA
+328,708,Men,Round 3,2,1476_18a,18 a,1,,,,PWA
+328,708,Men,Round 3,2,1476_18b,18 b,1,,,,PWA
+328,708,Men,Round 3,2,1476_19a,19 a,1,,,,PWA
+328,708,Men,Round 3,2,1476_19b,19 b,1,,,,PWA
+328,708,Men,Round 3,2,1476_20a,20 a,1,,,,PWA
+328,708,Men,Round 3,2,1476_20b,20 b,1,,,,PWA
+328,708,Men,Round 4,3,1476_21a,21 a,1,,,,PWA
+328,708,Men,Round 4,3,1476_21b,21 b,1,,,,PWA
+328,708,Men,Round 4,3,1476_22a,22 a,1,,,,PWA
+328,708,Men,Round 4,3,1476_22b,22 b,1,,,,PWA
+328,708,Men,Round 5,4,1476_23a,23 a,1,,,,PWA
+328,708,Men,Round 5,4,1476_23b,23 b,1,,,,PWA
+328,708,Men,Round 6,5,1476_24a,24,1,,,,PWA
+328,708,Men,Round 6,5,1476_25a,25,1,,,,PWA
+328,709,Women,Round 1,0,1477_1a,1 a,1,,,,PWA
+328,709,Women,Round 1,0,1477_1b,1 b,1,,,,PWA
+328,709,Women,Round 1,0,1477_2a,2 a,1,,,,PWA
+328,709,Women,Round 1,0,1477_2b,2 b,1,,,,PWA
+328,709,Women,Round 1,0,1477_3a,3 a,1,,,,PWA
+328,709,Women,Round 1,0,1477_3b,3 b,1,,,,PWA
+328,709,Women,Round 1,0,1477_4a,4 a,1,,,,PWA
+328,709,Women,Round 1,0,1477_4b,4 b,1,,,,PWA
+328,709,Women,Round 1,0,1477_5a,5 a,1,,,,PWA
+328,709,Women,Round 1,0,1477_5b,5 b,1,,,,PWA
+328,709,Women,Round 1,0,1477_6a,6 a,1,,,,PWA
+328,709,Women,Round 1,0,1477_6b,6 b,1,,,,PWA
+328,709,Women,Round 1,0,1477_7a,7 a,1,,,,PWA
+328,709,Women,Round 1,0,1477_7b,7 b,1,,,,PWA
+328,709,Women,Round 1,0,1477_8a,8 a,1,,,,PWA
+328,709,Women,Round 1,0,1477_8b,8 b,1,,,,PWA
+328,709,Women,Round 2,1,1477_9a,9 a,1,,,,PWA
+328,709,Women,Round 2,1,1477_9b,9 b,1,,,,PWA
+328,709,Women,Round 2,1,1477_10a,10 a,1,,,,PWA
+328,709,Women,Round 2,1,1477_10b,10 b,1,,,,PWA
+328,709,Women,Round 2,1,1477_11a,11 a,1,,,,PWA
+328,709,Women,Round 2,1,1477_11b,11 b,1,,,,PWA
+328,709,Women,Round 2,1,1477_12a,12 a,1,,,,PWA
+328,709,Women,Round 2,1,1477_12b,12 b,1,,,,PWA
+328,709,Women,Round 3,2,1477_13a,13 a,1,,,,PWA
+328,709,Women,Round 3,2,1477_13b,13 b,1,,,,PWA
+328,709,Women,Round 3,2,1477_14a,14 a,1,,,,PWA
+328,709,Women,Round 3,2,1477_14b,14 b,1,,,,PWA
+328,709,Women,Round 4,3,1477_15a,15 a,1,,,,PWA
+328,709,Women,Round 4,3,1477_15b,15 b,1,,,,PWA
+328,709,Women,Round 5,4,1477_16a,16,1,,,,PWA
+328,709,Women,Round 5,4,1477_17a,17,1,,,,PWA
+332,721,Men,Round 1,0,1487_18a,18 a,1,,,,PWA
+332,721,Men,Round 1,0,1487_18b,18 b,1,,,,PWA
+332,721,Men,Round 1,0,1487_19a,19 a,1,,,,PWA
+332,721,Men,Round 1,0,1487_19b,19 b,1,,,,PWA
+332,721,Men,Round 1,0,1487_20a,20 a,1,,,,PWA
+332,721,Men,Round 1,0,1487_20b,20 b,1,,,,PWA
+332,721,Men,Round 1,0,1487_21a,21 a,1,,,,PWA
+332,721,Men,Round 1,0,1487_21b,21 b,1,,,,PWA
+332,721,Men,Round 2,1,1487_22a,22 a,1,,,,PWA
+332,721,Men,Round 2,1,1487_22b,22 b,1,,,,PWA
+332,721,Men,Round 2,1,1487_23a,23 a,1,,,,PWA
+332,721,Men,Round 2,1,1487_23b,23 b,1,,,,PWA
+332,721,Men,Round 2,1,1487_24a,24 a,1,,,,PWA
+332,721,Men,Round 2,1,1487_24b,24 b,1,,,,PWA
+332,721,Men,Round 2,1,1487_25a,25 a,1,,,,PWA
+332,721,Men,Round 2,1,1487_25b,25 b,1,,,,PWA
+332,721,Men,Round 3,2,1487_26a,26 a,1,,,,PWA
+332,721,Men,Round 3,2,1487_26b,26 b,1,,,,PWA
+332,721,Men,Round 3,2,1487_27a,27 a,1,,,,PWA
+332,721,Men,Round 3,2,1487_27b,27 b,1,,,,PWA
+332,721,Men,Round 4,3,1487_28a,28 a,1,,,,PWA
+332,721,Men,Round 4,3,1487_28b,28 b,1,,,,PWA
+332,721,Men,Round 4,3,1487_29a,29 a,1,,,,PWA
+332,721,Men,Round 4,3,1487_29b,29 b,1,,,,PWA
+332,721,Men,Round 5,4,1487_30a,30 a,1,,,,PWA
+332,721,Men,Round 5,4,1487_30b,30 b,1,,,,PWA
+332,721,Men,Round 6,5,1487_31a,31,1,,,,PWA
+332,721,Men,Round 6,5,1487_32a,32,1,,,,PWA
+332,721,Men,Round 6,5,1487_33a,33,1,,,,PWA
+332,721,Men,Round 6,5,1487_34a,34,1,,,,PWA
+332,721,Men,Round 6,5,1487_35a,35,1,,,,PWA
+332,721,Men,Round 6,5,1487_36a,36,1,,,,PWA
+332,722,Women,Round 1,0,1485_10a,10 a,1,,,,PWA
+332,722,Women,Round 1,0,1485_10b,10 b,1,,,,PWA
+332,722,Women,Round 1,0,1485_11a,11 a,1,,,,PWA
+332,722,Women,Round 1,0,1485_11b,11 b,1,,,,PWA
+332,722,Women,Round 2,1,1485_12a,12 a,1,,,,PWA
+332,722,Women,Round 2,1,1485_12b,12 b,1,,,,PWA
+332,722,Women,Round 2,1,1485_13a,13 a,1,,,,PWA
+332,722,Women,Round 2,1,1485_13b,13 b,1,,,,PWA
+332,722,Women,Round 3,2,1485_14a,14 a,1,,,,PWA
+332,722,Women,Round 3,2,1485_14b,14 b,1,,,,PWA
+332,722,Women,Round 4,3,1485_15a,15,1,,,,PWA
+332,722,Women,Round 4,3,1485_16a,16,1,,,,PWA
+332,722,Women,Round 4,3,1485_17a,17,1,,,,PWA
+332,722,Women,Round 4,3,1485_18a,18,1,,,,PWA
+332,722,Women,Round 4,3,1485_19a,19,1,,,,PWA
+332,722,Women,Round 4,3,1485_20a,20,1,,,,PWA
+332,712,Men,Round 1,0,1487_1a,1 a,1,,,,PWA
+332,712,Men,Round 1,0,1487_1b,1 b,1,,,,PWA
+332,712,Men,Round 1,0,1487_2a,2 a,1,,,,PWA
+332,712,Men,Round 1,0,1487_2b,2 b,1,,,,PWA
+332,712,Men,Round 1,0,1487_3a,3 a,1,,,,PWA
+332,712,Men,Round 1,0,1487_3b,3 b,1,,,,PWA
+332,712,Men,Round 1,0,1487_4a,4 a,1,,,,PWA
+332,712,Men,Round 1,0,1487_4b,4 b,1,,,,PWA
+332,712,Men,Round 1,0,1487_5a,5 a,1,,,,PWA
+332,712,Men,Round 1,0,1487_5b,5 b,1,,,,PWA
+332,712,Men,Round 1,0,1487_6a,6 a,1,,,,PWA
+332,712,Men,Round 1,0,1487_6b,6 b,1,,,,PWA
+332,712,Men,Round 1,0,1487_7a,7 a,1,,,,PWA
+332,712,Men,Round 1,0,1487_7b,7 b,1,,,,PWA
+332,712,Men,Round 1,0,1487_8a,8 a,1,,,,PWA
+332,712,Men,Round 1,0,1487_8b,8 b,1,,,,PWA
+332,712,Men,Round 2,1,1487_9a,9 a,1,,,,PWA
+332,712,Men,Round 2,1,1487_9b,9 b,1,,,,PWA
+332,712,Men,Round 2,1,1487_10a,10 a,1,,,,PWA
+332,712,Men,Round 2,1,1487_10b,10 b,1,,,,PWA
+332,712,Men,Round 2,1,1487_11a,11 a,1,,,,PWA
+332,712,Men,Round 2,1,1487_11b,11 b,1,,,,PWA
+332,712,Men,Round 2,1,1487_12a,12 a,1,,,,PWA
+332,712,Men,Round 2,1,1487_12b,12 b,1,,,,PWA
+332,712,Men,Round 3,2,1487_13a,13 a,1,,,,PWA
+332,712,Men,Round 3,2,1487_13b,13 b,1,,,,PWA
+332,712,Men,Round 3,2,1487_14a,14 a,1,,,,PWA
+332,712,Men,Round 3,2,1487_14b,14 b,1,,,,PWA
+332,712,Men,Round 4,3,1487_15a,15 a,1,,,,PWA
+332,712,Men,Round 4,3,1487_15b,15 b,1,,,,PWA
+332,712,Men,Round 5,4,1487_16a,16,1,,,,PWA
+332,712,Men,Round 5,4,1487_17a,17,1,,,,PWA
+332,713,Women,Round 1,0,1485_1a,1 a,1,,,,PWA
+332,713,Women,Round 1,0,1485_1b,1 b,1,,,,PWA
+332,713,Women,Round 1,0,1485_2a,2 a,1,,,,PWA
+332,713,Women,Round 1,0,1485_2b,2 b,1,,,,PWA
+332,713,Women,Round 1,0,1485_3a,3 a,1,,,,PWA
+332,713,Women,Round 1,0,1485_3b,3 b,1,,,,PWA
+332,713,Women,Round 1,0,1485_4a,4 a,1,,,,PWA
+332,713,Women,Round 1,0,1485_4b,4 b,1,,,,PWA
+332,713,Women,Round 2,1,1485_5a,5 a,1,,,,PWA
+332,713,Women,Round 2,1,1485_5b,5 b,1,,,,PWA
+332,713,Women,Round 2,1,1485_6a,6 a,1,,,,PWA
+332,713,Women,Round 2,1,1485_6b,6 b,1,,,,PWA
+332,713,Women,Round 3,2,1485_7a,7 a,1,,,,PWA
+332,713,Women,Round 3,2,1485_7b,7 b,1,,,,PWA
+332,713,Women,Round 4,3,1485_8a,8,1,,,,PWA
+332,713,Women,Round 4,3,1485_9a,9,1,,,,PWA
+322,699,Men,Round 1,0,1462_1a,1 a,1,,,,PWA
+322,699,Men,Round 1,0,1462_1b,1 b,1,,,,PWA
+322,699,Men,Round 1,0,1462_2a,2 a,1,,,,PWA
+322,699,Men,Round 1,0,1462_2b,2 b,1,,,,PWA
+322,699,Men,Round 1,0,1462_3a,3 a,1,,,,PWA
+322,699,Men,Round 1,0,1462_3b,3 b,1,,,,PWA
+322,699,Men,Round 1,0,1462_4a,4 a,1,,,,PWA
+322,699,Men,Round 1,0,1462_4b,4 b,1,,,,PWA
+322,699,Men,Round 1,0,1462_5a,5 a,1,,,,PWA
+322,699,Men,Round 1,0,1462_5b,5 b,1,,,,PWA
+322,699,Men,Round 1,0,1462_6a,6 a,1,,,,PWA
+322,699,Men,Round 1,0,1462_6b,6 b,1,,,,PWA
+322,699,Men,Round 1,0,1462_7a,7 a,1,,,,PWA
+322,699,Men,Round 1,0,1462_7b,7 b,1,,,,PWA
+322,699,Men,Round 1,0,1462_8a,8 a,1,,,,PWA
+322,699,Men,Round 1,0,1462_8b,8 b,1,,,,PWA
+322,699,Men,Round 2,1,1462_9a,9 a,1,,,,PWA
+322,699,Men,Round 2,1,1462_9b,9 b,1,,,,PWA
+322,699,Men,Round 2,1,1462_10a,10 a,1,,,,PWA
+322,699,Men,Round 2,1,1462_10b,10 b,1,,,,PWA
+322,699,Men,Round 2,1,1462_11a,11 a,1,,,,PWA
+322,699,Men,Round 2,1,1462_11b,11 b,1,,,,PWA
+322,699,Men,Round 2,1,1462_12a,12 a,1,,,,PWA
+322,699,Men,Round 2,1,1462_12b,12 b,1,,,,PWA
+322,699,Men,Round 3,2,1462_13a,13 a,1,,,,PWA
+322,699,Men,Round 3,2,1462_13b,13 b,1,,,,PWA
+322,699,Men,Round 3,2,1462_14a,14 a,1,,,,PWA
+322,699,Men,Round 3,2,1462_14b,14 b,1,,,,PWA
+322,699,Men,Round 4,3,1462_15a,15 a,1,,,,PWA
+322,699,Men,Round 4,3,1462_15b,15 b,1,,,,PWA
+322,699,Men,Round 5,4,1462_16a,16,1,,,,PWA
+322,699,Men,Round 5,4,1462_17a,17,1,,,,PWA
+322,702,Women,Round 1,0,1463_1a,1 a,1,,,,PWA
+322,702,Women,Round 1,0,1463_1b,1 b,1,,,,PWA
+322,702,Women,Round 1,0,1463_2a,2 a,1,,,,PWA
+322,702,Women,Round 1,0,1463_2b,2 b,1,,,,PWA
+322,702,Women,Round 1,0,1463_3a,3 a,1,,,,PWA
+322,702,Women,Round 1,0,1463_3b,3 b,1,,,,PWA
+322,702,Women,Round 1,0,1463_4a,4 a,1,,,,PWA
+322,702,Women,Round 1,0,1463_4b,4 b,1,,,,PWA
+322,702,Women,Round 2,1,1463_5a,5 a,1,,,,PWA
+322,702,Women,Round 2,1,1463_5b,5 b,1,,,,PWA
+322,702,Women,Round 2,1,1463_6a,6 a,1,,,,PWA
+322,702,Women,Round 2,1,1463_6b,6 b,1,,,,PWA
+322,702,Women,Round 3,2,1463_7a,7 a,1,,,,PWA
+322,702,Women,Round 3,2,1463_7b,7 b,1,,,,PWA
+322,702,Women,Round 4,3,1463_8a,8,1,,,,PWA
+322,702,Women,Round 4,3,1463_9a,9,1,,,,PWA
+286,584,Men,Round 1,0,1282_26a,26 a,1,,,,PWA
+286,584,Men,Round 1,0,1282_26b,26 b,1,,,,PWA
+286,584,Men,Round 1,0,1282_27a,27 a,1,,,,PWA
+286,584,Men,Round 1,0,1282_27b,27 b,1,,,,PWA
+286,584,Men,Round 1,0,1282_28a,28 a,1,,,,PWA
+286,584,Men,Round 1,0,1282_28b,28 b,1,,,,PWA
+286,584,Men,Round 1,0,1282_29a,29 a,1,,,,PWA
+286,584,Men,Round 1,0,1282_29b,29 b,1,,,,PWA
+286,584,Men,Round 1,0,1282_30a,30 a,1,,,,PWA
+286,584,Men,Round 1,0,1282_30b,30 b,1,,,,PWA
+286,584,Men,Round 1,0,1282_31a,31 a,1,,,,PWA
+286,584,Men,Round 1,0,1282_31b,31 b,1,,,,PWA
+286,584,Men,Round 1,0,1282_32a,32 a,1,,,,PWA
+286,584,Men,Round 1,0,1282_32b,32 b,1,,,,PWA
+286,584,Men,Round 1,0,1282_33a,33 a,1,,,,PWA
+286,584,Men,Round 1,0,1282_33b,33 b,1,,,,PWA
+286,584,Men,Round 2,1,1282_34a,34 a,1,,,,PWA
+286,584,Men,Round 2,1,1282_34b,34 b,1,,,,PWA
+286,584,Men,Round 2,1,1282_35a,35 a,1,,,,PWA
+286,584,Men,Round 2,1,1282_35b,35 b,1,,,,PWA
+286,584,Men,Round 2,1,1282_36a,36 a,1,,,,PWA
+286,584,Men,Round 2,1,1282_36b,36 b,1,,,,PWA
+286,584,Men,Round 2,1,1282_37a,37 a,1,,,,PWA
+286,584,Men,Round 2,1,1282_37b,37 b,1,,,,PWA
+286,584,Men,Round 3,2,1282_38a,38 a,1,,,,PWA
+286,584,Men,Round 3,2,1282_38b,38 b,1,,,,PWA
+286,584,Men,Round 3,2,1282_39a,39 a,1,,,,PWA
+286,584,Men,Round 3,2,1282_39b,39 b,1,,,,PWA
+286,584,Men,Round 3,2,1282_40a,40 a,1,,,,PWA
+286,584,Men,Round 3,2,1282_40b,40 b,1,,,,PWA
+286,584,Men,Round 3,2,1282_41a,41 a,1,,,,PWA
+286,584,Men,Round 3,2,1282_41b,41 b,1,,,,PWA
+286,584,Men,Round 4,3,1282_42a,42 a,1,,,,PWA
+286,584,Men,Round 4,3,1282_42b,42 b,1,,,,PWA
+286,584,Men,Round 4,3,1282_43a,43 a,1,,,,PWA
+286,584,Men,Round 4,3,1282_43b,43 b,1,,,,PWA
+286,584,Men,Round 5,4,1282_44a,44 a,1,,,,PWA
+286,584,Men,Round 5,4,1282_44b,44 b,1,,,,PWA
+286,584,Men,Round 5,4,1282_45a,45 a,1,,,,PWA
+286,584,Men,Round 5,4,1282_45b,45 b,1,,,,PWA
+286,584,Men,Round 6,5,1282_46a,46 a,1,,,,PWA
+286,584,Men,Round 6,5,1282_46b,46 b,1,,,,PWA
+286,584,Men,Round 7,6,1282_47a,47,1,,,,PWA
+286,584,Men,Round 7,6,1282_48a,48,1,,,,PWA
+286,584,Men,Round 7,6,1282_49a,49,1,,,,PWA
+286,584,Men,Round 7,6,1282_50a,50,1,,,,PWA
+286,584,Men,Round 7,6,1282_51a,51,1,,,,PWA
+286,584,Men,Round 7,6,1282_52a,52,1,,,,PWA
+286,583,Women,Round 1,0,1286_18a,18 a,1,,,,PWA
+286,583,Women,Round 1,0,1286_18b,18 b,1,,,,PWA
+286,583,Women,Round 1,0,1286_19a,19 a,1,,,,PWA
+286,583,Women,Round 1,0,1286_19b,19 b,1,,,,PWA
+286,583,Women,Round 1,0,1286_20a,20 a,1,,,,PWA
+286,583,Women,Round 1,0,1286_20b,20 b,1,,,,PWA
+286,583,Women,Round 1,0,1286_21a,21 a,1,,,,PWA
+286,583,Women,Round 1,0,1286_21b,21 b,1,,,,PWA
+286,583,Women,Round 2,1,1286_22a,22 a,1,,,,PWA
+286,583,Women,Round 2,1,1286_22b,22 b,1,,,,PWA
+286,583,Women,Round 2,1,1286_23a,23 a,1,,,,PWA
+286,583,Women,Round 2,1,1286_23b,23 b,1,,,,PWA
+286,583,Women,Round 2,1,1286_24a,24 a,1,,,,PWA
+286,583,Women,Round 2,1,1286_24b,24 b,1,,,,PWA
+286,583,Women,Round 2,1,1286_25a,25 a,1,,,,PWA
+286,583,Women,Round 2,1,1286_25b,25 b,1,,,,PWA
+286,583,Women,Round 3,2,1286_26a,26 a,1,,,,PWA
+286,583,Women,Round 3,2,1286_26b,26 b,1,,,,PWA
+286,583,Women,Round 3,2,1286_27a,27 a,1,,,,PWA
+286,583,Women,Round 3,2,1286_27b,27 b,1,,,,PWA
+286,583,Women,Round 4,3,1286_28a,28 a,1,,,,PWA
+286,583,Women,Round 4,3,1286_28b,28 b,1,,,,PWA
+286,583,Women,Round 4,3,1286_29a,29 a,1,,,,PWA
+286,583,Women,Round 4,3,1286_29b,29 b,1,,,,PWA
+286,583,Women,Round 5,4,1286_30a,30 a,1,,,,PWA
+286,583,Women,Round 5,4,1286_30b,30 b,1,,,,PWA
+286,583,Women,Round 6,5,1286_31a,31,1,,,,PWA
+286,583,Women,Round 6,5,1286_32a,32,1,,,,PWA
+286,583,Women,Round 6,5,1286_33a,33,1,,,,PWA
+286,583,Women,Round 6,5,1286_34a,34,1,,,,PWA
+286,583,Women,Round 6,5,1286_35a,35,1,,,,PWA
+286,583,Women,Round 6,5,1286_36a,36,1,,,,PWA
+286,579,Men,Round 1,0,1282_1a,1 a,1,,,,PWA
+286,579,Men,Round 1,0,1282_1b,1 b,1,,,,PWA
+286,579,Men,Round 1,0,1282_2a,2 a,1,,,,PWA
+286,579,Men,Round 1,0,1282_2b,2 b,1,,,,PWA
+286,579,Men,Round 1,0,1282_3a,3 a,1,,,,PWA
+286,579,Men,Round 1,0,1282_3b,3 b,1,,,,PWA
+286,579,Men,Round 1,0,1282_4a,4 a,1,,,,PWA
+286,579,Men,Round 1,0,1282_4b,4 b,1,,,,PWA
+286,579,Men,Round 1,0,1282_5a,5 a,1,,,,PWA
+286,579,Men,Round 1,0,1282_5b,5 b,1,,,,PWA
+286,579,Men,Round 1,0,1282_6a,6 a,1,,,,PWA
+286,579,Men,Round 1,0,1282_6b,6 b,1,,,,PWA
+286,579,Men,Round 1,0,1282_7a,7 a,1,,,,PWA
+286,579,Men,Round 1,0,1282_7b,7 b,1,,,,PWA
+286,579,Men,Round 1,0,1282_8a,8 a,1,,,,PWA
+286,579,Men,Round 1,0,1282_8b,8 b,1,,,,PWA
+286,579,Men,Round 2,1,1282_9a,9 a,1,,,,PWA
+286,579,Men,Round 2,1,1282_9b,9 b,1,,,,PWA
+286,579,Men,Round 2,1,1282_10a,10 a,1,,,,PWA
+286,579,Men,Round 2,1,1282_10b,10 b,1,,,,PWA
+286,579,Men,Round 2,1,1282_11a,11 a,1,,,,PWA
+286,579,Men,Round 2,1,1282_11b,11 b,1,,,,PWA
+286,579,Men,Round 2,1,1282_12a,12 a,1,,,,PWA
+286,579,Men,Round 2,1,1282_12b,12 b,1,,,,PWA
+286,579,Men,Round 2,1,1282_13a,13 a,1,,,,PWA
+286,579,Men,Round 2,1,1282_13b,13 b,1,,,,PWA
+286,579,Men,Round 2,1,1282_14a,14 a,1,,,,PWA
+286,579,Men,Round 2,1,1282_14b,14 b,1,,,,PWA
+286,579,Men,Round 2,1,1282_15a,15 a,1,,,,PWA
+286,579,Men,Round 2,1,1282_15b,15 b,1,,,,PWA
+286,579,Men,Round 2,1,1282_16a,16 a,1,,,,PWA
+286,579,Men,Round 2,1,1282_16b,16 b,1,,,,PWA
+286,579,Men,Round 3,2,1282_17a,17 a,1,,,,PWA
+286,579,Men,Round 3,2,1282_17b,17 b,1,,,,PWA
+286,579,Men,Round 3,2,1282_18a,18 a,1,,,,PWA
+286,579,Men,Round 3,2,1282_18b,18 b,1,,,,PWA
+286,579,Men,Round 3,2,1282_19a,19 a,1,,,,PWA
+286,579,Men,Round 3,2,1282_19b,19 b,1,,,,PWA
+286,579,Men,Round 3,2,1282_20a,20 a,1,,,,PWA
+286,579,Men,Round 3,2,1282_20b,20 b,1,,,,PWA
+286,579,Men,Round 4,3,1282_21a,21 a,1,,,,PWA
+286,579,Men,Round 4,3,1282_21b,21 b,1,,,,PWA
+286,579,Men,Round 4,3,1282_22a,22 a,1,,,,PWA
+286,579,Men,Round 4,3,1282_22b,22 b,1,,,,PWA
+286,579,Men,Round 5,4,1282_23a,23 a,1,,,,PWA
+286,579,Men,Round 5,4,1282_23b,23 b,1,,,,PWA
+286,579,Men,Round 6,5,1282_24a,24,1,,,,PWA
+286,579,Men,Round 6,5,1282_25a,25,1,,,,PWA
+286,582,Women,Round 1,0,1286_1a,1 a,1,,,,PWA
+286,582,Women,Round 1,0,1286_1b,1 b,1,,,,PWA
+286,582,Women,Round 1,0,1286_2a,2 a,1,,,,PWA
+286,582,Women,Round 1,0,1286_2b,2 b,1,,,,PWA
+286,582,Women,Round 1,0,1286_3a,3 a,1,,,,PWA
+286,582,Women,Round 1,0,1286_3b,3 b,1,,,,PWA
+286,582,Women,Round 1,0,1286_4a,4 a,1,,,,PWA
+286,582,Women,Round 1,0,1286_4b,4 b,1,,,,PWA
+286,582,Women,Round 1,0,1286_5a,5 a,1,,,,PWA
+286,582,Women,Round 1,0,1286_5b,5 b,1,,,,PWA
+286,582,Women,Round 1,0,1286_6a,6 a,1,,,,PWA
+286,582,Women,Round 1,0,1286_6b,6 b,1,,,,PWA
+286,582,Women,Round 1,0,1286_7a,7 a,1,,,,PWA
+286,582,Women,Round 1,0,1286_7b,7 b,1,,,,PWA
+286,582,Women,Round 1,0,1286_8a,8 a,1,,,,PWA
+286,582,Women,Round 1,0,1286_8b,8 b,1,,,,PWA
+286,582,Women,Round 2,1,1286_9a,9 a,1,,,,PWA
+286,582,Women,Round 2,1,1286_9b,9 b,1,,,,PWA
+286,582,Women,Round 2,1,1286_10a,10 a,1,,,,PWA
+286,582,Women,Round 2,1,1286_10b,10 b,1,,,,PWA
+286,582,Women,Round 2,1,1286_11a,11 a,1,,,,PWA
+286,582,Women,Round 2,1,1286_11b,11 b,1,,,,PWA
+286,582,Women,Round 2,1,1286_12a,12 a,1,,,,PWA
+286,582,Women,Round 2,1,1286_12b,12 b,1,,,,PWA
+286,582,Women,Round 3,2,1286_13a,13 a,1,,,,PWA
+286,582,Women,Round 3,2,1286_13b,13 b,1,,,,PWA
+286,582,Women,Round 3,2,1286_14a,14 a,1,,,,PWA
+286,582,Women,Round 3,2,1286_14b,14 b,1,,,,PWA
+286,582,Women,Round 4,3,1286_15a,15 a,1,,,,PWA
+286,582,Women,Round 4,3,1286_15b,15 b,1,,,,PWA
+286,582,Women,Round 5,4,1286_16a,16,1,,,,PWA
+286,582,Women,Round 5,4,1286_17a,17,1,,,,PWA
+288,601,Men,Round 1,0,1302_1a,1 a,1,,,,PWA
+288,601,Men,Round 1,0,1302_1b,1 b,1,,,,PWA
+288,601,Men,Round 1,0,1302_2a,2 a,1,,,,PWA
+288,601,Men,Round 1,0,1302_2b,2 b,1,,,,PWA
+288,601,Men,Round 1,0,1302_3a,3 a,1,,,,PWA
+288,601,Men,Round 1,0,1302_3b,3 b,1,,,,PWA
+288,601,Men,Round 1,0,1302_4a,4 a,1,,,,PWA
+288,601,Men,Round 1,0,1302_4b,4 b,1,,,,PWA
+288,601,Men,Round 1,0,1302_5a,5 a,1,,,,PWA
+288,601,Men,Round 1,0,1302_5b,5 b,1,,,,PWA
+288,601,Men,Round 1,0,1302_6a,6 a,1,,,,PWA
+288,601,Men,Round 1,0,1302_6b,6 b,1,,,,PWA
+288,601,Men,Round 1,0,1302_7a,7 a,1,,,,PWA
+288,601,Men,Round 1,0,1302_7b,7 b,1,,,,PWA
+288,601,Men,Round 1,0,1302_8a,8 a,1,,,,PWA
+288,601,Men,Round 1,0,1302_8b,8 b,1,,,,PWA
+288,601,Men,Round 2,1,1302_9a,9 a,1,,,,PWA
+288,601,Men,Round 2,1,1302_9b,9 b,1,,,,PWA
+288,601,Men,Round 2,1,1302_10a,10 a,1,,,,PWA
+288,601,Men,Round 2,1,1302_10b,10 b,1,,,,PWA
+288,601,Men,Round 2,1,1302_11a,11 a,1,,,,PWA
+288,601,Men,Round 2,1,1302_11b,11 b,1,,,,PWA
+288,601,Men,Round 2,1,1302_12a,12 a,1,,,,PWA
+288,601,Men,Round 2,1,1302_12b,12 b,1,,,,PWA
+288,601,Men,Round 2,1,1302_13a,13 a,1,,,,PWA
+288,601,Men,Round 2,1,1302_13b,13 b,1,,,,PWA
+288,601,Men,Round 2,1,1302_14a,14 a,1,,,,PWA
+288,601,Men,Round 2,1,1302_14b,14 b,1,,,,PWA
+288,601,Men,Round 2,1,1302_15a,15 a,1,,,,PWA
+288,601,Men,Round 2,1,1302_15b,15 b,1,,,,PWA
+288,601,Men,Round 2,1,1302_16a,16 a,1,,,,PWA
+288,601,Men,Round 2,1,1302_16b,16 b,1,,,,PWA
+288,601,Men,Round 3,2,1302_17a,17 a,1,,,,PWA
+288,601,Men,Round 3,2,1302_17b,17 b,1,,,,PWA
+288,601,Men,Round 3,2,1302_18a,18 a,1,,,,PWA
+288,601,Men,Round 3,2,1302_18b,18 b,1,,,,PWA
+288,601,Men,Round 3,2,1302_19a,19 a,1,,,,PWA
+288,601,Men,Round 3,2,1302_19b,19 b,1,,,,PWA
+288,601,Men,Round 3,2,1302_20a,20 a,1,,,,PWA
+288,601,Men,Round 3,2,1302_20b,20 b,1,,,,PWA
+288,601,Men,Round 4,3,1302_21a,21 a,1,,,,PWA
+288,601,Men,Round 4,3,1302_21b,21 b,1,,,,PWA
+288,601,Men,Round 4,3,1302_22a,22 a,1,,,,PWA
+288,601,Men,Round 4,3,1302_22b,22 b,1,,,,PWA
+288,601,Men,Round 5,4,1302_23a,23 a,1,,,,PWA
+288,601,Men,Round 5,4,1302_23b,23 b,1,,,,PWA
+288,601,Men,Round 6,5,1302_24a,24,1,,,,PWA
+288,601,Men,Round 6,5,1302_25a,25,1,,,,PWA
+288,602,Women,Round 1,0,1304_1a,1 a,1,,,,PWA
+288,602,Women,Round 1,0,1304_1b,1 b,1,,,,PWA
+288,602,Women,Round 1,0,1304_2a,2 a,1,,,,PWA
+288,602,Women,Round 1,0,1304_2b,2 b,1,,,,PWA
+288,602,Women,Round 1,0,1304_3a,3 a,1,,,,PWA
+288,602,Women,Round 1,0,1304_3b,3 b,1,,,,PWA
+288,602,Women,Round 1,0,1304_4a,4 a,1,,,,PWA
+288,602,Women,Round 1,0,1304_4b,4 b,1,,,,PWA
+288,602,Women,Round 1,0,1304_5a,5 a,1,,,,PWA
+288,602,Women,Round 1,0,1304_5b,5 b,1,,,,PWA
+288,602,Women,Round 1,0,1304_6a,6 a,1,,,,PWA
+288,602,Women,Round 1,0,1304_6b,6 b,1,,,,PWA
+288,602,Women,Round 1,0,1304_7a,7 a,1,,,,PWA
+288,602,Women,Round 1,0,1304_7b,7 b,1,,,,PWA
+288,602,Women,Round 1,0,1304_8a,8 a,1,,,,PWA
+288,602,Women,Round 1,0,1304_8b,8 b,1,,,,PWA
+288,602,Women,Round 2,1,1304_9a,9 a,1,,,,PWA
+288,602,Women,Round 2,1,1304_9b,9 b,1,,,,PWA
+288,602,Women,Round 2,1,1304_10a,10 a,1,,,,PWA
+288,602,Women,Round 2,1,1304_10b,10 b,1,,,,PWA
+288,602,Women,Round 2,1,1304_11a,11 a,1,,,,PWA
+288,602,Women,Round 2,1,1304_11b,11 b,1,,,,PWA
+288,602,Women,Round 2,1,1304_12a,12 a,1,,,,PWA
+288,602,Women,Round 2,1,1304_12b,12 b,1,,,,PWA
+288,602,Women,Round 3,2,1304_13a,13 a,1,,,,PWA
+288,602,Women,Round 3,2,1304_13b,13 b,1,,,,PWA
+288,602,Women,Round 3,2,1304_14a,14 a,1,,,,PWA
+288,602,Women,Round 3,2,1304_14b,14 b,1,,,,PWA
+288,602,Women,Round 4,3,1304_15a,15 a,1,,,,PWA
+288,602,Women,Round 4,3,1304_15b,15 b,1,,,,PWA
+288,602,Women,Round 5,4,1304_16a,16,1,,,,PWA
+288,602,Women,Round 5,4,1304_17a,17,1,,,,PWA
+291,628,Men,Round 1,0,1340_18a,18 a,1,,,,PWA
+291,628,Men,Round 1,0,1340_18b,18 b,1,,,,PWA
+291,628,Men,Round 1,0,1340_19a,19 a,1,,,,PWA
+291,628,Men,Round 1,0,1340_19b,19 b,1,,,,PWA
+291,628,Men,Round 1,0,1340_20a,20 a,1,,,,PWA
+291,628,Men,Round 1,0,1340_20b,20 b,1,,,,PWA
+291,628,Men,Round 1,0,1340_21a,21 a,1,,,,PWA
+291,628,Men,Round 1,0,1340_21b,21 b,1,,,,PWA
+291,628,Men,Round 2,1,1340_22a,22 a,1,,,,PWA
+291,628,Men,Round 2,1,1340_22b,22 b,1,,,,PWA
+291,628,Men,Round 2,1,1340_23a,23 a,1,,,,PWA
+291,628,Men,Round 2,1,1340_23b,23 b,1,,,,PWA
+291,628,Men,Round 2,1,1340_24a,24 a,1,,,,PWA
+291,628,Men,Round 2,1,1340_24b,24 b,1,,,,PWA
+291,628,Men,Round 2,1,1340_25a,25 a,1,,,,PWA
+291,628,Men,Round 2,1,1340_25b,25 b,1,,,,PWA
+291,628,Men,Round 3,2,1340_26a,26 a,1,,,,PWA
+291,628,Men,Round 3,2,1340_26b,26 b,1,,,,PWA
+291,628,Men,Round 3,2,1340_27a,27 a,1,,,,PWA
+291,628,Men,Round 3,2,1340_27b,27 b,1,,,,PWA
+291,628,Men,Round 4,3,1340_28a,28 a,1,,,,PWA
+291,628,Men,Round 4,3,1340_28b,28 b,1,,,,PWA
+291,628,Men,Round 4,3,1340_29a,29 a,1,,,,PWA
+291,628,Men,Round 4,3,1340_29b,29 b,1,,,,PWA
+291,628,Men,Round 5,4,1340_30a,30 a,1,,,,PWA
+291,628,Men,Round 5,4,1340_30b,30 b,1,,,,PWA
+291,628,Men,Round 6,5,1340_31a,31,1,,,,PWA
+291,628,Men,Round 6,5,1340_32a,32,1,,,,PWA
+291,628,Men,Round 6,5,1340_33a,33,1,,,,PWA
+291,628,Men,Round 6,5,1340_34a,34,1,,,,PWA
+291,628,Men,Round 6,5,1340_35a,35,1,,,,PWA
+291,628,Men,Round 6,5,1340_36a,36,1,,,,PWA
+291,627,Women,Round 1,0,1339_10a,10 a,1,,,,PWA
+291,627,Women,Round 1,0,1339_10b,10 b,1,,,,PWA
+291,627,Women,Round 1,0,1339_11a,11 a,1,,,,PWA
+291,627,Women,Round 1,0,1339_11b,11 b,1,,,,PWA
+291,627,Women,Round 2,1,1339_12a,12 a,1,,,,PWA
+291,627,Women,Round 2,1,1339_12b,12 b,1,,,,PWA
+291,627,Women,Round 2,1,1339_13a,13 a,1,,,,PWA
+291,627,Women,Round 2,1,1339_13b,13 b,1,,,,PWA
+291,627,Women,Round 3,2,1339_14a,14 a,1,,,,PWA
+291,627,Women,Round 3,2,1339_14b,14 b,1,,,,PWA
+291,627,Women,Round 4,3,1339_15a,15,1,,,,PWA
+291,627,Women,Round 4,3,1339_16a,16,1,,,,PWA
+291,627,Women,Round 4,3,1339_17a,17,1,,,,PWA
+291,627,Women,Round 4,3,1339_18a,18,1,,,,PWA
+291,627,Women,Round 4,3,1339_19a,19,1,,,,PWA
+291,627,Women,Round 4,3,1339_20a,20,1,,,,PWA
+291,626,Men,Round 1,0,1340_1a,1 a,1,,,,PWA
+291,626,Men,Round 1,0,1340_1b,1 b,1,,,,PWA
+291,626,Men,Round 1,0,1340_2a,2 a,1,,,,PWA
+291,626,Men,Round 1,0,1340_2b,2 b,1,,,,PWA
+291,626,Men,Round 1,0,1340_3a,3 a,1,,,,PWA
+291,626,Men,Round 1,0,1340_3b,3 b,1,,,,PWA
+291,626,Men,Round 1,0,1340_4a,4 a,1,,,,PWA
+291,626,Men,Round 1,0,1340_4b,4 b,1,,,,PWA
+291,626,Men,Round 1,0,1340_5a,5 a,1,,,,PWA
+291,626,Men,Round 1,0,1340_5b,5 b,1,,,,PWA
+291,626,Men,Round 1,0,1340_6a,6 a,1,,,,PWA
+291,626,Men,Round 1,0,1340_6b,6 b,1,,,,PWA
+291,626,Men,Round 1,0,1340_7a,7 a,1,,,,PWA
+291,626,Men,Round 1,0,1340_7b,7 b,1,,,,PWA
+291,626,Men,Round 1,0,1340_8a,8 a,1,,,,PWA
+291,626,Men,Round 1,0,1340_8b,8 b,1,,,,PWA
+291,626,Men,Round 2,1,1340_9a,9 a,1,,,,PWA
+291,626,Men,Round 2,1,1340_9b,9 b,1,,,,PWA
+291,626,Men,Round 2,1,1340_10a,10 a,1,,,,PWA
+291,626,Men,Round 2,1,1340_10b,10 b,1,,,,PWA
+291,626,Men,Round 2,1,1340_11a,11 a,1,,,,PWA
+291,626,Men,Round 2,1,1340_11b,11 b,1,,,,PWA
+291,626,Men,Round 2,1,1340_12a,12 a,1,,,,PWA
+291,626,Men,Round 2,1,1340_12b,12 b,1,,,,PWA
+291,626,Men,Round 3,2,1340_13a,13 a,1,,,,PWA
+291,626,Men,Round 3,2,1340_13b,13 b,1,,,,PWA
+291,626,Men,Round 3,2,1340_14a,14 a,1,,,,PWA
+291,626,Men,Round 3,2,1340_14b,14 b,1,,,,PWA
+291,626,Men,Round 4,3,1340_15a,15 a,1,,,,PWA
+291,626,Men,Round 4,3,1340_15b,15 b,1,,,,PWA
+291,626,Men,Round 5,4,1340_16a,16,1,,,,PWA
+291,626,Men,Round 5,4,1340_17a,17,1,,,,PWA
+291,625,Women,Round 1,0,1339_1a,1 a,1,,,,PWA
+291,625,Women,Round 1,0,1339_1b,1 b,1,,,,PWA
+291,625,Women,Round 1,0,1339_2a,2 a,1,,,,PWA
+291,625,Women,Round 1,0,1339_2b,2 b,1,,,,PWA
+291,625,Women,Round 1,0,1339_3a,3 a,1,,,,PWA
+291,625,Women,Round 1,0,1339_3b,3 b,1,,,,PWA
+291,625,Women,Round 1,0,1339_4a,4 a,1,,,,PWA
+291,625,Women,Round 1,0,1339_4b,4 b,1,,,,PWA
+291,625,Women,Round 2,1,1339_5a,5 a,1,,,,PWA
+291,625,Women,Round 2,1,1339_5b,5 b,1,,,,PWA
+291,625,Women,Round 2,1,1339_6a,6 a,1,,,,PWA
+291,625,Women,Round 2,1,1339_6b,6 b,1,,,,PWA
+291,625,Women,Round 3,2,1339_7a,7 a,1,,,,PWA
+291,625,Women,Round 3,2,1339_7b,7 b,1,,,,PWA
+291,625,Women,Round 4,3,1339_8a,8,1,,,,PWA
+291,625,Women,Round 4,3,1339_9a,9,1,,,,PWA
+292,642,Men,Round 1,0,1357_24a,24,2,,,,PWA
+292,642,Men,Round 1,0,1357_25a,25,2,,,,PWA
+292,642,Men,Round 1,0,1357_26a,26,2,,,,PWA
+292,642,Men,Round 1,0,1357_27a,27,2,,,,PWA
+292,642,Men,Round 1,0,1357_28a,28,2,,,,PWA
+292,642,Men,Round 1,0,1357_29a,29,2,,,,PWA
+292,642,Men,Round 1,0,1357_30a,30,2,,,,PWA
+292,642,Men,Round 1,0,1357_31a,31,2,,,,PWA
+292,642,Men,Round 2,1,1357_32a,32,2,,,,PWA
+292,642,Men,Round 2,1,1357_33a,33,2,,,,PWA
+292,642,Men,Round 2,1,1357_34a,34,2,,,,PWA
+292,642,Men,Round 2,1,1357_35a,35,2,,,,PWA
+292,642,Men,Round 3,2,1357_36a,36,2,,,,PWA
+292,642,Men,Round 3,2,1357_37a,37,2,,,,PWA
+292,642,Men,Round 3,2,1357_38a,38,2,,,,PWA
+292,642,Men,Round 3,2,1357_39a,39,2,,,,PWA
+292,642,Men,Round 4,3,1357_40a,40,2,,,,PWA
+292,642,Men,Round 4,3,1357_41a,41,2,,,,PWA
+292,642,Men,Round 5,4,1357_42a,42,2,,,,PWA
+292,642,Men,Round 5,4,1357_43a,43,2,,,,PWA
+292,642,Men,Round 6,5,1357_44a,44,2,,,,PWA
+292,642,Men,Round 7,6,1357_45a,45,2,,,,PWA
+292,642,Men,Round 7,6,1357_46a,46,2,,,,PWA
+292,642,Men,Round 7,6,1357_47a,47,2,,,,PWA
+292,642,Men,Round 7,6,1357_48a,48,2,,,,PWA
+292,642,Men,Round 7,6,1357_49a,49,2,,,,PWA
+292,642,Men,Round 7,6,1357_50a,50,2,,,,PWA
+292,643,Women,Round 1,0,1358_16a,16,2,,,,PWA
+292,643,Women,Round 1,0,1358_17a,17,2,,,,PWA
+292,643,Women,Round 1,0,1358_18a,18,2,,,,PWA
+292,643,Women,Round 1,0,1358_19a,19,2,,,,PWA
+292,643,Women,Round 2,1,1358_20a,20,2,,,,PWA
+292,643,Women,Round 2,1,1358_21a,21,2,,,,PWA
+292,643,Women,Round 2,1,1358_22a,22,2,,,,PWA
+292,643,Women,Round 2,1,1358_23a,23,2,,,,PWA
+292,643,Women,Round 3,2,1358_24a,24,2,,,,PWA
+292,643,Women,Round 3,2,1358_25a,25,2,,,,PWA
+292,643,Women,Round 4,3,1358_26a,26,2,,,,PWA
+292,643,Women,Round 4,3,1358_27a,27,2,,,,PWA
+292,643,Women,Round 5,4,1358_28a,28,2,,,,PWA
+292,643,Women,Round 6,5,1358_29a,29,2,,,,PWA
+292,643,Women,Round 6,5,1358_30a,30,2,,,,PWA
+292,643,Women,Round 6,5,1358_31a,31,2,,,,PWA
+292,643,Women,Round 6,5,1358_32a,32,2,,,,PWA
+292,643,Women,Round 6,5,1358_33a,33,2,,,,PWA
+292,643,Women,Round 6,5,1358_34a,34,2,,,,PWA
+292,641,Men,Round 1,0,1357_1a,1,2,,,,PWA
+292,641,Men,Round 1,0,1357_2a,2,2,,,,PWA
+292,641,Men,Round 1,0,1357_3a,3,2,,,,PWA
+292,641,Men,Round 1,0,1357_4a,4,2,,,,PWA
+292,641,Men,Round 1,0,1357_5a,5,2,,,,PWA
+292,641,Men,Round 1,0,1357_6a,6,2,,,,PWA
+292,641,Men,Round 1,0,1357_7a,7,2,,,,PWA
+292,641,Men,Round 1,0,1357_8a,8,2,,,,PWA
+292,641,Men,Round 2,1,1357_9a,9,2,,,,PWA
+292,641,Men,Round 2,1,1357_10a,10,2,,,,PWA
+292,641,Men,Round 2,1,1357_11a,11,2,,,,PWA
+292,641,Men,Round 2,1,1357_12a,12,2,,,,PWA
+292,641,Men,Round 2,1,1357_13a,13,2,,,,PWA
+292,641,Men,Round 2,1,1357_14a,14,2,,,,PWA
+292,641,Men,Round 2,1,1357_15a,15,2,,,,PWA
+292,641,Men,Round 2,1,1357_16a,16,2,,,,PWA
+292,641,Men,Round 3,2,1357_17a,17,2,,,,PWA
+292,641,Men,Round 3,2,1357_18a,18,2,,,,PWA
+292,641,Men,Round 3,2,1357_19a,19,2,,,,PWA
+292,641,Men,Round 3,2,1357_20a,20,2,,,,PWA
+292,641,Men,Round 4,3,1357_21a,21,2,,,,PWA
+292,641,Men,Round 4,3,1357_22a,22,2,,,,PWA
+292,641,Men,Round 5,4,1357_23a,23,2,,,,PWA
+292,640,Women,Round 1,0,1358_1a,1,2,,,,PWA
+292,640,Women,Round 1,0,1358_2a,2,2,,,,PWA
+292,640,Women,Round 1,0,1358_3a,3,2,,,,PWA
+292,640,Women,Round 1,0,1358_4a,4,2,,,,PWA
+292,640,Women,Round 1,0,1358_5a,5,2,,,,PWA
+292,640,Women,Round 1,0,1358_6a,6,2,,,,PWA
+292,640,Women,Round 1,0,1358_7a,7,2,,,,PWA
+292,640,Women,Round 1,0,1358_8a,8,2,,,,PWA
+292,640,Women,Round 2,1,1358_9a,9,2,,,,PWA
+292,640,Women,Round 2,1,1358_10a,10,2,,,,PWA
+292,640,Women,Round 2,1,1358_11a,11,2,,,,PWA
+292,640,Women,Round 2,1,1358_12a,12,2,,,,PWA
+292,640,Women,Round 3,2,1358_13a,13,2,,,,PWA
+292,640,Women,Round 3,2,1358_14a,14,2,,,,PWA
+292,640,Women,Round 4,3,1358_15a,15,2,,,,PWA
+279,425,Women,Round 1,0,1069_16a,16,2,,,,PWA
+279,425,Women,Round 1,0,1069_17a,17,2,,,,PWA
+279,425,Women,Round 1,0,1069_18a,18,2,,,,PWA
+279,425,Women,Round 1,0,1069_19a,19,2,,,,PWA
+279,425,Women,Round 2,1,1069_20a,20,2,,,,PWA
+279,425,Women,Round 2,1,1069_21a,21,2,,,,PWA
+279,425,Women,Round 2,1,1069_22a,22,2,,,,PWA
+279,425,Women,Round 2,1,1069_23a,23,2,,,,PWA
+279,425,Women,Round 3,2,1069_24a,24,2,,,,PWA
+279,425,Women,Round 3,2,1069_25a,25,2,,,,PWA
+279,425,Women,Round 4,3,1069_26a,26,2,,,,PWA
+279,425,Women,Round 4,3,1069_27a,27,2,,,,PWA
+279,425,Women,Round 5,4,1069_28a,28,2,,,,PWA
+279,425,Women,Round 6,5,1069_29a,29,2,,,,PWA
+279,425,Women,Round 6,5,1069_30a,30,2,,,,PWA
+279,425,Women,Round 6,5,1069_31a,31,2,,,,PWA
+279,425,Women,Round 6,5,1069_32a,32,2,,,,PWA
+279,425,Women,Round 6,5,1069_33a,33,2,,,,PWA
+279,425,Women,Round 6,5,1069_34a,34,2,,,,PWA
+279,423,Women,Round 1,0,1069_1a,1,2,,,,PWA
+279,423,Women,Round 1,0,1069_2a,2,2,,,,PWA
+279,423,Women,Round 1,0,1069_3a,3,2,,,,PWA
+279,423,Women,Round 1,0,1069_4a,4,2,,,,PWA
+279,423,Women,Round 1,0,1069_5a,5,2,,,,PWA
+279,423,Women,Round 1,0,1069_6a,6,2,,,,PWA
+279,423,Women,Round 1,0,1069_7a,7,2,,,,PWA
+279,423,Women,Round 1,0,1069_8a,8,2,,,,PWA
+279,423,Women,Round 2,1,1069_9a,9,2,,,,PWA
+279,423,Women,Round 2,1,1069_10a,10,2,,,,PWA
+279,423,Women,Round 2,1,1069_11a,11,2,,,,PWA
+279,423,Women,Round 2,1,1069_12a,12,2,,,,PWA
+279,423,Women,Round 3,2,1069_13a,13,2,,,,PWA
+279,423,Women,Round 3,2,1069_14a,14,2,,,,PWA
+279,423,Women,Round 4,3,1069_15a,15,2,,,,PWA
+275,500,Men,Round 1,0,1185_26a,26 a,1,,,,PWA
+275,500,Men,Round 1,0,1185_26b,26 b,1,,,,PWA
+275,500,Men,Round 1,0,1185_27a,27 a,1,,,,PWA
+275,500,Men,Round 1,0,1185_27b,27 b,1,,,,PWA
+275,500,Men,Round 1,0,1185_28a,28 a,1,,,,PWA
+275,500,Men,Round 1,0,1185_28b,28 b,1,,,,PWA
+275,500,Men,Round 1,0,1185_29a,29 a,1,,,,PWA
+275,500,Men,Round 1,0,1185_29b,29 b,1,,,,PWA
+275,500,Men,Round 1,0,1185_30a,30 a,1,,,,PWA
+275,500,Men,Round 1,0,1185_30b,30 b,1,,,,PWA
+275,500,Men,Round 1,0,1185_31a,31 a,1,,,,PWA
+275,500,Men,Round 1,0,1185_31b,31 b,1,,,,PWA
+275,500,Men,Round 1,0,1185_32a,32 a,1,,,,PWA
+275,500,Men,Round 1,0,1185_32b,32 b,1,,,,PWA
+275,500,Men,Round 1,0,1185_33a,33 a,1,,,,PWA
+275,500,Men,Round 1,0,1185_33b,33 b,1,,,,PWA
+275,500,Men,Round 2,1,1185_34a,34 a,1,,,,PWA
+275,500,Men,Round 2,1,1185_34b,34 b,1,,,,PWA
+275,500,Men,Round 2,1,1185_35a,35 a,1,,,,PWA
+275,500,Men,Round 2,1,1185_35b,35 b,1,,,,PWA
+275,500,Men,Round 2,1,1185_36a,36 a,1,,,,PWA
+275,500,Men,Round 2,1,1185_36b,36 b,1,,,,PWA
+275,500,Men,Round 2,1,1185_37a,37 a,1,,,,PWA
+275,500,Men,Round 2,1,1185_37b,37 b,1,,,,PWA
+275,500,Men,Round 3,2,1185_38a,38 a,1,,,,PWA
+275,500,Men,Round 3,2,1185_38b,38 b,1,,,,PWA
+275,500,Men,Round 3,2,1185_39a,39 a,1,,,,PWA
+275,500,Men,Round 3,2,1185_39b,39 b,1,,,,PWA
+275,500,Men,Round 3,2,1185_40a,40 a,1,,,,PWA
+275,500,Men,Round 3,2,1185_40b,40 b,1,,,,PWA
+275,500,Men,Round 3,2,1185_41a,41 a,1,,,,PWA
+275,500,Men,Round 3,2,1185_41b,41 b,1,,,,PWA
+275,500,Men,Round 4,3,1185_42a,42 a,1,,,,PWA
+275,500,Men,Round 4,3,1185_42b,42 b,1,,,,PWA
+275,500,Men,Round 4,3,1185_43a,43 a,1,,,,PWA
+275,500,Men,Round 4,3,1185_43b,43 b,1,,,,PWA
+275,500,Men,Round 5,4,1185_44a,44 a,1,,,,PWA
+275,500,Men,Round 5,4,1185_44b,44 b,1,,,,PWA
+275,500,Men,Round 5,4,1185_45a,45 a,1,,,,PWA
+275,500,Men,Round 5,4,1185_45b,45 b,1,,,,PWA
+275,500,Men,Round 6,5,1185_46a,46 a,1,,,,PWA
+275,500,Men,Round 6,5,1185_46b,46 b,1,,,,PWA
+275,500,Men,Round 7,6,1185_47a,47,1,,,,PWA
+275,500,Men,Round 7,6,1185_48a,48,1,,,,PWA
+275,500,Men,Round 7,6,1185_49a,49,1,,,,PWA
+275,500,Men,Round 7,6,1185_50a,50,1,,,,PWA
+275,500,Men,Round 7,6,1185_51a,51,1,,,,PWA
+275,500,Men,Round 7,6,1185_52a,52,1,,,,PWA
+275,501,Women,Round 1,0,1186_18a,18 a,1,,,,PWA
+275,501,Women,Round 1,0,1186_18b,18 b,1,,,,PWA
+275,501,Women,Round 1,0,1186_19a,19 a,1,,,,PWA
+275,501,Women,Round 1,0,1186_19b,19 b,1,,,,PWA
+275,501,Women,Round 1,0,1186_20a,20 a,1,,,,PWA
+275,501,Women,Round 1,0,1186_20b,20 b,1,,,,PWA
+275,501,Women,Round 1,0,1186_21a,21 a,1,,,,PWA
+275,501,Women,Round 1,0,1186_21b,21 b,1,,,,PWA
+275,501,Women,Round 2,1,1186_22a,22 a,1,,,,PWA
+275,501,Women,Round 2,1,1186_22b,22 b,1,,,,PWA
+275,501,Women,Round 2,1,1186_23a,23 a,1,,,,PWA
+275,501,Women,Round 2,1,1186_23b,23 b,1,,,,PWA
+275,501,Women,Round 2,1,1186_24a,24 a,1,,,,PWA
+275,501,Women,Round 2,1,1186_24b,24 b,1,,,,PWA
+275,501,Women,Round 2,1,1186_25a,25 a,1,,,,PWA
+275,501,Women,Round 2,1,1186_25b,25 b,1,,,,PWA
+275,501,Women,Round 3,2,1186_26a,26 a,1,,,,PWA
+275,501,Women,Round 3,2,1186_26b,26 b,1,,,,PWA
+275,501,Women,Round 3,2,1186_27a,27 a,1,,,,PWA
+275,501,Women,Round 3,2,1186_27b,27 b,1,,,,PWA
+275,501,Women,Round 4,3,1186_28a,28 a,1,,,,PWA
+275,501,Women,Round 4,3,1186_28b,28 b,1,,,,PWA
+275,501,Women,Round 4,3,1186_29a,29 a,1,,,,PWA
+275,501,Women,Round 4,3,1186_29b,29 b,1,,,,PWA
+275,501,Women,Round 5,4,1186_30a,30 a,1,,,,PWA
+275,501,Women,Round 5,4,1186_30b,30 b,1,,,,PWA
+275,501,Women,Round 6,5,1186_31a,31,1,,,,PWA
+275,501,Women,Round 6,5,1186_32a,32,1,,,,PWA
+275,501,Women,Round 6,5,1186_33a,33,1,,,,PWA
+275,501,Women,Round 6,5,1186_34a,34,1,,,,PWA
+275,501,Women,Round 6,5,1186_35a,35,1,,,,PWA
+275,501,Women,Round 6,5,1186_36a,36,1,,,,PWA
+275,498,Women,Round 1,0,1186_1a,1 a,1,,,,PWA
+275,498,Women,Round 1,0,1186_1b,1 b,1,,,,PWA
+275,498,Women,Round 1,0,1186_2a,2 a,1,,,,PWA
+275,498,Women,Round 1,0,1186_2b,2 b,1,,,,PWA
+275,498,Women,Round 1,0,1186_3a,3 a,1,,,,PWA
+275,498,Women,Round 1,0,1186_3b,3 b,1,,,,PWA
+275,498,Women,Round 1,0,1186_4a,4 a,1,,,,PWA
+275,498,Women,Round 1,0,1186_4b,4 b,1,,,,PWA
+275,498,Women,Round 1,0,1186_5a,5 a,1,,,,PWA
+275,498,Women,Round 1,0,1186_5b,5 b,1,,,,PWA
+275,498,Women,Round 1,0,1186_6a,6 a,1,,,,PWA
+275,498,Women,Round 1,0,1186_6b,6 b,1,,,,PWA
+275,498,Women,Round 1,0,1186_7a,7 a,1,,,,PWA
+275,498,Women,Round 1,0,1186_7b,7 b,1,,,,PWA
+275,498,Women,Round 1,0,1186_8a,8 a,1,,,,PWA
+275,498,Women,Round 1,0,1186_8b,8 b,1,,,,PWA
+275,498,Women,Round 2,1,1186_9a,9 a,1,,,,PWA
+275,498,Women,Round 2,1,1186_9b,9 b,1,,,,PWA
+275,498,Women,Round 2,1,1186_10a,10 a,1,,,,PWA
+275,498,Women,Round 2,1,1186_10b,10 b,1,,,,PWA
+275,498,Women,Round 2,1,1186_11a,11 a,1,,,,PWA
+275,498,Women,Round 2,1,1186_11b,11 b,1,,,,PWA
+275,498,Women,Round 2,1,1186_12a,12 a,1,,,,PWA
+275,498,Women,Round 2,1,1186_12b,12 b,1,,,,PWA
+275,498,Women,Round 3,2,1186_13a,13 a,1,,,,PWA
+275,498,Women,Round 3,2,1186_13b,13 b,1,,,,PWA
+275,498,Women,Round 3,2,1186_14a,14 a,1,,,,PWA
+275,498,Women,Round 3,2,1186_14b,14 b,1,,,,PWA
+275,498,Women,Round 4,3,1186_15a,15 a,1,,,,PWA
+275,498,Women,Round 4,3,1186_15b,15 b,1,,,,PWA
+275,498,Women,Round 5,4,1186_16a,16,1,,,,PWA
+275,498,Women,Round 5,4,1186_17a,17,1,,,,PWA
+275,499,Men,Round 1,0,1185_1a,1 a,1,,,,PWA
+275,499,Men,Round 1,0,1185_1b,1 b,1,,,,PWA
+275,499,Men,Round 1,0,1185_2a,2 a,1,,,,PWA
+275,499,Men,Round 1,0,1185_2b,2 b,1,,,,PWA
+275,499,Men,Round 1,0,1185_3a,3 a,1,,,,PWA
+275,499,Men,Round 1,0,1185_3b,3 b,1,,,,PWA
+275,499,Men,Round 1,0,1185_4a,4 a,1,,,,PWA
+275,499,Men,Round 1,0,1185_4b,4 b,1,,,,PWA
+275,499,Men,Round 1,0,1185_5a,5 a,1,,,,PWA
+275,499,Men,Round 1,0,1185_5b,5 b,1,,,,PWA
+275,499,Men,Round 1,0,1185_6a,6 a,1,,,,PWA
+275,499,Men,Round 1,0,1185_6b,6 b,1,,,,PWA
+275,499,Men,Round 1,0,1185_7a,7 a,1,,,,PWA
+275,499,Men,Round 1,0,1185_7b,7 b,1,,,,PWA
+275,499,Men,Round 1,0,1185_8a,8 a,1,,,,PWA
+275,499,Men,Round 1,0,1185_8b,8 b,1,,,,PWA
+275,499,Men,Round 2,1,1185_9a,9 a,1,,,,PWA
+275,499,Men,Round 2,1,1185_9b,9 b,1,,,,PWA
+275,499,Men,Round 2,1,1185_10a,10 a,1,,,,PWA
+275,499,Men,Round 2,1,1185_10b,10 b,1,,,,PWA
+275,499,Men,Round 2,1,1185_11a,11 a,1,,,,PWA
+275,499,Men,Round 2,1,1185_11b,11 b,1,,,,PWA
+275,499,Men,Round 2,1,1185_12a,12 a,1,,,,PWA
+275,499,Men,Round 2,1,1185_12b,12 b,1,,,,PWA
+275,499,Men,Round 2,1,1185_13a,13 a,1,,,,PWA
+275,499,Men,Round 2,1,1185_13b,13 b,1,,,,PWA
+275,499,Men,Round 2,1,1185_14a,14 a,1,,,,PWA
+275,499,Men,Round 2,1,1185_14b,14 b,1,,,,PWA
+275,499,Men,Round 2,1,1185_15a,15 a,1,,,,PWA
+275,499,Men,Round 2,1,1185_15b,15 b,1,,,,PWA
+275,499,Men,Round 2,1,1185_16a,16 a,1,,,,PWA
+275,499,Men,Round 2,1,1185_16b,16 b,1,,,,PWA
+275,499,Men,Round 3,2,1185_17a,17 a,1,,,,PWA
+275,499,Men,Round 3,2,1185_17b,17 b,1,,,,PWA
+275,499,Men,Round 3,2,1185_18a,18 a,1,,,,PWA
+275,499,Men,Round 3,2,1185_18b,18 b,1,,,,PWA
+275,499,Men,Round 3,2,1185_19a,19 a,1,,,,PWA
+275,499,Men,Round 3,2,1185_19b,19 b,1,,,,PWA
+275,499,Men,Round 3,2,1185_20a,20 a,1,,,,PWA
+275,499,Men,Round 3,2,1185_20b,20 b,1,,,,PWA
+275,499,Men,Round 4,3,1185_21a,21 a,1,,,,PWA
+275,499,Men,Round 4,3,1185_21b,21 b,1,,,,PWA
+275,499,Men,Round 4,3,1185_22a,22 a,1,,,,PWA
+275,499,Men,Round 4,3,1185_22b,22 b,1,,,,PWA
+275,499,Men,Round 5,4,1185_23a,23 a,1,,,,PWA
+275,499,Men,Round 5,4,1185_23b,23 b,1,,,,PWA
+275,499,Men,Round 6,5,1185_24a,24,1,,,,PWA
+275,499,Men,Round 6,5,1185_25a,25,1,,,,PWA
+277,514,Women,Round 1,0,1195_18a,18 a,1,,,,PWA
+277,514,Women,Round 1,0,1195_18b,18 b,1,,,,PWA
+277,514,Women,Round 1,0,1195_19a,19 a,1,,,,PWA
+277,514,Women,Round 1,0,1195_19b,19 b,1,,,,PWA
+277,514,Women,Round 1,0,1195_20a,20 a,1,,,,PWA
+277,514,Women,Round 1,0,1195_20b,20 b,1,,,,PWA
+277,514,Women,Round 1,0,1195_21a,21 a,1,,,,PWA
+277,514,Women,Round 1,0,1195_21b,21 b,1,,,,PWA
+277,514,Women,Round 2,1,1195_22a,22 a,1,,,,PWA
+277,514,Women,Round 2,1,1195_22b,22 b,1,,,,PWA
+277,514,Women,Round 2,1,1195_23a,23 a,1,,,,PWA
+277,514,Women,Round 2,1,1195_23b,23 b,1,,,,PWA
+277,514,Women,Round 2,1,1195_24a,24 a,1,,,,PWA
+277,514,Women,Round 2,1,1195_24b,24 b,1,,,,PWA
+277,514,Women,Round 2,1,1195_25a,25 a,1,,,,PWA
+277,514,Women,Round 2,1,1195_25b,25 b,1,,,,PWA
+277,514,Women,Round 3,2,1195_26a,26 a,1,,,,PWA
+277,514,Women,Round 3,2,1195_26b,26 b,1,,,,PWA
+277,514,Women,Round 3,2,1195_27a,27 a,1,,,,PWA
+277,514,Women,Round 3,2,1195_27b,27 b,1,,,,PWA
+277,514,Women,Round 4,3,1195_28a,28 a,1,,,,PWA
+277,514,Women,Round 4,3,1195_28b,28 b,1,,,,PWA
+277,514,Women,Round 4,3,1195_29a,29 a,1,,,,PWA
+277,514,Women,Round 4,3,1195_29b,29 b,1,,,,PWA
+277,514,Women,Round 5,4,1195_30a,30 a,1,,,,PWA
+277,514,Women,Round 5,4,1195_30b,30 b,1,,,,PWA
+277,514,Women,Round 6,5,1195_31a,31,1,,,,PWA
+277,514,Women,Round 6,5,1195_32a,32,1,,,,PWA
+277,514,Women,Round 6,5,1195_33a,33,1,,,,PWA
+277,514,Women,Round 6,5,1195_34a,34,1,,,,PWA
+277,514,Women,Round 6,5,1195_35a,35,1,,,,PWA
+277,514,Women,Round 6,5,1195_36a,36,1,,,,PWA
+277,513,Men,Round 1,0,1194_26a,26 a,1,,,,PWA
+277,513,Men,Round 1,0,1194_26b,26 b,1,,,,PWA
+277,513,Men,Round 1,0,1194_27a,27 a,1,,,,PWA
+277,513,Men,Round 1,0,1194_27b,27 b,1,,,,PWA
+277,513,Men,Round 1,0,1194_28a,28 a,1,,,,PWA
+277,513,Men,Round 1,0,1194_28b,28 b,1,,,,PWA
+277,513,Men,Round 1,0,1194_29a,29 a,1,,,,PWA
+277,513,Men,Round 1,0,1194_29b,29 b,1,,,,PWA
+277,513,Men,Round 1,0,1194_30a,30 a,1,,,,PWA
+277,513,Men,Round 1,0,1194_30b,30 b,1,,,,PWA
+277,513,Men,Round 1,0,1194_31a,31 a,1,,,,PWA
+277,513,Men,Round 1,0,1194_31b,31 b,1,,,,PWA
+277,513,Men,Round 1,0,1194_32a,32 a,1,,,,PWA
+277,513,Men,Round 1,0,1194_32b,32 b,1,,,,PWA
+277,513,Men,Round 1,0,1194_33a,33 a,1,,,,PWA
+277,513,Men,Round 1,0,1194_33b,33 b,1,,,,PWA
+277,513,Men,Round 2,1,1194_34a,34 a,1,,,,PWA
+277,513,Men,Round 2,1,1194_34b,34 b,1,,,,PWA
+277,513,Men,Round 2,1,1194_35a,35 a,1,,,,PWA
+277,513,Men,Round 2,1,1194_35b,35 b,1,,,,PWA
+277,513,Men,Round 2,1,1194_36a,36 a,1,,,,PWA
+277,513,Men,Round 2,1,1194_36b,36 b,1,,,,PWA
+277,513,Men,Round 2,1,1194_37a,37 a,1,,,,PWA
+277,513,Men,Round 2,1,1194_37b,37 b,1,,,,PWA
+277,513,Men,Round 3,2,1194_38a,38 a,1,,,,PWA
+277,513,Men,Round 3,2,1194_38b,38 b,1,,,,PWA
+277,513,Men,Round 3,2,1194_39a,39 a,1,,,,PWA
+277,513,Men,Round 3,2,1194_39b,39 b,1,,,,PWA
+277,513,Men,Round 3,2,1194_40a,40 a,1,,,,PWA
+277,513,Men,Round 3,2,1194_40b,40 b,1,,,,PWA
+277,513,Men,Round 3,2,1194_41a,41 a,1,,,,PWA
+277,513,Men,Round 3,2,1194_41b,41 b,1,,,,PWA
+277,513,Men,Round 4,3,1194_42a,42 a,1,,,,PWA
+277,513,Men,Round 4,3,1194_42b,42 b,1,,,,PWA
+277,513,Men,Round 4,3,1194_43a,43 a,1,,,,PWA
+277,513,Men,Round 4,3,1194_43b,43 b,1,,,,PWA
+277,513,Men,Round 5,4,1194_44a,44 a,1,,,,PWA
+277,513,Men,Round 5,4,1194_44b,44 b,1,,,,PWA
+277,513,Men,Round 5,4,1194_45a,45 a,1,,,,PWA
+277,513,Men,Round 5,4,1194_45b,45 b,1,,,,PWA
+277,513,Men,Round 6,5,1194_46a,46 a,1,,,,PWA
+277,513,Men,Round 6,5,1194_46b,46 b,1,,,,PWA
+277,513,Men,Round 7,6,1194_47a,47,1,,,,PWA
+277,513,Men,Round 7,6,1194_48a,48,1,,,,PWA
+277,513,Men,Round 7,6,1194_49a,49,1,,,,PWA
+277,513,Men,Round 7,6,1194_50a,50,1,,,,PWA
+277,513,Men,Round 7,6,1194_51a,51,1,,,,PWA
+277,513,Men,Round 7,6,1194_52a,52,1,,,,PWA
+277,512,Men,Round 1,0,1194_1a,1 a,1,,,,PWA
+277,512,Men,Round 1,0,1194_1b,1 b,1,,,,PWA
+277,512,Men,Round 1,0,1194_2a,2 a,1,,,,PWA
+277,512,Men,Round 1,0,1194_2b,2 b,1,,,,PWA
+277,512,Men,Round 1,0,1194_3a,3 a,1,,,,PWA
+277,512,Men,Round 1,0,1194_3b,3 b,1,,,,PWA
+277,512,Men,Round 1,0,1194_4a,4 a,1,,,,PWA
+277,512,Men,Round 1,0,1194_4b,4 b,1,,,,PWA
+277,512,Men,Round 1,0,1194_5a,5 a,1,,,,PWA
+277,512,Men,Round 1,0,1194_5b,5 b,1,,,,PWA
+277,512,Men,Round 1,0,1194_6a,6 a,1,,,,PWA
+277,512,Men,Round 1,0,1194_6b,6 b,1,,,,PWA
+277,512,Men,Round 1,0,1194_7a,7 a,1,,,,PWA
+277,512,Men,Round 1,0,1194_7b,7 b,1,,,,PWA
+277,512,Men,Round 1,0,1194_8a,8 a,1,,,,PWA
+277,512,Men,Round 1,0,1194_8b,8 b,1,,,,PWA
+277,512,Men,Round 2,1,1194_9a,9 a,1,,,,PWA
+277,512,Men,Round 2,1,1194_9b,9 b,1,,,,PWA
+277,512,Men,Round 2,1,1194_10a,10 a,1,,,,PWA
+277,512,Men,Round 2,1,1194_10b,10 b,1,,,,PWA
+277,512,Men,Round 2,1,1194_11a,11 a,1,,,,PWA
+277,512,Men,Round 2,1,1194_11b,11 b,1,,,,PWA
+277,512,Men,Round 2,1,1194_12a,12 a,1,,,,PWA
+277,512,Men,Round 2,1,1194_12b,12 b,1,,,,PWA
+277,512,Men,Round 2,1,1194_13a,13 a,1,,,,PWA
+277,512,Men,Round 2,1,1194_13b,13 b,1,,,,PWA
+277,512,Men,Round 2,1,1194_14a,14 a,1,,,,PWA
+277,512,Men,Round 2,1,1194_14b,14 b,1,,,,PWA
+277,512,Men,Round 2,1,1194_15a,15 a,1,,,,PWA
+277,512,Men,Round 2,1,1194_15b,15 b,1,,,,PWA
+277,512,Men,Round 2,1,1194_16a,16 a,1,,,,PWA
+277,512,Men,Round 2,1,1194_16b,16 b,1,,,,PWA
+277,512,Men,Round 3,2,1194_17a,17 a,1,,,,PWA
+277,512,Men,Round 3,2,1194_17b,17 b,1,,,,PWA
+277,512,Men,Round 3,2,1194_18a,18 a,1,,,,PWA
+277,512,Men,Round 3,2,1194_18b,18 b,1,,,,PWA
+277,512,Men,Round 3,2,1194_19a,19 a,1,,,,PWA
+277,512,Men,Round 3,2,1194_19b,19 b,1,,,,PWA
+277,512,Men,Round 3,2,1194_20a,20 a,1,,,,PWA
+277,512,Men,Round 3,2,1194_20b,20 b,1,,,,PWA
+277,512,Men,Round 4,3,1194_21a,21 a,1,,,,PWA
+277,512,Men,Round 4,3,1194_21b,21 b,1,,,,PWA
+277,512,Men,Round 4,3,1194_22a,22 a,1,,,,PWA
+277,512,Men,Round 4,3,1194_22b,22 b,1,,,,PWA
+277,512,Men,Round 5,4,1194_23a,23 a,1,,,,PWA
+277,512,Men,Round 5,4,1194_23b,23 b,1,,,,PWA
+277,512,Men,Round 6,5,1194_24a,24,1,,,,PWA
+277,512,Men,Round 6,5,1194_25a,25,1,,,,PWA
+277,511,Women,Round 1,0,1195_1a,1 a,1,,,,PWA
+277,511,Women,Round 1,0,1195_1b,1 b,1,,,,PWA
+277,511,Women,Round 1,0,1195_2a,2 a,1,,,,PWA
+277,511,Women,Round 1,0,1195_2b,2 b,1,,,,PWA
+277,511,Women,Round 1,0,1195_3a,3 a,1,,,,PWA
+277,511,Women,Round 1,0,1195_3b,3 b,1,,,,PWA
+277,511,Women,Round 1,0,1195_4a,4 a,1,,,,PWA
+277,511,Women,Round 1,0,1195_4b,4 b,1,,,,PWA
+277,511,Women,Round 1,0,1195_5a,5 a,1,,,,PWA
+277,511,Women,Round 1,0,1195_5b,5 b,1,,,,PWA
+277,511,Women,Round 1,0,1195_6a,6 a,1,,,,PWA
+277,511,Women,Round 1,0,1195_6b,6 b,1,,,,PWA
+277,511,Women,Round 1,0,1195_7a,7 a,1,,,,PWA
+277,511,Women,Round 1,0,1195_7b,7 b,1,,,,PWA
+277,511,Women,Round 1,0,1195_8a,8 a,1,,,,PWA
+277,511,Women,Round 1,0,1195_8b,8 b,1,,,,PWA
+277,511,Women,Round 2,1,1195_9a,9 a,1,,,,PWA
+277,511,Women,Round 2,1,1195_9b,9 b,1,,,,PWA
+277,511,Women,Round 2,1,1195_10a,10 a,1,,,,PWA
+277,511,Women,Round 2,1,1195_10b,10 b,1,,,,PWA
+277,511,Women,Round 2,1,1195_11a,11 a,1,,,,PWA
+277,511,Women,Round 2,1,1195_11b,11 b,1,,,,PWA
+277,511,Women,Round 2,1,1195_12a,12 a,1,,,,PWA
+277,511,Women,Round 2,1,1195_12b,12 b,1,,,,PWA
+277,511,Women,Round 3,2,1195_13a,13 a,1,,,,PWA
+277,511,Women,Round 3,2,1195_13b,13 b,1,,,,PWA
+277,511,Women,Round 3,2,1195_14a,14 a,1,,,,PWA
+277,511,Women,Round 3,2,1195_14b,14 b,1,,,,PWA
+277,511,Women,Round 4,3,1195_15a,15 a,1,,,,PWA
+277,511,Women,Round 4,3,1195_15b,15 b,1,,,,PWA
+277,511,Women,Round 5,4,1195_16a,16,1,,,,PWA
+277,511,Women,Round 5,4,1195_17a,17,1,,,,PWA
+278,524,Women,Round 1,0,1199_18a,18 a,1,,,,PWA
+278,524,Women,Round 1,0,1199_18b,18 b,1,,,,PWA
+278,524,Women,Round 1,0,1199_19a,19 a,1,,,,PWA
+278,524,Women,Round 1,0,1199_19b,19 b,1,,,,PWA
+278,524,Women,Round 1,0,1199_20a,20 a,1,,,,PWA
+278,524,Women,Round 1,0,1199_20b,20 b,1,,,,PWA
+278,524,Women,Round 1,0,1199_21a,21 a,1,,,,PWA
+278,524,Women,Round 1,0,1199_21b,21 b,1,,,,PWA
+278,524,Women,Round 2,1,1199_22a,22 a,1,,,,PWA
+278,524,Women,Round 2,1,1199_22b,22 b,1,,,,PWA
+278,524,Women,Round 2,1,1199_23a,23 a,1,,,,PWA
+278,524,Women,Round 2,1,1199_23b,23 b,1,,,,PWA
+278,524,Women,Round 2,1,1199_24a,24 a,1,,,,PWA
+278,524,Women,Round 2,1,1199_24b,24 b,1,,,,PWA
+278,524,Women,Round 2,1,1199_25a,25 a,1,,,,PWA
+278,524,Women,Round 2,1,1199_25b,25 b,1,,,,PWA
+278,524,Women,Round 3,2,1199_26a,26 a,1,,,,PWA
+278,524,Women,Round 3,2,1199_26b,26 b,1,,,,PWA
+278,524,Women,Round 3,2,1199_27a,27 a,1,,,,PWA
+278,524,Women,Round 3,2,1199_27b,27 b,1,,,,PWA
+278,524,Women,Round 4,3,1199_28a,28 a,1,,,,PWA
+278,524,Women,Round 4,3,1199_28b,28 b,1,,,,PWA
+278,524,Women,Round 4,3,1199_29a,29 a,1,,,,PWA
+278,524,Women,Round 4,3,1199_29b,29 b,1,,,,PWA
+278,524,Women,Round 5,4,1199_30a,30 a,1,,,,PWA
+278,524,Women,Round 5,4,1199_30b,30 b,1,,,,PWA
+278,524,Women,Round 6,5,1199_31a,31,1,,,,PWA
+278,524,Women,Round 6,5,1199_32a,32,1,,,,PWA
+278,524,Women,Round 6,5,1199_33a,33,1,,,,PWA
+278,524,Women,Round 6,5,1199_34a,34,1,,,,PWA
+278,524,Women,Round 6,5,1199_35a,35,1,,,,PWA
+278,524,Women,Round 6,5,1199_36a,36,1,,,,PWA
+278,523,Men,Round 1,0,1197_18a,18 a,1,,,,PWA
+278,523,Men,Round 1,0,1197_18b,18 b,1,,,,PWA
+278,523,Men,Round 1,0,1197_19a,19 a,1,,,,PWA
+278,523,Men,Round 1,0,1197_19b,19 b,1,,,,PWA
+278,523,Men,Round 1,0,1197_20a,20 a,1,,,,PWA
+278,523,Men,Round 1,0,1197_20b,20 b,1,,,,PWA
+278,523,Men,Round 1,0,1197_21a,21 a,1,,,,PWA
+278,523,Men,Round 1,0,1197_21b,21 b,1,,,,PWA
+278,523,Men,Round 2,1,1197_22a,22 a,1,,,,PWA
+278,523,Men,Round 2,1,1197_22b,22 b,1,,,,PWA
+278,523,Men,Round 2,1,1197_23a,23 a,1,,,,PWA
+278,523,Men,Round 2,1,1197_23b,23 b,1,,,,PWA
+278,523,Men,Round 2,1,1197_24a,24 a,1,,,,PWA
+278,523,Men,Round 2,1,1197_24b,24 b,1,,,,PWA
+278,523,Men,Round 2,1,1197_25a,25 a,1,,,,PWA
+278,523,Men,Round 2,1,1197_25b,25 b,1,,,,PWA
+278,523,Men,Round 3,2,1197_26a,26 a,1,,,,PWA
+278,523,Men,Round 3,2,1197_26b,26 b,1,,,,PWA
+278,523,Men,Round 3,2,1197_27a,27 a,1,,,,PWA
+278,523,Men,Round 3,2,1197_27b,27 b,1,,,,PWA
+278,523,Men,Round 4,3,1197_28a,28 a,1,,,,PWA
+278,523,Men,Round 4,3,1197_28b,28 b,1,,,,PWA
+278,523,Men,Round 4,3,1197_29a,29 a,1,,,,PWA
+278,523,Men,Round 4,3,1197_29b,29 b,1,,,,PWA
+278,523,Men,Round 5,4,1197_30a,30 a,1,,,,PWA
+278,523,Men,Round 5,4,1197_30b,30 b,1,,,,PWA
+278,523,Men,Round 6,5,1197_31a,31,1,,,,PWA
+278,523,Men,Round 6,5,1197_32a,32,1,,,,PWA
+278,523,Men,Round 6,5,1197_33a,33,1,,,,PWA
+278,523,Men,Round 6,5,1197_34a,34,1,,,,PWA
+278,523,Men,Round 6,5,1197_35a,35,1,,,,PWA
+278,523,Men,Round 6,5,1197_36a,36,1,,,,PWA
+278,515,Women,Round 1,0,1199_1a,1 a,1,,,,PWA
+278,515,Women,Round 1,0,1199_1b,1 b,1,,,,PWA
+278,515,Women,Round 1,0,1199_2a,2 a,1,,,,PWA
+278,515,Women,Round 1,0,1199_2b,2 b,1,,,,PWA
+278,515,Women,Round 1,0,1199_3a,3 a,1,,,,PWA
+278,515,Women,Round 1,0,1199_3b,3 b,1,,,,PWA
+278,515,Women,Round 1,0,1199_4a,4 a,1,,,,PWA
+278,515,Women,Round 1,0,1199_4b,4 b,1,,,,PWA
+278,515,Women,Round 1,0,1199_5a,5 a,1,,,,PWA
+278,515,Women,Round 1,0,1199_5b,5 b,1,,,,PWA
+278,515,Women,Round 1,0,1199_6a,6 a,1,,,,PWA
+278,515,Women,Round 1,0,1199_6b,6 b,1,,,,PWA
+278,515,Women,Round 1,0,1199_7a,7 a,1,,,,PWA
+278,515,Women,Round 1,0,1199_7b,7 b,1,,,,PWA
+278,515,Women,Round 1,0,1199_8a,8 a,1,,,,PWA
+278,515,Women,Round 1,0,1199_8b,8 b,1,,,,PWA
+278,515,Women,Round 2,1,1199_9a,9 a,1,,,,PWA
+278,515,Women,Round 2,1,1199_9b,9 b,1,,,,PWA
+278,515,Women,Round 2,1,1199_10a,10 a,1,,,,PWA
+278,515,Women,Round 2,1,1199_10b,10 b,1,,,,PWA
+278,515,Women,Round 2,1,1199_11a,11 a,1,,,,PWA
+278,515,Women,Round 2,1,1199_11b,11 b,1,,,,PWA
+278,515,Women,Round 2,1,1199_12a,12 a,1,,,,PWA
+278,515,Women,Round 2,1,1199_12b,12 b,1,,,,PWA
+278,515,Women,Round 3,2,1199_13a,13 a,1,,,,PWA
+278,515,Women,Round 3,2,1199_13b,13 b,1,,,,PWA
+278,515,Women,Round 3,2,1199_14a,14 a,1,,,,PWA
+278,515,Women,Round 3,2,1199_14b,14 b,1,,,,PWA
+278,515,Women,Round 4,3,1199_15a,15 a,1,,,,PWA
+278,515,Women,Round 4,3,1199_15b,15 b,1,,,,PWA
+278,515,Women,Round 5,4,1199_16a,16,1,,,,PWA
+278,515,Women,Round 5,4,1199_17a,17,1,,,,PWA
+278,516,Men,Round 1,0,1197_1a,1 a,1,,,,PWA
+278,516,Men,Round 1,0,1197_1b,1 b,1,,,,PWA
+278,516,Men,Round 1,0,1197_2a,2 a,1,,,,PWA
+278,516,Men,Round 1,0,1197_2b,2 b,1,,,,PWA
+278,516,Men,Round 1,0,1197_3a,3 a,1,,,,PWA
+278,516,Men,Round 1,0,1197_3b,3 b,1,,,,PWA
+278,516,Men,Round 1,0,1197_4a,4 a,1,,,,PWA
+278,516,Men,Round 1,0,1197_4b,4 b,1,,,,PWA
+278,516,Men,Round 1,0,1197_5a,5 a,1,,,,PWA
+278,516,Men,Round 1,0,1197_5b,5 b,1,,,,PWA
+278,516,Men,Round 1,0,1197_6a,6 a,1,,,,PWA
+278,516,Men,Round 1,0,1197_6b,6 b,1,,,,PWA
+278,516,Men,Round 1,0,1197_7a,7 a,1,,,,PWA
+278,516,Men,Round 1,0,1197_7b,7 b,1,,,,PWA
+278,516,Men,Round 1,0,1197_8a,8 a,1,,,,PWA
+278,516,Men,Round 1,0,1197_8b,8 b,1,,,,PWA
+278,516,Men,Round 2,1,1197_9a,9 a,1,,,,PWA
+278,516,Men,Round 2,1,1197_9b,9 b,1,,,,PWA
+278,516,Men,Round 2,1,1197_10a,10 a,1,,,,PWA
+278,516,Men,Round 2,1,1197_10b,10 b,1,,,,PWA
+278,516,Men,Round 2,1,1197_11a,11 a,1,,,,PWA
+278,516,Men,Round 2,1,1197_11b,11 b,1,,,,PWA
+278,516,Men,Round 2,1,1197_12a,12 a,1,,,,PWA
+278,516,Men,Round 2,1,1197_12b,12 b,1,,,,PWA
+278,516,Men,Round 3,2,1197_13a,13 a,1,,,,PWA
+278,516,Men,Round 3,2,1197_13b,13 b,1,,,,PWA
+278,516,Men,Round 3,2,1197_14a,14 a,1,,,,PWA
+278,516,Men,Round 3,2,1197_14b,14 b,1,,,,PWA
+278,516,Men,Round 4,3,1197_15a,15 a,1,,,,PWA
+278,516,Men,Round 4,3,1197_15b,15 b,1,,,,PWA
+278,516,Men,Round 5,4,1197_16a,16,1,,,,PWA
+278,516,Men,Round 5,4,1197_17a,17,1,,,,PWA
+264,339,Women,Round 1,0,934_18a,18 a,1,,,,PWA
+264,339,Women,Round 1,0,934_18b,18 b,1,,,,PWA
+264,339,Women,Round 1,0,934_19a,19 a,1,,,,PWA
+264,339,Women,Round 1,0,934_19b,19 b,1,,,,PWA
+264,339,Women,Round 1,0,934_20a,20 a,1,,,,PWA
+264,339,Women,Round 1,0,934_20b,20 b,1,,,,PWA
+264,339,Women,Round 1,0,934_21a,21 a,1,,,,PWA
+264,339,Women,Round 1,0,934_21b,21 b,1,,,,PWA
+264,339,Women,Round 2,1,934_22a,22 a,1,,,,PWA
+264,339,Women,Round 2,1,934_22b,22 b,1,,,,PWA
+264,339,Women,Round 2,1,934_23a,23 a,1,,,,PWA
+264,339,Women,Round 2,1,934_23b,23 b,1,,,,PWA
+264,339,Women,Round 2,1,934_24a,24 a,1,,,,PWA
+264,339,Women,Round 2,1,934_24b,24 b,1,,,,PWA
+264,339,Women,Round 2,1,934_25a,25 a,1,,,,PWA
+264,339,Women,Round 2,1,934_25b,25 b,1,,,,PWA
+264,339,Women,Round 3,2,934_26a,26 a,1,,,,PWA
+264,339,Women,Round 3,2,934_26b,26 b,1,,,,PWA
+264,339,Women,Round 3,2,934_27a,27 a,1,,,,PWA
+264,339,Women,Round 3,2,934_27b,27 b,1,,,,PWA
+264,339,Women,Round 4,3,934_28a,28 a,1,,,,PWA
+264,339,Women,Round 4,3,934_28b,28 b,1,,,,PWA
+264,339,Women,Round 4,3,934_29a,29 a,1,,,,PWA
+264,339,Women,Round 4,3,934_29b,29 b,1,,,,PWA
+264,339,Women,Round 5,4,934_30a,30 a,1,,,,PWA
+264,339,Women,Round 5,4,934_30b,30 b,1,,,,PWA
+264,339,Women,Round 6,5,934_31a,31,1,,,,PWA
+264,339,Women,Round 6,5,934_32a,32,1,,,,PWA
+264,339,Women,Round 6,5,934_33a,33,1,,,,PWA
+264,339,Women,Round 6,5,934_34a,34,1,,,,PWA
+264,339,Women,Round 6,5,934_35a,35,1,,,,PWA
+264,339,Women,Round 6,5,934_36a,36,1,,,,PWA
+264,340,Men,Round 1,0,933_26a,26 a,1,,,,PWA
+264,340,Men,Round 1,0,933_26b,26 b,1,,,,PWA
+264,340,Men,Round 1,0,933_27a,27 a,1,,,,PWA
+264,340,Men,Round 1,0,933_27b,27 b,1,,,,PWA
+264,340,Men,Round 1,0,933_28a,28 a,1,,,,PWA
+264,340,Men,Round 1,0,933_28b,28 b,1,,,,PWA
+264,340,Men,Round 1,0,933_29a,29 a,1,,,,PWA
+264,340,Men,Round 1,0,933_29b,29 b,1,,,,PWA
+264,340,Men,Round 1,0,933_30a,30 a,1,,,,PWA
+264,340,Men,Round 1,0,933_30b,30 b,1,,,,PWA
+264,340,Men,Round 1,0,933_31a,31 a,1,,,,PWA
+264,340,Men,Round 1,0,933_31b,31 b,1,,,,PWA
+264,340,Men,Round 1,0,933_32a,32 a,1,,,,PWA
+264,340,Men,Round 1,0,933_32b,32 b,1,,,,PWA
+264,340,Men,Round 1,0,933_33a,33 a,1,,,,PWA
+264,340,Men,Round 1,0,933_33b,33 b,1,,,,PWA
+264,340,Men,Round 2,1,933_34a,34 a,1,,,,PWA
+264,340,Men,Round 2,1,933_34b,34 b,1,,,,PWA
+264,340,Men,Round 2,1,933_35a,35 a,1,,,,PWA
+264,340,Men,Round 2,1,933_35b,35 b,1,,,,PWA
+264,340,Men,Round 2,1,933_36a,36 a,1,,,,PWA
+264,340,Men,Round 2,1,933_36b,36 b,1,,,,PWA
+264,340,Men,Round 2,1,933_37a,37 a,1,,,,PWA
+264,340,Men,Round 2,1,933_37b,37 b,1,,,,PWA
+264,340,Men,Round 3,2,933_38a,38 a,1,,,,PWA
+264,340,Men,Round 3,2,933_38b,38 b,1,,,,PWA
+264,340,Men,Round 3,2,933_39a,39 a,1,,,,PWA
+264,340,Men,Round 3,2,933_39b,39 b,1,,,,PWA
+264,340,Men,Round 3,2,933_40a,40 a,1,,,,PWA
+264,340,Men,Round 3,2,933_40b,40 b,1,,,,PWA
+264,340,Men,Round 3,2,933_41a,41 a,1,,,,PWA
+264,340,Men,Round 3,2,933_41b,41 b,1,,,,PWA
+264,340,Men,Round 4,3,933_42a,42 a,1,,,,PWA
+264,340,Men,Round 4,3,933_42b,42 b,1,,,,PWA
+264,340,Men,Round 4,3,933_43a,43 a,1,,,,PWA
+264,340,Men,Round 4,3,933_43b,43 b,1,,,,PWA
+264,340,Men,Round 5,4,933_44a,44 a,1,,,,PWA
+264,340,Men,Round 5,4,933_44b,44 b,1,,,,PWA
+264,340,Men,Round 5,4,933_45a,45 a,1,,,,PWA
+264,340,Men,Round 5,4,933_45b,45 b,1,,,,PWA
+264,340,Men,Round 6,5,933_46a,46 a,1,,,,PWA
+264,340,Men,Round 6,5,933_46b,46 b,1,,,,PWA
+264,340,Men,Round 7,6,933_47a,47,1,,,,PWA
+264,340,Men,Round 7,6,933_48a,48,1,,,,PWA
+264,340,Men,Round 7,6,933_49a,49,1,,,,PWA
+264,340,Men,Round 7,6,933_50a,50,1,,,,PWA
+264,340,Men,Round 7,6,933_51a,51,1,,,,PWA
+264,340,Men,Round 7,6,933_52a,52,1,,,,PWA
+264,337,Men,Round 1,0,933_1a,1 a,1,,,,PWA
+264,337,Men,Round 1,0,933_1b,1 b,1,,,,PWA
+264,337,Men,Round 1,0,933_2a,2 a,1,,,,PWA
+264,337,Men,Round 1,0,933_2b,2 b,1,,,,PWA
+264,337,Men,Round 1,0,933_3a,3 a,1,,,,PWA
+264,337,Men,Round 1,0,933_3b,3 b,1,,,,PWA
+264,337,Men,Round 1,0,933_4a,4 a,1,,,,PWA
+264,337,Men,Round 1,0,933_4b,4 b,1,,,,PWA
+264,337,Men,Round 1,0,933_5a,5 a,1,,,,PWA
+264,337,Men,Round 1,0,933_5b,5 b,1,,,,PWA
+264,337,Men,Round 1,0,933_6a,6 a,1,,,,PWA
+264,337,Men,Round 1,0,933_6b,6 b,1,,,,PWA
+264,337,Men,Round 1,0,933_7a,7 a,1,,,,PWA
+264,337,Men,Round 1,0,933_7b,7 b,1,,,,PWA
+264,337,Men,Round 1,0,933_8a,8 a,1,,,,PWA
+264,337,Men,Round 1,0,933_8b,8 b,1,,,,PWA
+264,337,Men,Round 2,1,933_9a,9 a,1,,,,PWA
+264,337,Men,Round 2,1,933_9b,9 b,1,,,,PWA
+264,337,Men,Round 2,1,933_10a,10 a,1,,,,PWA
+264,337,Men,Round 2,1,933_10b,10 b,1,,,,PWA
+264,337,Men,Round 2,1,933_11a,11 a,1,,,,PWA
+264,337,Men,Round 2,1,933_11b,11 b,1,,,,PWA
+264,337,Men,Round 2,1,933_12a,12 a,1,,,,PWA
+264,337,Men,Round 2,1,933_12b,12 b,1,,,,PWA
+264,337,Men,Round 2,1,933_13a,13 a,1,,,,PWA
+264,337,Men,Round 2,1,933_13b,13 b,1,,,,PWA
+264,337,Men,Round 2,1,933_14a,14 a,1,,,,PWA
+264,337,Men,Round 2,1,933_14b,14 b,1,,,,PWA
+264,337,Men,Round 2,1,933_15a,15 a,1,,,,PWA
+264,337,Men,Round 2,1,933_15b,15 b,1,,,,PWA
+264,337,Men,Round 2,1,933_16a,16 a,1,,,,PWA
+264,337,Men,Round 2,1,933_16b,16 b,1,,,,PWA
+264,337,Men,Round 3,2,933_17a,17 a,1,,,,PWA
+264,337,Men,Round 3,2,933_17b,17 b,1,,,,PWA
+264,337,Men,Round 3,2,933_18a,18 a,1,,,,PWA
+264,337,Men,Round 3,2,933_18b,18 b,1,,,,PWA
+264,337,Men,Round 3,2,933_19a,19 a,1,,,,PWA
+264,337,Men,Round 3,2,933_19b,19 b,1,,,,PWA
+264,337,Men,Round 3,2,933_20a,20 a,1,,,,PWA
+264,337,Men,Round 3,2,933_20b,20 b,1,,,,PWA
+264,337,Men,Round 4,3,933_21a,21 a,1,,,,PWA
+264,337,Men,Round 4,3,933_21b,21 b,1,,,,PWA
+264,337,Men,Round 4,3,933_22a,22 a,1,,,,PWA
+264,337,Men,Round 4,3,933_22b,22 b,1,,,,PWA
+264,337,Men,Round 5,4,933_23a,23 a,1,,,,PWA
+264,337,Men,Round 5,4,933_23b,23 b,1,,,,PWA
+264,337,Men,Round 6,5,933_24a,24,1,,,,PWA
+264,337,Men,Round 6,5,933_25a,25,1,,,,PWA
+264,338,Women,Round 1,0,934_1a,1 a,1,,,,PWA
+264,338,Women,Round 1,0,934_1b,1 b,1,,,,PWA
+264,338,Women,Round 1,0,934_2a,2 a,1,,,,PWA
+264,338,Women,Round 1,0,934_2b,2 b,1,,,,PWA
+264,338,Women,Round 1,0,934_3a,3 a,1,,,,PWA
+264,338,Women,Round 1,0,934_3b,3 b,1,,,,PWA
+264,338,Women,Round 1,0,934_4a,4 a,1,,,,PWA
+264,338,Women,Round 1,0,934_4b,4 b,1,,,,PWA
+264,338,Women,Round 1,0,934_5a,5 a,1,,,,PWA
+264,338,Women,Round 1,0,934_5b,5 b,1,,,,PWA
+264,338,Women,Round 1,0,934_6a,6 a,1,,,,PWA
+264,338,Women,Round 1,0,934_6b,6 b,1,,,,PWA
+264,338,Women,Round 1,0,934_7a,7 a,1,,,,PWA
+264,338,Women,Round 1,0,934_7b,7 b,1,,,,PWA
+264,338,Women,Round 1,0,934_8a,8 a,1,,,,PWA
+264,338,Women,Round 1,0,934_8b,8 b,1,,,,PWA
+264,338,Women,Round 2,1,934_9a,9 a,1,,,,PWA
+264,338,Women,Round 2,1,934_9b,9 b,1,,,,PWA
+264,338,Women,Round 2,1,934_10a,10 a,1,,,,PWA
+264,338,Women,Round 2,1,934_10b,10 b,1,,,,PWA
+264,338,Women,Round 2,1,934_11a,11 a,1,,,,PWA
+264,338,Women,Round 2,1,934_11b,11 b,1,,,,PWA
+264,338,Women,Round 2,1,934_12a,12 a,1,,,,PWA
+264,338,Women,Round 2,1,934_12b,12 b,1,,,,PWA
+264,338,Women,Round 3,2,934_13a,13 a,1,,,,PWA
+264,338,Women,Round 3,2,934_13b,13 b,1,,,,PWA
+264,338,Women,Round 3,2,934_14a,14 a,1,,,,PWA
+264,338,Women,Round 3,2,934_14b,14 b,1,,,,PWA
+264,338,Women,Round 4,3,934_15a,15 a,1,,,,PWA
+264,338,Women,Round 4,3,934_15b,15 b,1,,,,PWA
+264,338,Women,Round 5,4,934_16a,16,1,,,,PWA
+264,338,Women,Round 5,4,934_17a,17,1,,,,PWA
+266,359,Women,Round 1,0,966_18a,18 a,1,,,,PWA
+266,359,Women,Round 1,0,966_18b,18 b,1,,,,PWA
+266,359,Women,Round 1,0,966_19a,19 a,1,,,,PWA
+266,359,Women,Round 1,0,966_19b,19 b,1,,,,PWA
+266,359,Women,Round 1,0,966_20a,20 a,1,,,,PWA
+266,359,Women,Round 1,0,966_20b,20 b,1,,,,PWA
+266,359,Women,Round 1,0,966_21a,21 a,1,,,,PWA
+266,359,Women,Round 1,0,966_21b,21 b,1,,,,PWA
+266,359,Women,Round 2,1,966_22a,22 a,1,,,,PWA
+266,359,Women,Round 2,1,966_22b,22 b,1,,,,PWA
+266,359,Women,Round 2,1,966_23a,23 a,1,,,,PWA
+266,359,Women,Round 2,1,966_23b,23 b,1,,,,PWA
+266,359,Women,Round 2,1,966_24a,24 a,1,,,,PWA
+266,359,Women,Round 2,1,966_24b,24 b,1,,,,PWA
+266,359,Women,Round 2,1,966_25a,25 a,1,,,,PWA
+266,359,Women,Round 2,1,966_25b,25 b,1,,,,PWA
+266,359,Women,Round 3,2,966_26a,26 a,1,,,,PWA
+266,359,Women,Round 3,2,966_26b,26 b,1,,,,PWA
+266,359,Women,Round 3,2,966_27a,27 a,1,,,,PWA
+266,359,Women,Round 3,2,966_27b,27 b,1,,,,PWA
+266,359,Women,Round 4,3,966_28a,28 a,1,,,,PWA
+266,359,Women,Round 4,3,966_28b,28 b,1,,,,PWA
+266,359,Women,Round 4,3,966_29a,29 a,1,,,,PWA
+266,359,Women,Round 4,3,966_29b,29 b,1,,,,PWA
+266,359,Women,Round 5,4,966_30a,30 a,1,,,,PWA
+266,359,Women,Round 5,4,966_30b,30 b,1,,,,PWA
+266,359,Women,Round 6,5,966_31a,31,1,,,,PWA
+266,359,Women,Round 6,5,966_32a,32,1,,,,PWA
+266,359,Women,Round 6,5,966_33a,33,1,,,,PWA
+266,359,Women,Round 6,5,966_34a,34,1,,,,PWA
+266,359,Women,Round 6,5,966_35a,35,1,,,,PWA
+266,359,Women,Round 6,5,966_36a,36,1,,,,PWA
+266,360,Men,Round 1,0,965_26a,26 a,1,,,,PWA
+266,360,Men,Round 1,0,965_26b,26 b,1,,,,PWA
+266,360,Men,Round 1,0,965_27a,27 a,1,,,,PWA
+266,360,Men,Round 1,0,965_27b,27 b,1,,,,PWA
+266,360,Men,Round 1,0,965_28a,28 a,1,,,,PWA
+266,360,Men,Round 1,0,965_28b,28 b,1,,,,PWA
+266,360,Men,Round 1,0,965_29a,29 a,1,,,,PWA
+266,360,Men,Round 1,0,965_29b,29 b,1,,,,PWA
+266,360,Men,Round 1,0,965_30a,30 a,1,,,,PWA
+266,360,Men,Round 1,0,965_30b,30 b,1,,,,PWA
+266,360,Men,Round 1,0,965_31a,31 a,1,,,,PWA
+266,360,Men,Round 1,0,965_31b,31 b,1,,,,PWA
+266,360,Men,Round 1,0,965_32a,32 a,1,,,,PWA
+266,360,Men,Round 1,0,965_32b,32 b,1,,,,PWA
+266,360,Men,Round 1,0,965_33a,33 a,1,,,,PWA
+266,360,Men,Round 1,0,965_33b,33 b,1,,,,PWA
+266,360,Men,Round 2,1,965_34a,34 a,1,,,,PWA
+266,360,Men,Round 2,1,965_34b,34 b,1,,,,PWA
+266,360,Men,Round 2,1,965_35a,35 a,1,,,,PWA
+266,360,Men,Round 2,1,965_35b,35 b,1,,,,PWA
+266,360,Men,Round 2,1,965_36a,36 a,1,,,,PWA
+266,360,Men,Round 2,1,965_36b,36 b,1,,,,PWA
+266,360,Men,Round 2,1,965_37a,37 a,1,,,,PWA
+266,360,Men,Round 2,1,965_37b,37 b,1,,,,PWA
+266,360,Men,Round 3,2,965_38a,38 a,1,,,,PWA
+266,360,Men,Round 3,2,965_38b,38 b,1,,,,PWA
+266,360,Men,Round 3,2,965_39a,39 a,1,,,,PWA
+266,360,Men,Round 3,2,965_39b,39 b,1,,,,PWA
+266,360,Men,Round 3,2,965_40a,40 a,1,,,,PWA
+266,360,Men,Round 3,2,965_40b,40 b,1,,,,PWA
+266,360,Men,Round 3,2,965_41a,41 a,1,,,,PWA
+266,360,Men,Round 3,2,965_41b,41 b,1,,,,PWA
+266,360,Men,Round 4,3,965_42a,42 a,1,,,,PWA
+266,360,Men,Round 4,3,965_42b,42 b,1,,,,PWA
+266,360,Men,Round 4,3,965_43a,43 a,1,,,,PWA
+266,360,Men,Round 4,3,965_43b,43 b,1,,,,PWA
+266,360,Men,Round 5,4,965_44a,44 a,1,,,,PWA
+266,360,Men,Round 5,4,965_44b,44 b,1,,,,PWA
+266,360,Men,Round 5,4,965_45a,45 a,1,,,,PWA
+266,360,Men,Round 5,4,965_45b,45 b,1,,,,PWA
+266,360,Men,Round 6,5,965_46a,46 a,1,,,,PWA
+266,360,Men,Round 6,5,965_46b,46 b,1,,,,PWA
+266,360,Men,Round 7,6,965_47a,47,1,,,,PWA
+266,360,Men,Round 7,6,965_48a,48,1,,,,PWA
+266,360,Men,Round 7,6,965_49a,49,1,,,,PWA
+266,360,Men,Round 7,6,965_50a,50,1,,,,PWA
+266,360,Men,Round 7,6,965_51a,51,1,,,,PWA
+266,360,Men,Round 7,6,965_52a,52,1,,,,PWA
+266,356,Men,Round 1,0,965_1a,1 a,1,,,,PWA
+266,356,Men,Round 1,0,965_1b,1 b,1,,,,PWA
+266,356,Men,Round 1,0,965_2a,2 a,1,,,,PWA
+266,356,Men,Round 1,0,965_2b,2 b,1,,,,PWA
+266,356,Men,Round 1,0,965_3a,3 a,1,,,,PWA
+266,356,Men,Round 1,0,965_3b,3 b,1,,,,PWA
+266,356,Men,Round 1,0,965_4a,4 a,1,,,,PWA
+266,356,Men,Round 1,0,965_4b,4 b,1,,,,PWA
+266,356,Men,Round 1,0,965_5a,5 a,1,,,,PWA
+266,356,Men,Round 1,0,965_5b,5 b,1,,,,PWA
+266,356,Men,Round 1,0,965_6a,6 a,1,,,,PWA
+266,356,Men,Round 1,0,965_6b,6 b,1,,,,PWA
+266,356,Men,Round 1,0,965_7a,7 a,1,,,,PWA
+266,356,Men,Round 1,0,965_7b,7 b,1,,,,PWA
+266,356,Men,Round 1,0,965_8a,8 a,1,,,,PWA
+266,356,Men,Round 1,0,965_8b,8 b,1,,,,PWA
+266,356,Men,Round 2,1,965_9a,9 a,1,,,,PWA
+266,356,Men,Round 2,1,965_9b,9 b,1,,,,PWA
+266,356,Men,Round 2,1,965_10a,10 a,1,,,,PWA
+266,356,Men,Round 2,1,965_10b,10 b,1,,,,PWA
+266,356,Men,Round 2,1,965_11a,11 a,1,,,,PWA
+266,356,Men,Round 2,1,965_11b,11 b,1,,,,PWA
+266,356,Men,Round 2,1,965_12a,12 a,1,,,,PWA
+266,356,Men,Round 2,1,965_12b,12 b,1,,,,PWA
+266,356,Men,Round 2,1,965_13a,13 a,1,,,,PWA
+266,356,Men,Round 2,1,965_13b,13 b,1,,,,PWA
+266,356,Men,Round 2,1,965_14a,14 a,1,,,,PWA
+266,356,Men,Round 2,1,965_14b,14 b,1,,,,PWA
+266,356,Men,Round 2,1,965_15a,15 a,1,,,,PWA
+266,356,Men,Round 2,1,965_15b,15 b,1,,,,PWA
+266,356,Men,Round 2,1,965_16a,16 a,1,,,,PWA
+266,356,Men,Round 2,1,965_16b,16 b,1,,,,PWA
+266,356,Men,Round 3,2,965_17a,17 a,1,,,,PWA
+266,356,Men,Round 3,2,965_17b,17 b,1,,,,PWA
+266,356,Men,Round 3,2,965_18a,18 a,1,,,,PWA
+266,356,Men,Round 3,2,965_18b,18 b,1,,,,PWA
+266,356,Men,Round 3,2,965_19a,19 a,1,,,,PWA
+266,356,Men,Round 3,2,965_19b,19 b,1,,,,PWA
+266,356,Men,Round 3,2,965_20a,20 a,1,,,,PWA
+266,356,Men,Round 3,2,965_20b,20 b,1,,,,PWA
+266,356,Men,Round 4,3,965_21a,21 a,1,,,,PWA
+266,356,Men,Round 4,3,965_21b,21 b,1,,,,PWA
+266,356,Men,Round 4,3,965_22a,22 a,1,,,,PWA
+266,356,Men,Round 4,3,965_22b,22 b,1,,,,PWA
+266,356,Men,Round 5,4,965_23a,23 a,1,,,,PWA
+266,356,Men,Round 5,4,965_23b,23 b,1,,,,PWA
+266,356,Men,Round 6,5,965_24a,24,1,,,,PWA
+266,356,Men,Round 6,5,965_25a,25,1,,,,PWA
+266,358,Women,Round 1,0,966_1a,1 a,1,,,,PWA
+266,358,Women,Round 1,0,966_1b,1 b,1,,,,PWA
+266,358,Women,Round 1,0,966_2a,2 a,1,,,,PWA
+266,358,Women,Round 1,0,966_2b,2 b,1,,,,PWA
+266,358,Women,Round 1,0,966_3a,3 a,1,,,,PWA
+266,358,Women,Round 1,0,966_3b,3 b,1,,,,PWA
+266,358,Women,Round 1,0,966_4a,4 a,1,,,,PWA
+266,358,Women,Round 1,0,966_4b,4 b,1,,,,PWA
+266,358,Women,Round 1,0,966_5a,5 a,1,,,,PWA
+266,358,Women,Round 1,0,966_5b,5 b,1,,,,PWA
+266,358,Women,Round 1,0,966_6a,6 a,1,,,,PWA
+266,358,Women,Round 1,0,966_6b,6 b,1,,,,PWA
+266,358,Women,Round 1,0,966_7a,7 a,1,,,,PWA
+266,358,Women,Round 1,0,966_7b,7 b,1,,,,PWA
+266,358,Women,Round 1,0,966_8a,8 a,1,,,,PWA
+266,358,Women,Round 1,0,966_8b,8 b,1,,,,PWA
+266,358,Women,Round 2,1,966_9a,9 a,1,,,,PWA
+266,358,Women,Round 2,1,966_9b,9 b,1,,,,PWA
+266,358,Women,Round 2,1,966_10a,10 a,1,,,,PWA
+266,358,Women,Round 2,1,966_10b,10 b,1,,,,PWA
+266,358,Women,Round 2,1,966_11a,11 a,1,,,,PWA
+266,358,Women,Round 2,1,966_11b,11 b,1,,,,PWA
+266,358,Women,Round 2,1,966_12a,12 a,1,,,,PWA
+266,358,Women,Round 2,1,966_12b,12 b,1,,,,PWA
+266,358,Women,Round 3,2,966_13a,13 a,1,,,,PWA
+266,358,Women,Round 3,2,966_13b,13 b,1,,,,PWA
+266,358,Women,Round 3,2,966_14a,14 a,1,,,,PWA
+266,358,Women,Round 3,2,966_14b,14 b,1,,,,PWA
+266,358,Women,Round 4,3,966_15a,15 a,1,,,,PWA
+266,358,Women,Round 4,3,966_15b,15 b,1,,,,PWA
+266,358,Women,Round 5,4,966_16a,16,1,,,,PWA
+266,358,Women,Round 5,4,966_17a,17,1,,,,PWA
+268,386,Women,Round 1,0,993_18a,18 a,1,,,,PWA
+268,386,Women,Round 1,0,993_18b,18 b,1,,,,PWA
+268,386,Women,Round 1,0,993_19a,19 a,1,,,,PWA
+268,386,Women,Round 1,0,993_19b,19 b,1,,,,PWA
+268,386,Women,Round 1,0,993_20a,20 a,1,,,,PWA
+268,386,Women,Round 1,0,993_20b,20 b,1,,,,PWA
+268,386,Women,Round 1,0,993_21a,21 a,1,,,,PWA
+268,386,Women,Round 1,0,993_21b,21 b,1,,,,PWA
+268,386,Women,Round 2,1,993_22a,22 a,1,,,,PWA
+268,386,Women,Round 2,1,993_22b,22 b,1,,,,PWA
+268,386,Women,Round 2,1,993_23a,23 a,1,,,,PWA
+268,386,Women,Round 2,1,993_23b,23 b,1,,,,PWA
+268,386,Women,Round 2,1,993_24a,24 a,1,,,,PWA
+268,386,Women,Round 2,1,993_24b,24 b,1,,,,PWA
+268,386,Women,Round 2,1,993_25a,25 a,1,,,,PWA
+268,386,Women,Round 2,1,993_25b,25 b,1,,,,PWA
+268,386,Women,Round 3,2,993_26a,26 a,1,,,,PWA
+268,386,Women,Round 3,2,993_26b,26 b,1,,,,PWA
+268,386,Women,Round 3,2,993_27a,27 a,1,,,,PWA
+268,386,Women,Round 3,2,993_27b,27 b,1,,,,PWA
+268,386,Women,Round 4,3,993_28a,28 a,1,,,,PWA
+268,386,Women,Round 4,3,993_28b,28 b,1,,,,PWA
+268,386,Women,Round 4,3,993_29a,29 a,1,,,,PWA
+268,386,Women,Round 4,3,993_29b,29 b,1,,,,PWA
+268,386,Women,Round 5,4,993_30a,30 a,1,,,,PWA
+268,386,Women,Round 5,4,993_30b,30 b,1,,,,PWA
+268,386,Women,Round 6,5,993_31a,31,1,,,,PWA
+268,386,Women,Round 6,5,993_32a,32,1,,,,PWA
+268,386,Women,Round 6,5,993_33a,33,1,,,,PWA
+268,386,Women,Round 6,5,993_34a,34,1,,,,PWA
+268,386,Women,Round 6,5,993_35a,35,1,,,,PWA
+268,386,Women,Round 6,5,993_36a,36,1,,,,PWA
+268,376,Women,Round 1,0,993_1a,1 a,1,,,,PWA
+268,376,Women,Round 1,0,993_1b,1 b,1,,,,PWA
+268,376,Women,Round 1,0,993_2a,2 a,1,,,,PWA
+268,376,Women,Round 1,0,993_2b,2 b,1,,,,PWA
+268,376,Women,Round 1,0,993_3a,3 a,1,,,,PWA
+268,376,Women,Round 1,0,993_3b,3 b,1,,,,PWA
+268,376,Women,Round 1,0,993_4a,4 a,1,,,,PWA
+268,376,Women,Round 1,0,993_4b,4 b,1,,,,PWA
+268,376,Women,Round 1,0,993_5a,5 a,1,,,,PWA
+268,376,Women,Round 1,0,993_5b,5 b,1,,,,PWA
+268,376,Women,Round 1,0,993_6a,6 a,1,,,,PWA
+268,376,Women,Round 1,0,993_6b,6 b,1,,,,PWA
+268,376,Women,Round 1,0,993_7a,7 a,1,,,,PWA
+268,376,Women,Round 1,0,993_7b,7 b,1,,,,PWA
+268,376,Women,Round 1,0,993_8a,8 a,1,,,,PWA
+268,376,Women,Round 1,0,993_8b,8 b,1,,,,PWA
+268,376,Women,Round 2,1,993_9a,9 a,1,,,,PWA
+268,376,Women,Round 2,1,993_9b,9 b,1,,,,PWA
+268,376,Women,Round 2,1,993_10a,10 a,1,,,,PWA
+268,376,Women,Round 2,1,993_10b,10 b,1,,,,PWA
+268,376,Women,Round 2,1,993_11a,11 a,1,,,,PWA
+268,376,Women,Round 2,1,993_11b,11 b,1,,,,PWA
+268,376,Women,Round 2,1,993_12a,12 a,1,,,,PWA
+268,376,Women,Round 2,1,993_12b,12 b,1,,,,PWA
+268,376,Women,Round 3,2,993_13a,13 a,1,,,,PWA
+268,376,Women,Round 3,2,993_13b,13 b,1,,,,PWA
+268,376,Women,Round 3,2,993_14a,14 a,1,,,,PWA
+268,376,Women,Round 3,2,993_14b,14 b,1,,,,PWA
+268,376,Women,Round 4,3,993_15a,15 a,1,,,,PWA
+268,376,Women,Round 4,3,993_15b,15 b,1,,,,PWA
+268,376,Women,Round 5,4,993_16a,16,1,,,,PWA
+268,376,Women,Round 5,4,993_17a,17,1,,,,PWA
+268,385,Men,Round 1,0,992_18a,18 a,1,,,,PWA
+268,385,Men,Round 1,0,992_18b,18 b,1,,,,PWA
+268,385,Men,Round 1,0,992_19a,19 a,1,,,,PWA
+268,385,Men,Round 1,0,992_19b,19 b,1,,,,PWA
+268,385,Men,Round 1,0,992_20a,20 a,1,,,,PWA
+268,385,Men,Round 1,0,992_20b,20 b,1,,,,PWA
+268,385,Men,Round 1,0,992_21a,21 a,1,,,,PWA
+268,385,Men,Round 1,0,992_21b,21 b,1,,,,PWA
+268,385,Men,Round 2,1,992_22a,22 a,1,,,,PWA
+268,385,Men,Round 2,1,992_22b,22 b,1,,,,PWA
+268,385,Men,Round 2,1,992_23a,23 a,1,,,,PWA
+268,385,Men,Round 2,1,992_23b,23 b,1,,,,PWA
+268,385,Men,Round 2,1,992_24a,24 a,1,,,,PWA
+268,385,Men,Round 2,1,992_24b,24 b,1,,,,PWA
+268,385,Men,Round 2,1,992_25a,25 a,1,,,,PWA
+268,385,Men,Round 2,1,992_25b,25 b,1,,,,PWA
+268,385,Men,Round 3,2,992_26a,26 a,1,,,,PWA
+268,385,Men,Round 3,2,992_26b,26 b,1,,,,PWA
+268,385,Men,Round 3,2,992_27a,27 a,1,,,,PWA
+268,385,Men,Round 3,2,992_27b,27 b,1,,,,PWA
+268,385,Men,Round 4,3,992_28a,28 a,1,,,,PWA
+268,385,Men,Round 4,3,992_28b,28 b,1,,,,PWA
+268,385,Men,Round 4,3,992_29a,29 a,1,,,,PWA
+268,385,Men,Round 4,3,992_29b,29 b,1,,,,PWA
+268,385,Men,Round 5,4,992_30a,30 a,1,,,,PWA
+268,385,Men,Round 5,4,992_30b,30 b,1,,,,PWA
+268,385,Men,Round 6,5,992_31a,31,1,,,,PWA
+268,385,Men,Round 6,5,992_32a,32,1,,,,PWA
+268,385,Men,Round 6,5,992_33a,33,1,,,,PWA
+268,385,Men,Round 6,5,992_34a,34,1,,,,PWA
+268,385,Men,Round 6,5,992_35a,35,1,,,,PWA
+268,385,Men,Round 6,5,992_36a,36,1,,,,PWA
+268,375,Men,Round 1,0,992_1a,1 a,1,,,,PWA
+268,375,Men,Round 1,0,992_1b,1 b,1,,,,PWA
+268,375,Men,Round 1,0,992_2a,2 a,1,,,,PWA
+268,375,Men,Round 1,0,992_2b,2 b,1,,,,PWA
+268,375,Men,Round 1,0,992_3a,3 a,1,,,,PWA
+268,375,Men,Round 1,0,992_3b,3 b,1,,,,PWA
+268,375,Men,Round 1,0,992_4a,4 a,1,,,,PWA
+268,375,Men,Round 1,0,992_4b,4 b,1,,,,PWA
+268,375,Men,Round 1,0,992_5a,5 a,1,,,,PWA
+268,375,Men,Round 1,0,992_5b,5 b,1,,,,PWA
+268,375,Men,Round 1,0,992_6a,6 a,1,,,,PWA
+268,375,Men,Round 1,0,992_6b,6 b,1,,,,PWA
+268,375,Men,Round 1,0,992_7a,7 a,1,,,,PWA
+268,375,Men,Round 1,0,992_7b,7 b,1,,,,PWA
+268,375,Men,Round 1,0,992_8a,8 a,1,,,,PWA
+268,375,Men,Round 1,0,992_8b,8 b,1,,,,PWA
+268,375,Men,Round 2,1,992_9a,9 a,1,,,,PWA
+268,375,Men,Round 2,1,992_9b,9 b,1,,,,PWA
+268,375,Men,Round 2,1,992_10a,10 a,1,,,,PWA
+268,375,Men,Round 2,1,992_10b,10 b,1,,,,PWA
+268,375,Men,Round 2,1,992_11a,11 a,1,,,,PWA
+268,375,Men,Round 2,1,992_11b,11 b,1,,,,PWA
+268,375,Men,Round 2,1,992_12a,12 a,1,,,,PWA
+268,375,Men,Round 2,1,992_12b,12 b,1,,,,PWA
+268,375,Men,Round 3,2,992_13a,13 a,1,,,,PWA
+268,375,Men,Round 3,2,992_13b,13 b,1,,,,PWA
+268,375,Men,Round 3,2,992_14a,14 a,1,,,,PWA
+268,375,Men,Round 3,2,992_14b,14 b,1,,,,PWA
+268,375,Men,Round 4,3,992_15a,15 a,1,,,,PWA
+268,375,Men,Round 4,3,992_15b,15 b,1,,,,PWA
+268,375,Men,Round 5,4,992_16a,16,1,,,,PWA
+268,375,Men,Round 5,4,992_17a,17,1,,,,PWA
+252,287,Men,Round 1,0,840_18a,18 a,1,,,,PWA
+252,287,Men,Round 1,0,840_18b,18 b,1,,,,PWA
+252,287,Men,Round 1,0,840_19a,19 a,1,,,,PWA
+252,287,Men,Round 1,0,840_19b,19 b,1,,,,PWA
+252,287,Men,Round 1,0,840_20a,20 a,1,,,,PWA
+252,287,Men,Round 1,0,840_20b,20 b,1,,,,PWA
+252,287,Men,Round 1,0,840_21a,21 a,1,,,,PWA
+252,287,Men,Round 1,0,840_21b,21 b,1,,,,PWA
+252,287,Men,Round 2,1,840_22a,22 a,1,,,,PWA
+252,287,Men,Round 2,1,840_22b,22 b,1,,,,PWA
+252,287,Men,Round 2,1,840_23a,23 a,1,,,,PWA
+252,287,Men,Round 2,1,840_23b,23 b,1,,,,PWA
+252,287,Men,Round 2,1,840_24a,24 a,1,,,,PWA
+252,287,Men,Round 2,1,840_24b,24 b,1,,,,PWA
+252,287,Men,Round 2,1,840_25a,25 a,1,,,,PWA
+252,287,Men,Round 2,1,840_25b,25 b,1,,,,PWA
+252,287,Men,Round 3,2,840_26a,26 a,1,,,,PWA
+252,287,Men,Round 3,2,840_26b,26 b,1,,,,PWA
+252,287,Men,Round 3,2,840_27a,27 a,1,,,,PWA
+252,287,Men,Round 3,2,840_27b,27 b,1,,,,PWA
+252,287,Men,Round 4,3,840_28a,28 a,1,,,,PWA
+252,287,Men,Round 4,3,840_28b,28 b,1,,,,PWA
+252,287,Men,Round 4,3,840_29a,29 a,1,,,,PWA
+252,287,Men,Round 4,3,840_29b,29 b,1,,,,PWA
+252,287,Men,Round 5,4,840_30a,30 a,1,,,,PWA
+252,287,Men,Round 5,4,840_30b,30 b,1,,,,PWA
+252,287,Men,Round 6,5,840_31a,31,1,,,,PWA
+252,287,Men,Round 6,5,840_32a,32,1,,,,PWA
+252,287,Men,Round 6,5,840_33a,33,1,,,,PWA
+252,287,Men,Round 6,5,840_34a,34,1,,,,PWA
+252,287,Men,Round 6,5,840_35a,35,1,,,,PWA
+252,287,Men,Round 6,5,840_36a,36,1,,,,PWA
+252,286,Women,Round 1,0,841_18a,18 a,1,,,,PWA
+252,286,Women,Round 1,0,841_18b,18 b,1,,,,PWA
+252,286,Women,Round 1,0,841_19a,19 a,1,,,,PWA
+252,286,Women,Round 1,0,841_19b,19 b,1,,,,PWA
+252,286,Women,Round 1,0,841_20a,20 a,1,,,,PWA
+252,286,Women,Round 1,0,841_20b,20 b,1,,,,PWA
+252,286,Women,Round 1,0,841_21a,21 a,1,,,,PWA
+252,286,Women,Round 1,0,841_21b,21 b,1,,,,PWA
+252,286,Women,Round 2,1,841_22a,22 a,1,,,,PWA
+252,286,Women,Round 2,1,841_22b,22 b,1,,,,PWA
+252,286,Women,Round 2,1,841_23a,23 a,1,,,,PWA
+252,286,Women,Round 2,1,841_23b,23 b,1,,,,PWA
+252,286,Women,Round 2,1,841_24a,24 a,1,,,,PWA
+252,286,Women,Round 2,1,841_24b,24 b,1,,,,PWA
+252,286,Women,Round 2,1,841_25a,25 a,1,,,,PWA
+252,286,Women,Round 2,1,841_25b,25 b,1,,,,PWA
+252,286,Women,Round 3,2,841_26a,26 a,1,,,,PWA
+252,286,Women,Round 3,2,841_26b,26 b,1,,,,PWA
+252,286,Women,Round 3,2,841_27a,27 a,1,,,,PWA
+252,286,Women,Round 3,2,841_27b,27 b,1,,,,PWA
+252,286,Women,Round 4,3,841_28a,28 a,1,,,,PWA
+252,286,Women,Round 4,3,841_28b,28 b,1,,,,PWA
+252,286,Women,Round 4,3,841_29a,29 a,1,,,,PWA
+252,286,Women,Round 4,3,841_29b,29 b,1,,,,PWA
+252,286,Women,Round 5,4,841_30a,30 a,1,,,,PWA
+252,286,Women,Round 5,4,841_30b,30 b,1,,,,PWA
+252,286,Women,Round 6,5,841_31a,31,1,,,,PWA
+252,286,Women,Round 6,5,841_32a,32,1,,,,PWA
+252,286,Women,Round 6,5,841_33a,33,1,,,,PWA
+252,286,Women,Round 6,5,841_34a,34,1,,,,PWA
+252,286,Women,Round 6,5,841_35a,35,1,,,,PWA
+252,286,Women,Round 6,5,841_36a,36,1,,,,PWA
+252,285,Men,Round 1,0,840_1a,1 a,1,,,,PWA
+252,285,Men,Round 1,0,840_1b,1 b,1,,,,PWA
+252,285,Men,Round 1,0,840_2a,2 a,1,,,,PWA
+252,285,Men,Round 1,0,840_2b,2 b,1,,,,PWA
+252,285,Men,Round 1,0,840_3a,3 a,1,,,,PWA
+252,285,Men,Round 1,0,840_3b,3 b,1,,,,PWA
+252,285,Men,Round 1,0,840_4a,4 a,1,,,,PWA
+252,285,Men,Round 1,0,840_4b,4 b,1,,,,PWA
+252,285,Men,Round 1,0,840_5a,5 a,1,,,,PWA
+252,285,Men,Round 1,0,840_5b,5 b,1,,,,PWA
+252,285,Men,Round 1,0,840_6a,6 a,1,,,,PWA
+252,285,Men,Round 1,0,840_6b,6 b,1,,,,PWA
+252,285,Men,Round 1,0,840_7a,7 a,1,,,,PWA
+252,285,Men,Round 1,0,840_7b,7 b,1,,,,PWA
+252,285,Men,Round 1,0,840_8a,8 a,1,,,,PWA
+252,285,Men,Round 1,0,840_8b,8 b,1,,,,PWA
+252,285,Men,Round 2,1,840_9a,9 a,1,,,,PWA
+252,285,Men,Round 2,1,840_9b,9 b,1,,,,PWA
+252,285,Men,Round 2,1,840_10a,10 a,1,,,,PWA
+252,285,Men,Round 2,1,840_10b,10 b,1,,,,PWA
+252,285,Men,Round 2,1,840_11a,11 a,1,,,,PWA
+252,285,Men,Round 2,1,840_11b,11 b,1,,,,PWA
+252,285,Men,Round 2,1,840_12a,12 a,1,,,,PWA
+252,285,Men,Round 2,1,840_12b,12 b,1,,,,PWA
+252,285,Men,Round 3,2,840_13a,13 a,1,,,,PWA
+252,285,Men,Round 3,2,840_13b,13 b,1,,,,PWA
+252,285,Men,Round 3,2,840_14a,14 a,1,,,,PWA
+252,285,Men,Round 3,2,840_14b,14 b,1,,,,PWA
+252,285,Men,Round 4,3,840_15a,15 a,1,,,,PWA
+252,285,Men,Round 4,3,840_15b,15 b,1,,,,PWA
+252,285,Men,Round 5,4,840_16a,16,1,,,,PWA
+252,285,Men,Round 5,4,840_17a,17,1,,,,PWA
+252,284,Women,Round 1,0,841_1a,1 a,1,,,,PWA
+252,284,Women,Round 1,0,841_1b,1 b,1,,,,PWA
+252,284,Women,Round 1,0,841_2a,2 a,1,,,,PWA
+252,284,Women,Round 1,0,841_2b,2 b,1,,,,PWA
+252,284,Women,Round 1,0,841_3a,3 a,1,,,,PWA
+252,284,Women,Round 1,0,841_3b,3 b,1,,,,PWA
+252,284,Women,Round 1,0,841_4a,4 a,1,,,,PWA
+252,284,Women,Round 1,0,841_4b,4 b,1,,,,PWA
+252,284,Women,Round 1,0,841_5a,5 a,1,,,,PWA
+252,284,Women,Round 1,0,841_5b,5 b,1,,,,PWA
+252,284,Women,Round 1,0,841_6a,6 a,1,,,,PWA
+252,284,Women,Round 1,0,841_6b,6 b,1,,,,PWA
+252,284,Women,Round 1,0,841_7a,7 a,1,,,,PWA
+252,284,Women,Round 1,0,841_7b,7 b,1,,,,PWA
+252,284,Women,Round 1,0,841_8a,8 a,1,,,,PWA
+252,284,Women,Round 1,0,841_8b,8 b,1,,,,PWA
+252,284,Women,Round 2,1,841_9a,9 a,1,,,,PWA
+252,284,Women,Round 2,1,841_9b,9 b,1,,,,PWA
+252,284,Women,Round 2,1,841_10a,10 a,1,,,,PWA
+252,284,Women,Round 2,1,841_10b,10 b,1,,,,PWA
+252,284,Women,Round 2,1,841_11a,11 a,1,,,,PWA
+252,284,Women,Round 2,1,841_11b,11 b,1,,,,PWA
+252,284,Women,Round 2,1,841_12a,12 a,1,,,,PWA
+252,284,Women,Round 2,1,841_12b,12 b,1,,,,PWA
+252,284,Women,Round 3,2,841_13a,13 a,1,,,,PWA
+252,284,Women,Round 3,2,841_13b,13 b,1,,,,PWA
+252,284,Women,Round 3,2,841_14a,14 a,1,,,,PWA
+252,284,Women,Round 3,2,841_14b,14 b,1,,,,PWA
+252,284,Women,Round 4,3,841_15a,15 a,1,,,,PWA
+252,284,Women,Round 4,3,841_15b,15 b,1,,,,PWA
+252,284,Women,Round 5,4,841_16a,16,1,,,,PWA
+252,284,Women,Round 5,4,841_17a,17,1,,,,PWA
+256,297,Men,Round 1,0,873_1a,1 a,1,,,,PWA
+256,297,Men,Round 1,0,873_1b,1 b,1,,,,PWA
+256,297,Men,Round 1,0,873_2a,2 a,1,,,,PWA
+256,297,Men,Round 1,0,873_2b,2 b,1,,,,PWA
+256,297,Men,Round 1,0,873_3a,3 a,1,,,,PWA
+256,297,Men,Round 1,0,873_3b,3 b,1,,,,PWA
+256,297,Men,Round 1,0,873_4a,4 a,1,,,,PWA
+256,297,Men,Round 1,0,873_4b,4 b,1,,,,PWA
+256,297,Men,Round 1,0,873_5a,5 a,1,,,,PWA
+256,297,Men,Round 1,0,873_5b,5 b,1,,,,PWA
+256,297,Men,Round 1,0,873_6a,6 a,1,,,,PWA
+256,297,Men,Round 1,0,873_6b,6 b,1,,,,PWA
+256,297,Men,Round 1,0,873_7a,7 a,1,,,,PWA
+256,297,Men,Round 1,0,873_7b,7 b,1,,,,PWA
+256,297,Men,Round 1,0,873_8a,8 a,1,,,,PWA
+256,297,Men,Round 1,0,873_8b,8 b,1,,,,PWA
+256,297,Men,Round 2,1,873_9a,9 a,1,,,,PWA
+256,297,Men,Round 2,1,873_9b,9 b,1,,,,PWA
+256,297,Men,Round 2,1,873_10a,10 a,1,,,,PWA
+256,297,Men,Round 2,1,873_10b,10 b,1,,,,PWA
+256,297,Men,Round 2,1,873_11a,11 a,1,,,,PWA
+256,297,Men,Round 2,1,873_11b,11 b,1,,,,PWA
+256,297,Men,Round 2,1,873_12a,12 a,1,,,,PWA
+256,297,Men,Round 2,1,873_12b,12 b,1,,,,PWA
+256,297,Men,Round 3,2,873_13a,13 a,1,,,,PWA
+256,297,Men,Round 3,2,873_13b,13 b,1,,,,PWA
+256,297,Men,Round 3,2,873_14a,14 a,1,,,,PWA
+256,297,Men,Round 3,2,873_14b,14 b,1,,,,PWA
+256,297,Men,Round 4,3,873_15a,15 a,1,,,,PWA
+256,297,Men,Round 4,3,873_15b,15 b,1,,,,PWA
+256,297,Men,Round 5,4,873_16a,16,1,,,,PWA
+256,297,Men,Round 5,4,873_17a,17,1,,,,PWA
+256,298,Women,Round 1,0,872_18a,18 a,1,,,,PWA
+256,298,Women,Round 1,0,872_18b,18 b,1,,,,PWA
+256,298,Women,Round 1,0,872_19a,19 a,1,,,,PWA
+256,298,Women,Round 1,0,872_19b,19 b,1,,,,PWA
+256,298,Women,Round 1,0,872_20a,20 a,1,,,,PWA
+256,298,Women,Round 1,0,872_20b,20 b,1,,,,PWA
+256,298,Women,Round 1,0,872_21a,21 a,1,,,,PWA
+256,298,Women,Round 1,0,872_21b,21 b,1,,,,PWA
+256,298,Women,Round 2,1,872_22a,22 a,1,,,,PWA
+256,298,Women,Round 2,1,872_22b,22 b,1,,,,PWA
+256,298,Women,Round 2,1,872_23a,23 a,1,,,,PWA
+256,298,Women,Round 2,1,872_23b,23 b,1,,,,PWA
+256,298,Women,Round 2,1,872_24a,24 a,1,,,,PWA
+256,298,Women,Round 2,1,872_24b,24 b,1,,,,PWA
+256,298,Women,Round 2,1,872_25a,25 a,1,,,,PWA
+256,298,Women,Round 2,1,872_25b,25 b,1,,,,PWA
+256,298,Women,Round 3,2,872_26a,26 a,1,,,,PWA
+256,298,Women,Round 3,2,872_26b,26 b,1,,,,PWA
+256,298,Women,Round 3,2,872_27a,27 a,1,,,,PWA
+256,298,Women,Round 3,2,872_27b,27 b,1,,,,PWA
+256,298,Women,Round 4,3,872_28a,28 a,1,,,,PWA
+256,298,Women,Round 4,3,872_28b,28 b,1,,,,PWA
+256,298,Women,Round 4,3,872_29a,29 a,1,,,,PWA
+256,298,Women,Round 4,3,872_29b,29 b,1,,,,PWA
+256,298,Women,Round 5,4,872_30a,30 a,1,,,,PWA
+256,298,Women,Round 5,4,872_30b,30 b,1,,,,PWA
+256,298,Women,Round 6,5,872_31a,31,1,,,,PWA
+256,298,Women,Round 6,5,872_32a,32,1,,,,PWA
+256,298,Women,Round 6,5,872_33a,33,1,,,,PWA
+256,298,Women,Round 6,5,872_34a,34,1,,,,PWA
+256,298,Women,Round 6,5,872_35a,35,1,,,,PWA
+256,298,Women,Round 6,5,872_36a,36,1,,,,PWA
+256,299,Men,Round 1,0,873_18a,18 a,1,,,,PWA
+256,299,Men,Round 1,0,873_18b,18 b,1,,,,PWA
+256,299,Men,Round 1,0,873_19a,19 a,1,,,,PWA
+256,299,Men,Round 1,0,873_19b,19 b,1,,,,PWA
+256,299,Men,Round 1,0,873_20a,20 a,1,,,,PWA
+256,299,Men,Round 1,0,873_20b,20 b,1,,,,PWA
+256,299,Men,Round 1,0,873_21a,21 a,1,,,,PWA
+256,299,Men,Round 1,0,873_21b,21 b,1,,,,PWA
+256,299,Men,Round 2,1,873_22a,22 a,1,,,,PWA
+256,299,Men,Round 2,1,873_22b,22 b,1,,,,PWA
+256,299,Men,Round 2,1,873_23a,23 a,1,,,,PWA
+256,299,Men,Round 2,1,873_23b,23 b,1,,,,PWA
+256,299,Men,Round 2,1,873_24a,24 a,1,,,,PWA
+256,299,Men,Round 2,1,873_24b,24 b,1,,,,PWA
+256,299,Men,Round 2,1,873_25a,25 a,1,,,,PWA
+256,299,Men,Round 2,1,873_25b,25 b,1,,,,PWA
+256,299,Men,Round 3,2,873_26a,26 a,1,,,,PWA
+256,299,Men,Round 3,2,873_26b,26 b,1,,,,PWA
+256,299,Men,Round 3,2,873_27a,27 a,1,,,,PWA
+256,299,Men,Round 3,2,873_27b,27 b,1,,,,PWA
+256,299,Men,Round 4,3,873_28a,28 a,1,,,,PWA
+256,299,Men,Round 4,3,873_28b,28 b,1,,,,PWA
+256,299,Men,Round 4,3,873_29a,29 a,1,,,,PWA
+256,299,Men,Round 4,3,873_29b,29 b,1,,,,PWA
+256,299,Men,Round 5,4,873_30a,30 a,1,,,,PWA
+256,299,Men,Round 5,4,873_30b,30 b,1,,,,PWA
+256,299,Men,Round 6,5,873_31a,31,1,,,,PWA
+256,299,Men,Round 6,5,873_32a,32,1,,,,PWA
+256,299,Men,Round 6,5,873_33a,33,1,,,,PWA
+256,299,Men,Round 6,5,873_34a,34,1,,,,PWA
+256,299,Men,Round 6,5,873_35a,35,1,,,,PWA
+256,299,Men,Round 6,5,873_36a,36,1,,,,PWA
+256,296,Women,Round 1,0,872_1a,1 a,1,,,,PWA
+256,296,Women,Round 1,0,872_1b,1 b,1,,,,PWA
+256,296,Women,Round 1,0,872_2a,2 a,1,,,,PWA
+256,296,Women,Round 1,0,872_2b,2 b,1,,,,PWA
+256,296,Women,Round 1,0,872_3a,3 a,1,,,,PWA
+256,296,Women,Round 1,0,872_3b,3 b,1,,,,PWA
+256,296,Women,Round 1,0,872_4a,4 a,1,,,,PWA
+256,296,Women,Round 1,0,872_4b,4 b,1,,,,PWA
+256,296,Women,Round 1,0,872_5a,5 a,1,,,,PWA
+256,296,Women,Round 1,0,872_5b,5 b,1,,,,PWA
+256,296,Women,Round 1,0,872_6a,6 a,1,,,,PWA
+256,296,Women,Round 1,0,872_6b,6 b,1,,,,PWA
+256,296,Women,Round 1,0,872_7a,7 a,1,,,,PWA
+256,296,Women,Round 1,0,872_7b,7 b,1,,,,PWA
+256,296,Women,Round 1,0,872_8a,8 a,1,,,,PWA
+256,296,Women,Round 1,0,872_8b,8 b,1,,,,PWA
+256,296,Women,Round 2,1,872_9a,9 a,1,,,,PWA
+256,296,Women,Round 2,1,872_9b,9 b,1,,,,PWA
+256,296,Women,Round 2,1,872_10a,10 a,1,,,,PWA
+256,296,Women,Round 2,1,872_10b,10 b,1,,,,PWA
+256,296,Women,Round 2,1,872_11a,11 a,1,,,,PWA
+256,296,Women,Round 2,1,872_11b,11 b,1,,,,PWA
+256,296,Women,Round 2,1,872_12a,12 a,1,,,,PWA
+256,296,Women,Round 2,1,872_12b,12 b,1,,,,PWA
+256,296,Women,Round 3,2,872_13a,13 a,1,,,,PWA
+256,296,Women,Round 3,2,872_13b,13 b,1,,,,PWA
+256,296,Women,Round 3,2,872_14a,14 a,1,,,,PWA
+256,296,Women,Round 3,2,872_14b,14 b,1,,,,PWA
+256,296,Women,Round 4,3,872_15a,15 a,1,,,,PWA
+256,296,Women,Round 4,3,872_15b,15 b,1,,,,PWA
+256,296,Women,Round 5,4,872_16a,16,1,,,,PWA
+256,296,Women,Round 5,4,872_17a,17,1,,,,PWA
+257,309,Men,Round 1,0,886_1a,1,2,,,,PWA
+257,309,Men,Round 1,0,886_2a,2,2,,,,PWA
+257,309,Men,Round 1,0,886_3a,3,2,,,,PWA
+257,309,Men,Round 1,0,886_4a,4,2,,,,PWA
+257,309,Men,Round 1,0,886_5a,5,2,,,,PWA
+257,309,Men,Round 1,0,886_6a,6,2,,,,PWA
+257,309,Men,Round 1,0,886_7a,7,2,,,,PWA
+257,309,Men,Round 1,0,886_8a,8,2,,,,PWA
+257,309,Men,Round 2,1,886_9a,9,2,,,,PWA
+257,309,Men,Round 2,1,886_10a,10,2,,,,PWA
+257,309,Men,Round 2,1,886_11a,11,2,,,,PWA
+257,309,Men,Round 2,1,886_12a,12,2,,,,PWA
+257,309,Men,Round 3,2,886_13a,13,2,,,,PWA
+257,309,Men,Round 3,2,886_14a,14,2,,,,PWA
+257,309,Men,Round 4,3,886_15a,15,2,,,,PWA
+257,308,Women,Round 1,0,883_1a,1 a,1,,,,PWA
+257,308,Women,Round 1,0,883_1b,1 b,1,,,,PWA
+257,308,Women,Round 1,0,883_2a,2 a,1,,,,PWA
+257,308,Women,Round 1,0,883_2b,2 b,1,,,,PWA
+257,308,Women,Round 1,0,883_3a,3 a,1,,,,PWA
+257,308,Women,Round 1,0,883_3b,3 b,1,,,,PWA
+257,308,Women,Round 1,0,883_4a,4 a,1,,,,PWA
+257,308,Women,Round 1,0,883_4b,4 b,1,,,,PWA
+257,308,Women,Round 1,0,883_5a,5 a,1,,,,PWA
+257,308,Women,Round 1,0,883_5b,5 b,1,,,,PWA
+257,308,Women,Round 1,0,883_6a,6 a,1,,,,PWA
+257,308,Women,Round 1,0,883_6b,6 b,1,,,,PWA
+257,308,Women,Round 1,0,883_7a,7 a,1,,,,PWA
+257,308,Women,Round 1,0,883_7b,7 b,1,,,,PWA
+257,308,Women,Round 1,0,883_8a,8 a,1,,,,PWA
+257,308,Women,Round 1,0,883_8b,8 b,1,,,,PWA
+257,308,Women,Round 2,1,883_9a,9 a,1,,,,PWA
+257,308,Women,Round 2,1,883_9b,9 b,1,,,,PWA
+257,308,Women,Round 2,1,883_10a,10 a,1,,,,PWA
+257,308,Women,Round 2,1,883_10b,10 b,1,,,,PWA
+257,308,Women,Round 2,1,883_11a,11 a,1,,,,PWA
+257,308,Women,Round 2,1,883_11b,11 b,1,,,,PWA
+257,308,Women,Round 2,1,883_12a,12 a,1,,,,PWA
+257,308,Women,Round 2,1,883_12b,12 b,1,,,,PWA
+257,308,Women,Round 3,2,883_13a,13 a,1,,,,PWA
+257,308,Women,Round 3,2,883_13b,13 b,1,,,,PWA
+257,308,Women,Round 3,2,883_14a,14 a,1,,,,PWA
+257,308,Women,Round 3,2,883_14b,14 b,1,,,,PWA
+257,308,Women,Round 4,3,883_15a,15 a,1,,,,PWA
+257,308,Women,Round 4,3,883_15b,15 b,1,,,,PWA
+257,308,Women,Round 5,4,883_16a,16,1,,,,PWA
+257,308,Women,Round 5,4,883_17a,17,1,,,,PWA
+258,315,Women,Round 1,0,894_24a,24,2,,,,PWA
+258,315,Women,Round 1,0,894_25a,25,2,,,,PWA
+258,315,Women,Round 1,0,894_26a,26,2,,,,PWA
+258,315,Women,Round 1,0,894_27a,27,2,,,,PWA
+258,315,Women,Round 1,0,894_28a,28,2,,,,PWA
+258,315,Women,Round 1,0,894_29a,29,2,,,,PWA
+258,315,Women,Round 1,0,894_30a,30,2,,,,PWA
+258,315,Women,Round 1,0,894_31a,31,2,,,,PWA
+258,315,Women,Round 2,1,894_32a,32,2,,,,PWA
+258,315,Women,Round 2,1,894_33a,33,2,,,,PWA
+258,315,Women,Round 2,1,894_34a,34,2,,,,PWA
+258,315,Women,Round 2,1,894_35a,35,2,,,,PWA
+258,315,Women,Round 3,2,894_36a,36,2,,,,PWA
+258,315,Women,Round 3,2,894_37a,37,2,,,,PWA
+258,315,Women,Round 3,2,894_38a,38,2,,,,PWA
+258,315,Women,Round 3,2,894_39a,39,2,,,,PWA
+258,315,Women,Round 4,3,894_40a,40,2,,,,PWA
+258,315,Women,Round 4,3,894_41a,41,2,,,,PWA
+258,315,Women,Round 5,4,894_42a,42,2,,,,PWA
+258,315,Women,Round 5,4,894_43a,43,2,,,,PWA
+258,315,Women,Round 6,5,894_44a,44,2,,,,PWA
+258,315,Women,Round 7,6,894_45a,45,2,,,,PWA
+258,315,Women,Round 7,6,894_46a,46,2,,,,PWA
+258,315,Women,Round 7,6,894_47a,47,2,,,,PWA
+258,315,Women,Round 7,6,894_48a,48,2,,,,PWA
+258,315,Women,Round 7,6,894_49a,49,2,,,,PWA
+258,315,Women,Round 7,6,894_50a,50,2,,,,PWA
+258,314,Men,Round 1,0,891_24a,24,2,,,,PWA
+258,314,Men,Round 1,0,891_25a,25,2,,,,PWA
+258,314,Men,Round 1,0,891_26a,26,2,,,,PWA
+258,314,Men,Round 1,0,891_27a,27,2,,,,PWA
+258,314,Men,Round 1,0,891_28a,28,2,,,,PWA
+258,314,Men,Round 1,0,891_29a,29,2,,,,PWA
+258,314,Men,Round 1,0,891_30a,30,2,,,,PWA
+258,314,Men,Round 1,0,891_31a,31,2,,,,PWA
+258,314,Men,Round 2,1,891_32a,32,2,,,,PWA
+258,314,Men,Round 2,1,891_33a,33,2,,,,PWA
+258,314,Men,Round 2,1,891_34a,34,2,,,,PWA
+258,314,Men,Round 2,1,891_35a,35,2,,,,PWA
+258,314,Men,Round 3,2,891_36a,36,2,,,,PWA
+258,314,Men,Round 3,2,891_37a,37,2,,,,PWA
+258,314,Men,Round 3,2,891_38a,38,2,,,,PWA
+258,314,Men,Round 3,2,891_39a,39,2,,,,PWA
+258,314,Men,Round 4,3,891_40a,40,2,,,,PWA
+258,314,Men,Round 4,3,891_41a,41,2,,,,PWA
+258,314,Men,Round 5,4,891_42a,42,2,,,,PWA
+258,314,Men,Round 5,4,891_43a,43,2,,,,PWA
+258,314,Men,Round 6,5,891_44a,44,2,,,,PWA
+258,314,Men,Round 7,6,891_45a,45,2,,,,PWA
+258,314,Men,Round 7,6,891_46a,46,2,,,,PWA
+258,314,Men,Round 7,6,891_47a,47,2,,,,PWA
+258,314,Men,Round 7,6,891_48a,48,2,,,,PWA
+258,314,Men,Round 7,6,891_49a,49,2,,,,PWA
+258,314,Men,Round 7,6,891_50a,50,2,,,,PWA
+258,313,Women,Round 1,0,894_1a,1,2,,,,PWA
+258,313,Women,Round 1,0,894_2a,2,2,,,,PWA
+258,313,Women,Round 1,0,894_3a,3,2,,,,PWA
+258,313,Women,Round 1,0,894_4a,4,2,,,,PWA
+258,313,Women,Round 1,0,894_5a,5,2,,,,PWA
+258,313,Women,Round 1,0,894_6a,6,2,,,,PWA
+258,313,Women,Round 1,0,894_7a,7,2,,,,PWA
+258,313,Women,Round 1,0,894_8a,8,2,,,,PWA
+258,313,Women,Round 2,1,894_9a,9,2,,,,PWA
+258,313,Women,Round 2,1,894_10a,10,2,,,,PWA
+258,313,Women,Round 2,1,894_11a,11,2,,,,PWA
+258,313,Women,Round 2,1,894_12a,12,2,,,,PWA
+258,313,Women,Round 2,1,894_13a,13,2,,,,PWA
+258,313,Women,Round 2,1,894_14a,14,2,,,,PWA
+258,313,Women,Round 2,1,894_15a,15,2,,,,PWA
+258,313,Women,Round 2,1,894_16a,16,2,,,,PWA
+258,313,Women,Round 3,2,894_17a,17,2,,,,PWA
+258,313,Women,Round 3,2,894_18a,18,2,,,,PWA
+258,313,Women,Round 3,2,894_19a,19,2,,,,PWA
+258,313,Women,Round 3,2,894_20a,20,2,,,,PWA
+258,313,Women,Round 4,3,894_21a,21,2,,,,PWA
+258,313,Women,Round 4,3,894_22a,22,2,,,,PWA
+258,313,Women,Round 5,4,894_23a,23,2,,,,PWA
+258,312,Men,Round 1,0,891_1a,1,2,,,,PWA
+258,312,Men,Round 1,0,891_2a,2,2,,,,PWA
+258,312,Men,Round 1,0,891_3a,3,2,,,,PWA
+258,312,Men,Round 1,0,891_4a,4,2,,,,PWA
+258,312,Men,Round 1,0,891_5a,5,2,,,,PWA
+258,312,Men,Round 1,0,891_6a,6,2,,,,PWA
+258,312,Men,Round 1,0,891_7a,7,2,,,,PWA
+258,312,Men,Round 1,0,891_8a,8,2,,,,PWA
+258,312,Men,Round 2,1,891_9a,9,2,,,,PWA
+258,312,Men,Round 2,1,891_10a,10,2,,,,PWA
+258,312,Men,Round 2,1,891_11a,11,2,,,,PWA
+258,312,Men,Round 2,1,891_12a,12,2,,,,PWA
+258,312,Men,Round 2,1,891_13a,13,2,,,,PWA
+258,312,Men,Round 2,1,891_14a,14,2,,,,PWA
+258,312,Men,Round 2,1,891_15a,15,2,,,,PWA
+258,312,Men,Round 2,1,891_16a,16,2,,,,PWA
+258,312,Men,Round 3,2,891_17a,17,2,,,,PWA
+258,312,Men,Round 3,2,891_18a,18,2,,,,PWA
+258,312,Men,Round 3,2,891_19a,19,2,,,,PWA
+258,312,Men,Round 3,2,891_20a,20,2,,,,PWA
+258,312,Men,Round 4,3,891_21a,21,2,,,,PWA
+258,312,Men,Round 4,3,891_22a,22,2,,,,PWA
+258,312,Men,Round 5,4,891_23a,23,2,,,,PWA

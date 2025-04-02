@@ -143,7 +143,6 @@ def export_heat_progression_and_results(event_id, category_code):
     
     # Rename columns as specified
     final_df.rename(columns={
-        'source': 'PWA',
         'Heat ID': 'heat_id',
         'Category Code': 'eventDivisionId',
         'athlete_id': 'athleteId',
@@ -156,7 +155,7 @@ def export_heat_progression_and_results(event_id, category_code):
     final_df['needs'] = ''
     
     # Reorder columns to the desired order
-    final_df = final_df[['PWA', 'event_id', 'eventDivisionId', 'heat_id', 'athleteId',
+    final_df = final_df[['source', 'event_id', 'eventDivisionId', 'heat_id', 'athleteId',
                          'result_total', 'winBy', 'needs', 'place']]
     
     # Get unique heat IDs for the heat scores extraction
@@ -355,4 +354,4 @@ def export_heat_data(event_id, category_code):
 # Example usage:
 # Replace with your actual event_id and category_code values
 # if __name__ == '__main__':
-export_heat_data(363, 931)
+# export_heat_data(363, 931)
