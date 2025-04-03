@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 import time
 import pandas as pd
-import datetime
+from datetime import datetime
 
 base_url = "https://www.pwaworldtour.com/"
 initial_url = base_url + "index.php?id=7"
@@ -130,6 +130,8 @@ print("Data saved to pwa_sailors_raw.csv")
 
 ############### CLEAN PWA DATA ###############
 
+df = pd.read_csv("Athlete Database/Raw Data/pwa_sailors_raw.csv")
+
 # 1. Remove extra spaces from the 'name' column
 df["name"] = df["name"].astype(str).apply(lambda x: re.sub(r'\s+', ' ', x).strip())
 
@@ -147,7 +149,7 @@ def calc_year_of_birth(age):
     except (ValueError, TypeError):
         return None
 
-df["pwa_yob"] = df["age"].apply(calc_year_of_birth)
+df["yob"] = df["age"].apply(calc_year_of_birth)
 
 # Remove rows with a 'sail_no' that does not contain any digit 
 df = df[df["sail_no"].str.contains(r'\d', na=False)]
@@ -173,8 +175,13 @@ df = df[(df["name"] != "Marc") & (df["name"] != "Farrah Hall")]
 # Replace sail_no for athlete "Julian Salmonn" with "G-901"
 df.loc[df["name"] == "Julian Salmonn", "sail_no"] = "G-901"
 
+# prefix with pwa_
+df.columns = ['pwa_' + col for col in df.columns]
+df.rename(columns={'pwa_pwa_url': 'pwa_url'}, inplace=True)
 # Display the first few rows of the cleaned DataFrame
 print(df.head())
 
+
+
 # Write back the cleaned DataFrame to a new CSV file
-df.to_csv("pwa_sailors_clean.csv", index=False)
+df.to_csv("Athlete Database/Clean Data/pwa_sailors_clean.csv", index=False)
