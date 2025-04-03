@@ -1,10 +1,11 @@
 import pandas as pd
 from fuzzywuzzy import process
+import hashlib
 
 # Load data
-iwt_df = pd.read_csv('unique_athletes.csv')
-pwa_df = pd.read_csv('pwa_sailor_clean.csv')
-country_info = pd.read_csv('country_info_v2.csv')
+iwt_df = pd.read_csv('Athlete Database/Clean Data/iwt_sailors_clean.csv')
+pwa_df = pd.read_csv('Athlete Database/Clean Data/pwa_sailors_clean.csv')
+country_info = pd.read_csv('Athlete Database/Clean Data/country_info_v2.csv')
 
 
 #################################################################################
@@ -20,40 +21,36 @@ name_map = {
 
 # Apply the mapping to the relevant column in pwa_df
 # Adjust the column name if yours is different (e.g. "PWA_Name")
-pwa_df['Name'] = pwa_df['Name'].replace(name_map)
+pwa_df['pwa_name'] = pwa_df['pwa_name'].replace(name_map)
 
 ###################################################################################
 
 ####### COUNTRY MAPPING #####
 
 # Clean join keys: lowercase and strip whitespace
-pwa_df['Nationality_clean'] = pwa_df['Nationality'].astype(str).str.strip().str.lower()
-country_info['pwa_demonyms_clean'] = country_info['pwa_demonyms'].astype(str).str.strip().str.lower()
+pwa_df['pwa_nationality'] = pwa_df['pwa_nationality'].astype(str).str.strip().str.lower()
+country_info['pwa_demonyms'] = country_info['pwa_demonyms'].astype(str).str.strip().str.lower()
 
 # Perform left join to bring in country name (from 'Name' in country_info)
 pwa_df = pwa_df.merge(
-    country_info[['pwa_demonyms_clean', 'Name','live_heats_nationality']],
+    country_info[['pwa_demonyms', 'Name','live_heats_nationality']],
     how='left',
-    left_on='Nationality_clean',
-    right_on='pwa_demonyms_clean'
+    left_on='pwa_nationality',
+    right_on='pwa_demonyms'
 )
-
-# Remove any rows that were accidentally added (i.e. where 'Name_x' is NaN)
-pwa_df = pwa_df[pwa_df['Name_x'].notna()].copy()
 
 # Rename columns for clarity
 pwa_df.rename(columns={
-    'Name_x': 'Name',        # Sailor name
-    'Name_y': 'Country'      # Country name from country_info
+    'Name': 'country'      # Country name from country_info
 }, inplace=True)
 
 
 # Track what’s still available for matching
-available_names = pwa_df['Name'].dropna().unique().tolist()
+available_names = pwa_df['pwa_name'].dropna().unique().tolist()
 
 # Create lookup dictionaries
-pwa_birth_dict = dict(zip(pwa_df['Name'], pwa_df['Year of Birth']))
-pwa_nationality_dict = dict(zip(pwa_df['Name'], pwa_df['live_heats_nationality']))
+pwa_birth_dict = dict(zip(pwa_df['pwa_name'], pwa_df['pwa_yob']))
+pwa_nationality_dict = dict(zip(pwa_df['pwa_name'], pwa_df['live_heats_nationality']))
 
 # Results list
 results = []
@@ -62,18 +59,18 @@ results = []
 unmatched = []
 
 for _, row in iwt_df.iterrows():
-    name = row['name']
-    yob = row['year_of_birth']
+    name = row['iwt_name']
+    yob = row['iwt_yob']
     matched = False
 
     if name in available_names:
-        results.append({'name': name, 'best_match': name, 'score': 100, 'stage': 'Exact'})
+        results.append({'iwt_name': name, 'best_match': name, 'score': 100, 'stage': 'Exact'})
         available_names.remove(name)
         matched = True
     else:
         match, score = process.extractOne(name, available_names)
         if score >= 91:
-            results.append({'name': name, 'best_match': match, 'score': score, 'stage': 'Fuzzy91'})
+            results.append({'iwt_name': name, 'best_match': match, 'score': score, 'stage': 'Fuzzy91'})
             available_names.remove(match)
             matched = True
 
@@ -89,7 +86,7 @@ for name, yob, country, nationality in unmatched:
     if candidates:
         match, score = process.extractOne(name, candidates)
         if score >= 80:
-            results.append({'name': name, 'best_match': match, 'score': score, 'stage': 'YOB±1'})
+            results.append({'iwt_name': name, 'best_match': match, 'score': score, 'stage': 'YOB±1'})
             available_names.remove(match)
             continue
 
@@ -104,42 +101,64 @@ for name, yob, country, nationality in still_unmatched:
     if candidates:
         match, score = process.extractOne(name, candidates)
         if score >= 90:
-            results.append({'name': name, 'best_match': match, 'score': score, 'stage': 'CountryMatch'})
+            results.append({'iwt_name': name, 'best_match': match, 'score': score, 'stage': 'CountryMatch'})
             available_names.remove(match)
             continue
 
     # Final fallback
-    results.append({'name': name, 'best_match': None, 'score': 0, 'stage': 'Unmatched'})
+    results.append({'iwt_name': name, 'best_match': None, 'score': 0, 'stage': 'Unmatched'})
 
 # Convert results to DataFrame
 fuzzy_matches_df = pd.DataFrame(results)
 
 # Merge back with original iwt_df
-merged_df = fuzzy_matches_df.merge(iwt_df, how='left', left_on='name', right_on='name')
+merged_df = fuzzy_matches_df.merge(iwt_df, how='left', left_on='iwt_name', right_on='iwt_name')
 
 # Merge in selected pwa_df data using the matched name
-pwa_selected = pwa_df[['Name', 'Sail No', 'Profile URL', 'Year of Birth']].copy()
-pwa_selected.columns = ['best_match', 'pwa_Sail_No', 'pwa_Profile_URL', 'pwa_Year_of_Birth']
+pwa_selected = pwa_df[['pwa_name', 'pwa_sail_no', 'pwa_url', 'pwa_yob']].copy()
+pwa_selected.columns = ['best_match', 'pwa_sail_no', 'pwa_url', 'pwa_yob']
 
 # Merge to get PWA info
 merged_df = merged_df.merge(pwa_selected, how='left', on='best_match')
 
-# Prefix iwt columns
-merged_df = merged_df.rename(columns=lambda col: f"iwt_{col}" if col in iwt_df.columns else col)
 
 # Rename 'best_match' to 'pwa_Name' for consistency
-merged_df.rename(columns={'best_match': 'pwa_Name'}, inplace=True)
-
-# Reorder columns
-ordered_cols = ['iwt_name', 'pwa_Name', 'score', 'stage'] + \
-               [col for col in merged_df.columns if col.startswith('iwt_') and col != 'iwt_name'] + \
-               ['pwa_Sail_No', 'pwa_Profile_URL', 'pwa_Year_of_Birth']
-merged_df = merged_df[ordered_cols]
+merged_df.rename(columns={'best_match': 'pwa_name'}, inplace=True)
 
 
+## create unique sailor id based on iwt_name and iwt_yob
 
-# Save to CSV
-merged_df.to_csv('pwa_iwt_sailor_fuzzy_matches.csv', index=False)
+def generate_8_digit_id(name, year):
+    input_str = f"{name}_{year}"
+    hash_str = hashlib.md5(input_str.encode()).hexdigest()
+    id_int = int(hash_str, 16) % 100000000  # 8-digit range: 0 to 99,999,999
 
+    return f"{id_int:08d}"
+
+# Applying to the DataFrame:
+merged_df['id'] = merged_df.apply(lambda row: generate_8_digit_id(row['iwt_name'], row['iwt_yob']), axis=1)
+print(merged_df)
+
+# create sailor_pwa_iwt_id table
+
+sailor_pwa_iwt_ids = merged_df[['id', 'iwt_id', 'iwt_alt_id', 'pwa_sail_no']].copy()
+
+# Step 2: Pivot (melt) the columns 'a', 'b', 'c' into a long format
+sailor_pwa_iwt_ids = pd.melt(
+    sailor_pwa_iwt_ids, 
+    id_vars='id',          # Keep 'id' as the identifier column
+    value_vars=['iwt_id', 'iwt_alt_id', 'pwa_sail_no'],  # These columns will be pivoted into rows
+    var_name='org_id_type',   # Name for the new column that will contain 'a', 'b', 'c'
+    value_name='value'     # Name for the new column that will contain the corresponding values
+)
+
+# remove na's
+# Filter out rows where 'value' is NaN
+sailor_pwa_iwt_ids = sailor_pwa_iwt_ids.dropna(subset=['value'])
+
+# write sailor_pwa_iwt_ids and merged_df to csvs
+
+merged_df.to_csv('Athlete Database/Clean Data/pwa_iwt_sailor_combined_clean.csv', index=False)
+sailor_pwa_iwt_ids.to_csv('Athlete Database/Clean Data/pwa_iwt_sailor_link_table.csv', index=False)
 
 
