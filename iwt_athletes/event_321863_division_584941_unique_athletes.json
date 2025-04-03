@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1166082",
+        "name": "Ryu Noguchi",
+        "image": null,
+        "dob": "2007-04-21",
+        "nationality": "Japan"
+    },
+    {
+        "id": "1170311",
+        "name": "Yuki Takanashi",
+        "image": null,
+        "dob": "2004-10-22",
+        "nationality": "Japan"
+    },
+    {
+        "id": "1546281",
+        "name": "Rui Ueta",
+        "image": "https://res.cloudinary.com/liveheats-com/image/facebook/w_128,h_128/9646389778751801.webp",
+        "dob": "2010-07-29",
+        "nationality": "Japan"
+    },
+    {
+        "id": "1167311",
+        "name": "Ryoma Sugi",
+        "image": "https://liveheats.com/images/10ef4cf1-5cd0-4483-a893-3799cd0f8748.webp",
+        "dob": "2010-01-21",
+        "nationality": "Japan"
+    },
+    {
+        "id": "1168576",
+        "name": "Ryusei Kakegawa",
+        "image": null,
+        "dob": "2010-10-20",
+        "nationality": "Japan"
+    },
+    {
+        "id": "1541677",
+        "name": "Jahdan Tyger",
+        "image": "https://liveheats.com/images/7283f6e8-4fea-452a-8ff8-7c24335a8656.webp",
+        "dob": "2025-02-04",
+        "nationality": "Brazil"
+    },
+    {
+        "id": "1502301",
+        "name": "Rysei Kakegawa",
+        "image": null,
+        "dob": null,
+        "nationality": "Japan"
+    }
+]

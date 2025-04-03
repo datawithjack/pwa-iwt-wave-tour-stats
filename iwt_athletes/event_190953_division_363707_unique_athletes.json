@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1076672",
+        "name": "Shawna Cropas",
+        "image": null,
+        "dob": null,
+        "nationality": "Canada"
+    },
+    {
+        "id": "903847",
+        "name": "Svenja Chudoba",
+        "image": "https://www.liveheats.com/images/74061c09-d8cb-48f5-91fe-25e3b27ed2d7.webp",
+        "dob": "1990-10-09",
+        "nationality": "Switzerland"
+    },
+    {
+        "id": "1076674",
+        "name": "Christina Tsakona",
+        "image": null,
+        "dob": "1993-10-18",
+        "nationality": "Greece"
+    },
+    {
+        "id": "1078967",
+        "name": "Colette Guadagnino",
+        "image": null,
+        "dob": null,
+        "nationality": null
+    }
+]

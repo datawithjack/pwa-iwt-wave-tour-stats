@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1166082",
+        "name": "Ryu Noguchi",
+        "image": null,
+        "dob": "2007-04-21",
+        "nationality": "Japan"
+    },
+    {
+        "id": "1224909",
+        "name": "Markiewicz Francisco",
+        "image": null,
+        "dob": null,
+        "nationality": "Argentina"
+    },
+    {
+        "id": "1213112",
+        "name": "Ismael Labbé",
+        "image": null,
+        "dob": "2010-07-14",
+        "nationality": "Chile"
+    },
+    {
+        "id": "1208831",
+        "name": "Loïc Antoine Harfagar Vita",
+        "image": null,
+        "dob": "2009-09-01",
+        "nationality": "Chile"
+    },
+    {
+        "id": "1206491",
+        "name": "Joaquín Prat",
+        "image": "https://www.liveheats.com/images/d557b938-de1c-4274-8440-89b2297b3824.webp",
+        "dob": "2010-03-29",
+        "nationality": "Chile"
+    }
+]

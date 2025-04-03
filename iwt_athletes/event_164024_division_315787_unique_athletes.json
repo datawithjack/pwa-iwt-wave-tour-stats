@@ -1,0 +1,93 @@
+[
+    {
+        "id": "1202340",
+        "name": "Felix Bermudez",
+        "image": "https://liveheats.com/images/f60b97bd-0d91-4a4c-8384-b3cc70443549.webp",
+        "dob": "1981-10-03",
+        "nationality": "Puerto Rico"
+    },
+    {
+        "id": "1205619",
+        "name": "Octavio cavalaro",
+        "image": null,
+        "dob": "1989-05-02",
+        "nationality": "Argentina"
+    },
+    {
+        "id": "1199509",
+        "name": "Charlie Rovira",
+        "image": null,
+        "dob": "1973-07-31",
+        "nationality": "Puerto Rico"
+    },
+    {
+        "id": "791485",
+        "name": "Zack Coleman",
+        "image": null,
+        "dob": null,
+        "nationality": "Australia"
+    },
+    {
+        "id": "999815",
+        "name": "Omri Tal",
+        "image": null,
+        "dob": "1992-08-11",
+        "nationality": "Israel"
+    },
+    {
+        "id": "1206477",
+        "name": "Nelson Perez",
+        "image": "https://liveheats.com/images/097b1745-3c73-48a9-82ed-c188ea329664.webp",
+        "dob": "1969-02-25",
+        "nationality": "Puerto Rico"
+    },
+    {
+        "id": "999813",
+        "name": "Alonso Vega",
+        "image": null,
+        "dob": null,
+        "nationality": "Peru"
+    },
+    {
+        "id": "999817",
+        "name": "Yegor Popretinskiy",
+        "image": null,
+        "dob": null,
+        "nationality": "Russian Federation"
+    },
+    {
+        "id": "791455",
+        "name": "Oliver Barta",
+        "image": null,
+        "dob": null,
+        "nationality": "Australia"
+    },
+    {
+        "id": "1197966",
+        "name": "Santiago Lirosi",
+        "image": "https://www.liveheats.com/images/ee16da73-1912-4354-834b-010addd2c4b4.webp",
+        "dob": "1994-02-09",
+        "nationality": "Argentina"
+    },
+    {
+        "id": "1000711",
+        "name": "David Zeni",
+        "image": null,
+        "dob": null,
+        "nationality": "Canada"
+    },
+    {
+        "id": "1557058",
+        "name": "Francisco Jaume",
+        "image": null,
+        "dob": "1967-05-15",
+        "nationality": "Puerto Rico"
+    },
+    {
+        "id": "566400",
+        "name": "Paco Stuven",
+        "image": null,
+        "dob": null,
+        "nationality": "Chile"
+    }
+]

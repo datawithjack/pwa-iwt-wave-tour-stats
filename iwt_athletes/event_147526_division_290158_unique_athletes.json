@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1576025",
+        "name": "Tobias Bjørnaa",
+        "image": "https://www.liveheats.com/images/9860b83c-b1a9-491f-bcb2-25f0ac04bbeb.webp",
+        "dob": "2006-03-31",
+        "nationality": "Denmark"
+    },
+    {
+        "id": "1576322",
+        "name": "Anton Richter",
+        "image": "https://www.liveheats.com/images/ff7ae196-497c-4ef2-a362-464b74ca4bfa.webp",
+        "dob": "2006-03-18",
+        "nationality": "Germany"
+    },
+    {
+        "id": "923888",
+        "name": "Emil Skov Nielsen",
+        "image": null,
+        "dob": null,
+        "nationality": "Denmark"
+    },
+    {
+        "id": "923886",
+        "name": "Bjørn Olesen",
+        "image": null,
+        "dob": null,
+        "nationality": "Denmark"
+    },
+    {
+        "id": "923889",
+        "name": "Isabel Eie",
+        "image": null,
+        "dob": null,
+        "nationality": null
+    },
+    {
+        "id": "923887",
+        "name": "Peter Gobisch",
+        "image": null,
+        "dob": null,
+        "nationality": "Germany"
+    },
+    {
+        "id": "923882",
+        "name": "Lars Bubelach",
+        "image": null,
+        "dob": null,
+        "nationality": "Germany"
+    },
+    {
+        "id": "923883",
+        "name": "Hannes Gobisch",
+        "image": null,
+        "dob": null,
+        "nationality": "Germany"
+    },
+    {
+        "id": "923884",
+        "name": "Leo Richter",
+        "image": null,
+        "dob": null,
+        "nationality": "Germany"
+    }
+]

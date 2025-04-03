@@ -1,0 +1,79 @@
+[
+    {
+        "id": "1169635",
+        "name": "Liam Dunkerbeck",
+        "image": "https://www.liveheats.com/images/14845883-c8bd-408e-9538-89f82eff2fc5.webp",
+        "dob": "2004-02-11",
+        "nationality": "Spain"
+    },
+    {
+        "id": "30676",
+        "name": "Jake Ghiretti",
+        "image": null,
+        "dob": "2006-12-23",
+        "nationality": "Australia"
+    },
+    {
+        "id": "776006",
+        "name": "Oliver Desforges",
+        "image": null,
+        "dob": null,
+        "nationality": "Australia"
+    },
+    {
+        "id": "1576025",
+        "name": "Tobias Bjørnaa",
+        "image": "https://www.liveheats.com/images/9860b83c-b1a9-491f-bcb2-25f0ac04bbeb.webp",
+        "dob": "2006-03-31",
+        "nationality": "Denmark"
+    },
+    {
+        "id": "1576322",
+        "name": "Anton Richter",
+        "image": "https://www.liveheats.com/images/ff7ae196-497c-4ef2-a362-464b74ca4bfa.webp",
+        "dob": "2006-03-18",
+        "nationality": "Germany"
+    },
+    {
+        "id": "923485",
+        "name": "Samuele Ferraro",
+        "image": null,
+        "dob": null,
+        "nationality": "Italy"
+    },
+    {
+        "id": "923882",
+        "name": "Lars Bubelach",
+        "image": null,
+        "dob": null,
+        "nationality": "Germany"
+    },
+    {
+        "id": "923883",
+        "name": "Hannes Gobisch",
+        "image": null,
+        "dob": null,
+        "nationality": "Germany"
+    },
+    {
+        "id": "1198581",
+        "name": "Kymani Laurent",
+        "image": "https://liveheats.com/images/71a2ed0a-0eda-4af2-89e1-7a17afbb2a7a.webp",
+        "dob": "2005-08-31",
+        "nationality": "France"
+    },
+    {
+        "id": "1065219",
+        "name": "Quinn Aurichr",
+        "image": null,
+        "dob": null,
+        "nationality": "Australia"
+    },
+    {
+        "id": "1396558",
+        "name": "Marlon Maethner",
+        "image": "https://www.liveheats.com/images/3d9afb0c-ad54-497f-a984-bcbd2facc673.webp",
+        "dob": "2004-11-03",
+        "nationality": "Germany"
+    }
+]

@@ -1905,29 +1905,6 @@
                     "currentScheduleIndex": 0
                 },
                 {
-                    "id": "321865",
-                    "name": "CHILE: 5 STAR Surazo Infernal World Cup",
-                    "status": "on_hold",
-                    "date": "2025-03-24T11:00:00Z",
-                    "daysWindow": 14,
-                    "hideFinals": null,
-                    "series": [
-                        {
-                            "id": "45135",
-                            "name": "2025 WORLD WAVE RANKINGS"
-                        },
-                        {
-                            "id": "42825",
-                            "name": "2025 Americas Wave Tour Rankings"
-                        },
-                        {
-                            "id": "30055",
-                            "name": "WORLD: Rolling Wave Rankings - seeding"
-                        }
-                    ],
-                    "currentScheduleIndex": 75
-                },
-                {
                     "id": "266588",
                     "name": "Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp",
                     "status": "results_published",
@@ -1949,6 +1926,29 @@
                         }
                     ],
                     "currentScheduleIndex": 0
+                },
+                {
+                    "id": "321865",
+                    "name": "CHILE: 5 STAR Surazo Infernal World Cup",
+                    "status": "on_hold",
+                    "date": "2025-03-24T11:00:00Z",
+                    "daysWindow": 14,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 87
                 }
             ]
         }

@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1329185",
+        "name": "Nicolas Recordon",
+        "image": null,
+        "dob": "1958-12-07",
+        "nationality": "Chile"
+    },
+    {
+        "id": "1347244",
+        "name": "Ricardo Gonzales",
+        "image": null,
+        "dob": null,
+        "nationality": "Chile"
+    },
+    {
+        "id": "1206477",
+        "name": "Nelson Perez",
+        "image": "https://liveheats.com/images/097b1745-3c73-48a9-82ed-c188ea329664.webp",
+        "dob": "1969-02-25",
+        "nationality": "Puerto Rico"
+    },
+    {
+        "id": "566400",
+        "name": "Paco Stuven",
+        "image": null,
+        "dob": null,
+        "nationality": "Chile"
+    }
+]

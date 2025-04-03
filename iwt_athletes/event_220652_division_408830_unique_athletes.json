@@ -1,0 +1,65 @@
+[
+    {
+        "id": "817916",
+        "name": "Takuma Sugi",
+        "image": "https://liveheats.com/images/cfafe559-ce51-4d8a-84c6-2b12b55885c7.webp",
+        "dob": "2002-07-23",
+        "nationality": "Japan"
+    },
+    {
+        "id": "835109",
+        "name": "Takara Ishii 石井孝良",
+        "image": "https://www.liveheats.com/images/4c3d715d-31d0-4d4d-b0e2-825c413c7e8c.webp",
+        "dob": "2001-01-13",
+        "nationality": "Japan"
+    },
+    {
+        "id": "844750",
+        "name": "Hayata Ishiii",
+        "image": "https://www.liveheats.com/images/85f187f0-6998-4d32-9d72-d31bb147620e.webp",
+        "dob": "2005-05-16",
+        "nationality": "Japan"
+    },
+    {
+        "id": "1166082",
+        "name": "Ryu Noguchi",
+        "image": null,
+        "dob": "2007-04-21",
+        "nationality": "Japan"
+    },
+    {
+        "id": "1166133",
+        "name": "Yuma Itabisashi",
+        "image": null,
+        "dob": "1991-12-24",
+        "nationality": "Japan"
+    },
+    {
+        "id": "1176483",
+        "name": "Yuma Kobayashi",
+        "image": null,
+        "dob": "1991-04-18",
+        "nationality": "Japan"
+    },
+    {
+        "id": "1181562",
+        "name": "Yushi Shirakata",
+        "image": "https://liveheats.com/images/048efebd-c75d-441a-9e57-f7a71a264b31.webp",
+        "dob": "1996-01-31",
+        "nationality": "Japan"
+    },
+    {
+        "id": "532107",
+        "name": "Masahiro Yoshitake",
+        "image": null,
+        "dob": null,
+        "nationality": "Japan"
+    },
+    {
+        "id": "1171678",
+        "name": "Rita hashimoto",
+        "image": null,
+        "dob": "2003-11-12",
+        "nationality": "Japan"
+    }
+]

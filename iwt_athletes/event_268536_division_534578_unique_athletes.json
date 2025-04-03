@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1438241",
+        "name": "Victor tagle",
+        "image": null,
+        "dob": "1964-01-30",
+        "nationality": "Chile"
+    },
+    {
+        "id": "1437352",
+        "name": "Carlos Otero",
+        "image": null,
+        "dob": "1964-09-12",
+        "nationality": "Chile"
+    },
+    {
+        "id": "1329185",
+        "name": "Nicolas Recordon",
+        "image": null,
+        "dob": "1958-12-07",
+        "nationality": "Chile"
+    },
+    {
+        "id": "1347244",
+        "name": "Ricardo Gonzales",
+        "image": null,
+        "dob": null,
+        "nationality": "Chile"
+    },
+    {
+        "id": "566400",
+        "name": "Paco Stuven",
+        "image": null,
+        "dob": null,
+        "nationality": "Chile"
+    },
+    {
+        "id": "566402",
+        "name": "Jorge Martinic S",
+        "image": null,
+        "dob": null,
+        "nationality": null
+    },
+    {
+        "id": "1437350",
+        "name": "Paco Stuven",
+        "image": "https://www.liveheats.com/images/0005c35e-8400-4ab0-951b-bcc4e9025c3b.webp",
+        "dob": "1969-06-28",
+        "nationality": "Chile"
+    }
+]
