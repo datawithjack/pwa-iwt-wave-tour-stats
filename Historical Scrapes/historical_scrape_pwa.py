@@ -17,6 +17,9 @@ from selenium.common.exceptions import WebDriverException
 
 # NEW: Import the progression/results functions
 import functions_pwa_progression_results_scores as fpprs
+# NEW: Import the final rank functions from new_pwa_final_rank
+import new_pwa_final_rank
+
 
 # Set up WebDriver without manually specifying the path
 chrome_options = Options()
@@ -33,7 +36,7 @@ url = "https://www.pwaworldtour.com/index.php?id=2310"
 driver.get(url)
 
 # =============================================================================
-# Get URLs and category codes for all events
+# Get URLs, results codes,  category codes for all events
 # =============================================================================
 
 # Use JavaScript to click the dropdown toggle
@@ -127,15 +130,21 @@ for event in event_data_by_year:
     except IndexError:
         print(f"Could not extract event_id from href: {event_href}")
         continue
-    
-    # Create the new URL to visit
+
+    # NEW BLOCK: Collect final rank codes and labels using the new function
+    try:
+        final_rank_data = new_pwa_final_rank.extract_wave_links_with_labels(event_id)
+        event['final_rank'] = final_rank_data  # This stores the list of dicts with 'label' and 'href'
+    except Exception as e:
+        print(f"Error collecting final rank data for event {event['event_name']} (ID: {event_id}): {e}")
+        event['final_rank'] = []  # Save an empty list if extraction fails
+
+    # Existing code: Build and visit the URL to extract ladder (elimination) data
     new_url = f"https://www.pwaworldtour.com/index.php?id=1900&type=21&tx_pwaevent_pi1%5Baction%5D=ladders&tx_pwaevent_pi1%5BshowUid%5D={event_id}"
     event['ladder_url'] = new_url
-    
-    # Visit the new URL
     driver.get(new_url)
     
-    # Check if the "No elimination ladders" message is present
+    # Check for "No elimination ladders" message and process ladder links
     try:
         no_ladders_msg = driver.find_elements(By.CSS_SELECTOR, ".no-entries-found-msg")
         if no_ladders_msg:
@@ -145,38 +154,32 @@ for event in event_data_by_year:
         print(f"Error checking for 'no ladders' message for event: {event['event_name']} in year {event['year']}, skipping to next event.")
         continue
 
-    # Wait for the page to load and for the ladder or category data to be visible
     try:
         ladder_links = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "a[href*='tx_pwaevent_pi1%5BshowUid%5D']")))
-
         for ladder_link in ladder_links:
             ladder_href = ladder_link.get_attribute('href')
             try:
                 category_code = ladder_href.split('%5Bladder%5D=')[-1].split('&')[0]  # Extract category code
                 elimination_name = ladder_link.text.strip()  # Extract elimination name from the <a> tag text
                 print(f"Category Code: {category_code}, Elimination Name: {elimination_name}")
-                # Store category codes and elimination names in the event dictionary
                 event.setdefault('category_codes', []).append(category_code)
                 event.setdefault('elimination_names', []).append(elimination_name)
             except IndexError:
                 print(f"Could not extract category_code from href: {ladder_href}")
                 continue
-    
     except WebDriverException:
         print(f"Failed to load or find ladder links for event: {event['event_name']} in year {event['year']}, skipping to next.")
         continue
 
-# Optional: print out the event data with category codes
-for event in event_data_by_year:
-    print(event)
+
 
 # =============================================================================
 # Filter Final Output
 # =============================================================================
 # Export event data to CSV (no additional filtering needed)
-csv_file = "pwa_event_data.csv"
+csv_file = "Historical Scrapes/Data/Raw/pwa_event_data_raw.csv"
 # Filter events to include only those with at least one category code
-filtered_events = [event for event in event_data_by_year if event.get('category_codes')]
+filtered_events = [event for event in event_data_by_year if event.get('final_rank')]
 
 if filtered_events:
     # Collect all unique keys from the dictionaries in filtered_events
@@ -198,6 +201,118 @@ if filtered_events:
     print(f"Data successfully written to {csv_file}")
 else:
     print("No event data available to write to CSV.")
+
+# =============================================================================
+# Clean PWA EVENT EXPORT
+# =============================================================================
+
+import pandas as pd
+import ast
+from urllib.parse import urlparse, parse_qs
+
+def clean_csv(input_file, output_file):
+    # Read the CSV file
+    df = pd.read_csv(input_file)
+    
+    # Expand final_rank column into final_rank_label and final_rank_code columns
+    new_final_rank_rows = []
+    for _, row in df.iterrows():
+        try:
+            # Convert the string representation into a Python list of dictionaries
+            final_rank_list = ast.literal_eval(row['final_rank'])
+            # For each dictionary in the list, extract the desired information
+            for rank in final_rank_list:
+                label = rank.get('label')
+                href = rank.get('href')
+                code = None
+                if href:
+                    parsed_url = urlparse(href)
+                    params = parse_qs(parsed_url.query)
+                    # Extract the discipline code from the parameter "tx_pwaevent_pi1[eventDiscipline]"
+                    code = params.get('tx_pwaevent_pi1[eventDiscipline]', [None])[0]
+                # Create a copy of the row and add the new columns
+                new_row = row.copy()
+                new_row['final_rank_label'] = label
+                new_row['final_rank_code'] = code
+                new_final_rank_rows.append(new_row)
+        except Exception as e:
+            # In case of any error, add a row with None values for the new columns
+            new_row = row.copy()
+            new_row['final_rank_label'] = None
+            new_row['final_rank_code'] = None
+            new_final_rank_rows.append(new_row)
+    df = pd.DataFrame(new_final_rank_rows)
+    
+    # Clean the 'category_codes' column:
+    # - Split on commas, strip whitespace, and remove extraneous characters
+    df['category_codes'] = (
+        df['category_codes']
+        .fillna('')
+        .astype(str)
+        .apply(lambda x: [
+            item.replace("'", "").replace("[", "").replace("]", "").strip() 
+            for item in x.split(',')
+        ])
+    )
+    
+    # Clean the 'elimination_names' column:
+    # - Split on commas and strip whitespace
+    df['elimination_names'] = (
+        df['elimination_names']
+        .fillna('')
+        .astype(str)
+        .apply(lambda x: [
+            item.replace("'", "").replace("[", "").replace("]", "").strip() 
+            for item in x.split(',')
+        ])
+    )
+    
+    # Keep only rows where the number of category_codes matches the number of elimination_names
+    df = df[df.apply(lambda row: len(row['category_codes']) == len(row['elimination_names']), axis=1)]
+    
+    # For each row, zip the two lists and create a new row for each pair
+    new_rows = []
+    for _, row in df.iterrows():
+        for cat, elim in zip(row['category_codes'], row['elimination_names']):
+            new_row = row.copy()
+            new_row['category_codes'] = cat
+            new_row['elimination_names'] = elim
+            new_rows.append(new_row)
+    
+    new_df = pd.DataFrame(new_rows)
+    
+    # Filter rows to keep only those where 'elimination_names' contains "wave" (case insensitive)
+    new_df = new_df[new_df['elimination_names'].str.contains('wave', case=False, na=False)]
+    
+    # Additional gender filter:
+    # For 'men', catch both "men" and "mens" (word boundary ensures "women" isn't matched)
+    men_condition = (~new_df['elimination_names'].str.contains(r'\bmen(s)?\b', case=False, regex=True, na=False)) | \
+                    (new_df['final_rank_label'].str.contains(r'\bmen(s)?\b', case=False, regex=True, na=False))
+    # For 'women', catch both "women" and "womens"
+    women_condition = (~new_df['elimination_names'].str.contains(r'\bwomen(s)?\b', case=False, regex=True, na=False)) | \
+                      (new_df['final_rank_label'].str.contains(r'\bwomen(s)?\b', case=False, regex=True, na=False))
+    
+    new_df = new_df[men_condition & women_condition]
+    
+    # Extract new column 'sex' from final_rank_label (either "Men" or "Women")
+    new_df['sex'] = new_df['final_rank_label'].str.extract(r'(?i)\b(men|women)\b')[0].str.capitalize()
+    
+    # Drop the original final_rank column
+    new_df = new_df.drop(columns=['final_rank'])
+    
+    # Append "pwa_" prefix to all column names
+    new_df.columns = ['pwa_' + col for col in new_df.columns]
+    
+    # Write the cleaned DataFrame to a new CSV file
+    new_df.to_csv(output_file, index=False)
+
+if __name__ == '__main__':
+    input_csv = 'Historical Scrapes/Data/Raw/pwa_event_data_raw.csv'
+    output_csv = 'Historical Scrapes/Data/Clean/pwa_event_data_cleaned.csv'
+    clean_csv(input_csv, output_csv)
+
+
+
 
 # =============================================================================
 # Extract Heat Data Using PWA Progression/Results Functions

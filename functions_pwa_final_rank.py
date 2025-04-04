@@ -2,19 +2,19 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-def extract_pwa_results(event_id, category_code):
+def extract_pwa_results(event_id, discipline_code):
     """
     Extracts event results from the PWA XML page and returns a DataFrame.
 
     Parameters:
       event_id (str/int): The event identifier supplied to the function.
-      category_code (str/int): The category code, used in the URL and stored as eventDivisionid.
+      discipline_code (str/int): The discipline code, used in the URL as eventDivisionid.
 
     Returns:
       pd.DataFrame: A DataFrame with columns: source, event_id, eventDivisionid, Name, sail_no, athlete_id, place, Points.
     """
-    # Build the URL with event_id and category_code
-    url = f"https://www.pwaworldtour.com/index.php?id=193&type=21&tx_pwaevent_pi1%5Baction%5D=results&tx_pwaevent_pi1%5BshowUid%5D={event_id}.xml&tx_pwaevent_pi1%5BeventDiscipline%5D={category_code}"
+    # Build the URL with event_id and discipline_code
+    url = f"https://www.pwaworldtour.com/index.php?id=193&type=21&tx_pwaevent_pi1%5Baction%5D=results&tx_pwaevent_pi1%5BshowUid%5D={event_id}.xml&tx_pwaevent_pi1%5BeventDiscipline%5D={discipline_code}"
     
     # Request the XML/HTML content from the URL
     response = requests.get(url)
@@ -45,7 +45,7 @@ def extract_pwa_results(event_id, category_code):
         sail_no = cols[2].get_text(strip=True)
         points = cols[5].get_text(strip=True)
         
-        # Split Name on the first space and combine the second part with sail_no to create athlete_id
+        # Create athlete_id by combining parts of the name with sail_no
         parts = name.split(" ", 1)
         if len(parts) > 1:
             athlete_id = f"{parts[1]}_{sail_no}"
@@ -53,12 +53,12 @@ def extract_pwa_results(event_id, category_code):
             athlete_id = f"{name}_{sail_no}"
         
         record = {
-            "source": "PWA",               # Inserted column at the start
-            "event_id": event_id,          # Supplied event_id
-            "eventDivisionid": category_code,  # category_code stored as eventDivisionid
+            "source": "PWA",                   # Inserted column at the start
+            "event_id": event_id,              # Supplied event_id
+            "eventDivisionid": discipline_code,  # discipline_code used as eventDivisionid
             "Name": name,
             "sail_no": sail_no,
-            "athlete_id": athlete_id,      # New athlete_id column
+            "athlete_id": athlete_id,          # New athlete_id column
             "place": place,
             "Points": points
         }
@@ -72,27 +72,31 @@ def extract_pwa_results(event_id, category_code):
     return df
 
 if __name__ == "__main__":
-    # Read the event data CSV which should contain columns: event_id and category_code
-    event_data = pd.read_csv("pwa_event_data_cleaned.csv")
+    # Read the cleaned event data CSV with prefixed columns
+    event_data = pd.read_csv("Historical Scrapes/Data/Clean/pwa_event_data_cleaned.csv")
     
-    # List to store DataFrame results from each event/category pair
+    # Deduplicate rows based on the pwa_event_id and pwa_final_rank_code pairs
+    dedup_event_data = event_data.drop_duplicates(subset=['pwa_event_id', 'pwa_final_rank_code'])
+    print(f"Deduplicated to {len(dedup_event_data)} unique event/discipline pairs out of {len(event_data)} total rows.")
+    
+    # List to store DataFrame results from each event/discipline pair
     df_list = []
     
-    # Loop through each event_id and category_code
-    for idx, row in event_data.iterrows():
-        event_id = row['event_id']
-        category_code = row['category_codes']
+    # Loop through each row using the new column names: pwa_event_id and pwa_final_rank_code
+    for idx, row in dedup_event_data.iterrows():
+        event_id = row['pwa_event_id']
+        discipline_code = row['pwa_final_rank_code']
         try:
-            df_result = extract_pwa_results(event_id, category_code)
+            df_result = extract_pwa_results(event_id, discipline_code)
             df_list.append(df_result)
-            print(f"Processed event_id: {event_id}, category_code: {category_code}")
+            print(f"Processed pwa_event_id: {event_id}, pwa_final_rank_code: {discipline_code}")
         except Exception as e:
-            print(f"Error processing event_id: {event_id}, category_code: {category_code}: {e}")
+            print(f"Error processing pwa_event_id: {event_id}, pwa_final_rank_code: {discipline_code}: {e}")
     
     # Combine all results into a single DataFrame and save as CSV
     if df_list:
         final_df = pd.concat(df_list, ignore_index=True)
-        final_df.to_csv("pwa_final_ranks.csv", index=False)
-        print("Saved final results to pwa_final_ranks.csv")
+        final_df.to_csv("Historical Scrapes/Data/Raw/pwa_final_ranks_raw.csv", index=False)
+        print("Saved final results to Historical Scrapes/Data/Raw/pwa_final_ranks_raw.csv")
     else:
         print("No results to save.")
