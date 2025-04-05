@@ -202,19 +202,19 @@ if filtered_events:
 else:
     print("No event data available to write to CSV.")
 
+
 # =============================================================================
-# Clean PWA EVENT EXPORT
+# PWA EVENT CLEANING
 # =============================================================================
 
-import pandas as pd
 import ast
 from urllib.parse import urlparse, parse_qs
+df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_event_data_raw.csv')
 
-def clean_csv(input_file, output_file):
-    # Read the CSV file
-    df = pd.read_csv(input_file)
-    
+def clean_event_df(df, output_file=None):
+    # -------------------------------
     # Expand final_rank column into final_rank_label and final_rank_code columns
+    # -------------------------------
     new_final_rank_rows = []
     for _, row in df.iterrows():
         try:
@@ -230,47 +230,48 @@ def clean_csv(input_file, output_file):
                     params = parse_qs(parsed_url.query)
                     # Extract the discipline code from the parameter "tx_pwaevent_pi1[eventDiscipline]"
                     code = params.get('tx_pwaevent_pi1[eventDiscipline]', [None])[0]
-                # Create a copy of the row and add the new columns
                 new_row = row.copy()
                 new_row['final_rank_label'] = label
                 new_row['final_rank_code'] = code
                 new_final_rank_rows.append(new_row)
         except Exception as e:
-            # In case of any error, add a row with None values for the new columns
+            # In case of error, set the new columns to None
             new_row = row.copy()
             new_row['final_rank_label'] = None
             new_row['final_rank_code'] = None
             new_final_rank_rows.append(new_row)
     df = pd.DataFrame(new_final_rank_rows)
     
+    # -------------------------------
     # Clean the 'category_codes' column:
     # - Split on commas, strip whitespace, and remove extraneous characters
+    # -------------------------------
     df['category_codes'] = (
         df['category_codes']
         .fillna('')
         .astype(str)
-        .apply(lambda x: [
-            item.replace("'", "").replace("[", "").replace("]", "").strip() 
-            for item in x.split(',')
-        ])
+        .apply(lambda x: [item.replace("'", "").replace("[", "").replace("]", "").strip() 
+                            for item in x.split(',')])
     )
     
+    # -------------------------------
     # Clean the 'elimination_names' column:
     # - Split on commas and strip whitespace
+    # -------------------------------
     df['elimination_names'] = (
         df['elimination_names']
         .fillna('')
         .astype(str)
-        .apply(lambda x: [
-            item.replace("'", "").replace("[", "").replace("]", "").strip() 
-            for item in x.split(',')
-        ])
+        .apply(lambda x: [item.replace("'", "").replace("[", "").replace("]", "").strip() 
+                            for item in x.split(',')])
     )
     
     # Keep only rows where the number of category_codes matches the number of elimination_names
     df = df[df.apply(lambda row: len(row['category_codes']) == len(row['elimination_names']), axis=1)]
     
-    # For each row, zip the two lists and create a new row for each pair
+    # -------------------------------
+    # Expand each row so that each combination of category and elimination name becomes its own row
+    # -------------------------------
     new_rows = []
     for _, row in df.iterrows():
         for cat, elim in zip(row['category_codes'], row['elimination_names']):
@@ -278,39 +279,44 @@ def clean_csv(input_file, output_file):
             new_row['category_codes'] = cat
             new_row['elimination_names'] = elim
             new_rows.append(new_row)
-    
     new_df = pd.DataFrame(new_rows)
     
+    # -------------------------------
     # Filter rows to keep only those where 'elimination_names' contains "wave" (case insensitive)
+    # -------------------------------
     new_df = new_df[new_df['elimination_names'].str.contains('wave', case=False, na=False)]
     
+    # -------------------------------
     # Additional gender filter:
-    # For 'men', catch both "men" and "mens" (word boundary ensures "women" isn't matched)
+    # - For "men", catch both "men" and "mens" (ensuring "women" isn't matched) via final_rank_label
+    # - For "women", catch both "women" and "womens"
+    # -------------------------------
     men_condition = (~new_df['elimination_names'].str.contains(r'\bmen(s)?\b', case=False, regex=True, na=False)) | \
                     (new_df['final_rank_label'].str.contains(r'\bmen(s)?\b', case=False, regex=True, na=False))
-    # For 'women', catch both "women" and "womens"
     women_condition = (~new_df['elimination_names'].str.contains(r'\bwomen(s)?\b', case=False, regex=True, na=False)) | \
                       (new_df['final_rank_label'].str.contains(r'\bwomen(s)?\b', case=False, regex=True, na=False))
-    
     new_df = new_df[men_condition & women_condition]
     
+    # -------------------------------
     # Extract new column 'sex' from final_rank_label (either "Men" or "Women")
+    # -------------------------------
     new_df['sex'] = new_df['final_rank_label'].str.extract(r'(?i)\b(men|women)\b')[0].str.capitalize()
     
+    # -------------------------------
     # Drop the original final_rank column
+    # -------------------------------
     new_df = new_df.drop(columns=['final_rank'])
     
+    # -------------------------------
     # Append "pwa_" prefix to all column names
+    # -------------------------------
     new_df.columns = ['pwa_' + col for col in new_df.columns]
     
-    # Write the cleaned DataFrame to a new CSV file
-    new_df.to_csv(output_file, index=False)
-
-if __name__ == '__main__':
-    input_csv = 'Historical Scrapes/Data/Raw/pwa_event_data_raw.csv'
-    output_csv = 'Historical Scrapes/Data/Clean/pwa_event_data_cleaned.csv'
-    clean_csv(input_csv, output_csv)
-
+    # Write the cleaned DataFrame to a CSV file if an output file path is provided
+    if output_file:
+        new_df.to_csv(output_file, index=False)
+    
+    return new_df
 
 
 

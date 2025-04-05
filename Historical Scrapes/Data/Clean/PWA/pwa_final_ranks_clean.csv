@@ -1,0 +1,1215 @@
+source,event_id,eventDivisionid,name,athleteId,place,Points,incomplete
+PWA,357,960,Marino Gil Gherardi,E-959,1,10000,False
+PWA,357,960,Julian Salmonn,G-21,2,8500,False
+PWA,357,960,Philip Köster,G-44,3,7650,False
+PWA,357,960,Dieter Van der Eyken,B-35,4,6885,False
+PWA,357,960,Liam Dunkerbeck Morales,E-11,5,6115,False
+PWA,357,960,Robby Swift,K-89,5,6115,False
+PWA,357,960,Ricardo Campello,V-111,7,5450,False
+PWA,357,960,Alessio Stillrich,E-95,8,5040,False
+PWA,357,960,Marcilio Browne,BRA-105,9,4790,False
+PWA,357,960,Victor Fernandez,E-42,10,4550,False
+PWA,357,960,Moritz Mauch,G-103,11,4320,False
+PWA,357,960,Miguel Chapuis,E-99,12,4105,False
+PWA,357,960,Takuma Sugi,J-7,13,3803,False
+PWA,357,960,Lennart Neubauer,GRE-734,13,3803,False
+PWA,357,960,Antoine Martin,F-193,15,3433,False
+PWA,357,960,Carlos Kiefer Quintana,E-242,15,3433,False
+PWA,357,960,Samuele Ferraro,I-505,17,2946,False
+PWA,357,960,Takara Ishii,J-20,17,2946,False
+PWA,357,960,Antoine Albert,NC-21,17,2946,False
+PWA,357,960,Adam Warchol,POL-111,17,2946,False
+PWA,357,960,Leon Jamaer,G-208,21,2400,False
+PWA,357,960,Arthur Arutkin,F-7,21,2400,False
+PWA,357,960,Thomas Traversa,F-3,21,2400,False
+PWA,357,960,Antony Ruenes,F-85,21,2400,False
+PWA,357,960,Gregory Stathopoulos,GRE-73,25,1954,False
+PWA,357,960,Josep Pons,E-203,25,1954,False
+PWA,357,960,Michael Friedl Morales,E-255,25,1954,False
+PWA,357,960,Morgan Noireaux,HI-101,25,1954,False
+PWA,357,960,Federico Morisio,I-676,29,1591,False
+PWA,357,960,Tomer Shamgar,ISR-13,29,1591,False
+PWA,357,960,Daniel Bruch,G-1181,29,1591,False
+PWA,357,960,Titouan Flechet,F-47,29,1591,False
+PWA,357,960,Anton Richter,G-6,33,1177,False
+PWA,357,960,José Romero,E-45,33,1177,False
+PWA,357,960,Marc Alonso,E-0,33,1177,False
+PWA,357,960,Henri Kolberg,G-45,33,1177,False
+PWA,357,960,Tobias Bjørnaa,D-36,33,1177,False
+PWA,357,960,Laurin Schmuth,G-878,33,1177,False
+PWA,357,960,Simon Thule,DEN-134,33,1177,False
+PWA,357,960,Hayata Ishii,J-27,33,1177,False
+PWA,357,960,Kymani Laurent,GPE-1,41,781,False
+PWA,357,960,Ryu Noguchi,J-39,41,781,False
+PWA,357,960,Marlon Maethner,G-31,41,781,False
+PWA,357,960,Nick Spangenberg,G-141,41,781,False
+PWA,357,960,Tim van Dam Sanchidrian,E-51,41,781,False
+PWA,357,960,Lucas Meldrum,K-90,41,781,False
+PWA,357,960,Esteban De Cruz,F-3003,41,781,False
+PWA,357,960,Nikodem Merlak,POL-64,41,781,False
+PWA,357,961,Sarah-Quita Offringa,ARU-91,1,10000,False
+PWA,357,961,Lina Erpenstein,G-3,2,8500,False
+PWA,357,961,Alexia Kiefer Quintana,E-59,3,7650,False
+PWA,357,961,Maria Morales Navarro,E-737,4,6885,False
+PWA,357,961,Sol Degrieck,B-5,5,6115,False
+PWA,357,961,Pauline Katz,SUI-678,5,6115,False
+PWA,357,961,Julia Pasquale,E-229,7,5450,False
+PWA,357,961,Lisa Wermeister,F-293,8,5040,False
+PWA,357,961,Oda Johanne Brødholt,NOR-500,9,4790,False
+PWA,357,961,Line Bang Wittrup,D-82,10,4550,False
+PWA,357,961,Annagiulia Piccaglia,E-19,11,4320,False
+PWA,357,961,Maria Behrens,G-209,12,4105,False
+PWA,357,961,Carla Perello Aznar,ESP,13,3803,False
+PWA,357,961,Milanka Linde,G-1316,13,3803,False
+PWA,357,961,Svetlana Kolpikova Bala,ESP-1010,15,3433,False
+PWA,357,961,Vasiliki Argyropoulou,GRE-111,15,3433,False
+PWA,357,961,Justyna Sniady,POL-1111,17,2946,False
+PWA,357,961,Marine Hunter,FRA-181,17,2946,False
+PWA,357,961,Sybille Bode,G-132,17,2946,False
+PWA,357,961,Julia Meijer,H-69,17,2946,False
+PWA,358,964,Marc Paré,E-334,1,10000,False
+PWA,358,964,Victor Fernandez,E-42,2,8500,False
+PWA,358,964,Julian Salmonn,G-21,3,7650,False
+PWA,358,964,Marino Gil Gherardi,E-959,4,6885,False
+PWA,358,964,Liam Dunkerbeck Morales,E-11,5,6340,False
+PWA,358,964,Ricardo Campello,V-111,6,5890,False
+PWA,358,964,Takuma Sugi,J-7,7,5450,False
+PWA,358,964,Tobias Bjørnaa,D-36,8,5040,False
+PWA,358,964,Dieter Van der Eyken,B-35,9,4670,False
+PWA,358,964,Antoine Albert,NC-21,9,4670,False
+PWA,358,964,Hayata Ishii,J-27,11,4213,False
+PWA,358,964,Miguel Chapuis,E-99,11,4213,False
+PWA,358,964,Adam Warchol,POL-111,13,3803,False
+PWA,358,964,Jules Denel,FRA-41,13,3803,False
+PWA,358,964,Michael Friedl Morales,E-255,15,3433,False
+PWA,358,964,Henri Kolberg,G-45,15,3433,False
+PWA,358,964,Takara Ishii,J-20,17,2946,False
+PWA,358,964,Josep Pons,E-203,17,2946,False
+PWA,358,964,Moritz Mauch,G-103,17,2946,False
+PWA,358,964,Jochen Stolz,E-174,17,2946,False
+PWA,358,964,Simon Thule,DEN-134,21,2400,False
+PWA,358,964,Lennart Neubauer,GRE-734,21,2400,False
+PWA,358,964,Gregory Stathopoulos,GRE-73,21,2400,False
+PWA,358,964,Carlos Kiefer Quintana,E-242,21,2400,False
+PWA,358,964,Tim van Dam Sanchidrian,E-51,25,1954,False
+PWA,358,964,Omar Sanchez,E-33,25,1954,False
+PWA,358,964,Samuele Ferraro,I-505,25,1954,False
+PWA,358,964,Marlon Maethner,G-31,25,1954,False
+PWA,358,964,Esteban De Cruz,F-3003,29,1591,False
+PWA,358,964,Ryu Noguchi,J-39,29,1591,False
+PWA,358,964,Valter Scotto,TF-7,29,1591,False
+PWA,358,964,Stanislav Bem,CZE-222,29,1591,False
+PWA,358,964,Lucas Meldrum,K-90,33,1177,False
+PWA,358,964,Tomer Shamgar,ISR-13,33,1177,False
+PWA,358,964,Laurin Schmuth,G-878,33,1177,False
+PWA,358,964,Giuseppe Costanzo,TF-27,33,1177,False
+PWA,358,964,Anton Richter,G-6,33,1177,False
+PWA,358,964,Matteo Iachino,ITA-140,33,1177,False
+PWA,358,964,Nikodem Merlak,POL-64,33,1177,False
+PWA,358,964,Piero Rautnik,ITA-275,33,1177,False
+PWA,358,964,Mike Friedl (sr),E-714,41,839,False
+PWA,358,964,Daniel Bruch,G-1181,41,839,False
+PWA,358,964,Martin Ovsik,CZ-66,41,839,False
+PWA,358,964,Nick Spangenberg,G-141,41,839,False
+PWA,358,964,Panos Lamaris,GR-264,41,839,False
+PWA,358,965,Lina Erpenstein,G-3,1,10000,False
+PWA,358,965,Iballa Ruano Moreno,E-63,2,8500,False
+PWA,358,965,Alexia Kiefer Quintana,E-59,3,7650,False
+PWA,358,965,Sarah-Quita Offringa,ARU-91,4,6885,False
+PWA,358,965,Pauline Katz,SUI-678,5,6340,False
+PWA,358,965,Maria Morales Navarro,E-737,6,5890,False
+PWA,358,965,Justyna Sniady,POL-1111,7,5450,False
+PWA,358,965,Line Bang Wittrup,D-82,8,5040,False
+PWA,358,965,Marine Hunter,FRA-181,9,4670,False
+PWA,358,965,Sol Degrieck,B-5,9,4670,False
+PWA,358,965,Maria Behrens,G-209,11,4213,False
+PWA,358,965,Blanca Alabau,E-3,11,4213,False
+PWA,358,965,Caroline Weber,G-118,13,3803,False
+PWA,358,965,Sybille Bode,G-132,13,3803,False
+PWA,358,965,Elena Dominick,G-1309,15,3433,False
+PWA,358,965,Sarah Jackson,GBR-71,15,3433,False
+PWA,358,965,Lizzlotte Schilling Andrew,E-247,17,2946,False
+PWA,358,965,Cori McFarlane,K-,17,2946,False
+PWA,358,965,Milanka Linde,G-1316,17,2946,False
+PWA,358,965,Julia Meijer,H-69,17,2946,False
+PWA,358,965,Annagiulia Piccaglia,E-19,21,2523,False
+PWA,358,965,Lisa Kloster,G-444,21,2523,False
+PWA,363,978,Marc Paré,E-334,1,10000,False
+PWA,363,978,Marcilio Browne,BRA-105,2,8500,False
+PWA,363,978,Victor Fernandez,E-42,3,7650,False
+PWA,363,978,Antoine Martin,F-193,4,6885,False
+PWA,363,978,Robby Swift,K-89,5,5680,False
+PWA,363,978,Philip Köster,G-44,5,5680,False
+PWA,363,978,Marino Gil Gherardi,E-959,5,5680,False
+PWA,363,978,Miguel Chapuis,E-99,5,5680,False
+PWA,363,978,Liam Dunkerbeck Morales,E-11,9,4029,False
+PWA,363,978,Thomas Traversa,F-3,9,4029,False
+PWA,363,978,Dieter Van der Eyken,B-35,9,4029,False
+PWA,363,978,Henri Kolberg,G-45,9,4029,False
+PWA,363,978,Jules Denel,FRA-41,9,4029,False
+PWA,363,978,Takuma Sugi,J-7,9,4029,False
+PWA,363,978,Morgan Noireaux,HI-101,9,4029,False
+PWA,363,978,Titouan Flechet,F-47,9,4029,False
+PWA,363,978,Julian Salmonn,G-21,17,2223,False
+PWA,363,978,Anton Richter,G-6,17,2223,False
+PWA,363,978,Tim van Dam Sanchidrian,E-51,17,2223,False
+PWA,363,978,Tobias Bjørnaa,D-36,17,2223,False
+PWA,363,978,Tomer Shamgar,ISR-13,17,2223,False
+PWA,363,978,Samuele Ferraro,I-505,17,2223,False
+PWA,363,978,Laurin Schmuth,G-878,17,2223,False
+PWA,363,978,Simon Thule,DEN-134,17,2223,False
+PWA,363,978,Nick Spangenberg,G-141,17,2223,False
+PWA,363,978,Michael Friedl Morales,E-255,17,2223,False
+PWA,363,978,Julien Flechet,F-67,17,2223,False
+PWA,363,978,Antony Ruenes,F-85,17,2223,False
+PWA,363,978,Adam Warchol,POL-111,17,2223,False
+PWA,363,978,Federico Morisio,I-676,17,2223,False
+PWA,363,978,Leon Jamaer,G-208,17,2223,False
+PWA,363,978,Antoine Albert,NC-21,17,2223,False
+PWA,363,979,Sarah-Quita Offringa,ARU-91,1,10000,False
+PWA,363,979,Alexia Kiefer Quintana,E-59,2,8500,False
+PWA,363,979,Sol Degrieck,B-5,3,7650,False
+PWA,363,979,Lina Erpenstein,G-3,4,6885,False
+PWA,363,979,Maria Behrens,G-209,5,5680,False
+PWA,363,979,Justyna Sniady,POL-1111,5,5680,False
+PWA,363,979,Maria Morales Navarro,E-737,5,5680,False
+PWA,363,979,Coraline Foveau,F-351,5,5680,False
+PWA,363,979,Pauline Katz,SUI-678,9,4228,False
+PWA,363,979,Marine Hunter,FRA-181,9,4228,False
+PWA,363,979,Lisa Wermeister,F-293,9,4228,False
+PWA,363,979,Line Bang Wittrup,D-82,9,4228,False
+PWA,363,979,Sybille Bode,G-132,9,4228,False
+PWA,363,979,Steffi Wahl,G-303,9,4228,False
+PWA,338,918,Marcilio Browne,BRA-105,1,10000,False
+PWA,338,918,Marino Gil Gherardi,E-959,2,8500,False
+PWA,338,918,Marc Paré,E-334,3,7650,False
+PWA,338,918,Ricardo Campello,V-111,4,6885,False
+PWA,338,918,Philip Köster,G-44,5,6370,False
+PWA,338,918,Leon Jamaer,G-208,6,5930,False
+PWA,338,918,Alessio Stillrich,E-95,7,5285,False
+PWA,338,918,Josep Pons,E-203,7,5285,False
+PWA,338,918,Antoine Martin,F-193,9,4476,False
+PWA,338,918,Jules Denel,FRA-41,9,4476,False
+PWA,338,918,Victor Fernandez,E-42,9,4476,False
+PWA,338,918,Adam Warchol,POL-111,9,4476,False
+PWA,338,918,Robby Swift,K-89,13,3645,False
+PWA,338,918,Thomas Traversa,F-3,13,3645,False
+PWA,338,918,Moritz Mauch,G-103,13,3645,False
+PWA,338,918,Federico Morisio,I-676,13,3645,False
+PWA,338,918,Julian Salmonn,G-21,17,2693,False
+PWA,338,918,Liam Dunkerbeck Morales,E-11,17,2693,False
+PWA,338,918,Graham Ezzy,USA-1,17,2693,False
+PWA,338,918,Antoine Albert,NC-21,17,2693,False
+PWA,338,918,Miguel Chapuis,E-99,17,2693,False
+PWA,338,918,Dieter Van der Eyken,B-35,17,2693,False
+PWA,338,918,Jake Schettewi,US-25,17,2693,False
+PWA,338,918,Arthur Arutkin,F-7,17,2693,False
+PWA,338,918,Morgan Noireaux,HI-101,25,1784,False
+PWA,338,918,Takuma Sugi,J-7,25,1784,False
+PWA,338,918,Takara Ishii,J-20,25,1784,False
+PWA,338,918,Omar Sanchez,E-33,25,1784,False
+PWA,338,918,Hayata Ishii,J-27,25,1784,False
+PWA,338,918,José Romero,E-45,25,1784,False
+PWA,338,918,Michael Friedl Morales,E-255,25,1784,False
+PWA,338,918,Henri Kolberg,G-45,25,1784,False
+PWA,338,918,Antony Ruenes,F-85,33,1005,False
+PWA,338,918,Baptiste Cloarec,F-258,33,1005,False
+PWA,338,918,Simon Thule,DEN-134,33,1005,False
+PWA,338,918,Julien Flechet,F-67,33,1005,False
+PWA,338,918,Titouan Flechet,F-47,33,1005,False
+PWA,338,918,Samuele Ferraro,I-505,33,1005,False
+PWA,338,918,Marc Alonso,E-0,33,1005,False
+PWA,338,918,Jahdan Tyger,BR-44,33,1005,False
+PWA,338,918,Nick Spangenberg,G-141,33,1005,False
+PWA,338,918,Alexandre Grand-Guillot,F-585,33,1005,False
+PWA,338,918,Ryu Noguchi,J-39,33,1005,False
+PWA,338,918,Corto Dumond,NC-26,33,1005,False
+PWA,338,918,Guillermo Alba Lasheras,E-68,33,1005,False
+PWA,338,918,Laurin Schmuth,G-878,33,1005,False
+PWA,338,918,Yushi Shirakata,JPN-136,33,1005,False
+PWA,338,919,Daida Ruano Moreno,E-64,1,10000,False
+PWA,338,919,Sarah-Quita Offringa,ARU-91,2,8500,False
+PWA,338,919,Lina Erpenstein,G-3,3,7650,False
+PWA,338,919,Iballa Ruano Moreno,E-63,4,6885,False
+PWA,338,919,Justyna Sniady,POL-1111,5,6370,False
+PWA,338,919,Alexia Kiefer Quintana,E-59,6,5930,False
+PWA,338,919,Isabel Trivino Delgado,E-286,7,5285,False
+PWA,338,919,Sol Degrieck,B-5,7,5285,False
+PWA,338,919,Maria Morales Navarro,E-737,9,4476,False
+PWA,338,919,Coraline Foveau,F-351,9,4476,False
+PWA,338,919,Lisa Wermeister,F-293,9,4476,False
+PWA,338,919,Pauline Katz,SUI-678,9,4476,False
+PWA,338,919,Marine Hunter,FRA-181,13,3645,False
+PWA,338,919,Julia Pasquale,E-229,13,3645,False
+PWA,338,919,Maria Behrens,G-209,13,3645,False
+PWA,338,919,Lucia Trivino Delgado,E-528,13,3645,False
+PWA,338,919,Milanka Linde,G-1316,17,3200,False
+PWA,342,928,Julian Salmonn,G-21,1,4061,True
+PWA,342,928,Robby Swift,K-89,1,4061,True
+PWA,342,928,Adam Warchol,POL-111,1,4061,True
+PWA,342,928,Alessio Stillrich,E-95,1,4061,True
+PWA,342,928,Ricardo Campello,V-111,1,4061,True
+PWA,342,928,Morgan Noireaux,HI-101,1,4061,True
+PWA,342,928,Alexandre Grand-Guillot,F-585,1,4061,True
+PWA,342,928,Marcilio Browne,BRA-105,1,4061,True
+PWA,342,928,Liam Dunkerbeck Morales,E-11,1,4061,True
+PWA,342,928,Leon Jamaer,G-208,1,4061,True
+PWA,342,928,Marc Paré,E-334,1,4061,True
+PWA,342,928,Thomas Traversa,F-3,1,4061,True
+PWA,342,928,Antoine Albert,NC-21,1,4061,True
+PWA,342,928,Victor Fernandez,E-42,1,4061,True
+PWA,342,928,Jules Denel,FRA-41,1,4061,True
+PWA,342,928,Takuma Sugi,J-7,1,4061,True
+PWA,342,928,Corto Dumond,NC-26,17,2238,True
+PWA,342,928,Laurin Schmuth,G-878,17,2238,True
+PWA,342,928,Henri Kolberg,G-45,17,2238,True
+PWA,342,928,Dieter Van der Eyken,B-35,17,2238,True
+PWA,342,928,Antony Ruenes,F-85,17,2238,True
+PWA,342,928,Simon Thule,DEN-134,17,2238,True
+PWA,342,928,Nick Spangenberg,G-141,17,2238,True
+PWA,342,928,Graham Ezzy,USA-1,17,2238,True
+PWA,342,928,Miguel Chapuis,E-99,17,2238,True
+PWA,342,928,Adrien Bosson,F-296,17,2238,True
+PWA,342,928,Nicolas Akgazciyan,F-400,17,2238,True
+PWA,342,928,Antoine Martin,F-193,17,2238,True
+PWA,342,928,Marino Gil Gherardi,E-959,17,2238,True
+PWA,342,928,Arthur Arutkin,F-7,17,2238,True
+PWA,342,928,Federico Morisio,I-676,17,2238,True
+PWA,342,928,Michael Friedl Morales,E-255,17,2238,True
+PWA,342,929,Marine Hunter,FRA-181,1,10000,False
+PWA,342,929,Maria Behrens,G-209,2,8500,False
+PWA,342,929,Sarah-Quita Offringa,ARU-91,3,7650,False
+PWA,342,929,Justyna Sniady,POL-1111,4,6885,False
+PWA,342,929,Sybille Bode,G-132,5,5718,False
+PWA,342,929,Sol Degrieck,B-5,5,5718,False
+PWA,342,929,Line Bang Wittrup,D-82,5,5718,False
+PWA,342,929,Lina Erpenstein,G-3,5,5718,False
+PWA,342,929,Caroline Weber,G-118,9,4825,False
+PWA,328,886,Philip Köster,G-44,1,10000,False
+PWA,328,886,Marcilio Browne,BRA-105,2,8500,False
+PWA,328,886,Victor Fernandez,E-42,3,7650,False
+PWA,328,886,Ricardo Campello,V-111,4,6885,False
+PWA,328,886,Thomas Traversa,F-3,5,6370,False
+PWA,328,886,Marino Gil Gherardi,E-959,6,5930,False
+PWA,328,886,Liam Dunkerbeck Morales,E-11,7,5285,False
+PWA,328,886,Marc Paré,E-334,7,5285,False
+PWA,328,886,Robby Swift,K-89,9,4476,False
+PWA,328,886,Leon Jamaer,G-208,9,4476,False
+PWA,328,886,Julian Salmonn,G-21,9,4476,False
+PWA,328,886,Alessio Stillrich,E-95,9,4476,False
+PWA,328,886,Josep Pons,E-203,13,3645,False
+PWA,328,886,Morgan Noireaux,HI-101,13,3645,False
+PWA,328,886,Dieter Van der Eyken,B-35,13,3645,False
+PWA,328,886,Jules Denel,FRA-41,13,3645,False
+PWA,328,886,Miguel Chapuis,E-99,17,2693,False
+PWA,328,886,Takuma Sugi,J-7,17,2693,False
+PWA,328,886,Omar Sanchez,E-33,17,2693,False
+PWA,328,886,Arthur Arutkin,F-7,17,2693,False
+PWA,328,886,Antoine Albert,NC-21,17,2693,False
+PWA,328,886,Antoine Martin,F-193,17,2693,False
+PWA,328,886,Florian Jung,G-21,17,2693,False
+PWA,328,886,Hayata Ishii,J-27,17,2693,False
+PWA,328,886,José Romero,E-45,25,1784,False
+PWA,328,886,Baptiste Cloarec,F-258,25,1784,False
+PWA,328,886,Alexandre Grand-Guillot,F-585,25,1784,False
+PWA,328,886,Loick Lesauvage,F-780,25,1784,False
+PWA,328,886,Aleix Sanllehy,CAT-555,25,1784,False
+PWA,328,886,Takara Ishii,J-20,25,1784,False
+PWA,328,886,Michael Friedl Morales,E-255,25,1784,False
+PWA,328,886,Laurin Schmuth,G-878,25,1784,False
+PWA,328,886,Graham Ezzy,USA-1,33,983,False
+PWA,328,886,Moritz Mauch,G-103,33,983,False
+PWA,328,886,Julien Flechet,F-67,33,983,False
+PWA,328,886,Lucas Meldrum,K-90,33,983,False
+PWA,328,886,Tomer Shamgar,ISR-13,33,983,False
+PWA,328,886,Adam Warchol,POL-111,33,983,False
+PWA,328,886,Logan Groenne,B-292,33,983,False
+PWA,328,886,Jahdan Tyger,BR-44,33,983,False
+PWA,328,886,Titouan Flechet,F-47,33,983,False
+PWA,328,886,Simon Thule,DEN-134,33,983,False
+PWA,328,886,Victor Borlin,E-141,33,983,False
+PWA,328,886,Antony Ruenes,F-85,33,983,False
+PWA,328,886,Pablo Ramírez Bolaños,E-244,33,983,False
+PWA,328,886,Henri Kolberg,G-45,33,983,False
+PWA,328,886,Eleazar Alonso Sanchez,E-41,33,983,False
+PWA,328,886,Tim van Dam Sanchidrian,E-51,33,983,False
+PWA,328,887,Daida Ruano Moreno,E-64,1,10000,False
+PWA,328,887,Iballa Ruano Moreno,E-63,2,8500,False
+PWA,328,887,Sarah-Quita Offringa,ARU-91,3,7650,False
+PWA,328,887,Lina Erpenstein,G-3,4,6885,False
+PWA,328,887,Justyna Sniady,POL-1111,5,6370,False
+PWA,328,887,Isabel Trivino Delgado,E-286,6,5930,False
+PWA,328,887,Maria Morales Navarro,E-737,7,5285,False
+PWA,328,887,Alexia Kiefer Quintana,E-59,7,5285,False
+PWA,328,887,Marine Hunter,FRA-181,9,4476,False
+PWA,328,887,Sol Degrieck,B-5,9,4476,False
+PWA,328,887,Julia Pasquale,E-229,9,4476,False
+PWA,328,887,Maria Behrens,G-209,9,4476,False
+PWA,328,887,Lucia Trivino Delgado,E-528,13,3645,False
+PWA,328,887,Coraline Foveau,F-351,13,3645,False
+PWA,328,887,Line Bang Wittrup,D-82,13,3645,False
+PWA,328,887,Pauline Katz,SUI-678,13,3645,False
+PWA,328,887,Lisa Wermeister,F-293,17,3120,False
+PWA,328,887,Milanka Linde,G-1316,17,3120,False
+PWA,332,894,Philip Köster,G-44,1,10000,False
+PWA,332,894,Marc Paré,E-334,2,8500,False
+PWA,332,894,Marcilio Browne,BRA-105,3,7650,False
+PWA,332,894,Victor Fernandez,E-42,4,6885,False
+PWA,332,894,Ricardo Campello,V-111,5,5718,False
+PWA,332,894,Thomas Traversa,F-3,5,5718,False
+PWA,332,894,Antoine Martin,F-193,5,5718,False
+PWA,332,894,Leon Jamaer,G-208,5,5718,False
+PWA,332,894,Robby Swift,K-89,9,4061,False
+PWA,332,894,Klaas Voget,G-4,9,4061,False
+PWA,332,894,Marino Gil Gherardi,E-959,9,4061,False
+PWA,332,894,Takuma Sugi,J-7,9,4061,False
+PWA,332,894,Dieter Van der Eyken,B-35,9,4061,False
+PWA,332,894,Antoine Albert,NC-21,9,4061,False
+PWA,332,894,Josep Pons,E-203,9,4061,False
+PWA,332,894,Jules Denel,FRA-41,9,4061,False
+PWA,332,894,Antony Ruenes,F-85,17,2693,False
+PWA,332,894,Morgan Noireaux,HI-101,17,2693,False
+PWA,332,894,Tim van Dam Sanchidrian,E-51,17,2693,False
+PWA,332,894,Liam Dunkerbeck Morales,E-11,17,2693,False
+PWA,332,894,Alexandre Grand-Guillot,F-585,17,2693,False
+PWA,332,894,Graham Ezzy,USA-1,17,2693,False
+PWA,332,894,Takara Ishii,J-20,17,2693,False
+PWA,332,894,Miguel Chapuis,E-99,17,2693,False
+PWA,332,894,Nicolas Akgazciyan,F-400,25,1784,False
+PWA,332,894,Florian Jung,G-21,25,1784,False
+PWA,332,894,Baptiste Cloarec,F-258,25,1784,False
+PWA,332,894,Adrien Bosson,F-296,25,1784,False
+PWA,332,894,Arthur Arutkin,F-7,25,1784,False
+PWA,332,894,Laurin Schmuth,G-878,25,1784,False
+PWA,332,894,Julian Salmonn,G-21,25,1784,False
+PWA,332,894,Henri Kolberg,G-45,25,1784,False
+PWA,332,895,Sarah-Quita Offringa,ARU-91,1,10000,False
+PWA,332,895,Justyna Sniady,POL-1111,2,8500,False
+PWA,332,895,Lina Erpenstein,G-3,3,7650,False
+PWA,332,895,Steffi Wahl,G-303,4,6885,False
+PWA,332,895,Maria Morales Navarro,E-737,5,5718,False
+PWA,332,895,Maaike Huvermann,NED-108,5,5718,False
+PWA,332,895,Marine Hunter,FRA-181,5,5718,False
+PWA,332,895,Isabel Trivino Delgado,E-286,5,5718,False
+PWA,332,895,Line Bang Wittrup,D-82,9,4262,False
+PWA,332,895,Pauline Katz,SUI-678,9,4262,False
+PWA,332,895,Maria Behrens,G-209,9,4262,False
+PWA,332,895,Sol Degrieck,B-5,9,4262,False
+PWA,332,895,Coraline Foveau,F-351,9,4262,False
+PWA,332,895,Caroline Weber,G-118,9,4262,False
+PWA,286,778,Ricardo Campello,V-111,1,10000,False
+PWA,286,778,Philip Köster,G-44,2,8500,False
+PWA,286,778,Marcilio Browne,BRA-105,3,7650,False
+PWA,286,778,Victor Fernandez,E-42,4,6885,False
+PWA,286,778,Jaeger Stone,KA-120,5,6370,False
+PWA,286,778,Marc Paré,E-334,6,5930,False
+PWA,286,778,Alex Mussolini,E-30,7,5285,False
+PWA,286,778,"Jose ""Gollito"" Estredo",V-10,7,5285,False
+PWA,286,778,Thomas Traversa,F-3,9,4476,False
+PWA,286,778,Leon Jamaer,G-208,9,4476,False
+PWA,286,778,Julian Salmonn,G-21,9,4476,False
+PWA,286,778,Antoine Martin,F-193,9,4476,False
+PWA,286,778,Robby Swift,K-89,13,3645,False
+PWA,286,778,Omar Sanchez,E-33,13,3645,False
+PWA,286,778,Amado Vrieswijk,NB-20,13,3645,False
+PWA,286,778,Miguel Chapuis,E-99,13,3645,False
+PWA,286,778,Alessio Stillrich,E-95,17,2693,False
+PWA,286,778,Daniel Bruch,G-1181,17,2693,False
+PWA,286,778,Adam Lewis,K-516,17,2693,False
+PWA,286,778,Josep Pons,E-203,17,2693,False
+PWA,286,778,Dieter Van der Eyken,B-35,17,2693,False
+PWA,286,778,Loick Lesauvage,F-780,17,2693,False
+PWA,286,778,Morgan Noireaux,HI-101,17,2693,False
+PWA,286,778,Marino Gil Gherardi,E-959,17,2693,False
+PWA,286,778,Takuma Sugi,J-7,25,1784,False
+PWA,286,778,Pablo Ramírez Bolaños,E-244,25,1784,False
+PWA,286,778,Antony Ruenes,F-85,25,1784,False
+PWA,286,778,Ben Proffitt,K-800,25,1784,False
+PWA,286,778,Francesco Cappuzzo,I-333,25,1784,False
+PWA,286,778,Arthur Arutkin,F-7,25,1784,False
+PWA,286,778,Takara Ishii,J-20,25,1784,False
+PWA,286,778,Antoine Albert,NC-21,25,1784,False
+PWA,286,778,Graham Ezzy,USA-1,33,983,False
+PWA,286,778,Jules Denel,FRA-41,33,983,False
+PWA,286,778,Moritz Mauch,G-103,33,983,False
+PWA,286,778,Michael Friedl Morales,E-255,33,983,False
+PWA,286,778,Gustav Haggstrom,S-7,33,983,False
+PWA,286,778,Max Horchgrassl,E-50,33,983,False
+PWA,286,778,Adam Warchol,POL-111,33,983,False
+PWA,286,778,Logan Groenne,B-292,33,983,False
+PWA,286,778,Valentino Pasquale,E-201,33,983,False
+PWA,286,778,Dario Ojeda,E-211,33,983,False
+PWA,286,778,Alexandre Grand-Guillot,F-585,33,983,False
+PWA,286,778,José Romero,E-45,33,983,False
+PWA,286,778,Eleazar Alonso Sanchez,E-41,33,983,False
+PWA,286,778,Baptiste Cloarec,F-258,33,983,False
+PWA,286,778,Jake Schettewi,US-25,33,983,False
+PWA,286,778,Laurin Schmuth,G-878,33,983,False
+PWA,286,779,Daida Ruano Moreno,E-64,1,10000,False
+PWA,286,779,Justyna Sniady,POL-1111,2,8500,False
+PWA,286,779,Sarah-Quita Offringa,ARU-91,3,7650,False
+PWA,286,779,Iballa Ruano Moreno,E-63,4,6885,False
+PWA,286,779,Alexia Kiefer Quintana,E-59,5,6370,False
+PWA,286,779,Maaike Huvermann,NED-108,6,5930,False
+PWA,286,779,Caterina Stenta,I-662,7,5285,False
+PWA,286,779,Oda Johanne Brødholt,NOR-500,7,5285,False
+PWA,286,779,Birgit Rieger,AUT-32,9,4476,False
+PWA,286,779,Marine Hunter,FRA-181,9,4476,False
+PWA,286,779,Greta Benvenuti,ITA-38,9,4476,False
+PWA,286,779,Julia Pasquale,E-229,9,4476,False
+PWA,286,779,Svetlana Kolpikova Bala,ESP-1010,13,3645,False
+PWA,286,779,Serena Zoia,ESP-17,13,3645,False
+PWA,286,779,Maeli Cherel,AUS-558,13,3645,False
+PWA,286,779,Alexa Escherich,G-200,13,3645,False
+PWA,286,779,Nicole Bandini,ITA-613,17,2896,False
+PWA,286,779,Nuage Le Derff,F-605,17,2896,False
+PWA,286,779,Maria Morales Navarro,E-737,17,2896,False
+PWA,286,779,Coraline Foveau,F-351,17,2896,False
+PWA,286,779,Mar De Arce,E-279,17,2896,False
+PWA,288,780,Jaeger Stone,KA-120,1,10000,False
+PWA,288,780,Victor Fernandez,E-42,2,8500,False
+PWA,288,780,Philip Köster,G-44,3,7650,False
+PWA,288,780,Ricardo Campello,V-111,4,6885,False
+PWA,288,780,Thomas Traversa,F-3,5,5718,False
+PWA,288,780,Antoine Martin,F-193,5,5718,False
+PWA,288,780,Alex Mussolini,E-30,5,5718,False
+PWA,288,780,Marcilio Browne,BRA-105,5,5718,False
+PWA,288,780,Moritz Mauch,G-103,9,4061,False
+PWA,288,780,Jules Denel,FRA-41,9,4061,False
+PWA,288,780,Marc Paré,E-334,9,4061,False
+PWA,288,780,Robby Swift,K-89,9,4061,False
+PWA,288,780,Julian Salmonn,G-21,9,4061,False
+PWA,288,780,Adam Lewis,K-516,9,4061,False
+PWA,288,780,Dieter Van der Eyken,B-35,9,4061,False
+PWA,288,780,Leon Jamaer,G-208,9,4061,False
+PWA,288,780,Arthur Arutkin,F-7,17,2238,False
+PWA,288,780,Omar Sanchez,E-33,17,2238,False
+PWA,288,780,Daniel Bruch,G-1181,17,2238,False
+PWA,288,780,Josep Pons,E-203,17,2238,False
+PWA,288,780,Loick Lesauvage,F-780,17,2238,False
+PWA,288,780,Ben Proffitt,K-800,17,2238,False
+PWA,288,780,"Jose ""Gollito"" Estredo",V-10,17,2238,False
+PWA,288,780,Baptiste Cloarec,F-258,17,2238,False
+PWA,288,780,Graham Ezzy,USA-1,17,2238,False
+PWA,288,780,Takuma Sugi,J-7,17,2238,False
+PWA,288,780,Alessio Stillrich,E-95,17,2238,False
+PWA,288,780,Martin ten Hoeve,H-999,17,2238,False
+PWA,288,780,Klaas Voget,G-4,17,2238,False
+PWA,288,780,Camille Juban,GPE-8,17,2238,False
+PWA,288,780,Miguel Chapuis,E-99,17,2238,False
+PWA,288,780,Marino Gil Gherardi,E-959,17,2238,False
+PWA,288,780,Laurin Schmuth,G-878,33,983,False
+PWA,288,780,Antony Ruenes,F-85,33,983,False
+PWA,288,780,Pablo Ramírez Bolaños,E-244,33,983,False
+PWA,288,780,Adam Warchol,POL-111,33,983,False
+PWA,288,780,Max Horchgrassl,E-50,33,983,False
+PWA,288,780,Gustav Haggstrom,S-7,33,983,False
+PWA,288,780,Logan Groenne,B-292,33,983,False
+PWA,288,780,Henri Kolberg,G-45,33,983,False
+PWA,288,780,Michael Friedl Morales,E-255,33,983,False
+PWA,288,780,Takara Ishii,J-20,33,983,False
+PWA,288,780,Francesco Cappuzzo,I-333,33,983,False
+PWA,288,780,José Romero,E-45,33,983,False
+PWA,288,780,Valentino Pasquale,E-201,33,983,False
+PWA,288,780,Tomer Shamgar,ISR-13,33,983,False
+PWA,288,780,Victor Borlin,E-141,33,983,False
+PWA,288,780,Alexandre Grand-Guillot,F-585,33,983,False
+PWA,288,781,Iballa Ruano Moreno,E-63,1,10000,False
+PWA,288,781,Justyna Sniady,POL-1111,2,8500,False
+PWA,288,781,Sarah-Quita Offringa,ARU-91,3,7650,False
+PWA,288,781,Lina Erpenstein,G-3,4,6885,False
+PWA,288,781,Josanne Mossink,H-622,5,5718,False
+PWA,288,781,Caterina Stenta,I-662,5,5718,False
+PWA,288,781,Arrianne Aukes,H-131,5,5718,False
+PWA,288,781,Maaike Huvermann,NED-108,5,5718,False
+PWA,288,781,Julia Pasquale,E-229,9,4061,False
+PWA,288,781,Greta Benvenuti,ITA-38,9,4061,False
+PWA,288,781,Sarah Hilder,K-349,9,4061,False
+PWA,288,781,Birgit Rieger,AUT-32,9,4061,False
+PWA,288,781,Mar De Arce,E-279,9,4061,False
+PWA,288,781,Nuage Le Derff,F-605,9,4061,False
+PWA,288,781,Maria Morales Navarro,E-737,9,4061,False
+PWA,288,781,Nicole Bandini,ITA-613,9,4061,False
+PWA,288,781,Svetlana Kolpikova Bala,ESP-1010,17,2758,False
+PWA,288,781,Serena Zoia,ESP-17,17,2758,False
+PWA,288,781,Lisa Wermeister,F-293,17,2758,False
+PWA,288,781,Maike Lang,G-278,17,2758,False
+PWA,288,781,Alexia Kiefer Quintana,E-59,17,2758,False
+PWA,288,781,Coraline Foveau,F-351,17,2758,False
+PWA,288,781,Sara Kellett,K-694,17,2758,False
+PWA,291,788,Thomas Traversa,F-3,1,10000,False
+PWA,291,788,Marcilio Browne,BRA-105,2,8500,False
+PWA,291,788,Philip Köster,G-44,3,7650,False
+PWA,291,788,Victor Fernandez,E-42,4,6885,False
+PWA,291,788,Antoine Martin,F-193,5,6370,False
+PWA,291,788,Adam Lewis,K-516,6,5930,False
+PWA,291,788,Jaeger Stone,KA-120,7,5285,False
+PWA,291,788,Marc Paré,E-334,7,5285,False
+PWA,291,788,Alex Mussolini,E-30,9,4476,False
+PWA,291,788,Ricardo Campello,V-111,9,4476,False
+PWA,291,788,Jules Denel,FRA-41,9,4476,False
+PWA,291,788,Klaas Voget,G-4,9,4476,False
+PWA,291,788,Marino Gil Gherardi,E-959,13,3645,False
+PWA,291,788,Alessio Stillrich,E-95,13,3645,False
+PWA,291,788,Graham Ezzy,USA-1,13,3645,False
+PWA,291,788,Leon Jamaer,G-208,13,3645,False
+PWA,291,788,Julian Salmonn,G-21,17,2693,False
+PWA,291,788,Moritz Mauch,G-103,17,2693,False
+PWA,291,788,Dieter Van der Eyken,B-35,17,2693,False
+PWA,291,788,"Jose ""Gollito"" Estredo",V-10,17,2693,False
+PWA,291,788,Ben Proffitt,K-800,17,2693,False
+PWA,291,788,Robby Swift,K-89,17,2693,False
+PWA,291,788,Antony Ruenes,F-85,17,2693,False
+PWA,291,788,Antoine Albert,NC-21,17,2693,False
+PWA,291,788,Ross Williams,GBR-83,25,1784,False
+PWA,291,788,Josep Pons,E-203,25,1784,False
+PWA,291,788,Takuma Sugi,J-7,25,1784,False
+PWA,291,788,Miguel Chapuis,E-99,25,1784,False
+PWA,291,788,Omar Sanchez,E-33,25,1784,False
+PWA,291,788,Liam Dunkerbeck Morales,E-11,25,1784,False
+PWA,291,788,Daniel Bruch,G-1181,25,1784,False
+PWA,291,788,Arthur Arutkin,F-7,25,1784,False
+PWA,291,792,Sarah-Quita Offringa,ARU-91,1,10000,False
+PWA,291,792,Maaike Huvermann,NED-108,2,8500,False
+PWA,291,792,Justyna Sniady,POL-1111,3,7650,False
+PWA,291,792,Lina Erpenstein,G-3,4,6885,False
+PWA,291,792,Iballa Ruano Moreno,E-63,5,6370,False
+PWA,291,792,Steffi Wahl,G-303,6,5930,False
+PWA,291,792,Marine Hunter,FRA-181,7,5285,False
+PWA,291,792,Caterina Stenta,I-662,7,5285,False
+PWA,291,792,Alexia Kiefer Quintana,E-59,9,4588,False
+PWA,291,792,Maria Morales Navarro,E-737,9,4588,False
+PWA,291,792,Mar De Arce,E-279,9,4588,False
+PWA,292,793,Antoine Martin,F-193,1,10000,False
+PWA,292,793,Camille Juban,GPE-8,2,8500,False
+PWA,292,793,Bernd Roediger,US-1113,3,7650,False
+PWA,292,793,Kai Lenny,US-1112,4,6885,False
+PWA,292,793,Marcilio Browne,BRA-105,5,6150,False
+PWA,292,793,Leon Jamaer,G-208,5,6150,False
+PWA,292,793,Robby Swift,K-89,7,5285,False
+PWA,292,793,Ricardo Campello,V-111,7,5285,False
+PWA,292,793,Graham Ezzy,USA-1,9,4476,False
+PWA,292,793,Philip Köster,G-44,9,4476,False
+PWA,292,793,Morgan Noireaux,HI-101,9,4476,False
+PWA,292,793,Thomas Traversa,F-3,9,4476,False
+PWA,292,793,Jake Schettewi,US-25,13,3645,False
+PWA,292,793,Antony Ruenes,F-85,13,3645,False
+PWA,292,793,Levi Siver,USA-0,13,3645,False
+PWA,292,793,Victor Fernandez,E-42,13,3645,False
+PWA,292,793,Adam Lewis,K-516,17,2693,False
+PWA,292,793,Diony Guadagnino,V-69,17,2693,False
+PWA,292,793,Jules Denel,FRA-41,17,2693,False
+PWA,292,793,Klaas Voget,G-4,17,2693,False
+PWA,292,793,Kevin Pritchard,US-3,17,2693,False
+PWA,292,793,Federico Morisio,I-676,17,2693,False
+PWA,292,793,Josep Pons,E-203,17,2693,False
+PWA,292,793,Marc Paré,E-334,17,2693,False
+PWA,292,793,Takuma Sugi,J-7,25,1784,False
+PWA,292,793,Alex Mussolini,E-30,25,1784,False
+PWA,292,793,Marino Gil Gherardi,E-959,25,1784,False
+PWA,292,793,Boujmaa Guilloul,M-3,25,1784,False
+PWA,292,793,Zane Kekoa Schweitzer,HI-11,25,1784,False
+PWA,292,793,Bryan Metcalf-Perez,US-505,25,1784,False
+PWA,292,793,Takara Ishii,J-20,25,1784,False
+PWA,292,793,Russ Faurot,US-785,25,1784,False
+PWA,292,793,Brian Talma,KBA-8,33,1184,False
+PWA,292,793,Arthur Arutkin,F-7,33,1184,False
+PWA,292,793,Alessio Stillrich,E-95,33,1184,False
+PWA,292,793,Ferdinando Loffreda,HI-1001,33,1184,False
+PWA,292,793,Casey Hauser,US-634,33,1184,False
+PWA,292,793,Florian Jung,G-21,33,1184,False
+PWA,292,793,Julian Salmonn,G-21,33,1184,False
+PWA,292,793,Yushi Shirakata,JPN-136,33,1184,False
+PWA,292,793,Miguel Chapuis,E-99,41,781,False
+PWA,292,793,Ryosuke Fukui,J-394,41,781,False
+PWA,292,793,Daniel Di Rosa,ITA-87,41,781,False
+PWA,292,793,Henri Kolberg,G-45,41,781,False
+PWA,292,793,Tom Soltysiak,CAN-901,41,781,False
+PWA,292,793,Zachary Schettewi,US-255,41,781,False
+PWA,292,793,Pascal Hardy,KC-991,41,781,False
+PWA,292,793,Kai Katchadourian,US-33,41,781,False
+PWA,292,794,Sarah-Quita Offringa,ARU-91,1,10000,False
+PWA,292,794,Iballa Ruano Moreno,E-63,2,8500,False
+PWA,292,794,Motoko Sato,J-0,3,7650,False
+PWA,292,794,Lina Erpenstein,G-3,4,6885,False
+PWA,292,794,Angela Cochran,US-21,5,6150,False
+PWA,292,794,Tatiana Howard,US-16,5,6150,False
+PWA,292,794,Sarah Hauser,NC-6,7,5285,False
+PWA,292,794,Arrianne Aukes,H-131,7,5285,False
+PWA,292,794,Serena Zoia,ESP-17,9,4476,False
+PWA,292,794,María Andrés,E-2,9,4476,False
+PWA,292,794,Marine Hunter,FRA-181,9,4476,False
+PWA,292,794,Shawna Cropas,KC-99,9,4476,False
+PWA,292,794,Annamaria Zollet,I-908,13,3645,False
+PWA,292,794,Anne-Marie Reichman,H-98,13,3645,False
+PWA,292,794,Justyna Sniady,POL-1111,13,3645,False
+PWA,292,794,Kazuki Ishihara,IWT-2,13,3645,False
+PWA,275,746,Philip Köster,G-44,1,10000,False
+PWA,275,746,Marcilio Browne,BRA-105,2,8500,False
+PWA,275,746,Ricardo Campello,V-111,3,7650,False
+PWA,275,746,Victor Fernandez,E-42,4,6885,False
+PWA,275,746,Alex Mussolini,E-30,5,6370,False
+PWA,275,746,Jaeger Stone,KA-120,6,5930,False
+PWA,275,746,"Jose ""Gollito"" Estredo",V-10,7,5285,False
+PWA,275,746,Adam Lewis,K-516,7,5285,False
+PWA,275,746,Marc Paré,E-334,9,4476,False
+PWA,275,746,Daniel Bruch,G-1181,9,4476,False
+PWA,275,746,Dieter Van der Eyken,B-35,9,4476,False
+PWA,275,746,Robby Swift,K-89,9,4476,False
+PWA,275,746,Antoine Martin,F-193,13,3645,False
+PWA,275,746,Jules Denel,FRA-41,13,3645,False
+PWA,275,746,Josep Pons,E-203,13,3645,False
+PWA,275,746,Camille Juban,GPE-8,13,3645,False
+PWA,275,746,Aleix Sanllehy,CAT-555,17,2693,False
+PWA,275,746,Florian Jung,G-21,17,2693,False
+PWA,275,746,Moritz Mauch,G-103,17,2693,False
+PWA,275,746,Omar Sanchez,E-33,17,2693,False
+PWA,275,746,Marino Gil Gherardi,E-959,17,2693,False
+PWA,275,746,Julian Salmonn,G-21,17,2693,False
+PWA,275,746,Thomas Traversa,F-3,17,2693,False
+PWA,275,746,Amado Vrieswijk,NB-20,17,2693,False
+PWA,275,746,Leon Jamaer,G-208,25,1784,False
+PWA,275,746,Graham Ezzy,USA-1,25,1784,False
+PWA,275,746,Jake Schettewi,US-25,25,1784,False
+PWA,275,746,Francesco Cappuzzo,I-333,25,1784,False
+PWA,275,746,Kenneth Danielsen,D-38,25,1784,False
+PWA,275,746,Markus Rydberg,S-313,25,1784,False
+PWA,275,746,Ben Proffitt,K-800,25,1784,False
+PWA,275,746,Takuma Sugi,J-7,25,1784,False
+PWA,275,746,Loick Lesauvage,F-780,33,983,False
+PWA,275,746,Dario Ojeda,E-211,33,983,False
+PWA,275,746,Antoine Albert,NC-21,33,983,False
+PWA,275,746,Mads Bjørnå,DEN-20,33,983,False
+PWA,275,746,Eric Sanllehy,CAT-111,33,983,False
+PWA,275,746,Jacopo Testa,ITA-261,33,983,False
+PWA,275,746,Morgan Noireaux,HI-101,33,983,False
+PWA,275,746,Alexandre Grand-Guillot,F-585,33,983,False
+PWA,275,746,Miguel Chapuis,E-99,33,983,False
+PWA,275,746,Noah Vocker,F-210,33,983,False
+PWA,275,746,Pablo Ramírez Bolaños,E-244,33,983,False
+PWA,275,746,Arthur Arutkin,F-7,33,983,False
+PWA,275,746,Takara Ishii,J-20,33,983,False
+PWA,275,746,Gustav Haggstrom,S-7,33,983,False
+PWA,275,746,Guillermo Alba Lasheras,E-68,33,983,False
+PWA,275,746,José Romero,E-45,33,983,False
+PWA,275,747,Daida Ruano Moreno,E-64,1,10000,False
+PWA,275,747,Sarah-Quita Offringa,ARU-91,2,8500,False
+PWA,275,747,Iballa Ruano Moreno,E-63,3,7650,False
+PWA,275,747,Lina Erpenstein,G-3,4,6885,False
+PWA,275,747,Justyna Sniady,POL-1111,5,6370,False
+PWA,275,747,Nayra Alonso,E-4,6,5930,False
+PWA,275,747,Steffi Wahl,G-303,7,5285,False
+PWA,275,747,Maaike Huvermann,NED-108,7,5285,False
+PWA,275,747,Caterina Stenta,I-662,9,4476,False
+PWA,275,747,Nicole Bandini,ITA-613,9,4476,False
+PWA,275,747,Arrianne Aukes,H-131,9,4476,False
+PWA,275,747,Oda Johanne Brødholt,NOR-500,9,4476,False
+PWA,275,747,Alexa Escherich,G-200,13,3645,False
+PWA,275,747,Sarah Hilder,K-349,13,3645,False
+PWA,275,747,Birgit Rieger,AUT-32,13,3645,False
+PWA,275,747,Nuage Le Derff,F-605,13,3645,False
+PWA,275,747,Greta Benvenuti,ITA-38,17,2758,False
+PWA,275,747,Lena Erdil,GER-33,17,2758,False
+PWA,275,747,Serena Zoia,ESP-17,17,2758,False
+PWA,275,747,Marine Hunter,FRA-181,17,2758,False
+PWA,275,747,Mar De Arce,E-279,17,2758,False
+PWA,275,747,Svetlana Kolpikova Bala,ESP-1010,17,2758,False
+PWA,275,747,Line Bang Wittrup,D-82,17,2758,False
+PWA,277,751,Victor Fernandez,E-42,1,10000,False
+PWA,277,751,Jaeger Stone,KA-120,2,8500,False
+PWA,277,751,Adam Lewis,K-516,3,7650,False
+PWA,277,751,Ricardo Campello,V-111,4,6885,False
+PWA,277,751,Philip Köster,G-44,5,6370,False
+PWA,277,751,Marcilio Browne,BRA-105,6,5930,False
+PWA,277,751,Jules Denel,FRA-41,7,5285,False
+PWA,277,751,Omar Sanchez,E-33,7,5285,False
+PWA,277,751,Marc Paré,E-334,9,4476,False
+PWA,277,751,Leon Jamaer,G-208,9,4476,False
+PWA,277,751,Dieter Van der Eyken,B-35,9,4476,False
+PWA,277,751,Robby Swift,K-89,9,4476,False
+PWA,277,751,Julian Salmonn,G-21,13,3645,False
+PWA,277,751,Klaas Voget,G-4,13,3645,False
+PWA,277,751,Daniel Bruch,G-1181,13,3645,False
+PWA,277,751,Alex Mussolini,E-30,13,3645,False
+PWA,277,751,Thomas Traversa,F-3,17,2693,False
+PWA,277,751,Josep Pons,E-203,17,2693,False
+PWA,277,751,Moritz Mauch,G-103,17,2693,False
+PWA,277,751,Marino Gil Gherardi,E-959,17,2693,False
+PWA,277,751,"Jose ""Gollito"" Estredo",V-10,17,2693,False
+PWA,277,751,Camille Juban,GPE-8,17,2693,False
+PWA,277,751,Arthur Arutkin,F-7,17,2693,False
+PWA,277,751,Antoine Martin,F-193,17,2693,False
+PWA,277,751,Martin ten Hoeve,H-999,25,1784,False
+PWA,277,751,Jacopo Testa,ITA-261,25,1784,False
+PWA,277,751,Loick Lesauvage,F-780,25,1784,False
+PWA,277,751,Dario Ojeda,E-211,25,1784,False
+PWA,277,751,Ben Proffitt,K-800,25,1784,False
+PWA,277,751,Morgan Noireaux,HI-101,25,1784,False
+PWA,277,751,Miguel Chapuis,E-99,25,1784,False
+PWA,277,751,Pablo Ramírez Bolaños,E-244,25,1784,False
+PWA,277,751,Aleix Sanllehy,CAT-555,33,983,False
+PWA,277,751,Noah Vocker,F-210,33,983,False
+PWA,277,751,Logan Groenne,B-292,33,983,False
+PWA,277,751,Mads Bjørnå,DEN-20,33,983,False
+PWA,277,751,Florian Jung,G-21,33,983,False
+PWA,277,751,Takuma Sugi,J-7,33,983,False
+PWA,277,751,Antoine Albert,NC-21,33,983,False
+PWA,277,751,Laurin Schmuth,G-878,33,983,False
+PWA,277,751,Francesco Cappuzzo,I-333,33,983,False
+PWA,277,751,Gustav Haggstrom,S-7,33,983,False
+PWA,277,751,Valentino Pasquale,E-201,33,983,False
+PWA,277,751,Graham Ezzy,USA-1,33,983,False
+PWA,277,751,Alexandre Grand-Guillot,F-585,33,983,False
+PWA,277,751,Hiroshi Hashimoto,J-299,33,983,False
+PWA,277,751,Takara Ishii,J-20,33,983,False
+PWA,277,751,Kenneth Danielsen,D-38,33,983,False
+PWA,277,752,Iballa Ruano Moreno,E-63,1,10000,False
+PWA,277,752,Sarah-Quita Offringa,ARU-91,2,8500,False
+PWA,277,752,Daida Ruano Moreno,E-64,3,7650,False
+PWA,277,752,Justyna Sniady,POL-1111,4,6885,False
+PWA,277,752,Lina Erpenstein,G-3,5,6370,False
+PWA,277,752,Steffi Wahl,G-303,6,5930,False
+PWA,277,752,Arrianne Aukes,H-131,7,5285,False
+PWA,277,752,Ulrike Hölzl,AT-123,7,5285,False
+PWA,277,752,Caterina Stenta,I-662,9,4476,False
+PWA,277,752,Nicole Bandini,ITA-613,9,4476,False
+PWA,277,752,Birgit Rieger,AUT-32,9,4476,False
+PWA,277,752,Maaike Huvermann,NED-108,9,4476,False
+PWA,277,752,Mar De Arce,E-279,13,3645,False
+PWA,277,752,Marine Hunter,FRA-181,13,3645,False
+PWA,277,752,Sarah Hilder,K-349,13,3645,False
+PWA,277,752,Caroline Weber,G-118,13,3645,False
+PWA,277,752,Serena Zoia,ESP-17,17,3043,False
+PWA,277,752,Coraline Foveau,F-351,17,3043,False
+PWA,277,752,Nuage Le Derff,F-605,17,3043,False
+PWA,278,753,Thomas Traversa,F-3,1,10000,False
+PWA,278,753,Ricardo Campello,V-111,2,8500,False
+PWA,278,753,Victor Fernandez,E-42,3,7650,False
+PWA,278,753,Alex Mussolini,E-30,4,6885,False
+PWA,278,753,Jaeger Stone,KA-120,5,6370,False
+PWA,278,753,Antony Ruenes,F-85,6,5930,False
+PWA,278,753,Leon Jamaer,G-208,7,5285,False
+PWA,278,753,Philip Köster,G-44,7,5285,False
+PWA,278,753,Josep Pons,E-203,9,4476,False
+PWA,278,753,Adam Lewis,K-516,9,4476,False
+PWA,278,753,Klaas Voget,G-4,9,4476,False
+PWA,278,753,Marcilio Browne,BRA-105,9,4476,False
+PWA,278,753,Camille Juban,GPE-8,13,3645,False
+PWA,278,753,Robby Swift,K-89,13,3645,False
+PWA,278,753,Graham Ezzy,USA-1,13,3645,False
+PWA,278,753,Daniel Bruch,G-1181,13,3645,False
+PWA,278,753,"Jose ""Gollito"" Estredo",V-10,17,2693,False
+PWA,278,753,Moritz Mauch,G-103,17,2693,False
+PWA,278,753,Julien Quentel,SXM-421,17,2693,False
+PWA,278,753,Kenneth Danielsen,D-38,17,2693,False
+PWA,278,753,Marc Paré,E-334,17,2693,False
+PWA,278,753,Morgan Noireaux,HI-101,17,2693,False
+PWA,278,753,Julian Salmonn,G-21,17,2693,False
+PWA,278,753,Marino Gil Gherardi,E-959,17,2693,False
+PWA,278,753,Dieter Van der Eyken,B-35,25,1784,False
+PWA,278,753,Ross Williams,GBR-83,25,1784,False
+PWA,278,753,Omar Sanchez,E-33,25,1784,False
+PWA,278,753,Florian Jung,G-21,25,1784,False
+PWA,278,753,Ben Proffitt,K-800,25,1784,False
+PWA,278,753,Pablo Ramírez Bolaños,E-244,25,1784,False
+PWA,278,753,Jules Denel,FRA-41,25,1784,False
+PWA,278,753,Jacopo Testa,ITA-261,25,1784,False
+PWA,278,754,Sarah-Quita Offringa,ARU-91,1,10000,False
+PWA,278,754,Iballa Ruano Moreno,E-63,2,8500,False
+PWA,278,754,Lina Erpenstein,G-3,3,7650,False
+PWA,278,754,Steffi Wahl,G-303,4,6885,False
+PWA,278,754,Maaike Huvermann,NED-108,5,6370,False
+PWA,278,754,Justyna Sniady,POL-1111,6,5930,False
+PWA,278,754,Nicole Bandini,ITA-613,7,5285,False
+PWA,278,754,Arrianne Aukes,H-131,7,5285,False
+PWA,278,754,Marine Hunter,FRA-181,9,4588,False
+PWA,278,754,Caroline Weber,G-118,9,4588,False
+PWA,278,754,Serena Zoia,ESP-17,9,4588,False
+PWA,264,717,Philip Köster,G-44,1,2100,False
+PWA,264,717,Victor Fernandez,E-42,2,2067,False
+PWA,264,717,Thomas Traversa,F-3,3,2034,False
+PWA,264,717,Ricardo Campello,V-111,4,2001,False
+PWA,264,717,Marcilio Browne,BRA-105,5,1968,False
+PWA,264,717,Robby Swift,K-89,6,1935,False
+PWA,264,717,Adam Lewis,K-516,7,1886,False
+PWA,264,717,Daniel Bruch,G-1181,7,1886,False
+PWA,264,717,Omar Sanchez,E-33,9,1787,False
+PWA,264,717,Jaeger Stone,KA-120,9,1787,False
+PWA,264,717,Alex Mussolini,E-30,9,1787,False
+PWA,264,717,Moritz Mauch,G-103,9,1787,False
+PWA,264,717,Aleix Sanllehy,CAT-555,13,1655,False
+PWA,264,717,Leon Jamaer,G-208,13,1655,False
+PWA,264,717,Josep Pons,E-203,13,1655,False
+PWA,264,717,Jules Denel,FRA-41,13,1655,False
+PWA,264,717,Dieter Van der Eyken,B-35,17,1457,False
+PWA,264,717,Alessio Stillrich,E-95,17,1457,False
+PWA,264,717,Antoine Martin,F-193,17,1457,False
+PWA,264,717,Dario Ojeda,E-211,17,1457,False
+PWA,264,717,Marc Paré,E-334,17,1457,False
+PWA,264,717,José Romero,E-45,17,1457,False
+PWA,264,717,Camille Juban,GPE-8,17,1457,False
+PWA,264,717,Kenneth Danielsen,D-38,17,1457,False
+PWA,264,717,Pablo Ramírez Bolaños,E-244,25,1193,False
+PWA,264,717,Eric Sanllehy,CAT-111,25,1193,False
+PWA,264,717,Klaas Voget,G-4,25,1193,False
+PWA,264,717,Florian Jung,G-21,25,1193,False
+PWA,264,717,Graham Ezzy,USA-1,25,1193,False
+PWA,264,717,Julian Salmonn,G-21,25,1193,False
+PWA,264,717,Alexandre Grand-Guillot,F-585,25,1193,False
+PWA,264,717,Justin Denel,F-541,25,1193,False
+PWA,264,717,Loick Lesauvage,F-780,33,797,False
+PWA,264,717,Antoine Albert,NC-21,33,797,False
+PWA,264,717,Gustav Haggstrom,S-7,33,797,False
+PWA,264,717,Ben Roca Ward,E-889,33,797,False
+PWA,264,717,Jacopo Testa,ITA-261,33,797,False
+PWA,264,717,Guillermo Alba Lasheras,E-68,33,797,False
+PWA,264,717,Markus Rydberg,S-313,33,797,False
+PWA,264,717,Federico Morisio,I-676,33,797,False
+PWA,264,717,Jake Schettewi,US-25,33,797,False
+PWA,264,717,Marino Gil Gherardi,E-959,33,797,False
+PWA,264,717,Arthur Arutkin,F-7,33,797,False
+PWA,264,717,Morgan Noireaux,HI-101,33,797,False
+PWA,264,717,Nicolas Akgazciyan,F-400,33,797,False
+PWA,264,717,Noah Vocker,F-210,33,797,False
+PWA,264,717,Yushi Shirakata,JPN-136,33,797,False
+PWA,264,717,Martin ten Hoeve,H-999,33,797,False
+PWA,264,718,Daida Ruano Moreno,E-64,1,2100,False
+PWA,264,718,Iballa Ruano Moreno,E-63,2,2067,False
+PWA,264,718,Lina Erpenstein,G-3,3,2034,False
+PWA,264,718,Justyna Sniady,POL-1111,4,2001,False
+PWA,264,718,Sarah-Quita Offringa,ARU-91,5,1968,False
+PWA,264,718,Nayra Alonso,E-4,6,1935,False
+PWA,264,718,Sarah Hilder,K-349,7,1886,False
+PWA,264,718,Greta Benvenuti,ITA-38,7,1886,False
+PWA,264,718,Caterina Stenta,I-662,9,1787,False
+PWA,264,718,Birgit Rieger,AUT-32,9,1787,False
+PWA,264,718,Serena Zoia,ESP-17,9,1787,False
+PWA,264,718,Nicole Bandini,ITA-613,9,1787,False
+PWA,264,718,Alexa Escherich,G-200,13,1655,False
+PWA,264,718,Marine Hunter,FRA-181,13,1655,False
+PWA,264,718,María Andrés,E-2,13,1655,False
+PWA,264,718,Arrianne Aukes,H-131,13,1655,False
+PWA,266,722,Philip Köster,G-44,1,2100,False
+PWA,266,722,Victor Fernandez,E-42,2,2067,False
+PWA,266,722,Alex Mussolini,E-30,3,2034,False
+PWA,266,722,Marcilio Browne,BRA-105,4,2001,False
+PWA,266,722,Adam Lewis,K-516,5,1968,False
+PWA,266,722,Alessio Stillrich,E-95,6,1935,False
+PWA,266,722,Thomas Traversa,F-3,7,1886,False
+PWA,266,722,Jaeger Stone,KA-120,7,1886,False
+PWA,266,722,Ricardo Campello,V-111,9,1787,False
+PWA,266,722,Camille Juban,GPE-8,9,1787,False
+PWA,266,722,Daniel Bruch,G-1181,9,1787,False
+PWA,266,722,Marc Paré,E-334,9,1787,False
+PWA,266,722,Antoine Martin,F-193,13,1655,False
+PWA,266,722,Jules Denel,FRA-41,13,1655,False
+PWA,266,722,Julian Salmonn,G-21,13,1655,False
+PWA,266,722,Klaas Voget,G-4,13,1655,False
+PWA,266,722,Arthur Arutkin,F-7,17,1457,False
+PWA,266,722,Leon Jamaer,G-208,17,1457,False
+PWA,266,722,Moritz Mauch,G-103,17,1457,False
+PWA,266,722,Robby Swift,K-89,17,1457,False
+PWA,266,722,Aleix Sanllehy,CAT-555,17,1457,False
+PWA,266,722,Omar Sanchez,E-33,17,1457,False
+PWA,266,722,Morgan Noireaux,HI-101,17,1457,False
+PWA,266,722,Josep Pons,E-203,17,1457,False
+PWA,266,722,Florian Jung,G-21,25,1193,False
+PWA,266,722,Marino Gil Gherardi,E-959,25,1193,False
+PWA,266,722,Kenneth Danielsen,D-38,25,1193,False
+PWA,266,722,Dieter Van der Eyken,B-35,25,1193,False
+PWA,266,722,Loick Lesauvage,F-780,25,1193,False
+PWA,266,722,Tim van Dam Sanchidrian,E-51,25,1193,False
+PWA,266,722,Graham Ezzy,USA-1,25,1193,False
+PWA,266,722,"Jose ""Gollito"" Estredo",V-10,25,1193,False
+PWA,266,722,Eric Sanllehy,CAT-111,33,797,False
+PWA,266,722,Martin ten Hoeve,H-999,33,797,False
+PWA,266,722,Felix Spencer,AUS-69,33,797,False
+PWA,266,722,Noah Vocker,F-210,33,797,False
+PWA,266,722,Antoine Albert,NC-21,33,797,False
+PWA,266,722,Francesco Cappuzzo,I-333,33,797,False
+PWA,266,722,Nicolas Akgazciyan,F-400,33,797,False
+PWA,266,722,Pablo Ramírez Bolaños,E-244,33,797,False
+PWA,266,722,Dario Ojeda,E-211,33,797,False
+PWA,266,722,Jacopo Testa,ITA-261,33,797,False
+PWA,266,722,Ben Proffitt,K-800,33,797,False
+PWA,266,722,Valter Scotto,TF-7,33,797,False
+PWA,266,722,Jake Schettewi,US-25,33,797,False
+PWA,266,722,Alexandre Grand-Guillot,F-585,33,797,False
+PWA,266,722,John Skye,K-57,33,797,False
+PWA,266,722,Antony Ruenes,F-85,33,797,False
+PWA,266,723,Iballa Ruano Moreno,E-63,1,2100,False
+PWA,266,723,Sarah-Quita Offringa,ARU-91,2,2067,False
+PWA,266,723,Daida Ruano Moreno,E-64,3,2034,False
+PWA,266,723,Justyna Sniady,POL-1111,4,2001,False
+PWA,266,723,Lina Erpenstein,G-3,5,1968,False
+PWA,266,723,Nicole Bandini,ITA-613,6,1935,False
+PWA,266,723,Greta Benvenuti,ITA-38,7,1886,False
+PWA,266,723,Birgit Rieger,AUT-32,7,1886,False
+PWA,266,723,Arrianne Aukes,H-131,9,1787,False
+PWA,266,723,Sara Sommer,D-107,9,1787,False
+PWA,266,723,Lena Erdil,GER-33,9,1787,False
+PWA,266,723,Caterina Stenta,I-662,9,1787,False
+PWA,266,723,Serena Zoia,ESP-17,13,1655,False
+PWA,266,723,Caroline Weber,G-118,13,1655,False
+PWA,266,723,Sarah Hilder,K-349,13,1655,False
+PWA,266,723,María Andrés,E-2,13,1655,False
+PWA,266,723,Marine Hunter,FRA-181,17,1539,False
+PWA,266,723,Waka Nishida,J-700,17,1539,False
+PWA,266,723,Alexa Escherich,G-200,17,1539,False
+PWA,268,726,Victor Fernandez,E-42,1,1000,False
+PWA,268,726,Marcilio Browne,BRA-105,2,990,False
+PWA,268,726,Philip Köster,G-44,3,980,False
+PWA,268,726,Alex Mussolini,E-30,4,970,False
+PWA,268,726,Adam Lewis,K-516,5,960,False
+PWA,268,726,Jaeger Stone,KA-120,6,950,False
+PWA,268,726,Thomas Traversa,F-3,7,935,False
+PWA,268,726,Aleix Sanllehy,CAT-555,7,935,False
+PWA,268,726,Leon Jamaer,G-208,9,905,False
+PWA,268,726,Ricardo Campello,V-111,9,905,False
+PWA,268,726,Alessio Stillrich,E-95,9,905,False
+PWA,268,726,Marc Paré,E-334,9,905,False
+PWA,268,726,Camille Juban,GPE-8,13,865,False
+PWA,268,726,Klaas Voget,G-4,13,865,False
+PWA,268,726,Josh Angulo,CV-1,13,865,False
+PWA,268,726,Omar Sanchez,E-33,13,865,False
+PWA,268,726,Jules Denel,FRA-41,17,805,False
+PWA,268,726,Antoine Martin,F-193,17,805,False
+PWA,268,726,Dieter Van der Eyken,B-35,17,805,False
+PWA,268,726,Robby Swift,K-89,17,805,False
+PWA,268,726,Moritz Mauch,G-103,17,805,False
+PWA,268,726,Daniel Bruch,G-1181,17,805,False
+PWA,268,726,Kenneth Danielsen,D-38,17,805,False
+PWA,268,726,Josep Pons,E-203,17,805,False
+PWA,268,726,Markus Rydberg,S-313,25,725,False
+PWA,268,726,Pablo Ramírez Bolaños,E-244,25,725,False
+PWA,268,726,Florian Jung,G-21,25,725,False
+PWA,268,726,"Jose ""Gollito"" Estredo",V-10,25,725,False
+PWA,268,726,Graham Ezzy,USA-1,25,725,False
+PWA,268,726,Adrian Beholz,G-888,25,725,False
+PWA,268,726,Julian Salmonn,G-21,25,725,False
+PWA,268,726,Marius Herrmann,GER-3131,25,725,False
+PWA,268,727,Iballa Ruano Moreno,E-63,1,1000,False
+PWA,268,727,Sarah-Quita Offringa,ARU-91,2,990,False
+PWA,268,727,Daida Ruano Moreno,E-64,3,980,False
+PWA,268,727,Lina Erpenstein,G-3,4,970,False
+PWA,268,727,Justyna Sniady,POL-1111,5,960,False
+PWA,268,727,Steffi Wahl,G-303,6,950,False
+PWA,268,727,Caterina Stenta,I-662,7,935,False
+PWA,268,727,Lena Erdil,GER-33,7,935,False
+PWA,268,727,Caroline Weber,G-118,9,905,False
+PWA,268,727,Greta Benvenuti,ITA-38,9,905,False
+PWA,268,727,Arrianne Aukes,H-131,9,905,False
+PWA,268,727,Nicole Bandini,ITA-613,9,905,False
+PWA,268,727,Marine Hunter,FRA-181,13,875,False
+PWA,268,727,Serena Zoia,ESP-17,13,875,False
+PWA,250,689,Victor Fernandez,E-42,1,2100,False
+PWA,250,689,Philip Köster,G-44,2,2067,False
+PWA,250,689,Jaeger Stone,KA-120,3,2034,False
+PWA,250,689,Alex Mussolini,E-30,4,2001,False
+PWA,250,689,Marcilio Browne,BRA-105,5,1919,False
+PWA,250,689,Daniel Bruch,G-1181,5,1919,False
+PWA,250,689,Robby Swift,K-89,5,1919,False
+PWA,250,689,Thomas Traversa,F-3,5,1919,False
+PWA,250,689,Jules Denel,FRA-41,9,1721,False
+PWA,250,689,Leon Jamaer,G-208,9,1721,False
+PWA,250,689,Camille Juban,GPE-8,9,1721,False
+PWA,250,689,Florian Jung,G-21,9,1721,False
+PWA,250,689,Adam Lewis,K-516,9,1721,False
+PWA,250,689,Antoine Martin,F-193,9,1721,False
+PWA,250,689,Josep Pons,E-203,9,1721,False
+PWA,250,689,Alessio Stillrich,E-95,9,1721,False
+PWA,250,689,Kenneth Danielsen,D-38,17,1457,False
+PWA,250,689,Graham Ezzy,USA-1,17,1457,False
+PWA,250,689,Moritz Mauch,G-103,17,1457,False
+PWA,250,689,Marc Paré,E-334,17,1457,False
+PWA,250,689,Ben Proffitt,K-800,17,1457,False
+PWA,250,689,Omar Sanchez,E-33,17,1457,False
+PWA,250,689,Julien Taboulet,F-100,17,1457,False
+PWA,250,689,Klaas Voget,G-4,17,1457,False
+PWA,250,689,Eleazar Alonso Sanchez,E-41,25,1193,False
+PWA,250,689,Jonas Ceballos,E-40,25,1193,False
+PWA,250,689,Morgan Noireaux,HI-101,25,1193,False
+PWA,250,689,Dario Ojeda,E-211,25,1193,False
+PWA,250,689,Pablo Ramírez Bolaños,E-244,25,1193,False
+PWA,250,689,Aleix Sanllehy,CAT-555,25,1193,False
+PWA,250,689,John Skye,K-57,25,1193,False
+PWA,250,689,Dieter Van der Eyken,B-35,25,1193,False
+PWA,250,690,Daida Ruano Moreno,E-64,1,2100,False
+PWA,250,690,Sarah-Quita Offringa,ARU-91,2,2067,False
+PWA,250,690,Iballa Ruano Moreno,E-63,3,2034,False
+PWA,250,690,Amanda Beenen,H-87,4,2001,False
+PWA,250,690,Alice Arutkin,F-111,5,1919,False
+PWA,250,690,Lina Erpenstein,G-3,5,1919,False
+PWA,250,690,Justyna Sniady,POL-1111,5,1919,False
+PWA,250,690,Steffi Wahl,G-303,5,1919,False
+PWA,250,690,Silvia Alba Orozco,E-67,9,1721,False
+PWA,250,690,Arrianne Aukes,H-131,9,1721,False
+PWA,250,690,Nicole Bandini,ITA-613,9,1721,False
+PWA,250,690,Sarah Hilder,K-349,9,1721,False
+PWA,250,690,Astrid Muldoon,F-002,9,1721,False
+PWA,250,690,Waka Nishida,J-700,9,1721,False
+PWA,250,690,Caterina Stenta,I-662,9,1721,False
+PWA,250,690,Serena Zoia,ESP-17,9,1721,False
+PWA,250,690,Birgit Rieger,AUT-32,17,1572,False
+PWA,252,694,Victor Fernandez,E-42,1,2100,False
+PWA,252,694,Marcilio Browne,BRA-105,2,2067,False
+PWA,252,694,Philip Köster,G-44,3,2034,False
+PWA,252,694,Alex Mussolini,E-30,4,2001,False
+PWA,252,694,Thomas Traversa,F-3,5,1968,False
+PWA,252,694,Robby Swift,K-89,6,1935,False
+PWA,252,694,Daniel Bruch,G-1181,7,1886,False
+PWA,252,694,Jaeger Stone,KA-120,7,1886,False
+PWA,252,694,Ricardo Campello,V-111,9,1787,False
+PWA,252,694,Adam Lewis,K-516,9,1787,False
+PWA,252,694,Aleix Sanllehy,CAT-555,9,1787,False
+PWA,252,694,Dieter Van der Eyken,B-35,9,1787,False
+PWA,252,694,Jules Denel,FRA-41,13,1655,False
+PWA,252,694,Leon Jamaer,G-208,13,1655,False
+PWA,252,694,Josep Pons,E-203,13,1655,False
+PWA,252,694,Omar Sanchez,E-33,13,1655,False
+PWA,252,694,Loick Lesauvage,F-780,17,1457,False
+PWA,252,694,Antoine Martin,F-193,17,1457,False
+PWA,252,694,Moritz Mauch,G-103,17,1457,False
+PWA,252,694,Ben Proffitt,K-800,17,1457,False
+PWA,252,694,Julian Salmonn,G-21,17,1457,False
+PWA,252,694,John Skye,K-57,17,1457,False
+PWA,252,694,Alessio Stillrich,E-95,17,1457,False
+PWA,252,694,Klaas Voget,G-4,17,1457,False
+PWA,252,694,Graham Ezzy,USA-1,25,1193,False
+PWA,252,694,Camille Juban,GPE-8,25,1193,False
+PWA,252,694,Florian Jung,G-21,25,1193,False
+PWA,252,694,Morgan Noireaux,HI-101,25,1193,False
+PWA,252,694,Marc Paré,E-334,25,1193,False
+PWA,252,694,Eric Sanllehy,CAT-111,25,1193,False
+PWA,252,694,Julien Taboulet,F-100,25,1193,False
+PWA,252,694,Tim van Dam Sanchidrian,E-51,25,1193,False
+PWA,252,695,Iballa Ruano Moreno,E-63,1,2100,False
+PWA,252,695,Daida Ruano Moreno,E-64,2,2067,False
+PWA,252,695,Steffi Wahl,G-303,3,2034,False
+PWA,252,695,Sarah-Quita Offringa,ARU-91,4,2001,False
+PWA,252,695,Amanda Beenen,H-87,5,1968,False
+PWA,252,695,Lina Erpenstein,G-3,6,1935,False
+PWA,252,695,Alice Arutkin,F-111,7,1886,False
+PWA,252,695,Nicole Bandini,ITA-613,7,1886,False
+PWA,252,695,Greta Benvenuti,ITA-38,9,1787,False
+PWA,252,695,Sarah Hilder,K-349,9,1787,False
+PWA,252,695,Justyna Sniady,POL-1111,9,1787,False
+PWA,252,695,Caterina Stenta,I-662,9,1787,False
+PWA,252,695,María Andrés,E-2,13,1655,False
+PWA,252,695,Arrianne Aukes,H-131,13,1655,False
+PWA,252,695,Caroline Weber,G-118,13,1655,False
+PWA,252,695,Serena Zoia,ESP-17,13,1655,False
+PWA,252,695,Alexa Escherich,G-200,17,1556,False
+PWA,252,695,Birgit Rieger,AUT-32,17,1556,False
+PWA,256,701,Iballa Ruano Moreno,E-63,1,2100,False
+PWA,256,701,Daida Ruano Moreno,E-64,2,2067,False
+PWA,256,701,Sarah-Quita Offringa,ARU-91,3,2034,False
+PWA,256,701,Amanda Beenen,H-87,4,2001,False
+PWA,256,701,Alice Arutkin,F-111,5,1919,False
+PWA,256,701,Lina Erpenstein,G-3,5,1919,False
+PWA,256,701,Justyna Sniady,POL-1111,5,1919,False
+PWA,256,701,Steffi Wahl,G-303,5,1919,False
+PWA,256,701,Arrianne Aukes,H-131,9,1787,False
+PWA,256,701,Maaike Huvermann,NED-108,9,1787,False
+PWA,256,701,Caterina Stenta,I-662,9,1787,False
+PWA,256,701,Caroline Weber,G-118,9,1787,False
+PWA,256,702,Alex Mussolini,E-30,1,2100,False
+PWA,256,702,Thomas Traversa,F-3,2,2067,False
+PWA,256,702,Jaeger Stone,KA-120,3,2034,False
+PWA,256,702,Victor Fernandez,E-42,4,2001,False
+PWA,256,702,Daniel Bruch,G-1181,5,1919,False
+PWA,256,702,Kenneth Danielsen,D-38,5,1919,False
+PWA,256,702,Robby Swift,K-89,5,1919,False
+PWA,256,702,Klaas Voget,G-4,5,1919,False
+PWA,256,702,Marcilio Browne,BRA-105,9,1721,False
+PWA,256,702,Leon Jamaer,G-208,9,1721,False
+PWA,256,702,Camille Juban,GPE-8,9,1721,False
+PWA,256,702,Antoine Martin,F-193,9,1721,False
+PWA,256,702,Moritz Mauch,G-103,9,1721,False
+PWA,256,702,John Skye,K-57,9,1721,False
+PWA,256,702,Alessio Stillrich,E-95,9,1721,False
+PWA,256,702,Dieter Van der Eyken,B-35,9,1721,False
+PWA,256,702,Ricardo Campello,V-111,17,1325,False
+PWA,256,702,Jules Denel,FRA-41,17,1325,False
+PWA,256,702,Max Droege,G-3,17,1325,False
+PWA,256,702,Graham Ezzy,USA-1,17,1325,False
+PWA,256,702,Gustav Haggstrom,S-7,17,1325,False
+PWA,256,702,Florian Jung,G-21,17,1325,False
+PWA,256,702,Adam Lewis,K-516,17,1325,False
+PWA,256,702,Marc Paré,E-334,17,1325,False
+PWA,256,702,Josep Pons,E-203,17,1325,False
+PWA,256,702,Ben Proffitt,K-800,17,1325,False
+PWA,256,702,Julien Quentel,SXM-421,17,1325,False
+PWA,256,702,Pablo Ramírez Bolaños,E-244,17,1325,False
+PWA,256,702,Maciek Rutkowski,POL-23,17,1325,False
+PWA,256,702,Omar Sanchez,E-33,17,1325,False
+PWA,256,702,Aleix Sanllehy,CAT-555,17,1325,False
+PWA,256,702,Martin ten Hoeve,H-999,17,1325,False
+PWA,258,709,Kevin Pritchard,US-3,1,2100,False
+PWA,258,709,Marcilio Browne,BRA-105,2,2067,False
+PWA,258,709,Levi Siver,USA-0,3,2034,False
+PWA,258,709,Kai Lenny,US-1112,4,2001,False
+PWA,258,709,Bernd Roediger,US-1113,5,1968,False
+PWA,258,709,Camille Juban,GPE-8,6,1935,False
+PWA,258,709,Morgan Noireaux,HI-101,7,1902,False
+PWA,258,709,Robby Swift,K-89,8,1869,False
+PWA,258,709,Graham Ezzy,USA-1,9,1820,False
+PWA,258,709,Kauli Seadi,BRA-253,9,1820,False
+PWA,258,709,Ricardo Campello,V-111,11,1754,False
+PWA,258,709,Ross Williams,GBR-83,11,1754,False
+PWA,258,709,Antoine Martin,F-193,13,1688,False
+PWA,258,709,Alex Mussolini,E-30,13,1688,False
+PWA,258,709,Leon Jamaer,G-208,15,1622,False
+PWA,258,709,Klaas Voget,G-4,15,1622,False
+PWA,258,709,Moritz Mauch,G-103,17,1523,False
+PWA,258,709,Robby Naish,US-1111,17,1523,False
+PWA,258,709,Jason Polakow,KA-1111,17,1523,False
+PWA,258,709,Keith Teboul,US-60,17,1523,False
+PWA,258,709,Victor Fernandez,E-42,21,1391,False
+PWA,258,709,Boujmaa Guilloul,M-3,21,1391,False
+PWA,258,709,John Skye,K-57,21,1391,False
+PWA,258,709,Julien Taboulet,F-100,21,1391,False
+PWA,258,709,Josh Angulo,CV-1,25,1259,False
+PWA,258,709,Kai Katchadourian,US-33,25,1259,False
+PWA,258,709,Kevin McGillivray,US-527,25,1259,False
+PWA,258,709,Michi Schweiger,AUT-54,25,1259,False
+PWA,258,709,Diony Guadagnino,V-69,29,1127,False
+PWA,258,709,Laurent Guillemin,F-716,29,1127,False
+PWA,258,709,Florian Jung,G-21,29,1127,False
+PWA,258,709,Bryan Metcalf-Perez,US-505,29,1127,False
+PWA,258,709,Jake Schettewi,US-25,33,929,False
+PWA,258,709,Zane Kekoa Schweitzer,HI-11,33,929,False
+PWA,258,709,Connor Baxter,US-333,33,929,False
+PWA,258,709,Russ Faurot,US-785,33,929,False
+PWA,258,709,Pascal Hardy,KC-991,33,929,False
+PWA,258,709,Federico Morisio,I-676,33,929,False
+PWA,258,709,Marc Paré,E-334,33,929,False
+PWA,258,709,Aleix Sanllehy,CAT-555,33,929,False
+PWA,258,709,Chris Freeman,K-97,41,665,False
+PWA,258,709,Casey Hauser,US-634,41,665,False
+PWA,258,709,Loick Lesauvage,F-780,41,665,False
+PWA,258,709,Ferdinando Loffreda,HI-1001,41,665,False
+PWA,258,709,Joey Sanchez,US-37,41,665,False
+PWA,258,709,Jaeger Stone,KA-120,41,665,False
+PWA,258,709,Josh Stone,USA-6,41,665,False
+PWA,258,709,Brian Talma,KBA-8,41,665,False
+PWA,258,710,Sarah-Quita Offringa,ARU-91,1,2100,False
+PWA,258,710,Sarah Hauser,NC-6,2,2067,False
+PWA,258,710,Junko Nagoshi,J-11,3,2034,False
+PWA,258,710,Fiona Wylde,US-11,4,2001,False
+PWA,258,710,Motoko Sato,J-0,5,1968,False
+PWA,258,710,Tatiana Howard,US-16,6,1935,False
+PWA,258,710,Shawna Cropas,KC-99,7,1902,False
+PWA,258,710,Jessica Crisp,AUS-15,8,1869,False
+PWA,258,710,Alice Arutkin,F-111,9,1820,False
+PWA,258,710,Ingrid Larouche,CAN-66,9,1820,False
+PWA,258,710,María Andrés,E-2,11,1754,False
+PWA,258,710,Amanda Beenen,H-87,11,1754,False
+PWA,258,710,Vickey Abbot,AWT-3,13,1655,False
+PWA,258,710,Lena Erdil,GER-33,13,1655,False
+PWA,258,710,Colette Guadagnino,V-711,13,1655,False
+PWA,258,710,Tiffany Ward,US-69,13,1655,False
+PWA,258,710,Ashley Baxter,US-77,17,1523,False
+PWA,258,710,Sam Bittner,AWT-1,17,1523,False
+PWA,258,710,Minako Mori,J-375,17,1523,False
+PWA,258,710,Annamaria Zollet,I-908,17,1523,False
