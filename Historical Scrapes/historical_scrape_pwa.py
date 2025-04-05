@@ -18,8 +18,7 @@ from selenium.common.exceptions import WebDriverException
 # NEW: Import the progression/results functions
 import functions_pwa_progression_results_scores as fpprs
 # NEW: Import the final rank functions from new_pwa_final_rank
-import new_pwa_final_rank
-
+import functions_pwa_final_rank
 
 # Set up WebDriver without manually specifying the path
 chrome_options = Options()
@@ -137,7 +136,7 @@ for event in event_data_by_year:
 
     # NEW BLOCK: Collect final rank codes and labels using the new function
     try:
-        final_rank_data = new_pwa_final_rank.extract_wave_links_with_labels(event_id)
+        final_rank_data = functions_pwa_final_rank.extract_wave_links_with_labels(event_id)
         event['final_rank'] = final_rank_data  # This stores the list of dicts with 'label' and 'href'
     except Exception as e:
         print(f"Error collecting final rank data for event {event['event_name']} (ID: {event_id}): {e}")
@@ -181,7 +180,7 @@ for event in event_data_by_year:
 # Filter Final Output
 # =============================================================================
 # Export event data to CSV (no additional filtering needed)
-csv_file = "Historical Scrapes/Data/Raw/pwa_event_data_raw.csv"
+csv_file = "Historical Scrapes/Data/Raw/PWA/pwa_event_data_raw.csv"
 # Filter events to include only those with at least one category code
 filtered_events = [event for event in event_data_by_year if event.get('final_rank')]
 
@@ -220,31 +219,35 @@ def clean_event_df(df, output_file=None):
     # Expand final_rank column into final_rank_label and final_rank_code columns
     # -------------------------------
     new_final_rank_rows = []
+        
     for _, row in df.iterrows():
         try:
-            # Convert the string representation into a Python list of dictionaries
-            final_rank_list = ast.literal_eval(row['final_rank'])
-            # For each dictionary in the list, extract the desired information
-            for rank in final_rank_list:
-                label = rank.get('label')
-                href = rank.get('href')
-                code = None
-                if href:
-                    parsed_url = urlparse(href)
-                    params = parse_qs(parsed_url.query)
-                    # Extract the discipline code from the parameter "tx_pwaevent_pi1[eventDiscipline]"
-                    code = params.get('tx_pwaevent_pi1[eventDiscipline]', [None])[0]
-                new_row = row.copy()
-                new_row['final_rank_label'] = label
-                new_row['final_rank_code'] = code
-                new_final_rank_rows.append(new_row)
+            # Convert the string representation into a Python dictionary
+            final_rank_dict = ast.literal_eval(row['final_rank'])
+            
+            # Extract the 'Wave Men' entry if available; otherwise, use the first key-value pair
+            if 'Wave Men' in final_rank_dict:
+                label = 'Wave Men'
+                code = final_rank_dict['Wave Men']
+            else:
+                label, code = list(final_rank_dict.items())[0]
+            
+            new_row = row.copy()
+            new_row['final_rank_label'] = label
+            new_row['final_rank_code'] = code
+            new_final_rank_rows.append(new_row)
+            
         except Exception as e:
             # In case of error, set the new columns to None
             new_row = row.copy()
             new_row['final_rank_label'] = None
             new_row['final_rank_code'] = None
             new_final_rank_rows.append(new_row)
+    
     df = pd.DataFrame(new_final_rank_rows)
+    
+    if output_file:
+        df.to_csv(output_file, index=False)
     
     # -------------------------------
     # Clean the 'category_codes' column:
@@ -322,7 +325,7 @@ def clean_event_df(df, output_file=None):
     
     return new_df
 
-
+clean_event_df(df, 'Historical Scrapes/Data/Clean/PWA/pwa_event_data_clean.csv')
 
 # =============================================================================
 # Extract Heat Data Using PWA Progression/Results Functions

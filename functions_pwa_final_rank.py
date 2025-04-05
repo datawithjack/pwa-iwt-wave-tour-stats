@@ -2,6 +2,55 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
+import re
+import requests
+from bs4 import BeautifulSoup
+
+def extract_wave_links_with_labels(event_id):
+    """
+    Extracts wave links and their labels from the PWA website for a given event_id.
+    It filters links where:
+      - The link label contains "wave" (case-insensitive)
+      - The href includes a numeric code immediately following the sequence 
+        "tx_pwaevent_pi1%5BeventDiscipline%5D="
+    
+    Returns:
+      dict: A dictionary with keys as labels and values as the extracted numeric code.
+    """
+    url = f"https://www.pwaworldtour.com/index.php?id=193&type=21&tx_pwaevent_pi1%5Baction%5D=results&tx_pwaevent_pi1%5BshowUid%5D={event_id}.xml"
+    response = requests.get(url)
+    if response.status_code != 200:
+        raise Exception(f"Failed to retrieve data: {response.status_code}")
+    
+    soup = BeautifulSoup(response.content, 'lxml')
+    
+    # Look for the first <ul> container.
+    container = soup.find('ul')
+    links = container.find_all('a', href=True) if container else soup.find_all('a', href=True)
+    
+    # Regex pattern to extract the number after "tx_pwaevent_pi1%5BeventDiscipline%5D="
+    pattern = r"tx_pwaevent_pi1%5BeventDiscipline%5D=(\d+)"
+    
+    wave_links = {}
+    for link in links:
+        label = link.get_text(strip=True)
+        href = link.get('href')
+        # Check if the label contains "wave" (case-insensitive)
+        if "wave" in label.lower():
+            match = re.search(pattern, href)
+            if match:
+                # Extract just the numeric part.
+                wave_links[label] = match.group(1)
+    return wave_links
+
+# # Example usage:
+# if __name__ == "__main__":
+#     event_id = 357  # Replace with the desired event_id
+#     result = extract_wave_links_with_labels(event_id)
+#     print(result)
+
+
+
 def extract_pwa_results(event_id, discipline_code):
     """
     Extracts event results from the PWA XML page and returns a DataFrame.
@@ -71,32 +120,34 @@ def extract_pwa_results(event_id, discipline_code):
     
     return df
 
-if __name__ == "__main__":
-    # Read the cleaned event data CSV with prefixed columns
-    event_data = pd.read_csv("Historical Scrapes/Data/Clean/pwa_event_data_cleaned.csv")
+# if __name__ == "__main__":
+#     # Read the cleaned event data CSV with prefixed columns
+#     event_data = pd.read_csv("Historical Scrapes/Data/Clean/pwa_event_data_cleaned.csv")
     
-    # Deduplicate rows based on the pwa_event_id and pwa_final_rank_code pairs
-    dedup_event_data = event_data.drop_duplicates(subset=['pwa_event_id', 'pwa_final_rank_code'])
-    print(f"Deduplicated to {len(dedup_event_data)} unique event/discipline pairs out of {len(event_data)} total rows.")
+#     # Deduplicate rows based on the pwa_event_id and pwa_final_rank_code pairs
+#     dedup_event_data = event_data.drop_duplicates(subset=['pwa_event_id', 'pwa_final_rank_code'])
+#     print(f"Deduplicated to {len(dedup_event_data)} unique event/discipline pairs out of {len(event_data)} total rows.")
     
-    # List to store DataFrame results from each event/discipline pair
-    df_list = []
+#     # List to store DataFrame results from each event/discipline pair
+#     df_list = []
     
-    # Loop through each row using the new column names: pwa_event_id and pwa_final_rank_code
-    for idx, row in dedup_event_data.iterrows():
-        event_id = row['pwa_event_id']
-        discipline_code = row['pwa_final_rank_code']
-        try:
-            df_result = extract_pwa_results(event_id, discipline_code)
-            df_list.append(df_result)
-            print(f"Processed pwa_event_id: {event_id}, pwa_final_rank_code: {discipline_code}")
-        except Exception as e:
-            print(f"Error processing pwa_event_id: {event_id}, pwa_final_rank_code: {discipline_code}: {e}")
+#     # Loop through each row using the new column names: pwa_event_id and pwa_final_rank_code
+#     for idx, row in dedup_event_data.iterrows():
+#         event_id = row['pwa_event_id']
+#         discipline_code = row['pwa_final_rank_code']
+#         try:
+#             df_result = extract_pwa_results(event_id, discipline_code)
+#             df_list.append(df_result)
+#             print(f"Processed pwa_event_id: {event_id}, pwa_final_rank_code: {discipline_code}")
+#         except Exception as e:
+#             print(f"Error processing pwa_event_id: {event_id}, pwa_final_rank_code: {discipline_code}: {e}")
     
-    # Combine all results into a single DataFrame and save as CSV
-    if df_list:
-        final_df = pd.concat(df_list, ignore_index=True)
-        final_df.to_csv("Historical Scrapes/Data/Raw/pwa_final_ranks_raw.csv", index=False)
-        print("Saved final results to Historical Scrapes/Data/Raw/pwa_final_ranks_raw.csv")
-    else:
-        print("No results to save.")
+#     # Combine all results into a single DataFrame and save as CSV
+#     if df_list:
+#         final_df = pd.concat(df_list, ignore_index=True)
+#         final_df.to_csv("Historical Scrapes/Data/Raw/pwa_final_ranks_raw.csv", index=False)
+#         print("Saved final results to Historical Scrapes/Data/Raw/pwa_final_ranks_raw.csv")
+#     else:
+#         print("No results to save.")
+
+#extract_wave_links_with_labels(357)
