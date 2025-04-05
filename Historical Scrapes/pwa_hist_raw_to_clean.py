@@ -3,6 +3,9 @@
 
 # packages
 import pandas as pd
+import ast
+from urllib.parse import urlparse, parse_qs
+
 
 # data load
 heat_scores_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_scores_raw.csv')
@@ -48,10 +51,6 @@ final_rank_df = final_rank_df.rename(columns={'sail_no': 'athleteId', 'Name': 'n
 final_rank_df['incomplete'] = final_rank_df.groupby(['event_id', 'eventDivisionid'])['place'] \
                                              .transform(lambda x: (x == 1).sum() > 1)
 
-# -----------------------------------
-# event data cleaning
-# -----------------------------------
-# see function for steps 
 
 # -----------------------------------
 # heat progression cleaning

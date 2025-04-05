@@ -108,16 +108,20 @@ for year_info in year_data:
             
             # Extract event details and store them with the section title
             for event in event_links:
-                event_title = event.find_element(By.CLASS_NAME, "event-title").text
+                event_title = event.find_element(By.CLASS_NAME, "event-title").text.strip()
                 event_href = event.get_attribute("href")
+                # Extract event date from the event-date element
+                event_date = event.find_element(By.CLASS_NAME, "event-date").text.strip()
                 
                 event_data_by_year.append({
                     "year": year,
                     "id": year_id,
                     "section": section_title,
                     "event_name": event_title,
-                    "event_href": event_href
+                    "event_href": event_href,
+                    "event_date": event_date
                 })
+
 
 # Extract event_id from event_href and construct new links, plus retrieve category codes
 for event in event_data_by_year:
