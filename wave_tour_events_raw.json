@@ -573,6 +573,33 @@
                     "currentScheduleIndex": 0
                 },
                 {
+                    "id": "322589",
+                    "name": "Japan: 2 STAR JWA Junior Wave ",
+                    "status": "results_published",
+                    "date": "2024-12-26T23:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "45070",
+                            "name": "2025 Asia Wave Tour Rankings"
+                        },
+                        {
+                            "id": "28107",
+                            "name": "2024 Asian: Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 1
+                },
+                {
                     "id": "72487",
                     "name": "Australia: 2 STAR Sydney Classic",
                     "status": "results_published",
@@ -624,6 +651,60 @@
                         }
                     ],
                     "currentScheduleIndex": 2
+                },
+                {
+                    "id": "268537",
+                    "name": "Chile: 2 STAR Llico Historico Vichuquen",
+                    "status": "results_published",
+                    "date": "2025-01-17T13:00:00Z",
+                    "daysWindow": 3,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "42825",
+                            "name": "2025 Americas Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
+                },
+                {
+                    "id": "263420",
+                    "name": "France: 3 STAR Wissant Wave Classic",
+                    "status": "results_published",
+                    "date": "2024-12-20T22:00:00Z",
+                    "daysWindow": 2,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "23785",
+                            "name": "2024 European: Wave Rankings"
+                        },
+                        {
+                            "id": "23784",
+                            "name": "2024 PWA IWT World Wave Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 0
                 },
                 {
                     "id": "221942",
@@ -943,30 +1024,13 @@
                     "currentScheduleIndex": 2
                 },
                 {
-                    "id": "263420",
-                    "name": "France: 3 STAR Wissant Wave Classic",
-                    "status": "results_published",
-                    "date": "2024-12-20T22:00:00Z",
-                    "daysWindow": 2,
+                    "id": "361991",
+                    "name": "FINALND: 2 STAR Surfsport Wave Champs",
+                    "status": "scheduled",
+                    "date": "2025-07-11T05:00:00Z",
+                    "daysWindow": 115,
                     "hideFinals": null,
-                    "series": [
-                        {
-                            "id": "45103",
-                            "name": "2025 European Wave Tour Rankings"
-                        },
-                        {
-                            "id": "23785",
-                            "name": "2024 European: Wave Rankings"
-                        },
-                        {
-                            "id": "23784",
-                            "name": "2024 PWA IWT World Wave Rankings"
-                        },
-                        {
-                            "id": "30055",
-                            "name": "WORLD: Rolling Wave Rankings - seeding"
-                        }
-                    ],
+                    "series": [],
                     "currentScheduleIndex": 0
                 },
                 {
@@ -1418,6 +1482,10 @@
                     "hideFinals": null,
                     "series": [
                         {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
                             "id": "45069",
                             "name": "2025 Oceania Wave Tour Rankings"
                         },
@@ -1464,6 +1532,10 @@
                     "hideFinals": null,
                     "series": [
                         {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
                             "id": "42825",
                             "name": "2025 Americas Wave Tour Rankings"
                         },
@@ -1483,6 +1555,10 @@
                     "hideFinals": null,
                     "series": [
                         {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
                             "id": "42825",
                             "name": "2025 Americas Wave Tour Rankings"
                         },
@@ -1501,6 +1577,10 @@
                     "daysWindow": 1,
                     "hideFinals": null,
                     "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
                         {
                             "id": "42825",
                             "name": "2025 Americas Wave Tour Rankings"
@@ -1548,6 +1628,10 @@
                     "hideFinals": true,
                     "series": [
                         {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
                             "id": "45069",
                             "name": "2025 Oceania Wave Tour Rankings"
                         },
@@ -1566,6 +1650,10 @@
                     "daysWindow": 4,
                     "hideFinals": null,
                     "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
                         {
                             "id": "30055",
                             "name": "WORLD: Rolling Wave Rankings - seeding"
@@ -1760,48 +1848,6 @@
                     "currentScheduleIndex": 0
                 },
                 {
-                    "id": "322589",
-                    "name": "Japan: 2 STAR JWA Junior Wave ",
-                    "status": "results_published",
-                    "date": "2024-12-26T23:00:00Z",
-                    "daysWindow": 3,
-                    "hideFinals": null,
-                    "series": [
-                        {
-                            "id": "45070",
-                            "name": "2025 Asia Wave Tour Rankings"
-                        },
-                        {
-                            "id": "28107",
-                            "name": "2024 Asian: Wave Rankings"
-                        },
-                        {
-                            "id": "30055",
-                            "name": "WORLD: Rolling Wave Rankings - seeding"
-                        }
-                    ],
-                    "currentScheduleIndex": 1
-                },
-                {
-                    "id": "268537",
-                    "name": "Chile: 2 STAR Llico Historico Vichuquen",
-                    "status": "results_published",
-                    "date": "2025-01-17T13:00:00Z",
-                    "daysWindow": 3,
-                    "hideFinals": null,
-                    "series": [
-                        {
-                            "id": "42825",
-                            "name": "2025 Americas Wave Tour Rankings"
-                        },
-                        {
-                            "id": "30055",
-                            "name": "WORLD: Rolling Wave Rankings - seeding"
-                        }
-                    ],
-                    "currentScheduleIndex": 0
-                },
-                {
                     "id": "321870",
                     "name": "GERMANY: 5 STAR Sylt World Cup",
                     "status": "scheduled",
@@ -1852,6 +1898,10 @@
                     "hideFinals": null,
                     "series": [
                         {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
                             "id": "45070",
                             "name": "2025 Asia Wave Tour Rankings"
                         },
@@ -1870,6 +1920,10 @@
                     "daysWindow": 75,
                     "hideFinals": null,
                     "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
                         {
                             "id": "45103",
                             "name": "2025 European Wave Tour Rankings"
@@ -1930,7 +1984,7 @@
                 {
                     "id": "321865",
                     "name": "CHILE: 5 STAR Surazo Infernal World Cup",
-                    "status": "on",
+                    "status": "results_published",
                     "date": "2025-03-24T11:00:00Z",
                     "daysWindow": 14,
                     "hideFinals": null,
@@ -1948,7 +2002,7 @@
                             "name": "WORLD: Rolling Wave Rankings - seeding"
                         }
                     ],
-                    "currentScheduleIndex": 84
+                    "currentScheduleIndex": 96
                 }
             ]
         }

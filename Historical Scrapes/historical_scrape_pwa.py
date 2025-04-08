@@ -313,6 +313,32 @@ def clean_event_df(df, output_file=None):
     # Drop the original final_rank column
     # -------------------------------
     new_df = new_df.drop(columns=['final_rank'])
+
+    # -------------------------------
+    # 2) Split event_date into start_date and end_date, and append the year
+    #    Example event_date format: "Jun 29 - Jul 07"
+    # -------------------------------
+    # 2a) Split the event_date column by '-'
+    new_df[['start_date_raw', 'end_date_raw']] = new_df['event_date'].str.split('-', expand=True)
+    # Remove extra spaces
+    new_df['start_date_raw'] = new_df['start_date_raw'].str.strip()
+    new_df['end_date_raw']   = new_df['end_date_raw'].str.strip()
+
+    # 2b) Combine each piece with the year and parse to datetime (if desired)
+    # If you only need strings like "Jun 29 2024", you can skip the parsing step below.
+    new_df['start_date'] = pd.to_datetime(
+        new_df['start_date_raw'] + ' ' + new_df['year'].astype(str),
+        format='%b %d %Y',
+        errors='coerce'
+    )
+    new_df['end_date'] = pd.to_datetime(
+        new_df['end_date_raw'] + ' ' + new_df['year'].astype(str),
+        format='%b %d %Y',
+        errors='coerce'
+    )
+
+    # If you do not need the raw split columns, you can drop them:
+    new_df.drop(['start_date_raw', 'end_date_raw'], axis=1, inplace=True)
     
     # -------------------------------
     # Append "pwa_" prefix to all column names
