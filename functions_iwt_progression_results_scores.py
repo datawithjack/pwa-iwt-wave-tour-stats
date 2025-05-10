@@ -2,489 +2,383 @@ import requests
 import json
 import os
 import time
-import pandas as pd
 import copy
+import pandas as pd
 
-# Constants for the API and output directory
+# Constants
 GRAPHQL_URL = "https://liveheats.com/api/graphql"
 OUTPUT_DIR = "event_results"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+# def fetch_wave_tour_events(short_name="WaveTour", output_file="wave_tour_events.json"):
+#     """
+#     Fetch all Wave Tour events and save to a JSON file.
+#     """
+#     headers = {"Content-Type": "application/json","User-Agent":"Mozilla/5.0"}
+#     query = """query getOrganisationByShortName($shortName: String) {
+#       organisationByShortName(shortName: $shortName) {
+#         events {
+#           id
+#           name
+#           status
+#           date
+#           daysWindow
+#           hideFinals
+#           series { id name }
+#           currentScheduleIndex
+#         }
+#       }
+#     }"""
+#     payload = {"query": query, "variables": {"shortName": short_name}}
+#     resp = requests.post(GRAPHQL_URL, headers=headers, json=payload)
+#     resp.raise_for_status()
+#     data = resp.json()
+#     with open(output_file, "w", encoding="utf-8") as f:
+#         json.dump(data, f, indent=4)
+#     return data
 
-def fetch_event_division_results(event_id, division_id):
+
+def fetch_wave_tour_events():
     """
-    Fetches event division results from the GraphQL API for the given event and division IDs.
-    Saves the resulting JSON to a file and returns the JSON data.
+    Fetch events from the API.
+    Saves raw JSON data to 'wave_tour_events_raw.json' for reference.
+    Saves cleaned data to:
+      - 'wave_tour_events_cleaned.csv'
+      - 'wave_tour_events_cleaned.json'
+    Returns a DataFrame with the required and newly formatted columns.
     """
+    url = "https://liveheats.com/api/graphql"
+    headers = {
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0"
+    }
+    
     query = """
-    query getEventDivision($id: ID!) {
-      eventDivision(id: $id) {
-        id
-        heatDurationMinutes
-        defaultEventDurationMinutes
-        formatDefinition {
-          progression
-          runProgression
-          heatSizes
-          seeds
-          defaultHeatDurationMinutes
-          numberOfRounds
-        }
-        heatConfig {
-          hasPriority
-          totalCountingRides
-          athleteRidesLimit
-        }
-        division {
+    query getOrganisationByShortName($shortName: String) {
+      organisationByShortName(shortName: $shortName) {
+        events {
           id
           name
-        }
-        eventDivisions {
-          id
-          division {
+          status
+          date
+          daysWindow
+          hideFinals
+          series {
             id
             name
           }
-        }
-        heats {
-          id
-          eventDivisionId
-          round
-          roundPosition
-          position
-          startTime
-          endTime
-          heatDurationMinutes
-          config {
-            maxRideScore
-            heatSize
-          }
-          result {
-            athleteId
-            total
-            winBy
-            needs
-            rides
-            place
-          }
-        }
-        template {
-          id
-          name
-        }
-        eventDivisionPointAllocations {
-          id
-          eventDivisionId
-          seasonId
-          pointAllocation {
-            id
-            name
-          }
-        }
-        event {
-          id
+          currentScheduleIndex
         }
       }
     }
     """
-    variables = {"id": str(division_id)}
-    response = requests.post(GRAPHQL_URL, json={"query": query, "variables": variables})
+    variables = {"shortName": "WaveTour"}
+    payload = {"query": query, "variables": variables}
+    
+    response = requests.post(url, headers=headers, json=payload)
+    if response.status_code != 200:
+        raise RuntimeError(f"Error fetching data: {response.status_code}\n{response.text}")
+    
+    # 1) Save raw JSON
+    data = response.json()
+    with open("wave_tour_events_raw.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4)
+    print("✅ Raw event data saved to 'wave_tour_events_raw.json'")
+    
+    # 2) Normalize and select
+    events = data["data"]["organisationByShortName"]["events"]
+    df = pd.json_normalize(events)
+    df = df[["id", "name", "status", "date", "daysWindow"]]
+    
+    # 3) Transformations
+    #   a) start_date
+    df["start_date"] = pd.to_datetime(df["date"]).dt.strftime("%d/%m/%Y")
+    df.drop(columns="date", inplace=True)
+    #   b) finish_date = start_date + daysWindow
+    finish = (
+        pd.to_datetime(df["start_date"], format="%d/%m/%Y")
+        + pd.to_timedelta(df["daysWindow"], unit="D")
+    )
+    df["finish_date"] = finish.dt.strftime("%d/%m/%Y")
+    #   c) location = text before ':' in name
+    df["location"] = (
+        df["name"]
+        .str.split(":", n=1)
+        .str[0]
+        .str.strip()
+        .str.title()
+    )
+    #   d) stars = number before 'star'
+    df["stars"] = df["name"].apply(
+        lambda x: re.search(r"(\d+)\s*star", x, re.IGNORECASE).group(1)
+        if re.search(r"(\d+)\s*star", x, re.IGNORECASE)
+        else None
+    )
+    #   e) clean status
+    df["status"] = df["status"].str.replace("_", " ").str.title()
+    
+    # 4) Save cleaned outputs
+    df.to_csv("wave_tour_events_cleaned.csv", index=False)
+    df.to_json("wave_tour_events_cleaned.json", orient="records", indent=4)
+    print("✅ Cleaned data saved to 'wave_tour_events_cleaned.csv' and 'wave_tour_events_cleaned.json'")
+    
+    return df
 
-    if response.status_code == 200:
-        data = response.json()
-        file_name = os.path.join(OUTPUT_DIR, f"event_{event_id}_division_{division_id}.json")
-        with open(file_name, "w", encoding="utf-8") as file:
-            json.dump(data, file, indent=4)
-        print(f"Saved results for Event {event_id}, Division {division_id} -> {file_name}")
-        return data
-    else:
-        print(f"Failed to fetch data for Event {event_id}, Division {division_id}. HTTP {response.status_code}")
-        print(response.text)
+# Example usage:
+if __name__ == "__main__":
+    df_events = fetch_wave_tour_events()
+    print(df_events.head())
+
+
+
+def extract_results_published_events(file_path="wave_tour_events.json"):
+    """
+    Load wave tour events JSON and return list of event IDs with status 'results_published'.
+    """
+    with open(file_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    events = data["data"]["organisationByShortName"]["events"]
+    return [e["id"] for e in events if e.get("status") == "results_published"]
+
+def fetch_event_divisions(event_id):
+    """
+    Fetch division IDs and names for a given event.
+    Returns a list of (division_id, division_name) tuples.
+    """
+    headers = {"Content-Type": "application/json","User-Agent": "Mozilla/5.0"}
+    query = """
+    query getEvent($id: ID!) {
+      event(id: $id) {
+        eventDivisions {
+          id
+          division { id name }
+        }
+      }
+    }"""
+    payload = {"query": query, "variables": {"id": event_id}}
+    resp = requests.post(GRAPHQL_URL, headers=headers, json=payload)
+    resp.raise_for_status()
+    divisions = resp.json()["data"]["event"]["eventDivisions"]
+    return [(d["id"], d["division"]["name"]) for d in divisions]
+
+def fetch_event_division_results(event_id, division_id):
+    """
+    Fetch JSON for a specific event division and save to OUTPUT_DIR.
+    """
+    query = """query getEventDivision($id: ID!) {
+      eventDivision(id: $id) {
+        id
+        heatDurationMinutes
+        defaultEventDurationMinutes
+        formatDefinition { progression runProgression heatSizes seeds defaultHeatDurationMinutes numberOfRounds }
+        heatConfig { hasPriority totalCountingRides athleteRidesLimit }
+        division { id name }
+        heats {
+          id eventDivisionId round roundPosition position startTime endTime heatDurationMinutes
+          config { maxRideScore heatSize }
+          result { athleteId total winBy needs rides place }
+        }
+      }
+    }"""
+    payload = {"query": query, "variables": {"id": division_id}}
+    resp = requests.post(GRAPHQL_URL, json=payload)
+    if resp.status_code != 200:
+        print(f"Error fetching division {division_id}: {resp.status_code}")
         return None
-
+    data = resp.json()
+    file_name = os.path.join(OUTPUT_DIR, f"event_{event_id}_division_{division_id}.json")
+    with open(file_name, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4)
+    return data
 
 def flatten_heat_progression(data, event_id, division_id):
-    """
-    Processes the JSON data to flatten and export heat progression information.
-    Returns a DataFrame with a new 'sex' column (the division name).
-    """
     try:
-        event_division = data['data']['eventDivision']
-        division_name = event_division['division']['name']
-        original_heats = event_division['heats']
-        progression_dict = event_division['formatDefinition']['progression']
-    except (KeyError, TypeError) as e:
-        print(f"Skipping flatten_heat_progression for event {event_id} division {division_id}: missing data ({e})")
+        ed = data["data"]["eventDivision"]
+        prog = ed["formatDefinition"]["progression"]
+        heats = ed["heats"]
+        division_name = ed["division"]["name"]
+    except (KeyError, TypeError):
+        print(f"Skipping progression for {event_id}, {division_id}")
         return None
-
-    if not original_heats or not progression_dict:
-        print(f"Skipping flatten_heat_progression for event {event_id} division {division_id}: incomplete progression data.")
-        return None
-
-    # Make a deep copy so we can modify freely
-    heats_progression = copy.deepcopy(original_heats)
-
-    for heat in heats_progression:
-        # Add event_id and division_id to each heat record
-        heat['event_id'] = event_id
-        heat['division_id'] = division_id
-
-        # Process progression details based on roundPosition
-        round_position = heat.get('roundPosition')
-        key = str(round_position) if str(round_position) in progression_dict else 'default'
-        progression_list = progression_dict.get(key, [])
-
-        # Process up to two progression entries per heat
+    records = []
+    for heat in heats:
+        rec = {
+            'source': 'Live Heats',
+            'event_id': event_id,
+            'eventDivisionId': division_id,
+            'sex': division_name,
+            'round_name': heat.get('round'),
+            'round_order': heat.get('roundPosition'),
+            'heat_id': heat.get('id'),
+            'heat_order': heat.get('position')
+        }
+        entries = prog.get(str(heat.get('roundPosition')), []) or prog.get('default', [])
         for i in range(2):
-            if i < len(progression_list):
-                entry = progression_list[i]
-                max_val = entry.get('max')
-                to_round_val = entry.get('to_round')
-                if to_round_val is None and max_val is not None:
-                    to_round_val = max_val + 1
-                heat[f'progression_{i}_max'] = max_val
-                heat[f'progression_{i}_to_round'] = to_round_val
+            if i < len(entries):
+                e = entries[i]
+                maxv = e.get('max')
+                to_round = e.get('to_round') or (maxv + 1 if maxv else None)
+                rec[f'progression_{i}_max'] = maxv
+                rec[f'progression_{i}_to_round'] = to_round
             else:
-                heat[f'progression_{i}_max'] = None
-                heat[f'progression_{i}_to_round'] = None
-
-        # Rename "id" to "heat_id" and remove "result" field
-        heat['heat_id'] = heat.pop('id', None)
-        heat.pop('result', None)
-
-    # Flatten the data
-    df_progression = pd.json_normalize(heats_progression, sep='_')
-
-    # Rename columns as needed
-    rename_dict = {
-        'round': 'round_name',
-        'roundPosition': 'round_order',
-        'position': 'heat_order',
+                rec[f'progression_{i}_max'] = None
+                rec[f'progression_{i}_to_round'] = None
+        records.append(rec)
+    df = pd.DataFrame(records)
+    df.rename(columns={
         'progression_0_max': 'total_winners_progressing',
         'progression_0_to_round': 'winners_progressing_to_round_order',
         'progression_1_max': 'total_losers_progressing',
         'progression_1_to_round': 'losers_progressing_to_round_order'
-    }
-    df_progression.rename(columns=rename_dict, inplace=True)
-
-    # Add the new 'sex' column with the division name
-    df_progression['sex'] = division_name
-
-    # Reorder columns
-    desired_columns = [
-        'event_id',
-        'eventDivisionId',
-        'sex',
-        'round_name',
-        'round_order',
-        'heat_id',
-        'heat_order',
-        'total_winners_progressing',
-        'winners_progressing_to_round_order',
-        'total_losers_progressing',
-        'losers_progressing_to_round_order'
+    }, inplace=True)
+    cols = [
+        'source', 'event_id', 'eventDivisionId', 'sex',
+        'round_name', 'round_order', 'heat_id', 'heat_order',
+        'total_winners_progressing', 'winners_progressing_to_round_order',
+        'total_losers_progressing', 'losers_progressing_to_round_order'
     ]
-    df_progression = df_progression.reindex(columns=desired_columns)
-
-    # Insert the new "source" column at the very start
-    df_progression.insert(0, 'source', 'Live Heats')
-
-    return df_progression
-
+    return df[cols]
 
 def flatten_heat_results_and_scores(data, event_id, division_id):
-    """
-    Processes the JSON data to create heat results and heat scores DataFrames.
-    Returns a tuple (df_results, df_scores). This function now also includes the
-    heat's "round" and "roundPosition" in the results.
-    """
     try:
-        original_heats = data['data']['eventDivision']['heats']
-    except (KeyError, TypeError) as e:
-        print(f"Skipping flatten_heat_results_and_scores for event {event_id} division {division_id}: missing heats data ({e})")
+        heats = data['data']['eventDivision']['heats']
+    except (KeyError, TypeError):
+        print(f"Skipping results/scores for {event_id},{division_id}")
         return None, None
-
-    if not original_heats:
-        print(f"Skipping flatten_heat_results_and_scores for event {event_id} division {division_id}: no heats found.")
-        return None, None
-
     results_rows = []
     scores_rows = []
-
-    for heat in original_heats:
-        heat_id = heat.get('id')
-        eventDivisionId = heat.get('eventDivisionId')
-        round_label = heat.get('round')
-        round_position = heat.get('roundPosition', 0)
-
-        if 'result' in heat and heat['result']:
-            for res in heat['result']:
-                base = {
-                    'event_id': event_id,
-                    'heat_id': heat_id,
-                    'eventDivisionId': eventDivisionId,
-                    'athleteId': res.get('athleteId'),
-                    'result_total': res.get('total'),
-                    'winBy': res.get('winBy'),
-                    'needs': res.get('needs'),
-                    'place': res.get('place'),
-                    'round': round_label,
-                    'roundPosition': round_position
-                }
-                results_rows.append(base)
-
-                # Process ride information if available
-                rides = res.get('rides')
-                if rides and isinstance(rides, dict):
-                    for ride_list in rides.values():
-                        for ride in ride_list:
-                            ride_row = {
-                                'event_id': event_id,
-                                'eventDivisionId': eventDivisionId,
-                                'heat_id': heat_id,
-                                'athleteId': res.get('athleteId'),
-                                'ride_total': ride.get('total'),
-                                'modified_total': ride.get('modified_total'),
-                                'modifier': ride.get('modifier'),
-                                'category': ride.get('category'),
-                                'scoring_ride': ride.get('scoring_ride')
-                            }
-                            scores_rows.append(ride_row)
-        else:
-            continue
-
-    # Create the heat results DataFrame
-    df_results = pd.DataFrame(results_rows, columns=[
-        'event_id', 'heat_id', 'eventDivisionId', 'athleteId',
-        'result_total', 'winBy', 'needs', 'place', 'round', 'roundPosition'
-    ])
-    df_results.insert(0, 'source', 'Live Heats')
-
-    # Create the heat scores DataFrame
-    df_scores = pd.DataFrame(scores_rows, columns=[
-        'event_id', 'heat_id', 'eventDivisionId', 'athleteId',
-        'ride_total', 'modified_total', 'modifier', 'category', 'scoring_ride'
-    ])
-
-    # Calculate totals for Waves, Jumps, and all scoring rides
-    grouped_wave = (
-        df_scores[(df_scores['category'] == "Waves") & (df_scores['scoring_ride'] == True)]
-        .groupby(['heat_id', 'athleteId'])['ride_total']
+    for heat in heats:
+        hid = heat.get('id')
+        edid = heat.get('eventDivisionId')
+        rlabel = heat.get('round')
+        rpos = heat.get('roundPosition', 0)
+        for res in heat.get('result', []):
+            base = {
+                'source': 'Live Heats',
+                'event_id': event_id,
+                'heat_id': hid,
+                'eventDivisionId': edid,
+                'athleteId': res.get('athleteId'),
+                'result_total': res.get('total'),
+                'winBy': res.get('winBy'),
+                'needs': res.get('needs'),
+                'place': res.get('place'),
+                'round': rlabel,
+                'roundPosition': rpos
+            }
+            results_rows.append(base)
+            rides = res.get('rides') or {}
+            for ride_list in rides.values():
+                for ride in ride_list:
+                    scores_rows.append({
+                        'source': 'Live Heats',
+                        'event_id': event_id,
+                        'heat_id': hid,
+                        'eventDivisionId': edid,
+                        'athleteId': res.get('athleteId'),
+                        'score': ride.get('total'),
+                        'modified_total': ride.get('modified_total'),
+                        'modifier': ride.get('modifier'),
+                        'type': ride.get('category').rstrip('s'),
+                        'counting': ride.get('scoring_ride')
+                    })
+    df_res = pd.DataFrame(results_rows)[[
+        'source','event_id','heat_id','eventDivisionId','athleteId',
+        'result_total','winBy','needs','place','round','roundPosition'
+    ]]
+    df_scr = pd.DataFrame(scores_rows)
+    # Calculate total_points
+    summary = (
+        df_scr[df_scr['counting']]
+        .groupby(['heat_id','athleteId'])['score']
         .sum()
         .reset_index()
-        .rename(columns={'ride_total': 'total_wave'})
+        .rename(columns={'score':'total_points'})
     )
-    grouped_jump = (
-        df_scores[(df_scores['category'] == "Jumps") & (df_scores['scoring_ride'] == True)]
-        .groupby(['heat_id', 'athleteId'])['ride_total']
-        .sum()
-        .reset_index()
-        .rename(columns={'ride_total': 'total_jump'})
-    )
-    grouped_points = (
-        df_scores[df_scores['scoring_ride'] == True]
-        .groupby(['heat_id', 'athleteId'])['ride_total']
-        .sum()
-        .reset_index()
-        .rename(columns={'ride_total': 'total_points'})
-    )
-
-    # Merge the calculated sums back into df_scores
-    df_scores = pd.merge(df_scores, grouped_wave, on=['heat_id', 'athleteId'], how='left')
-    df_scores = pd.merge(df_scores, grouped_jump, on=['heat_id', 'athleteId'], how='left')
-    df_scores = pd.merge(df_scores, grouped_points, on=['heat_id', 'athleteId'], how='left')
-    df_scores[['total_wave', 'total_jump', 'total_points']] = df_scores[
-        ['total_wave', 'total_jump', 'total_points']
-    ].fillna(0)
-
-    # Insert 'source' column if not already present
-    if 'source' not in df_scores.columns:
-        df_scores.insert(0, 'source', 'Live Heats')
-
-    # Rename columns as requested
-    df_scores.rename(columns={
-        'ride_total': 'score',
-        'category': 'type',
-        'scoring_ride': 'counting'
-    }, inplace=True)
-
-    # Replace 'Jumps' with 'Jump' and 'Waves' with 'Wave' in the type column
-    df_scores['type'] = df_scores['type'].replace({
-        'Jumps': 'Jump',
-        'Waves': 'Wave'
-    })
-
-    # Reorder columns
-    desired_scores_columns = [
-        'source', 'event_id', 'heat_id', 'eventDivisionId', 'athleteId',
-        'score', 'modified_total', 'modifier', 'type', 'counting',
-        'total_wave', 'total_jump', 'total_points'
+    df_scr = pd.merge(df_scr, summary, on=['heat_id','athleteId'], how='left').fillna(0)
+    cols = [
+        'source','event_id','heat_id','eventDivisionId','athleteId',
+        'score','modified_total','modifier','type','counting','total_points'
     ]
-    df_scores = df_scores.reindex(columns=desired_scores_columns)
-
-    return df_results, df_scores
-
+    return df_res, df_scr[cols]
 
 def create_final_rank_no_heat_info(json_data, event_id, division_id):
-    """
-    Creates a final rank DataFrame (with athleteId and place)
-    from a JSON that contains only one heat (no detailed heat info).
-    Additional columns "source", "event_id", and "eventDivisionId" are added.
-    If no rank/place results are found, returns None.
-    """
-    try:
-        heats = json_data["data"]["eventDivision"]["heats"]
-        if heats and len(heats) > 0:
-            results = heats[0].get("result", [])
-        else:
-            results = []
-    except Exception as e:
-        print("Error accessing heats:", e)
-        results = []
-
-    ranking = []
-    for res in results:
-        athlete = res.get("athleteId")
-        try:
-            place = int(res.get("place", 999))
-        except Exception as ex:
-            place = 999
-        if athlete is not None:
-            ranking.append({"athleteId": athlete, "place": place})
-    
-    if not ranking:
-        print(f"No rank/place results for event {event_id}, division {division_id}. Skipping final ranking.")
+    heats = json_data['data']['eventDivision']['heats']
+    if not heats:
         return None
-
-    df_final_rank = pd.DataFrame(ranking, columns=["athleteId", "place"])
-    df_final_rank["source"] = "Live Heats"
-    df_final_rank["event_id"] = event_id
-    df_final_rank["eventDivisionId"] = division_id
-    df_final_rank = df_final_rank[["source", "event_id", "eventDivisionId", "athleteId", "place"]]
-    return df_final_rank
-
+    rows = []
+    for res in heats[0].get('result', []):
+        place = int(res.get('place', 999)) if res.get('place') is not None else 999
+        rows.append({
+            'source': 'Live Heats',
+            'event_id': event_id,
+            'eventDivisionId': division_id,
+            'athleteId': res.get('athleteId'),
+            'place': place
+        })
+    if not rows:
+        return None
+    return pd.DataFrame(rows)
 
 def calculate_final_rank_heat_info(df_results, event_id, division_id):
-    """
-    Calculates the final ranking DataFrame from the detailed heat results DataFrame.
-    Uses each athlete's best performance determined by a higher roundPosition and a lower place.
-    Returns a DataFrame with athleteId and overall final rank (place),
-    plus extra columns "source", "event_id", and "eventDivisionId".
-    If no ranking information is found, returns None.
-    """
     athlete_best = {}
-    for idx, row in df_results.iterrows():
-        athlete = row['athleteId']
-        round_position = row.get("roundPosition", 0)
-        try:
-            place = int(row.get("place", 999))
-        except Exception:
-            place = 999
-
-        if athlete in athlete_best:
-            stored = athlete_best[athlete]
-            if round_position > stored["roundPosition"] or (round_position == stored["roundPosition"] and place < stored["place"]):
-                athlete_best[athlete] = {"roundPosition": round_position, "place": place}
+    for _, row in df_results.iterrows():
+        aid = row['athleteId']
+        rp = row.get('roundPosition', 0)
+        pl = int(row.get('place', 999))
+        stored = athlete_best.get(aid)
+        if stored:
+            if rp > stored[0] or (rp == stored[0] and pl < stored[1]):
+                athlete_best[aid] = (rp, pl)
         else:
-            athlete_best[athlete] = {"roundPosition": round_position, "place": place}
-
-    sorted_athletes = sorted(athlete_best.items(), key=lambda item: (-item[1]["roundPosition"], item[1]["place"]))
-    
-    if not sorted_athletes:
-        print(f"No ranking information for event {event_id}, division {division_id}.")
-        return None
-
-    final_ranking = []
-    current_rank = 0
+            athlete_best[aid] = (rp, pl)
+    sorted_ath = sorted(athlete_best.items(), key=lambda x: (-x[1][0], x[1][1]))
+    rows = []
     prev_key = None
-
-    for i, (athlete, info) in enumerate(sorted_athletes):
-        current_key = (info["roundPosition"], info["place"])
-        if i == 0:
-            current_rank = 1
-        else:
-            if current_key != prev_key:
-                current_rank = i + 1
-        final_ranking.append({"athleteId": athlete, "place": current_rank})
-        prev_key = current_key
-
-    if not final_ranking:
-        print(f"No final ranking generated for event {event_id}, division {division_id}.")
+    for i, (aid, (rp, pl)) in enumerate(sorted_ath):
+        rank = 1 if i == 0 else (i + 1 if (rp, pl) != prev_key else rank)
+        rows.append({
+            'source': 'Live Heats',
+            'event_id': event_id,
+            'eventDivisionId': division_id,
+            'athleteId': aid,
+            'place': rank
+        })
+        prev_key = (rp, pl)
+    if not rows:
         return None
-
-    df_final_rank = pd.DataFrame(final_ranking)
-    df_final_rank["source"] = "Live Heats"
-    df_final_rank["event_id"] = event_id
-    df_final_rank["eventDivisionId"] = division_id
-    df_final_rank = df_final_rank[["source", "event_id", "eventDivisionId", "athleteId", "place"]]
-    return df_final_rank
-
+    return pd.DataFrame(rows)
 
 def is_no_heat_info(json_data):
-    """
-    Determines whether the JSON is in the no-heat-info format.
-    Checks if, for each result in the first heat, the following hold true:
-      - Converting "total" to int equals the integer value of "place".
-      - If rides are present, the first ride's "total" (converted to int) also equals that place.
-    """
     try:
-        heats = json_data["data"]["eventDivision"]["heats"]
+        heats = json_data['data']['eventDivision']['heats']
         if not heats:
             return False
-        first_heat = heats[0]
-        results = first_heat.get("result", [])
-        if not results:
-            return False
-        for res in results:
-            total_val = res.get("total")
-            place_val = res.get("place")
-            if total_val is None or place_val is None:
+        for res in heats[0].get('result', []):
+            if int(res.get('total', 0)) != int(res.get('place', 0)):
                 return False
-            try:
-                place_int = int(place_val)
-            except Exception:
-                return False
-            if int(total_val) != place_int:
-                return False
-            rides = res.get("rides")
-            if rides and isinstance(rides, dict):
-                first_key = next(iter(rides))
-                ride_list = rides[first_key]
-                if ride_list and len(ride_list) > 0:
-                    ride_total = ride_list[0].get("total")
-                    if ride_total is None or int(ride_total) != place_int:
-                        return False
         return True
-    except Exception as e:
-        print("Error in is_no_heat_info:", e)
+    except Exception:
         return False
 
-
 def process_event_division(json_data, event_id, division_id):
-    """
-    Processes the event division JSON.
-    - If the JSON is detected as no-heat-info (using is_no_heat_info()), only create the final rank DataFrame.
-    - Otherwise (heat info present), run all processing functions and then compute the overall final rank.
-    """
     if is_no_heat_info(json_data):
-        df_final_rank = create_final_rank_no_heat_info(json_data, event_id, division_id)
-        return {"df_final_rank": df_final_rank}
-    else:
-        df_progression = flatten_heat_progression(json_data, event_id, division_id)
-        df_results, df_scores = flatten_heat_results_and_scores(json_data, event_id, division_id)
-        
-        if df_results is not None and "roundPosition" not in df_results.columns:
-            df_results["roundPosition"] = 0
+        df_final = create_final_rank_no_heat_info(json_data, event_id, division_id)
+        return {'df_final_rank': df_final}
+    df_prog = flatten_heat_progression(json_data, event_id, division_id)
+    df_res, df_scr = flatten_heat_results_and_scores(json_data, event_id, division_id)
+    df_final = calculate_final_rank_heat_info(df_res, event_id, division_id) if df_res is not None else None
+    return {
+        'df_progression': df_prog,
+        'df_results': df_res,
+        'df_scores': df_scr,
+        'df_final_rank': df_final
+    }
 
-        if df_results is not None:
-            df_final_rank = calculate_final_rank_heat_info(df_results, event_id, division_id)
-        else:
-            print(f"Skipping final rank calculation for event {event_id} division {division_id} due to missing heat results data.")
-            df_final_rank = None
-
-        return {
-            "df_progression": df_progression,
-            "df_results": df_results,
-            "df_scores": df_scores,
-            "df_final_rank": df_final_rank
-        }
+def clean_heat_order(df, column='heat_order'):
+    """
+    Example adhoc cleaning: remove non-digits from heat_order and convert to Int.
+    """
+    df[column] = df[column].astype(str).str.replace(r"\D+", "", regex=True)
+    df[column] = pd.to_numeric(df[column], errors='coerce').astype('Int64')
+    return df

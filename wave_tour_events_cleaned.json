@@ -1,0 +1,1002 @@
+[
+    {
+        "id":"190953",
+        "name":"HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final",
+        "status":"Results Published",
+        "daysWindow":12,
+        "start_date":"22\/10\/2023",
+        "finish_date":"03\/11\/2023",
+        "location":"Hawaii",
+        "stars":"2"
+    },
+    {
+        "id":"147526",
+        "name":"Denmark: 2 STAR Open Windsurf Wave Championships",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"10\/06\/2023",
+        "finish_date":"12\/06\/2023",
+        "location":"Denmark",
+        "stars":"2"
+    },
+    {
+        "id":"164024",
+        "name":"PERU: 2 STAR Pacasmayo Classic",
+        "status":"Results Published",
+        "daysWindow":10,
+        "start_date":"25\/08\/2023",
+        "finish_date":"04\/09\/2023",
+        "location":"Peru",
+        "stars":"2"
+    },
+    {
+        "id":"72489",
+        "name":"Australia: 2 STAR Margaret River Wavesailing Classic",
+        "status":"Results Published",
+        "daysWindow":4,
+        "start_date":"26\/01\/2023",
+        "finish_date":"30\/01\/2023",
+        "location":"Australia",
+        "stars":"2"
+    },
+    {
+        "id":"117331",
+        "name":"SPAIN: 5 STAR Gran Canaria World Cup",
+        "status":"Results Published",
+        "daysWindow":9,
+        "start_date":"01\/07\/2023",
+        "finish_date":"10\/07\/2023",
+        "location":"Spain",
+        "stars":"5"
+    },
+    {
+        "id":"72452",
+        "name":"FIJI.PRO: 5 STAR 2023 FIJI SURF PRO ",
+        "status":"Results Published",
+        "daysWindow":11,
+        "start_date":"01\/06\/2023",
+        "finish_date":"12\/06\/2023",
+        "location":"Fiji.Pro",
+        "stars":"5"
+    },
+    {
+        "id":"147528",
+        "name":"DENMARK: 5 STAR PWA\/IWT Cold Hawaii Youth World Tour Final",
+        "status":"Results Published",
+        "daysWindow":7,
+        "start_date":"14\/10\/2023",
+        "finish_date":"21\/10\/2023",
+        "location":"Denmark",
+        "stars":"5"
+    },
+    {
+        "id":"220586",
+        "name":"Japan: 2 STAR Cold Breeze",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"22\/12\/2023",
+        "finish_date":"24\/12\/2023",
+        "location":"Japan",
+        "stars":"2"
+    },
+    {
+        "id":"164717",
+        "name":"CHILE: 2 STAR SURAZO Infernal - Men",
+        "status":"Results Published",
+        "daysWindow":9,
+        "start_date":"24\/03\/2023",
+        "finish_date":"02\/04\/2023",
+        "location":"Chile",
+        "stars":"2"
+    },
+    {
+        "id":"187568",
+        "name":"Morocco: Junior 100% Moulay Wave Classic",
+        "status":"Results Published",
+        "daysWindow":8,
+        "start_date":"26\/04\/2024",
+        "finish_date":"04\/05\/2024",
+        "location":"Morocco",
+        "stars":null
+    },
+    {
+        "id":"187555",
+        "name":"Taiwan: 1 STAR Taitung Wave Classic",
+        "status":"Results Published",
+        "daysWindow":30,
+        "start_date":"31\/10\/2023",
+        "finish_date":"30\/11\/2023",
+        "location":"Taiwan",
+        "stars":"1"
+    },
+    {
+        "id":"187556",
+        "name":"Australia: 1 STAR Merimbula Classic",
+        "status":"Results Published",
+        "daysWindow":4,
+        "start_date":"22\/11\/2023",
+        "finish_date":"26\/11\/2023",
+        "location":"Australia",
+        "stars":"1"
+    },
+    {
+        "id":"187578",
+        "name":"Wales: 2 STAR Rhosneigr Wave Classic 2024",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"20\/09\/2024",
+        "finish_date":"22\/09\/2024",
+        "location":"Wales",
+        "stars":"2"
+    },
+    {
+        "id":"187558",
+        "name":"Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp",
+        "status":"Results Published",
+        "daysWindow":6,
+        "start_date":"15\/01\/2024",
+        "finish_date":"21\/01\/2024",
+        "location":"Australia",
+        "stars":null
+    },
+    {
+        "id":"249495",
+        "name":"AFRICA: 3 STAR REGIONAL FINAL Moulay Wave Classic",
+        "status":"Results Published",
+        "daysWindow":8,
+        "start_date":"26\/04\/2024",
+        "finish_date":"04\/05\/2024",
+        "location":"Africa",
+        "stars":"3"
+    },
+    {
+        "id":"187564",
+        "name":"SPAIN: 5 STAR Gran Canaria World Cup",
+        "status":"Results Published",
+        "daysWindow":10,
+        "start_date":"27\/06\/2024",
+        "finish_date":"07\/07\/2024",
+        "location":"Spain",
+        "stars":"5"
+    },
+    {
+        "id":"270680",
+        "name":"PERU: 100% Masters Juniors Peru World Cup",
+        "status":"Results Published",
+        "daysWindow":15,
+        "start_date":"03\/08\/2024",
+        "finish_date":"18\/08\/2024",
+        "location":"Peru",
+        "stars":null
+    },
+    {
+        "id":"285332",
+        "name":"France: 2 STAR French Windsurf Championship at Pole Nautique Hague",
+        "status":"Results Published",
+        "daysWindow":23,
+        "start_date":"23\/11\/2024",
+        "finish_date":"16\/12\/2024",
+        "location":"France",
+        "stars":"2"
+    },
+    {
+        "id":"147529",
+        "name":"Scotland: 2 STAR Tiree Wave Classic",
+        "status":"Results Published",
+        "daysWindow":7,
+        "start_date":"14\/10\/2023",
+        "finish_date":"21\/10\/2023",
+        "location":"Scotland",
+        "stars":"2"
+    },
+    {
+        "id":"181652",
+        "name":"HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final",
+        "status":"Results Published",
+        "daysWindow":13,
+        "start_date":"22\/10\/2023",
+        "finish_date":"04\/11\/2023",
+        "location":"Hawaii",
+        "stars":"5"
+    },
+    {
+        "id":"147592",
+        "name":"Australia: 2 STAR North Windsurfing East Coast Titles. Sydney",
+        "status":"Results Published",
+        "daysWindow":3,
+        "start_date":"02\/02\/2024",
+        "finish_date":"05\/02\/2024",
+        "location":"Australia",
+        "stars":"2"
+    },
+    {
+        "id":"187570",
+        "name":"Scotland: 3 STAR Tiree Wave Classic",
+        "status":"Results Published",
+        "daysWindow":7,
+        "start_date":"11\/10\/2024",
+        "finish_date":"18\/10\/2024",
+        "location":"Scotland",
+        "stars":"3"
+    },
+    {
+        "id":"118319",
+        "name":"CHILE: 4 STAR SURAZO Infernal - Women",
+        "status":"Results Published",
+        "daysWindow":9,
+        "start_date":"25\/03\/2023",
+        "finish_date":"03\/04\/2023",
+        "location":"Chile",
+        "stars":"4"
+    },
+    {
+        "id":"117362",
+        "name":"JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO",
+        "status":"Results Published",
+        "daysWindow":6,
+        "start_date":"16\/03\/2023",
+        "finish_date":"22\/03\/2023",
+        "location":"Japan",
+        "stars":"5"
+    },
+    {
+        "id":"118385",
+        "name":"CHILE: 4 STAR SURAZO Infernal - Masters & Youth",
+        "status":"Results Published",
+        "daysWindow":9,
+        "start_date":"25\/03\/2023",
+        "finish_date":"03\/04\/2023",
+        "location":"Chile",
+        "stars":"4"
+    },
+    {
+        "id":"118715",
+        "name":"JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters",
+        "status":"Results Published",
+        "daysWindow":6,
+        "start_date":"16\/03\/2023",
+        "finish_date":"22\/03\/2023",
+        "location":"Japan",
+        "stars":"5"
+    },
+    {
+        "id":"147591",
+        "name":"Australia: 2 STAR Severne Wavesailing Nationals",
+        "status":"Results Published",
+        "daysWindow":9,
+        "start_date":"11\/11\/2023",
+        "finish_date":"20\/11\/2023",
+        "location":"Australia",
+        "stars":"2"
+    },
+    {
+        "id":"187563",
+        "name":"CHILE: 5 STAR Surazo Infernal World Cup",
+        "status":"Results Published",
+        "daysWindow":12,
+        "start_date":"31\/03\/2024",
+        "finish_date":"12\/04\/2024",
+        "location":"Chile",
+        "stars":"5"
+    },
+    {
+        "id":"350012",
+        "name":"Ireland: 2 STAR Magheroarty Classic",
+        "status":"Scheduled",
+        "daysWindow":3,
+        "start_date":"08\/08\/2025",
+        "finish_date":"11\/08\/2025",
+        "location":"Ireland",
+        "stars":"2"
+    },
+    {
+        "id":"322589",
+        "name":"Japan: 2 STAR JWA Junior Wave ",
+        "status":"Results Published",
+        "daysWindow":3,
+        "start_date":"26\/12\/2024",
+        "finish_date":"29\/12\/2024",
+        "location":"Japan",
+        "stars":"2"
+    },
+    {
+        "id":"72487",
+        "name":"Australia: 2 STAR Sydney Classic",
+        "status":"Results Published",
+        "daysWindow":3,
+        "start_date":"10\/12\/2022",
+        "finish_date":"13\/12\/2022",
+        "location":"Australia",
+        "stars":"2"
+    },
+    {
+        "id":"270681",
+        "name":"SPAIN: 100% Masters Juniors Tenerife Classic World Cup",
+        "status":"Results Published",
+        "daysWindow":15,
+        "start_date":"03\/08\/2024",
+        "finish_date":"18\/08\/2024",
+        "location":"Spain",
+        "stars":null
+    },
+    {
+        "id":"81590",
+        "name":"Japan: 2 STAR Winter Cup",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"04\/02\/2023",
+        "finish_date":"06\/02\/2023",
+        "location":"Japan",
+        "stars":"2"
+    },
+    {
+        "id":"268537",
+        "name":"Chile: 2 STAR Llico Historico Vichuquen",
+        "status":"Results Published",
+        "daysWindow":3,
+        "start_date":"17\/01\/2025",
+        "finish_date":"20\/01\/2025",
+        "location":"Chile",
+        "stars":"2"
+    },
+    {
+        "id":"263420",
+        "name":"France: 3 STAR Wissant Wave Classic",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"20\/12\/2024",
+        "finish_date":"22\/12\/2024",
+        "location":"France",
+        "stars":"3"
+    },
+    {
+        "id":"221942",
+        "name":"Argentina : 2 Star Mar Del Plata ",
+        "status":"Results Published",
+        "daysWindow":17,
+        "start_date":"13\/04\/2024",
+        "finish_date":"30\/04\/2024",
+        "location":"Argentina",
+        "stars":"2"
+    },
+    {
+        "id":"220652",
+        "name":"Japan: 2 STAR All Japan",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"05\/01\/2024",
+        "finish_date":"07\/01\/2024",
+        "location":"Japan",
+        "stars":"2"
+    },
+    {
+        "id":"216630",
+        "name":"Germany : 2 Star German Wave Tour Event #2",
+        "status":"Finished",
+        "daysWindow":91,
+        "start_date":"31\/08\/2024",
+        "finish_date":"30\/11\/2024",
+        "location":"Germany",
+        "stars":"2"
+    },
+    {
+        "id":"187577",
+        "name":"Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships",
+        "status":"Cancelled",
+        "daysWindow":4,
+        "start_date":"16\/10\/2024",
+        "finish_date":"20\/10\/2024",
+        "location":"Denmark",
+        "stars":"3"
+    },
+    {
+        "id":"187575",
+        "name":"New Zealand: 1 STAR Taranki Wave Classic",
+        "status":"Finished",
+        "daysWindow":4,
+        "start_date":"24\/10\/2024",
+        "finish_date":"28\/10\/2024",
+        "location":"New Zealand",
+        "stars":"1"
+    },
+    {
+        "id":"172539",
+        "name":"Australia 2 STAR Woolgoolga Classic NSW",
+        "status":"Results Published",
+        "daysWindow":3,
+        "start_date":"29\/09\/2023",
+        "finish_date":"02\/10\/2023",
+        "location":"Australia 2 Star Woolgoolga Classic Nsw",
+        "stars":"2"
+    },
+    {
+        "id":"117330",
+        "name":"Morocco: 2 STAR Wave Classic Moulay",
+        "status":"Results Published",
+        "daysWindow":8,
+        "start_date":"01\/04\/2023",
+        "finish_date":"09\/04\/2023",
+        "location":"Morocco",
+        "stars":"2"
+    },
+    {
+        "id":"117333",
+        "name":"GERMANY: 5 STAR Sylt World Cup",
+        "status":"Results Published",
+        "daysWindow":10,
+        "start_date":"22\/09\/2023",
+        "finish_date":"02\/10\/2023",
+        "location":"Germany",
+        "stars":"5"
+    },
+    {
+        "id":"187553",
+        "name":"Morocco: 3 STAR Moulay Wave Classic",
+        "status":"Results Published",
+        "daysWindow":8,
+        "start_date":"26\/04\/2024",
+        "finish_date":"04\/05\/2024",
+        "location":"Morocco",
+        "stars":"3"
+    },
+    {
+        "id":"187560",
+        "name":"Guadeloupe: 2 STAR King Of Moule",
+        "status":"Results Published",
+        "daysWindow":1,
+        "start_date":"20\/01\/2024",
+        "finish_date":"21\/01\/2024",
+        "location":"Guadeloupe",
+        "stars":"2"
+    },
+    {
+        "id":"214686",
+        "name":"GERMANY: 5 STAR Sylt World Cup MEN",
+        "status":"Results Published",
+        "daysWindow":12,
+        "start_date":"21\/09\/2023",
+        "finish_date":"03\/10\/2023",
+        "location":"Germany",
+        "stars":"5"
+    },
+    {
+        "id":"165509",
+        "name":"Israel: 2 STAR Znavot Wave Classic - Chemical Riders",
+        "status":"Results Published",
+        "daysWindow":60,
+        "start_date":"31\/01\/2024",
+        "finish_date":"31\/03\/2024",
+        "location":"Israel",
+        "stars":"2"
+    },
+    {
+        "id":"72454",
+        "name":"PERU: 4 STAR Pacasmayo Classic",
+        "status":"Results Published",
+        "daysWindow":10,
+        "start_date":"26\/08\/2023",
+        "finish_date":"05\/09\/2023",
+        "location":"Peru",
+        "stars":"4"
+    },
+    {
+        "id":"187562",
+        "name":"JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup",
+        "status":"Results Published",
+        "daysWindow":7,
+        "start_date":"18\/02\/2024",
+        "finish_date":"25\/02\/2024",
+        "location":"Japan",
+        "stars":"5"
+    },
+    {
+        "id":"214877",
+        "name":"Germany: 2 Star The German Wave Tour ",
+        "status":"Results Published",
+        "daysWindow":5,
+        "start_date":"11\/06\/2023",
+        "finish_date":"16\/06\/2023",
+        "location":"Germany",
+        "stars":"2"
+    },
+    {
+        "id":"361991",
+        "name":"FINALND: 2 STAR Surfsport Wave Champs",
+        "status":"Scheduled",
+        "daysWindow":115,
+        "start_date":"11\/07\/2025",
+        "finish_date":"03\/11\/2025",
+        "location":"Finalnd",
+        "stars":"2"
+    },
+    {
+        "id":"72455",
+        "name":"HAWAII: detail heat results",
+        "status":"Results Published",
+        "daysWindow":13,
+        "start_date":"23\/10\/2023",
+        "finish_date":"05\/11\/2023",
+        "location":"Hawaii",
+        "stars":null
+    },
+    {
+        "id":"187569",
+        "name":"HAWAI'I: 5 STAR Aloha Classic GRAND FINAL",
+        "status":"Results Published",
+        "daysWindow":12,
+        "start_date":"21\/10\/2024",
+        "finish_date":"02\/11\/2024",
+        "location":"Hawai'I",
+        "stars":"5"
+    },
+    {
+        "id":"321871",
+        "name":"HAWAII: 5 STAR Aloha Classic Grand Final",
+        "status":"Scheduled",
+        "daysWindow":12,
+        "start_date":"13\/10\/2025",
+        "finish_date":"25\/10\/2025",
+        "location":"Hawaii",
+        "stars":"5"
+    },
+    {
+        "id":"321869",
+        "name":"SPAIN: 5 STAR Tenerife World Cup",
+        "status":"Scheduled",
+        "daysWindow":10,
+        "start_date":"01\/08\/2025",
+        "finish_date":"11\/08\/2025",
+        "location":"Spain",
+        "stars":"5"
+    },
+    {
+        "id":"321868",
+        "name":" SPAIN: 5 STAR Gran Canaria World Cup",
+        "status":"Scheduled",
+        "daysWindow":9,
+        "start_date":"05\/07\/2025",
+        "finish_date":"14\/07\/2025",
+        "location":"Spain",
+        "stars":"5"
+    },
+    {
+        "id":"81623",
+        "name":"AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY)",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"25\/02\/2023",
+        "finish_date":"27\/02\/2023",
+        "location":"Australia",
+        "stars":"4"
+    },
+    {
+        "id":"187559",
+        "name":"Chile: 2 STAR Sirena Wave Classic",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"02\/12\/2023",
+        "finish_date":"04\/12\/2023",
+        "location":"Chile",
+        "stars":"2"
+    },
+    {
+        "id":"187567",
+        "name":"GERMANY: 5 STAR Sylt World Cup",
+        "status":"Results Published",
+        "daysWindow":10,
+        "start_date":"26\/09\/2024",
+        "finish_date":"06\/10\/2024",
+        "location":"Germany",
+        "stars":"5"
+    },
+    {
+        "id":"199466",
+        "name":"SPAIN: 4 STAR TBC Tenerife World Cup",
+        "status":"Results Published",
+        "daysWindow":7,
+        "start_date":"05\/08\/2024",
+        "finish_date":"12\/08\/2024",
+        "location":"Spain",
+        "stars":"4"
+    },
+    {
+        "id":"72449",
+        "name":"Chile: 2 STAR SIRENA Wave Classic",
+        "status":"Results Published",
+        "daysWindow":9,
+        "start_date":"03\/12\/2022",
+        "finish_date":"12\/12\/2022",
+        "location":"Chile",
+        "stars":"2"
+    },
+    {
+        "id":"74629",
+        "name":"Guadeloupe: 2 STAR Wanalao Wave Classic",
+        "status":"Results Published",
+        "daysWindow":15,
+        "start_date":"15\/01\/2023",
+        "finish_date":"30\/01\/2023",
+        "location":"Guadeloupe",
+        "stars":"2"
+    },
+    {
+        "id":"74528",
+        "name":"Puerto.Rico: 2 STAR Wind Warriors",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"25\/02\/2023",
+        "finish_date":"27\/02\/2023",
+        "location":"Puerto.Rico",
+        "stars":"2"
+    },
+    {
+        "id":"72488",
+        "name":"Australia: 2 STAR SEVERNE East Coast Titles ",
+        "status":"Results Published",
+        "daysWindow":9,
+        "start_date":"04\/02\/2023",
+        "finish_date":"13\/02\/2023",
+        "location":"Australia",
+        "stars":"2"
+    },
+    {
+        "id":"74628",
+        "name":"Taiwan: 1 STAR Wave Jam ",
+        "status":"Results Published",
+        "daysWindow":10,
+        "start_date":"18\/11\/2022",
+        "finish_date":"28\/11\/2022",
+        "location":"Taiwan",
+        "stars":"1"
+    },
+    {
+        "id":"272891",
+        "name":"Ireland: 3 STAR Mayo Mayhem",
+        "status":"Results Published",
+        "daysWindow":10,
+        "start_date":"26\/09\/2024",
+        "finish_date":"06\/10\/2024",
+        "location":"Ireland",
+        "stars":"3"
+    },
+    {
+        "id":"72453",
+        "name":"CHILE: 4 STAR SURAZO Infernal - Pro Men",
+        "status":"Results Published",
+        "daysWindow":9,
+        "start_date":"25\/03\/2023",
+        "finish_date":"03\/04\/2023",
+        "location":"Chile",
+        "stars":"4"
+    },
+    {
+        "id":"72485",
+        "name":"Australia: 2 STAR Lancelin Wave Classic",
+        "status":"Results Published",
+        "daysWindow":4,
+        "start_date":"18\/01\/2023",
+        "finish_date":"22\/01\/2023",
+        "location":"Australia",
+        "stars":"2"
+    },
+    {
+        "id":"74594",
+        "name":"Ireland: 2 STAR Mayo Mayhem",
+        "status":"Results Published",
+        "daysWindow":3,
+        "start_date":"29\/09\/2023",
+        "finish_date":"02\/10\/2023",
+        "location":"Ireland",
+        "stars":"2"
+    },
+    {
+        "id":"187576",
+        "name":"Australia: 2 STAR SurfFX North Coast Woopi Classic",
+        "status":"Results Published",
+        "daysWindow":3,
+        "start_date":"04\/10\/2024",
+        "finish_date":"07\/10\/2024",
+        "location":"Australia",
+        "stars":"2"
+    },
+    {
+        "id":"72450",
+        "name":"France: 2 STAR Championnat De France Funboard Vagues 2023",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"18\/11\/2023",
+        "finish_date":"20\/11\/2023",
+        "location":"France",
+        "stars":"2"
+    },
+    {
+        "id":"81557",
+        "name":"Japan: 1 STAR Cold Breeze",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"24\/12\/2022",
+        "finish_date":"26\/12\/2022",
+        "location":"Japan",
+        "stars":"1"
+    },
+    {
+        "id":"187565",
+        "name":"PERU: 4 STAR Pacasmayo Classic World Cup",
+        "status":"Results Published",
+        "daysWindow":14,
+        "start_date":"03\/08\/2024",
+        "finish_date":"17\/08\/2024",
+        "location":"Peru",
+        "stars":"4"
+    },
+    {
+        "id":"305429",
+        "name":"Australia: 2 Star WSS Sydney Wavesailing Smackfest",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"15\/11\/2024",
+        "finish_date":"17\/11\/2024",
+        "location":"Australia",
+        "stars":"2"
+    },
+    {
+        "id":"322524",
+        "name":"PERU: 3 STAR Pacasmayo Classic World Cup",
+        "status":"Scheduled",
+        "daysWindow":9,
+        "start_date":"23\/08\/2025",
+        "finish_date":"01\/09\/2025",
+        "location":"Peru",
+        "stars":"3"
+    },
+    {
+        "id":"268535",
+        "name":"Chile: 3 STAR Sirena Wave Classic",
+        "status":"Results Published",
+        "daysWindow":3,
+        "start_date":"12\/12\/2024",
+        "finish_date":"15\/12\/2024",
+        "location":"Chile",
+        "stars":"3"
+    },
+    {
+        "id":"268536",
+        "name":"Chile: 3 STAR Surazo Infernal Navidad",
+        "status":"Results Published",
+        "daysWindow":4,
+        "start_date":"07\/11\/2024",
+        "finish_date":"11\/11\/2024",
+        "location":"Chile",
+        "stars":"3"
+    },
+    {
+        "id":"321864",
+        "name":"Puerto Rico: 4 STAR Puerto Rico World Cup",
+        "status":"Results Published",
+        "daysWindow":1,
+        "start_date":"09\/03\/2025",
+        "finish_date":"10\/03\/2025",
+        "location":"Puerto Rico",
+        "stars":"4"
+    },
+    {
+        "id":"322457",
+        "name":"Taiwan: 1 STAR Taitung Wave Classic",
+        "status":"Results Published",
+        "daysWindow":30,
+        "start_date":"01\/11\/2024",
+        "finish_date":"01\/12\/2024",
+        "location":"Taiwan",
+        "stars":"1"
+    },
+    {
+        "id":"266589",
+        "name":"Australia: 4 STAR Margaret River Wavesailing Classic",
+        "status":"Results Published",
+        "daysWindow":3,
+        "start_date":"31\/01\/2025",
+        "finish_date":"03\/02\/2025",
+        "location":"Australia",
+        "stars":"4"
+    },
+    {
+        "id":"321767",
+        "name":"Chile: 3 STAR Surazo Infernal Navidad - women's results ",
+        "status":"Results Published",
+        "daysWindow":4,
+        "start_date":"07\/11\/2024",
+        "finish_date":"11\/11\/2024",
+        "location":"Chile",
+        "stars":"3"
+    },
+    {
+        "id":"322490",
+        "name":"Morocco: 3 STAR Moulay Wave Classic",
+        "status":"Scheduled",
+        "daysWindow":8,
+        "start_date":"26\/04\/2025",
+        "finish_date":"04\/05\/2025",
+        "location":"Morocco",
+        "stars":"3"
+    },
+    {
+        "id":"322523",
+        "name":"Ireland: 3 STAR Mayo Mayhem",
+        "status":"Scheduled",
+        "daysWindow":30,
+        "start_date":"01\/09\/2025",
+        "finish_date":"01\/10\/2025",
+        "location":"Ireland",
+        "stars":"3"
+    },
+    {
+        "id":"318167",
+        "name":"Belgium 2 Star Nationals ",
+        "status":"Results Published",
+        "daysWindow":4,
+        "start_date":"18\/10\/2024",
+        "finish_date":"22\/10\/2024",
+        "location":"Belgium 2 Star Nationals",
+        "stars":"2"
+    },
+    {
+        "id":"275136",
+        "name":"Netherlands: 2 STAR Slam Om Domburg",
+        "status":"Finished",
+        "daysWindow":122,
+        "start_date":"31\/07\/2024",
+        "finish_date":"30\/11\/2024",
+        "location":"Netherlands",
+        "stars":"2"
+    },
+    {
+        "id":"322525",
+        "name":"Denmark: 3 STAR Danish Open Wave Championships",
+        "status":"Scheduled",
+        "daysWindow":30,
+        "start_date":"01\/09\/2025",
+        "finish_date":"01\/10\/2025",
+        "location":"Denmark",
+        "stars":"3"
+    },
+    {
+        "id":"322556",
+        "name":"Scotland: 3 STAR Tiree Wave Classic",
+        "status":"Scheduled",
+        "daysWindow":7,
+        "start_date":"11\/10\/2025",
+        "finish_date":"18\/10\/2025",
+        "location":"Scotland",
+        "stars":"3"
+    },
+    {
+        "id":"322557",
+        "name":"Chile: 3 STAR Surazo Infernal Navidad",
+        "status":"Scheduled",
+        "daysWindow":30,
+        "start_date":"01\/11\/2025",
+        "finish_date":"01\/12\/2025",
+        "location":"Chile",
+        "stars":"3"
+    },
+    {
+        "id":"322558",
+        "name":"France: 3 STAR Wissant Wave Classic",
+        "status":"Scheduled",
+        "daysWindow":30,
+        "start_date":"01\/11\/2025",
+        "finish_date":"01\/12\/2025",
+        "location":"France",
+        "stars":"3"
+    },
+    {
+        "id":"295232",
+        "name":"Judges Training Event",
+        "status":"Finished",
+        "daysWindow":8,
+        "start_date":"01\/10\/2023",
+        "finish_date":"09\/10\/2023",
+        "location":"Judges Training Event",
+        "stars":null
+    },
+    {
+        "id":"321870",
+        "name":"GERMANY: 5 STAR Sylt World Cup",
+        "status":"Scheduled",
+        "daysWindow":10,
+        "start_date":"26\/09\/2025",
+        "finish_date":"06\/10\/2025",
+        "location":"Germany",
+        "stars":"5"
+    },
+    {
+        "id":"296885",
+        "name":"Test",
+        "status":"Finished",
+        "daysWindow":2,
+        "start_date":"01\/01\/2022",
+        "finish_date":"03\/01\/2022",
+        "location":"Test",
+        "stars":null
+    },
+    {
+        "id":"321863",
+        "name":"Japan: 4 STAR Omaezaki Japan World Cup",
+        "status":"Results Published",
+        "daysWindow":7,
+        "start_date":"17\/02\/2025",
+        "finish_date":"24\/02\/2025",
+        "location":"Japan",
+        "stars":"4"
+    },
+    {
+        "id":"374994",
+        "name":"Guadeloupe: 2 STAR King Of Moule 2025",
+        "status":"Results Published",
+        "daysWindow":2,
+        "start_date":"18\/01\/2025",
+        "finish_date":"20\/01\/2025",
+        "location":"Guadeloupe",
+        "stars":"2"
+    },
+    {
+        "id":"277082",
+        "name":"Israel: 3 STAR Storm Rider Haifa",
+        "status":"Finished",
+        "daysWindow":75,
+        "start_date":"16\/01\/2025",
+        "finish_date":"01\/04\/2025",
+        "location":"Israel",
+        "stars":"3"
+    },
+    {
+        "id":"187554",
+        "name":"Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024",
+        "status":"Results Published",
+        "daysWindow":1,
+        "start_date":"02\/02\/2024",
+        "finish_date":"03\/02\/2024",
+        "location":"Australia",
+        "stars":"3"
+    },
+    {
+        "id":"321866",
+        "name":"Hawaii: 4 STAR Hawaii World Cup",
+        "status":"Results Published",
+        "daysWindow":5,
+        "start_date":"14\/04\/2025",
+        "finish_date":"19\/04\/2025",
+        "location":"Hawaii",
+        "stars":"4"
+    },
+    {
+        "id":"266588",
+        "name":"Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp",
+        "status":"Results Published",
+        "daysWindow":6,
+        "start_date":"14\/01\/2025",
+        "finish_date":"20\/01\/2025",
+        "location":"Australia",
+        "stars":null
+    },
+    {
+        "id":"321865",
+        "name":"CHILE: 5 STAR Surazo Infernal World Cup",
+        "status":"Results Published",
+        "daysWindow":14,
+        "start_date":"24\/03\/2025",
+        "finish_date":"07\/04\/2025",
+        "location":"Chile",
+        "stars":"5"
+    },
+    {
+        "id":"375026",
+        "name":"Argentina : 2 Star Mar Del Plata ",
+        "status":"Finished",
+        "daysWindow":2,
+        "start_date":"19\/04\/2025",
+        "finish_date":"21\/04\/2025",
+        "location":"Argentina",
+        "stars":"2"
+    }
+]
