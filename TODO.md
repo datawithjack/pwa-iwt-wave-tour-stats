@@ -10,4 +10,7 @@
 [ ] - upload historical data to database
 
 [ ] - 
-[ ] - figure out update process/workflow
+
+
+
+[ ] - figure out update process/workflowus

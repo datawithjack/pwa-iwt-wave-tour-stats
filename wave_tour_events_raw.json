@@ -146,6 +146,33 @@
                     "currentScheduleIndex": 2
                 },
                 {
+                    "id": "322490",
+                    "name": "Morocco: 3 STAR Moulay Wave Classic",
+                    "status": "results_published",
+                    "date": "2025-04-26T07:00:00Z",
+                    "daysWindow": 8,
+                    "hideFinals": null,
+                    "series": [
+                        {
+                            "id": "45135",
+                            "name": "2025 WORLD WAVE RANKINGS"
+                        },
+                        {
+                            "id": "45103",
+                            "name": "2025 European Wave Tour Rankings"
+                        },
+                        {
+                            "id": "45102",
+                            "name": "2025 Africa Wave Tour Rankings"
+                        },
+                        {
+                            "id": "30055",
+                            "name": "WORLD: Rolling Wave Rankings - seeding"
+                        }
+                    ],
+                    "currentScheduleIndex": 5
+                },
+                {
                     "id": "164717",
                     "name": "CHILE: 2 STAR SURAZO Infernal - Men",
                     "status": "results_published",
@@ -1643,29 +1670,6 @@
                     "currentScheduleIndex": 0
                 },
                 {
-                    "id": "322490",
-                    "name": "Morocco: 3 STAR Moulay Wave Classic",
-                    "status": "scheduled",
-                    "date": "2025-04-26T07:00:00Z",
-                    "daysWindow": 8,
-                    "hideFinals": null,
-                    "series": [
-                        {
-                            "id": "45103",
-                            "name": "2025 European Wave Tour Rankings"
-                        },
-                        {
-                            "id": "45102",
-                            "name": "2025 Africa Wave Tour Rankings"
-                        },
-                        {
-                            "id": "30055",
-                            "name": "WORLD: Rolling Wave Rankings - seeding"
-                        }
-                    ],
-                    "currentScheduleIndex": 0
-                },
-                {
                     "id": "322523",
                     "name": "Ireland: 3 STAR Mayo Mayhem",
                     "status": "scheduled",
@@ -2030,7 +2034,7 @@
                 {
                     "id": "375026",
                     "name": "Argentina : 2 Star Mar Del Plata ",
-                    "status": "finished",
+                    "status": "results_published",
                     "date": "2025-04-19T11:00:00Z",
                     "daysWindow": 2,
                     "hideFinals": null,
@@ -2048,7 +2052,7 @@
                             "name": "WORLD: Rolling Wave Rankings - seeding"
                         }
                     ],
-                    "currentScheduleIndex": 3
+                    "currentScheduleIndex": 4
                 }
             ]
         }

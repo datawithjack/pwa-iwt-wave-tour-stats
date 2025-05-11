@@ -71,7 +71,7 @@ heat_progression_df['y_pos'] = (
 
 
 # -----------------------------------
-# evetn data cleaning (DONE ELSEWHERE)
+# event data cleaning (DONE ELSEWHERE)
 # -----------------------------------
 # TBC
 

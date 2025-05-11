@@ -355,3 +355,294 @@ def export_heat_data(event_id, category_code):
 # Replace with your actual event_id and category_code values
 # if __name__ == '__main__':
 # export_heat_data(363, 931)
+
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+import re
+import requests
+from bs4 import BeautifulSoup
+
+def extract_wave_links_with_labels(event_id):
+    """
+    Extracts wave links and their labels from the PWA website for a given event_id.
+    It filters links where:
+      - The link label contains "wave" (case-insensitive)
+      - The href includes a numeric code immediately following the sequence 
+        "tx_pwaevent_pi1%5BeventDiscipline%5D="
+    
+    Returns:
+      dict: A dictionary with keys as labels and values as the extracted numeric code.
+    """
+    url = f"https://www.pwaworldtour.com/index.php?id=193&type=21&tx_pwaevent_pi1%5Baction%5D=results&tx_pwaevent_pi1%5BshowUid%5D={event_id}.xml"
+    response = requests.get(url)
+    if response.status_code != 200:
+        raise Exception(f"Failed to retrieve data: {response.status_code}")
+    
+    soup = BeautifulSoup(response.content, 'lxml')
+    
+    # Look for the first <ul> container.
+    container = soup.find('ul')
+    links = container.find_all('a', href=True) if container else soup.find_all('a', href=True)
+    
+    # Regex pattern to extract the number after "tx_pwaevent_pi1%5BeventDiscipline%5D="
+    pattern = r"tx_pwaevent_pi1%5BeventDiscipline%5D=(\d+)"
+    
+    wave_links = {}
+    for link in links:
+        label = link.get_text(strip=True)
+        href = link.get('href')
+        # Check if the label contains "wave" (case-insensitive)
+        if "wave" in label.lower():
+            match = re.search(pattern, href)
+            if match:
+                # Extract just the numeric part.
+                wave_links[label] = match.group(1)
+    return wave_links
+
+# # Example usage:
+# if __name__ == "__main__":
+#     event_id = 357  # Replace with the desired event_id
+#     result = extract_wave_links_with_labels(event_id)
+#     print(result)
+
+
+
+def extract_pwa_results(event_id, discipline_code):
+    """
+    Extracts event results from the PWA XML page and returns a DataFrame.
+
+    Parameters:
+      event_id (str/int): The event identifier supplied to the function.
+      discipline_code (str/int): The discipline code, used in the URL as eventDivisionid.
+
+    Returns:
+      pd.DataFrame: A DataFrame with columns: source, event_id, eventDivisionid, Name, sail_no, athlete_id, place, Points.
+    """
+    # Build the URL with event_id and discipline_code
+    url = f"https://www.pwaworldtour.com/index.php?id=193&type=21&tx_pwaevent_pi1%5Baction%5D=results&tx_pwaevent_pi1%5BshowUid%5D={event_id}.xml&tx_pwaevent_pi1%5BeventDiscipline%5D={discipline_code}"
+    
+    # Request the XML/HTML content from the URL
+    response = requests.get(url)
+    if response.status_code != 200:
+        raise Exception(f"Failed to retrieve data: {response.status_code}")
+    
+    content = response.content
+    soup = BeautifulSoup(content, 'lxml')
+    
+    # Find the table containing the results
+    table = soup.find('table')
+    if table is None:
+        raise Exception("No results table found in the XML/HTML content.")
+    
+    # Parse table rows (skip the header row)
+    rows = table.find_all('tr')
+    results = []
+    
+    for row in rows[1:]:
+        cols = row.find_all('td')
+        if len(cols) < 6:
+            continue  # Skip rows that do not have enough columns
+        
+        # Extract the required fields
+        place = cols[0].get_text(strip=True)
+        name_div = cols[1].find('div', class_='rank-name')
+        name = name_div.get_text(strip=True) if name_div else ""
+        sail_no = cols[2].get_text(strip=True)
+        points = cols[5].get_text(strip=True)
+        
+        # Create athlete_id by combining parts of the name with sail_no
+        parts = name.split(" ", 1)
+        if len(parts) > 1:
+            athlete_id = f"{parts[1]}_{sail_no}"
+        else:
+            athlete_id = f"{name}_{sail_no}"
+        
+        record = {
+            "source": "PWA",                   # Inserted column at the start
+            "event_id": event_id,              # Supplied event_id
+            "eventDivisionid": discipline_code,  # discipline_code used as eventDivisionid
+            "Name": name,
+            "sail_no": sail_no,
+            "athlete_id": athlete_id,          # New athlete_id column
+            "place": place,
+            "Points": points
+        }
+        results.append(record)
+    
+    # Convert list of records to a DataFrame with the desired column order
+    df = pd.DataFrame(results)
+    cols_order = ["source", "event_id", "eventDivisionid", "Name", "sail_no", "athlete_id", "place", "Points"]
+    df = df[cols_order]
+    
+    return df
+
+# if __name__ == "__main__":
+#     # Read the cleaned event data CSV with prefixed columns
+#     event_data = pd.read_csv("Historical Scrapes/Data/Clean/pwa_event_data_cleaned.csv")
+    
+#     # Deduplicate rows based on the pwa_event_id and pwa_final_rank_code pairs
+#     dedup_event_data = event_data.drop_duplicates(subset=['pwa_event_id', 'pwa_final_rank_code'])
+#     print(f"Deduplicated to {len(dedup_event_data)} unique event/discipline pairs out of {len(event_data)} total rows.")
+    
+#     # List to store DataFrame results from each event/discipline pair
+#     df_list = []
+    
+#     # Loop through each row using the new column names: pwa_event_id and pwa_final_rank_code
+#     for idx, row in dedup_event_data.iterrows():
+#         event_id = row['pwa_event_id']
+#         discipline_code = row['pwa_final_rank_code']
+#         try:
+#             df_result = extract_pwa_results(event_id, discipline_code)
+#             df_list.append(df_result)
+#             print(f"Processed pwa_event_id: {event_id}, pwa_final_rank_code: {discipline_code}")
+#         except Exception as e:
+#             print(f"Error processing pwa_event_id: {event_id}, pwa_final_rank_code: {discipline_code}: {e}")
+    
+#     # Combine all results into a single DataFrame and save as CSV
+#     if df_list:
+#         final_df = pd.concat(df_list, ignore_index=True)
+#         final_df.to_csv("Historical Scrapes/Data/Raw/pwa_final_ranks_raw.csv", index=False)
+#         print("Saved final results to Historical Scrapes/Data/Raw/pwa_final_ranks_raw.csv")
+#     else:
+#         print("No results to save.")
+
+#extract_wave_links_with_labels(357)
+
+
+def clean_event_df(df, output_file=None):
+    # -------------------------------
+    # Expand final_rank column into final_rank_label and final_rank_code columns
+    # -------------------------------
+    new_final_rank_rows = []
+    for _, row in df.iterrows():
+        try:
+            final_rank_dict = ast.literal_eval(row['final_rank'])
+            if 'Wave Men' in final_rank_dict:
+                label = 'Wave Men'
+                code = final_rank_dict['Wave Men']
+            else:
+                label, code = list(final_rank_dict.items())[0]
+            new_row = row.copy()
+            new_row['final_rank_label'] = label
+            new_row['final_rank_code'] = code
+        except Exception:
+            new_row = row.copy()
+            new_row['final_rank_label'] = None
+            new_row['final_rank_code'] = None
+        new_final_rank_rows.append(new_row)
+    df_expanded = pd.DataFrame(new_final_rank_rows)
+
+    # -------------------------------
+    # Clean the 'category_codes' column:
+    # -------------------------------
+    df_expanded['category_codes'] = (
+        df_expanded['category_codes']
+        .fillna('')
+        .astype(str)
+        .apply(lambda x: [item.replace("'", "").replace("[", "").replace("]", "").strip()
+                          for item in x.split(',')])
+    )
+    # -------------------------------
+    # Clean the 'elimination_names' column:
+    # -------------------------------
+    df_expanded['elimination_names'] = (
+        df_expanded['elimination_names']
+        .fillna('')
+        .astype(str)
+        .apply(lambda x: [item.replace("'", "").replace("[", "").replace("]", "").strip()
+                          for item in x.split(',')])
+    )
+    # Keep only rows where codes match names
+    df_matched = df_expanded[df_expanded.apply(
+        lambda row: len(row['category_codes']) == len(row['elimination_names']), axis=1
+    )]
+
+    # -------------------------------
+    # Explode category & elimination into separate rows
+    # -------------------------------
+    exploded_rows = []
+    for _, row in df_matched.iterrows():
+        for cat, elim in zip(row['category_codes'], row['elimination_names']):
+            r = row.copy()
+            r['category_codes'] = cat
+            r['elimination_names'] = elim
+            exploded_rows.append(r)
+    new_df = pd.DataFrame(exploded_rows)
+
+    # -------------------------------
+    # Filter only wave events
+    # -------------------------------
+    new_df = new_df[new_df['elimination_names'].str.contains('wave', case=False, na=False)]
+
+    # -------------------------------
+    # Gender filter
+    # -------------------------------
+    men_cond = (~new_df['elimination_names'].str.contains(r'\bmen(s)?\b', case=False, regex=True)) | \
+               (new_df['final_rank_label'].str.contains(r'\bmen(s)?\b', case=False, regex=True))
+    women_cond = (~new_df['elimination_names'].str.contains(r'\bwomen(s)?\b', case=False, regex=True)) | \
+                 (new_df['final_rank_label'].str.contains(r'\bwomen(s)?\b', case=False, regex=True))
+    new_df = new_df[men_cond & women_cond]
+
+    # -------------------------------
+    # Extract sex from final_rank_label
+    # -------------------------------
+    new_df['sex'] = new_df['final_rank_label'].str.extract(r'(?i)\b(men|women)\b')[0].str.capitalize()
+
+
+    # -------------------------------
+    # Add empty 'location' and 'stars' columns
+    # -------------------------------
+    new_df['location'] = ''
+    new_df['stars'] = ''
+
+    # -------------------------------
+    # Add start, finish date columns and day window
+    # -------------------------------
+    new_df['start_dt'] = pd.to_datetime(
+        new_df['event_date'].str.split(' - ').str[0] + ' ' + new_df['year'].astype(str),
+        format='%b %d %Y',
+        errors='coerce'
+    )
+    new_df['finish_dt'] = pd.to_datetime(
+        new_df['event_date'].str.split(' - ').str[1] + ' ' + new_df['year'].astype(str),
+        format='%b %d %Y',
+        errors='coerce'
+    )
+
+    # 2) compute the day_window
+    new_df['day_window'] = (new_df['finish_dt'] - new_df['start_dt']).dt.days
+
+    # 3) if you still want string versions  YYYY-MM-DD:
+    new_df['start_date']  = new_df['start_dt'].dt.strftime('%Y-%m-%d')
+    new_df['finish_date'] = new_df['finish_dt'].dt.strftime('%Y-%m-%d')
+    # -------------------------------
+    # Rename columns as per PWA mapping
+    # -------------------------------
+    rename_map = {
+        'event_id':            'event_id',
+        'event_name':          'event_name',
+        'section':             'results_status',
+        'category_codes' :     'division_id',         
+        'elimination_names' :  'division_name',
+        'final_rank_label' :   'division_rank_name',
+        'final_rank_code' :    'division_rank_id',
+        'sex':                 'sex',
+        'event_href':          'event_link'
+        }
+
+    # -------------------------------
+    # Drop original final_rank
+    # -------------------------------
+    new_df = new_df.drop(columns=['final_rank', 'ladder_url','id', 'year', 'event_date','finish_dt', 'start_dt'])
+
+    final_df = new_df.rename(columns=rename_map)
+
+    # -------------------------------
+    # Output to CSV if requested
+    # -------------------------------
+    if output_file:
+        final_df.to_csv(output_file, index=False)
+
+    return final_df

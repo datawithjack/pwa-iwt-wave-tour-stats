@@ -4,6 +4,7 @@ import os
 import time
 import copy
 import pandas as pd
+import re
 
 # Constants
 GRAPHQL_URL = "https://liveheats.com/api/graphql"
@@ -117,17 +118,26 @@ def fetch_wave_tour_events():
     #   e) clean status
     df["status"] = df["status"].str.replace("_", " ").str.title()
     
-    # 4) Save cleaned outputs
+    
+    
+    rename_map = {
+        "id":                  "event_id",
+        "name":                "event_name",
+        "status":              "results_status",
+        "daysWindow":          "day_window",
+        "start_date":          "start_date",
+        "finish_date":         "finish_date",
+        "location":            "location",
+        "stars":               "stars"
+    }
+    df = df.rename(columns=rename_map)
+    
+    # 5) Save cleaned outputs
     df.to_csv("wave_tour_events_cleaned.csv", index=False)
     df.to_json("wave_tour_events_cleaned.json", orient="records", indent=4)
     print("✅ Cleaned data saved to 'wave_tour_events_cleaned.csv' and 'wave_tour_events_cleaned.json'")
     
     return df
-
-# Example usage:
-if __name__ == "__main__":
-    df_events = fetch_wave_tour_events()
-    print(df_events.head())
 
 
 
