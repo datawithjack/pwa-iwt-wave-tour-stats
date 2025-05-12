@@ -610,7 +610,7 @@ def clean_event_df(df: pd.DataFrame, output_file: str = None) -> pd.DataFrame:
         'El Medano, Tenerife': 'Spain',
         'NoveNove Maui Aloha Classic': 'Hawaii',
     }
-    df['locations'] = df['event_name'].map(location_map).fillna('')
+    df['location'] = df['event_name'].map(location_map).fillna('')
 
     stars_map = {
         '2024 Gran Canaria GLORIA PWA Windsurfing Grand Slam ******': 5,
