@@ -510,139 +510,137 @@ def extract_pwa_results(event_id, discipline_code):
 
 #extract_wave_links_with_labels(357)
 
-
-def clean_event_df(df, output_file=None):
-    # -------------------------------
-    # Expand final_rank column into final_rank_label and final_rank_code columns
-    # -------------------------------
-    new_final_rank_rows = []
-    for _, row in df.iterrows():
+def clean_event_df(df: pd.DataFrame, output_file: str = None) -> pd.DataFrame:
+    """
+    Cleans raw PWA event DataFrame and returns cleaned DataFrame.
+    """
+    # --- 1) EXPLODE final_rank into two columns -----------------
+    def _parse_rank(cell):
         try:
-            final_rank_dict = ast.literal_eval(row['final_rank'])
-            if 'Wave Men' in final_rank_dict:
-                label = 'Wave Men'
-                code = final_rank_dict['Wave Men']
-            else:
-                label, code = list(final_rank_dict.items())[0]
-            new_row = row.copy()
-            new_row['final_rank_label'] = label
-            new_row['final_rank_code'] = code
+            d = ast.literal_eval(cell)
+            return list(d.items())
         except Exception:
-            new_row = row.copy()
-            new_row['final_rank_label'] = None
-            new_row['final_rank_code'] = None
-        new_final_rank_rows.append(new_row)
-    df_expanded = pd.DataFrame(new_final_rank_rows)
-
-    # -------------------------------
-    # Clean the 'category_codes' column:
-    # -------------------------------
-    df_expanded['category_codes'] = (
-        df_expanded['category_codes']
-        .fillna('')
-        .astype(str)
-        .apply(lambda x: [item.replace("'", "").replace("[", "").replace("]", "").strip()
-                          for item in x.split(',')])
+            return []
+    df['rank_items'] = df['final_rank'].apply(_parse_rank)
+    df = df.explode('rank_items')
+    df[['division_rank_name', 'division_rank_id']] = pd.DataFrame(
+        df['rank_items'].tolist(), index=df.index
     )
-    # -------------------------------
-    # Clean the 'elimination_names' column:
-    # -------------------------------
-    df_expanded['elimination_names'] = (
-        df_expanded['elimination_names']
-        .fillna('')
-        .astype(str)
-        .apply(lambda x: [item.replace("'", "").replace("[", "").replace("]", "").strip()
-                          for item in x.split(',')])
-    )
-    # Keep only rows where codes match names
-    df_matched = df_expanded[df_expanded.apply(
-        lambda row: len(row['category_codes']) == len(row['elimination_names']), axis=1
-    )]
+    df.drop(columns=['rank_items', 'final_rank'], inplace=True)
 
-    # -------------------------------
-    # Explode category & elimination into separate rows
-    # -------------------------------
-    exploded_rows = []
-    for _, row in df_matched.iterrows():
-        for cat, elim in zip(row['category_codes'], row['elimination_names']):
-            r = row.copy()
-            r['category_codes'] = cat
-            r['elimination_names'] = elim
-            exploded_rows.append(r)
-    new_df = pd.DataFrame(exploded_rows)
+    # --- 2) PARSE category_codes & elimination_names into lists ---
+    for col in ['category_codes', 'elimination_names']:
+        df[col] = (
+            df[col]
+            .fillna('')
+            .astype(str)
+            # strip outer [], remove quotes, then split on commas
+            .str.strip("[]")
+            .str.replace("'", "")
+            .str.split(',')
+            .apply(lambda items: [i.strip() for i in items if i.strip()])
+        )
 
-    # -------------------------------
-    # Filter only wave events
-    # -------------------------------
-    new_df = new_df[new_df['elimination_names'].str.contains('wave', case=False, na=False)]
+    # only keep rows where the two lists are same-length
+    df = df[df['category_codes'].str.len() == df['elimination_names'].str.len()]
 
-    # -------------------------------
-    # Gender filter
-    # -------------------------------
-    men_cond = (~new_df['elimination_names'].str.contains(r'\bmen(s)?\b', case=False, regex=True)) | \
-               (new_df['final_rank_label'].str.contains(r'\bmen(s)?\b', case=False, regex=True))
-    women_cond = (~new_df['elimination_names'].str.contains(r'\bwomen(s)?\b', case=False, regex=True)) | \
-                 (new_df['final_rank_label'].str.contains(r'\bwomen(s)?\b', case=False, regex=True))
-    new_df = new_df[men_cond & women_cond]
-
-    # -------------------------------
-    # Extract sex from final_rank_label
-    # -------------------------------
-    new_df['sex'] = new_df['final_rank_label'].str.extract(r'(?i)\b(men|women)\b')[0].str.capitalize()
-
-
-    # -------------------------------
-    # Add empty 'location' and 'stars' columns
-    # -------------------------------
-    new_df['location'] = ''
-    new_df['stars'] = ''
-
-    # -------------------------------
-    # Add start, finish date columns and day window
-    # -------------------------------
-    new_df['start_dt'] = pd.to_datetime(
-        new_df['event_date'].str.split(' - ').str[0] + ' ' + new_df['year'].astype(str),
-        format='%b %d %Y',
-        errors='coerce'
-    )
-    new_df['finish_dt'] = pd.to_datetime(
-        new_df['event_date'].str.split(' - ').str[1] + ' ' + new_df['year'].astype(str),
-        format='%b %d %Y',
-        errors='coerce'
+    # --- 3) EXPLODE both lists together into division_id/name ---
+    df = (
+        df
+        .explode(['category_codes', 'elimination_names'])
+        .rename(columns={
+            'category_codes': 'division_id',
+            'elimination_names': 'division_name'
+        })
     )
 
-    # 2) compute the day_window
-    new_df['day_window'] = (new_df['finish_dt'] - new_df['start_dt']).dt.days
+    # --- 4) FILTER only wave events (so division_name must exist now) ---
+    df = df[df['division_name'].str.contains('wave', case=False, na=False)]
 
-    # 3) if you still want string versions  YYYY-MM-DD:
-    new_df['start_date']  = new_df['start_dt'].dt.strftime('%Y-%m-%d')
-    new_df['finish_date'] = new_df['finish_dt'].dt.strftime('%Y-%m-%d')
-    # -------------------------------
-    # Rename columns as per PWA mapping
-    # -------------------------------
-    rename_map = {
-        'event_id':            'event_id',
-        'event_name':          'event_name',
-        'section':             'results_status',
-        'category_codes' :     'division_id',         
-        'elimination_names' :  'division_name',
-        'final_rank_label' :   'division_rank_name',
-        'final_rank_code' :    'division_rank_id',
-        'sex':                 'sex',
-        'event_href':          'event_link'
-        }
+    # --- 5) EXTRACT sex from the rank label ----------------------
+    df['sex'] = (
+        df['division_rank_name']
+        .str.extract(r'(?i)\b(men|women)\b')[0]
+        .str.capitalize()
+    )
 
-    # -------------------------------
-    # Drop original final_rank
-    # -------------------------------
-    new_df = new_df.drop(columns=['final_rank', 'ladder_url','id', 'year', 'event_date','finish_dt', 'start_dt'])
 
-    final_df = new_df.rename(columns=rename_map)
 
-    # -------------------------------
-    # Output to CSV if requested
-    # -------------------------------
+    # build datetime columns, then day_window and formatted dates
+    df['start_dt'] = pd.to_datetime(
+        df['event_date'].str.split(' - ').str[0] + ' ' + df['year'].astype(str),
+        format='%b %d %Y', errors='coerce'
+    )
+    df['finish_dt'] = pd.to_datetime(
+        df['event_date'].str.split(' - ').str[1] + ' ' + df['year'].astype(str),
+        format='%b %d %Y', errors='coerce'
+    )
+    df['day_window']  = (df['finish_dt'] - df['start_dt']).dt.days
+    df['start_date']  = df['start_dt'].dt.strftime('%Y-%m-%d')
+    df['finish_date'] = df['finish_dt'].dt.strftime('%Y-%m-%d')
+    
+    # drop helper cols
+    df = df.drop(columns=['id', 'start_dt', 'finish_dt', 'event_date','ladder_url','year'])
+
+    # --- 7) RENAME to match your output schema -----------------
+    df = df.rename(columns={
+        'name': 'event_name',
+        'section': 'results_status',
+        'event_href': 'event_link'
+    })
+
+    # ADD placeholders & compute date fields -------------
+    location_map = {
+        '2024 Gran Canaria GLORIA PWA Windsurfing Grand Slam ******': 'Spain',
+        '2024 Tenerife PWA World Cup ****': 'Spain',
+        '2024 Citroën PWA Windsurf World Cup Sylt *******': 'Germany',
+        '2023 Gran Canaria PWA Windsurfing Grand Slam ******': 'Spain',
+        'schauinslandreisen Windsurf World Cup Sylt, presented by got2b *******': 'Germany',
+        '2022 Gran Canaria PWA Windsurfing World Cup *****': 'Spain',
+        '2022 Mercedes-Benz World Cup Sylt *******': 'Germany',
+        'SOMWR 10 x Marignane PWA Grand Slam, Presented by Greentech Festival******': 'France',
+        '2019 Gran Canaria PWA World Cup': 'Spain',
+        '2019 Tenerife PWA World Cup': 'Spain',
+        '2019 Mercedes-Benz World Cup Sylt': 'Germany',
+        '2019 Mercedes-Benz Aloha Classic': 'Hawaii',
+        'Gran Canaria': 'Spain',
+        'Tenerife': 'Spain',
+        'Mercedes-Benz World Cup Sylt': 'Germany',
+        'Pozo Izquierdo, Gran Canaria': 'Spain',
+        'El Medano, Tenerife': 'Spain',
+        'NoveNove Maui Aloha Classic': 'Hawaii',
+    }
+    df['locations'] = df['event_name'].map(location_map).fillna('')
+
+    stars_map = {
+        '2024 Gran Canaria GLORIA PWA Windsurfing Grand Slam ******': 5,
+        '2024 Tenerife PWA World Cup ****':                  4,
+        '2024 Citroën PWA Windsurf World Cup Sylt *******': 5,
+        '2023 Gran Canaria PWA Windsurfing Grand Slam ******': 5,
+        'schauinslandreisen Windsurf World Cup Sylt, presented by got2b *******': 5,
+    }
+    df['stars'] = df['event_name'].map(stars_map).fillna('')
+
+    df['source']    = 'pwa'
+
+    df['elimination'] = df['division_name'].apply(
+        lambda x: 'Double'
+        if 'double elimination' in x.lower()
+        else 'Single' if 'elimination' in x.lower()
+        else ''
+    )
+
+    # get match pairs
+    mask_men   = df['division_name'].str.contains('Men',   case=True, na=False) & (df['sex'] == 'Men')
+    mask_women = df['division_name'].str.contains('Women', case=True, na=False) & (df['sex'] == 'Women')
+    df = df[mask_men | mask_women]
+
+
+    # write out if requested
     if output_file:
-        final_df.to_csv(output_file, index=False)
+        df.to_csv(output_file, index=False)
 
-    return final_df
+    return df
+
+df_raw = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_event_data_raw.csv')
+cleaned = clean_event_df(df_raw, output_file="Historical Scrapes/Data/Clean/PWA/pwa_event_data_clean.csv")

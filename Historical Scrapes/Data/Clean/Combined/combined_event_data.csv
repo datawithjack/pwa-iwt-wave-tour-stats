@@ -1,51 +1,551 @@
-,results_status,event_id,event_name,division_name,day_window,division_rank_name,division_rank_id,stars,event_link,sex,start_date,location,division_id,finish_date
-0,Results Published,190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,Men,12,Men,363706,2.0,,,22/10/2023,Hawaii,363706,03/11/2023
-1,Results Published,190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,Women,12,Women,363707,2.0,,,22/10/2023,Hawaii,363707,03/11/2023
-2,Results Published,190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,U20 Boys,12,U20 Boys,363708,2.0,,,22/10/2023,Hawaii,363708,03/11/2023
-3,Results Published,147526,Denmark: 2 STAR Open Windsurf Wave Championships,Men,2,Men,290156,2.0,,,10/06/2023,Denmark,290156,12/06/2023
-4,Results Published,147526,Denmark: 2 STAR Open Windsurf Wave Championships,Women,2,Women,290157,2.0,,,10/06/2023,Denmark,290157,12/06/2023
-5,Results Published,147526,Denmark: 2 STAR Open Windsurf Wave Championships,Junior Boys,2,Junior Boys,290158,2.0,,,10/06/2023,Denmark,290158,12/06/2023
-6,Results Published,147526,Denmark: 2 STAR Open Windsurf Wave Championships,Junior Girls,2,Junior Girls,290159,2.0,,,10/06/2023,Denmark,290159,12/06/2023
-7,Results Published,147526,Denmark: 2 STAR Open Windsurf Wave Championships,Masters,2,Masters,290160,2.0,,,10/06/2023,Denmark,290160,12/06/2023
-8,Results Published,164024,PERU: 2 STAR Pacasmayo Classic,Men,10,Men,315787,2.0,,,25/08/2023,Peru,315787,04/09/2023
-9,Completed events,357,2024 Gran Canaria GLORIA PWA Windsurfing Grand Slam ******,Mens 2024 Gran Canaria PWA Windsurfing Grand Slam ****** Mens Wave elimination double elimination,8,Wave Men,960,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=357&cHash=c9720a68c542213e603b7dd18e1a98cf,Men,2024-06-29,,857,2024-07-07
-10,Completed events,357,2024 Gran Canaria GLORIA PWA Windsurfing Grand Slam ******,Mens 2024 Gran Canaria PWA Windsurfing Grand Slam ****** Mens Wave elimination,8,Wave Men,960,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=357&cHash=c9720a68c542213e603b7dd18e1a98cf,Men,2024-06-29,,855,2024-07-07
-11,Completed events,358,2024 Tenerife PWA World Cup ****,Mens 2024 Tenerife PWA World Cup ***** Mens Wave elimination double elimination,6,Wave Men,964,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=358&cHash=810d8779bf78e5fb75817e83f998b70b,Men,2024-08-05,,926,2024-08-11
-12,Completed events,358,2024 Tenerife PWA World Cup ****,Mens 2024 Tenerife PWA World Cup ***** Mens Wave elimination,6,Wave Men,964,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=358&cHash=810d8779bf78e5fb75817e83f998b70b,Men,2024-08-05,,924,2024-08-11
-13,Completed events,363,2024 Citroën PWA Windsurf World Cup Sylt *******,Mens 2024 Citroen PWA Windsurf World Cup Sylt ******* Mens Wave elimination,9,Wave Men,978,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=363&cHash=bf5225169ae75b8279dac2e81dc7def1,Men,2024-09-27,,929,2024-10-06
-14,Completed events,363,2024 Citroën PWA Windsurf World Cup Sylt *******,Mens 2024 Citroen PWA Windsurf World Cup Sylt ******* Mens Wave elimination double elimination,9,Wave Men,978,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=363&cHash=bf5225169ae75b8279dac2e81dc7def1,Men,2024-09-27,,931,2024-10-06
-15,Completed events,338,2023 Gran Canaria PWA Windsurfing Grand Slam ******,Mens 2023 Gran Canaria PWA Windsurfing Grand Slam ****** Mens Wave elimination double elimination,8,Wave Men,918,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=338&cHash=b9ace970f382423c0fca8363194b4212,Men,2023-07-01,,759,2023-07-09
-16,Completed events,338,2023 Gran Canaria PWA Windsurfing Grand Slam ******,Mens 2023 Gran Canaria PWA Windsurfing Grand Slam ****** Mens Wave elimination,8,Wave Men,918,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=338&cHash=b9ace970f382423c0fca8363194b4212,Men,2023-07-01,,755,2023-07-09
-17,Completed events,342,"schauinslandreisen Windsurf World Cup Sylt, presented by got2b *******",Mens Mens Wave elimination,9,Wave Men,928,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=342&cHash=a084d014e91db5fb85fbd4d88f159868,Men,2023-09-22,,826,2023-10-01
-18,Completed events,328,2022 Gran Canaria PWA Windsurfing World Cup *****,Mens 2022 Gran Canaria PWA Windsurfing World Cup ***** Mens Wave elimination double elimination,8,Wave Men,886,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=328&cHash=ea92f82f38d9aed790528c5c560bff5f,Men,2022-07-09,,711,2022-07-17
-19,Completed events,328,2022 Gran Canaria PWA Windsurfing World Cup *****,Mens 2022 Gran Canaria PWA Windsurfing World Cup ***** Mens Wave elimination,8,Wave Men,886,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=328&cHash=ea92f82f38d9aed790528c5c560bff5f,Men,2022-07-09,,708,2022-07-17
-20,Completed events,332,2022 Mercedes-Benz World Cup Sylt *******,Mens 2022 Mercedes-Benz World Cup Sylt ******* Mens Wave elimination double elimination,9,Wave Men,894,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=332&cHash=3dba48be016aafe08e7080c96be9c9e6,Men,2022-09-24,,721,2022-10-03
-21,Completed events,332,2022 Mercedes-Benz World Cup Sylt *******,Mens 2022 Mercedes-Benz World Cup Sylt ******* Mens Wave elimination,9,Wave Men,894,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=332&cHash=3dba48be016aafe08e7080c96be9c9e6,Men,2022-09-24,,712,2022-10-03
-22,Completed events,322,"SOMWR 10 x Marignane PWA Grand Slam, Presented by Greentech Festival******",Mens Wave elimination,9,Wave Men,871,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=322&cHash=a9699db711a425e197aadb6e7ff69685,Men,2021-11-12,,699,2021-11-21
-23,Completed events,286,2019 Gran Canaria PWA World Cup,Mens 2019 Gran Canaria PWA World Cup Mens Wave elimination double elimination,8,Wave Men,778,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=286&cHash=86563a7fef38b80cc2236d4be71de045,Men,2019-07-12,,584,2019-07-20
-24,Completed events,286,2019 Gran Canaria PWA World Cup,Mens 2019 Gran Canaria PWA World Cup Mens Wave elimination,8,Wave Men,778,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=286&cHash=86563a7fef38b80cc2236d4be71de045,Men,2019-07-12,,579,2019-07-20
-25,Completed events,288,2019 Tenerife PWA World Cup,Mens 2019 Tenerife PWA World Cup Mens Wave elimination,6,Wave Men,780,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=288&cHash=279f6bdb5eba0202a63126f9db5064c8,Men,2019-08-05,,601,2019-08-11
-26,Completed events,291,2019 Mercedes-Benz World Cup Sylt,Mens 2019 Mercedes-Benz World Cup Sylt Mens Wave elimination double elimination,9,Wave Men,788,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=291&cHash=1fb8687881e6356a95cd1858c9350fc4,Men,2019-09-27,,628,2019-10-06
-27,Completed events,291,2019 Mercedes-Benz World Cup Sylt,Mens 2019 Mercedes-Benz World Cup Sylt Mens Wave elimination,9,Wave Men,788,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=291&cHash=1fb8687881e6356a95cd1858c9350fc4,Men,2019-09-27,,626,2019-10-06
-28,Completed events,292,2019 Mercedes-Benz Aloha Classic,Mens 2019 Maui Aloha Classic Mens Wave elimination double elimination,13,Wave Men,793,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=292&cHash=cc058d18cbcc3264d63d7f813c1a2a19,Men,2019-10-27,,642,2019-11-09
-29,Completed events,292,2019 Mercedes-Benz Aloha Classic,Mens 2019 Maui Aloha Classic Mens Wave elimination,13,Wave Men,793,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=292&cHash=cc058d18cbcc3264d63d7f813c1a2a19,Men,2019-10-27,,641,2019-11-09
-30,Completed events,275,Gran Canaria,Mens 2018 Gran Canaria Mens Wave elimination double elimination,6,Wave Men,746,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=275&cHash=a011a7cd90622e225e04834af776a897,Men,2018-07-15,,500,2018-07-21
-31,Completed events,275,Gran Canaria,Mens 2018 Gran Canaria Mens Wave elimination,6,Wave Men,746,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=275&cHash=a011a7cd90622e225e04834af776a897,Men,2018-07-15,,499,2018-07-21
-32,Completed events,277,Tenerife,Mens 2018 Tenerife Mens Wave elimination double elimination,6,Wave Men,751,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=277&cHash=d78002b0587a46dad91ac0b7d4a59ae8,Men,2018-08-05,,513,2018-08-11
-33,Completed events,277,Tenerife,Mens 2018 Tenerife Mens Wave elimination,6,Wave Men,751,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=277&cHash=d78002b0587a46dad91ac0b7d4a59ae8,Men,2018-08-05,,512,2018-08-11
-34,Completed events,278,Mercedes-Benz World Cup Sylt,Mens 2018 Mercedes-Benz World Cup Sylt Mens Wave elimination double elimination,9,Wave Men,753,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=278&cHash=3d18b0f380e7f3f57b7b10393a7b7f63,Men,2018-09-28,,523,2018-10-07
-35,Completed events,278,Mercedes-Benz World Cup Sylt,Mens 2018 Mercedes-Benz World Cup Sylt Mens Wave elimination,9,Wave Men,753,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=278&cHash=3d18b0f380e7f3f57b7b10393a7b7f63,Men,2018-09-28,,516,2018-10-07
-36,Completed events,264,Gran Canaria,Mens 2017 Gran Canaria Mens Wave elimination double elimination,6,Wave Men,717,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=264&cHash=60af7dbac52a36795726e39a3940dcdf,Men,2017-07-09,,340,2017-07-15
-37,Completed events,264,Gran Canaria,Mens 2017 Gran Canaria Mens Wave elimination,6,Wave Men,717,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=264&cHash=60af7dbac52a36795726e39a3940dcdf,Men,2017-07-09,,337,2017-07-15
-38,Completed events,266,Tenerife,Mens 2017 Tenerife Mens Wave elimination double elimination,6,Wave Men,722,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=266&cHash=ca589f52071d421a8009ccfa63d5b240,Men,2017-08-06,,360,2017-08-12
-39,Completed events,266,Tenerife,Mens 2017 Tenerife Mens Wave elimination,6,Wave Men,722,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=266&cHash=ca589f52071d421a8009ccfa63d5b240,Men,2017-08-06,,356,2017-08-12
-40,Completed events,268,Mercedes-Benz World Cup Sylt,Mens 2017 Mercedes-Benz World Cup Sylt Mens Wave elimination double elimination,9,Wave Men,726,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=268&cHash=8100ba3a663cdc201537b161dac23c34,Men,2017-09-29,,385,2017-10-08
-41,Completed events,268,Mercedes-Benz World Cup Sylt,Mens 2017 Mercedes-Benz World Cup Sylt Mens Wave elimination,9,Wave Men,726,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=268&cHash=8100ba3a663cdc201537b161dac23c34,Men,2017-09-29,,375,2017-10-08
-42,Completed events,250,"Pozo Izquierdo, Gran Canaria",Mens Gran Canaria Mens Wave elimination double elimination,6,Wave Men,689,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=250&cHash=7ed612ace28a6a0e2b122a6e45682438,Men,2016-07-03,,265,2016-07-09
-43,Completed events,250,"Pozo Izquierdo, Gran Canaria",Mens Gran Canaria Mens Wave elimination,6,Wave Men,689,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=250&cHash=7ed612ace28a6a0e2b122a6e45682438,Men,2016-07-03,,263,2016-07-09
-44,Completed events,252,"El Medano, Tenerife",Mens Tenerife Mens Wave elimination double elimination,6,Wave Men,694,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=252&cHash=22b72835d905a72357024a204012c1dd,Men,2016-08-01,,287,2016-08-07
-45,Completed events,252,"El Medano, Tenerife",Mens Tenerife Mens Wave elimination,6,Wave Men,694,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=252&cHash=22b72835d905a72357024a204012c1dd,Men,2016-08-01,,285,2016-08-07
-46,Completed events,256,Mercedes-Benz World Cup Sylt,Mens Sylt Mens Wave elimination,9,Wave Men,702,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=256&cHash=e665ec90d2ac3822cac4d3b214b2d1a3,Men,2016-09-30,,297,2016-10-09
-47,Completed events,256,Mercedes-Benz World Cup Sylt,Mens Sylt Mens Wave elimination double elimination,9,Wave Men,702,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=256&cHash=e665ec90d2ac3822cac4d3b214b2d1a3,Men,2016-09-30,,299,2016-10-09
-48,Completed events,258,NoveNove Maui Aloha Classic,Mens Maui Mens Wave elimination double elimination,13,Wave Men,709,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=258&cHash=7c8a99dcdb6f596f416e923c85626935,Men,2016-10-31,,314,2016-11-13
-49,Completed events,258,NoveNove Maui Aloha Classic,Mens Maui Mens Wave elimination,13,Wave Men,709,,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=258&cHash=7c8a99dcdb6f596f416e923c85626935,Men,2016-10-31,,312,2016-11-13
+,event_id,event_name,results_status,day_window,start_date,finish_date,location,stars,division_id,division_name,sex,event_link,division_rank_name,division_rank_id
+0,190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,Results Published,12,22/10/2023,03/11/2023,Hawaii,2.0,363706,Men,,,Men,363706
+1,190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,Results Published,12,22/10/2023,03/11/2023,Hawaii,2.0,363707,Women,,,Women,363707
+2,190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,Results Published,12,22/10/2023,03/11/2023,Hawaii,2.0,363708,U20 Boys,,,U20 Boys,363708
+3,147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,10/06/2023,12/06/2023,Denmark,2.0,290156,Men,,,Men,290156
+4,147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,10/06/2023,12/06/2023,Denmark,2.0,290157,Women,,,Women,290157
+5,147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,10/06/2023,12/06/2023,Denmark,2.0,290158,Junior Boys,,,Junior Boys,290158
+6,147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,10/06/2023,12/06/2023,Denmark,2.0,290159,Junior Girls,,,Junior Girls,290159
+7,147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,10/06/2023,12/06/2023,Denmark,2.0,290160,Masters,,,Masters,290160
+8,164024,PERU: 2 STAR Pacasmayo Classic,Results Published,10,25/08/2023,04/09/2023,Peru,2.0,315787,Men,,,Men,315787
+9,72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,26/01/2023,30/01/2023,Australia,2.0,168257,Men,,,Men,168257
+10,72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,26/01/2023,30/01/2023,Australia,2.0,168258,Women,,,Women,168258
+11,72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,26/01/2023,30/01/2023,Australia,2.0,168259,Junior Boys,,,Junior Boys,168259
+12,72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,26/01/2023,30/01/2023,Australia,2.0,168260,Masters,,,Masters,168260
+13,72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,26/01/2023,30/01/2023,Australia,2.0,293484,Junior Girls,,,Junior Girls,293484
+14,117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5.0,247055,Junior Boys,,,Junior Boys,247055
+15,117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5.0,247056,Masters,,,Masters,247056
+16,117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5.0,290080,Junior Girls,,,Junior Girls,290080
+17,117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5.0,293776,U17 Boys,,,U17 Boys,293776
+18,117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5.0,293777,U15 Boys,,,U15 Boys,293777
+19,117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5.0,293809,U17 Girls,,,U17 Girls,293809
+20,72452,FIJI.PRO: 5 STAR 2023 FIJI SURF PRO ,Results Published,11,01/06/2023,12/06/2023,Fiji.Pro,5.0,168196,Men,,,Men,168196
+21,72452,FIJI.PRO: 5 STAR 2023 FIJI SURF PRO ,Results Published,11,01/06/2023,12/06/2023,Fiji.Pro,5.0,168197,Women,,,Women,168197
+22,147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5.0,290163,Junior Boys,,,Junior Boys,290163
+23,147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5.0,290164,Junior Girls,,,Junior Girls,290164
+24,147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5.0,290165,U17 Boys,,,U17 Boys,290165
+25,147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5.0,290166,U15 Girls,,,U15 Girls,290166
+26,147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5.0,290167,U13,,,U13,290167
+27,147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5.0,332984,U15 Boys,,,U15 Boys,332984
+28,220586,Japan: 2 STAR Cold Breeze,Results Published,2,22/12/2023,24/12/2023,Japan,2.0,408814,Men,,,Men,408814
+29,220586,Japan: 2 STAR Cold Breeze,Results Published,2,22/12/2023,24/12/2023,Japan,2.0,408815,Women,,,Women,408815
+30,220586,Japan: 2 STAR Cold Breeze,Results Published,2,22/12/2023,24/12/2023,Japan,2.0,408816,Masters,,,Masters,408816
+31,220586,Japan: 2 STAR Cold Breeze,Results Published,2,22/12/2023,24/12/2023,Japan,2.0,408818,Junior Girls,,,Junior Girls,408818
+32,220586,Japan: 2 STAR Cold Breeze,Results Published,2,22/12/2023,24/12/2023,Japan,2.0,408817,Junior Boys,,,Junior Boys,408817
+33,164717,CHILE: 2 STAR SURAZO Infernal - Men,Results Published,9,24/03/2023,02/04/2023,Chile,2.0,315939,Men,,,Men,315939
+34,187568,Morocco: Junior 100% Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Morocco,,353313,Junior Girls,,,Junior Girls,353313
+35,187568,Morocco: Junior 100% Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Morocco,,353314,Junior Boys,,,Junior Boys,353314
+36,187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,31/10/2023,30/11/2023,Taiwan,1.0,353252,Women,,,Women,353252
+37,187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,31/10/2023,30/11/2023,Taiwan,1.0,353253,Men,,,Men,353253
+38,187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,31/10/2023,30/11/2023,Taiwan,1.0,353254,Masters,,,Masters,353254
+39,187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,31/10/2023,30/11/2023,Taiwan,1.0,353255,Junior Girls,,,Junior Girls,353255
+40,187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,31/10/2023,30/11/2023,Taiwan,1.0,353256,Junior Boys,,,Junior Boys,353256
+41,187556,Australia: 1 STAR Merimbula Classic,Results Published,4,22/11/2023,26/11/2023,Australia,1.0,353257,Women,,,Women,353257
+42,187556,Australia: 1 STAR Merimbula Classic,Results Published,4,22/11/2023,26/11/2023,Australia,1.0,353258,Men,,,Men,353258
+43,187556,Australia: 1 STAR Merimbula Classic,Results Published,4,22/11/2023,26/11/2023,Australia,1.0,353259,Masters,,,Masters,353259
+44,187556,Australia: 1 STAR Merimbula Classic,Results Published,4,22/11/2023,26/11/2023,Australia,1.0,353260,Junior Girls,,,Junior Girls,353260
+45,187556,Australia: 1 STAR Merimbula Classic,Results Published,4,22/11/2023,26/11/2023,Australia,1.0,353261,Junior Boys,,,Junior Boys,353261
+46,187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,20/09/2024,22/09/2024,Wales,2.0,353358,Men,,,Men,353358
+47,187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,20/09/2024,22/09/2024,Wales,2.0,353359,Women,,,Women,353359
+48,187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,20/09/2024,22/09/2024,Wales,2.0,353360,Junior Boys,,,Junior Boys,353360
+49,187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,20/09/2024,22/09/2024,Wales,2.0,353361,Masters,,,Masters,353361
+50,187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,20/09/2024,22/09/2024,Wales,2.0,353362,Junior Girls,,,Junior Girls,353362
+51,187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,353267,Junior Girls,,,Junior Girls,353267
+52,187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,353268,Junior Boys,,,Junior Boys,353268
+53,187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,353271,U15 Girls,,,U15 Girls,353271
+54,187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,353272,U15 Boys,,,U15 Boys,353272
+55,187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,353273,U13,,,U13,353273
+56,187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,388585,Pro Junior GIrls,,,Pro Junior GIrls,388585
+57,187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,388586,Pro Junior Boys,,,Pro Junior Boys,388586
+58,249495,AFRICA: 3 STAR REGIONAL FINAL Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Africa,3.0,441634,Men,,,Men,441634
+59,187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5.0,353301,Masters,,,Masters,353301
+60,187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5.0,353302,Junior Girls,,,Junior Girls,353302
+61,187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5.0,353303,Junior Boys,,,Junior Boys,353303
+62,187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5.0,454486,Pro Junior GIrls,,,Pro Junior GIrls,454486
+63,187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5.0,454487,Pro Junior Boys,,,Pro Junior Boys,454487
+64,270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471646,Masters,,,Masters,471646
+65,270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471647,Junior Girls,,,Junior Girls,471647
+66,270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471648,Junior Boys,,,Junior Boys,471648
+67,270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471649,Pro Junior GIrls,,,Pro Junior GIrls,471649
+68,270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471650,Pro Junior Boys,,,Pro Junior Boys,471650
+69,270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471656,OPEN,,,OPEN,471656
+70,270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471657,Grand Masters,,,Grand Masters,471657
+71,285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,23/11/2024,16/12/2024,France,2.0,492502,Men,,,Men,492502
+72,285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,23/11/2024,16/12/2024,France,2.0,492503,Women,,,Women,492503
+73,285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,23/11/2024,16/12/2024,France,2.0,492504,Junior Girls,,,Junior Girls,492504
+74,285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,23/11/2024,16/12/2024,France,2.0,492505,Junior Boys,,,Junior Boys,492505
+75,285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,23/11/2024,16/12/2024,France,2.0,492506,Masters,,,Masters,492506
+76,147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,14/10/2023,21/10/2023,Scotland,2.0,290168,Men,,,Men,290168
+77,147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,14/10/2023,21/10/2023,Scotland,2.0,290169,Women,,,Women,290169
+78,147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,14/10/2023,21/10/2023,Scotland,2.0,290170,Junior Boys,,,Junior Boys,290170
+79,147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,14/10/2023,21/10/2023,Scotland,2.0,290171,Masters,,,Masters,290171
+80,181652,HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final,Results Published,13,22/10/2023,04/11/2023,Hawaii,5.0,343314,Men,,,Men,343314
+81,181652,HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final,Results Published,13,22/10/2023,04/11/2023,Hawaii,5.0,343315,Women,,,Women,343315
+82,181652,HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final,Results Published,13,22/10/2023,04/11/2023,Hawaii,5.0,343317,Masters,,,Masters,343317
+83,147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,02/02/2024,05/02/2024,Australia,2.0,290222,Men,,,Men,290222
+84,147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,02/02/2024,05/02/2024,Australia,2.0,290223,Women,,,Women,290223
+85,147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,02/02/2024,05/02/2024,Australia,2.0,290225,Masters,,,Masters,290225
+86,147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,02/02/2024,05/02/2024,Australia,2.0,290226,Open AM,,,Open AM,290226
+87,187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,11/10/2024,18/10/2024,Scotland,3.0,353317,Men,,,Men,353317
+88,187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,11/10/2024,18/10/2024,Scotland,3.0,353318,Women,,,Women,353318
+89,187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,11/10/2024,18/10/2024,Scotland,3.0,353319,Junior Boys,,,Junior Boys,353319
+90,187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,11/10/2024,18/10/2024,Scotland,3.0,353320,Masters,,,Masters,353320
+91,187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,11/10/2024,18/10/2024,Scotland,3.0,353321,Junior Girls,,,Junior Girls,353321
+92,118319,CHILE: 4 STAR SURAZO Infernal - Women,Results Published,9,25/03/2023,03/04/2023,Chile,4.0,248203,Women,,,Women,248203
+93,117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,16/03/2023,22/03/2023,Japan,5.0,247081,Men,,,Men,247081
+94,117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,16/03/2023,22/03/2023,Japan,5.0,247082,Women,,,Women,247082
+95,117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,16/03/2023,22/03/2023,Japan,5.0,247083,Junior Boys,,,Junior Boys,247083
+96,117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,16/03/2023,22/03/2023,Japan,5.0,247084,Masters,,,Masters,247084
+97,118385,CHILE: 4 STAR SURAZO Infernal - Masters & Youth,Results Published,9,25/03/2023,03/04/2023,Chile,4.0,248368,Masters,,,Masters,248368
+98,118385,CHILE: 4 STAR SURAZO Infernal - Masters & Youth,Results Published,9,25/03/2023,03/04/2023,Chile,4.0,248369,Junior Boys,,,Junior Boys,248369
+99,118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,16/03/2023,22/03/2023,Japan,5.0,248731,Women,,,Women,248731
+100,118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,16/03/2023,22/03/2023,Japan,5.0,248732,Junior Boys,,,Junior Boys,248732
+101,118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,16/03/2023,22/03/2023,Japan,5.0,248733,Masters,,,Masters,248733
+102,118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,16/03/2023,22/03/2023,Japan,5.0,253879,U15 Girls,,,U15 Girls,253879
+103,118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,16/03/2023,22/03/2023,Japan,5.0,253880,U15 Boys,,,U15 Boys,253880
+104,147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,11/11/2023,20/11/2023,Australia,2.0,290217,Men,,,Men,290217
+105,147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,11/11/2023,20/11/2023,Australia,2.0,290218,Women,,,Women,290218
+106,147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,11/11/2023,20/11/2023,Australia,2.0,290219,Junior Boys,,,Junior Boys,290219
+107,147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,11/11/2023,20/11/2023,Australia,2.0,290220,Masters,,,Masters,290220
+108,147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,11/11/2023,20/11/2023,Australia,2.0,316788,Junior Girls,,,Junior Girls,316788
+109,187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5.0,353294,Women,,,Women,353294
+110,187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5.0,353295,Men,,,Men,353295
+111,187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5.0,353296,Masters,,,Masters,353296
+112,187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5.0,402097,Pro Junior GIrls,,,Pro Junior GIrls,402097
+113,187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5.0,353297,Junior Girls,,,Junior Girls,353297
+114,187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5.0,402098,Pro Junior Boys,,,Pro Junior Boys,402098
+115,187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5.0,353298,Junior Boys,,,Junior Boys,353298
+116,187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5.0,407963,Open AM,,,Open AM,407963
+117,350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2.0,637801,Women,,,Women,637801
+118,350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2.0,637802,Men,,,Men,637802
+119,350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2.0,637803,Masters,,,Masters,637803
+120,350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2.0,637804,Pro Junior GIrls,,,Pro Junior GIrls,637804
+121,350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2.0,637805,Pro Junior Boys,,,Pro Junior Boys,637805
+122,350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2.0,637806,Junior Girls,,,Junior Girls,637806
+123,350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2.0,637807,Junior Boys,,,Junior Boys,637807
+124,350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2.0,637808,OPEN,,,OPEN,637808
+125,322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,26/12/2024,29/12/2024,Japan,2.0,586057,Pro Junior Boys,,,Pro Junior Boys,586057
+126,322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,26/12/2024,29/12/2024,Japan,2.0,586058,Pro Junior GIrls,,,Pro Junior GIrls,586058
+127,322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,26/12/2024,29/12/2024,Japan,2.0,586059,Junior Boys,,,Junior Boys,586059
+128,322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,26/12/2024,29/12/2024,Japan,2.0,586060,Junior Girls,,,Junior Girls,586060
+129,322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,26/12/2024,29/12/2024,Japan,2.0,586061,U15,,,U15,586061
+130,72487,Australia: 2 STAR Sydney Classic,Results Published,3,10/12/2022,13/12/2022,Australia,2.0,168245,Men,,,Men,168245
+131,72487,Australia: 2 STAR Sydney Classic,Results Published,3,10/12/2022,13/12/2022,Australia,2.0,168246,Women,,,Women,168246
+132,72487,Australia: 2 STAR Sydney Classic,Results Published,3,10/12/2022,13/12/2022,Australia,2.0,168247,Junior Boys,,,Junior Boys,168247
+133,72487,Australia: 2 STAR Sydney Classic,Results Published,3,10/12/2022,13/12/2022,Australia,2.0,168248,Masters,,,Masters,168248
+134,72487,Australia: 2 STAR Sydney Classic,Results Published,3,10/12/2022,13/12/2022,Australia,2.0,293481,Junior Girls,,,Junior Girls,293481
+135,270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,03/08/2024,18/08/2024,Spain,,471651,Masters,,,Masters,471651
+136,270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,03/08/2024,18/08/2024,Spain,,471652,Junior Girls,,,Junior Girls,471652
+137,270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,03/08/2024,18/08/2024,Spain,,471653,Junior Boys,,,Junior Boys,471653
+138,270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,03/08/2024,18/08/2024,Spain,,471654,Pro Junior GIrls,,,Pro Junior GIrls,471654
+139,270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,03/08/2024,18/08/2024,Spain,,471655,Pro Junior Boys,,,Pro Junior Boys,471655
+140,81590,Japan: 2 STAR Winter Cup,Results Published,2,04/02/2023,06/02/2023,Japan,2.0,186163,Men,,,Men,186163
+141,81590,Japan: 2 STAR Winter Cup,Results Published,2,04/02/2023,06/02/2023,Japan,2.0,186164,Women,,,Women,186164
+142,81590,Japan: 2 STAR Winter Cup,Results Published,2,04/02/2023,06/02/2023,Japan,2.0,186165,Junior Boys,,,Junior Boys,186165
+143,81590,Japan: 2 STAR Winter Cup,Results Published,2,04/02/2023,06/02/2023,Japan,2.0,293486,Junior Girls,,,Junior Girls,293486
+144,81590,Japan: 2 STAR Winter Cup,Results Published,2,04/02/2023,06/02/2023,Japan,2.0,186166,Masters,,,Masters,186166
+145,268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2.0,467766,Women,,,Women,467766
+146,268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2.0,467767,Men,,,Men,467767
+147,268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2.0,467768,Masters,,,Masters,467768
+148,268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2.0,467769,Pro Junior GIrls,,,Pro Junior GIrls,467769
+149,268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2.0,467770,Pro Junior Boys,,,Pro Junior Boys,467770
+150,268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2.0,467771,Junior Girls,,,Junior Girls,467771
+151,268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2.0,467772,Junior Boys,,,Junior Boys,467772
+152,268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2.0,587986,Open AM,,,Open AM,587986
+153,268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2.0,587987,Grand Masters,,,Grand Masters,587987
+154,263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3.0,460767,Women,,,Women,460767
+155,263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3.0,460768,Men,,,Men,460768
+156,263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3.0,460770,Pro Junior GIrls,,,Pro Junior GIrls,460770
+157,263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3.0,460771,Pro Junior Boys,,,Pro Junior Boys,460771
+158,263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3.0,460772,Junior Boys,,,Junior Boys,460772
+159,263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3.0,460773,Junior Girls,,,Junior Girls,460773
+160,263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3.0,460769,Masters,,,Masters,460769
+161,221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,13/04/2024,30/04/2024,Argentina,2.0,410348,Women,,,Women,410348
+162,221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,13/04/2024,30/04/2024,Argentina,2.0,410349,Men,,,Men,410349
+163,221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,13/04/2024,30/04/2024,Argentina,2.0,410350,Masters,,,Masters,410350
+164,221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,13/04/2024,30/04/2024,Argentina,2.0,410351,Junior Girls,,,Junior Girls,410351
+165,221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,13/04/2024,30/04/2024,Argentina,2.0,410352,Junior Boys,,,Junior Boys,410352
+166,220652,Japan: 2 STAR All Japan,Results Published,2,05/01/2024,07/01/2024,Japan,2.0,408830,Men,,,Men,408830
+167,220652,Japan: 2 STAR All Japan,Results Published,2,05/01/2024,07/01/2024,Japan,2.0,408831,Women,,,Women,408831
+168,216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,31/08/2024,30/11/2024,Germany,2.0,402758,Women,,,Women,402758
+169,216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,31/08/2024,30/11/2024,Germany,2.0,402759,Men,,,Men,402759
+170,216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,31/08/2024,30/11/2024,Germany,2.0,402760,Masters,,,Masters,402760
+171,216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,31/08/2024,30/11/2024,Germany,2.0,402761,Junior Girls,,,Junior Girls,402761
+172,216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,31/08/2024,30/11/2024,Germany,2.0,402762,Junior Boys,,,Junior Boys,402762
+173,187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3.0,353351,Junior Boys,,,Junior Boys,353351
+174,187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3.0,353352,Junior Girls,,,Junior Girls,353352
+175,187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3.0,353353,U17 Girls,,,U17 Girls,353353
+176,187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3.0,353354,U17 Boys,,,U17 Boys,353354
+177,187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3.0,353355,U15 Girls,,,U15 Girls,353355
+178,187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3.0,353356,U15 Boys,,,U15 Boys,353356
+179,187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3.0,353357,U13,,,U13,353357
+180,187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,24/10/2024,28/10/2024,New Zealand,1.0,353341,Women,,,Women,353341
+181,187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,24/10/2024,28/10/2024,New Zealand,1.0,353342,Men,,,Men,353342
+182,187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,24/10/2024,28/10/2024,New Zealand,1.0,353343,Masters,,,Masters,353343
+183,187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,24/10/2024,28/10/2024,New Zealand,1.0,353344,Junior Girls,,,Junior Girls,353344
+184,187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,24/10/2024,28/10/2024,New Zealand,1.0,353345,Junior Boys,,,Junior Boys,353345
+185,172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,29/09/2023,02/10/2023,Australia 2 Star Woolgoolga Classic Nsw,2.0,327546,Men,,,Men,327546
+186,172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,29/09/2023,02/10/2023,Australia 2 Star Woolgoolga Classic Nsw,2.0,327547,Women,,,Women,327547
+187,172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,29/09/2023,02/10/2023,Australia 2 Star Woolgoolga Classic Nsw,2.0,327548,Masters,,,Masters,327548
+188,172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,29/09/2023,02/10/2023,Australia 2 Star Woolgoolga Classic Nsw,2.0,327549,Junior Boys,,,Junior Boys,327549
+189,117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,01/04/2023,09/04/2023,Morocco,2.0,247047,Men,,,Men,247047
+190,117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,01/04/2023,09/04/2023,Morocco,2.0,247048,Women,,,Women,247048
+191,117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,01/04/2023,09/04/2023,Morocco,2.0,247049,Junior Boys,,,Junior Boys,247049
+192,117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,01/04/2023,09/04/2023,Morocco,2.0,247050,Masters,,,Masters,247050
+193,187553,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Morocco,3.0,353242,Women,,,Women,353242
+194,187553,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Morocco,3.0,353243,Men,,,Men,353243
+195,187553,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Morocco,3.0,353244,Masters,,,Masters,353244
+196,187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2.0,353279,Women,,,Women,353279
+197,187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2.0,353280,Men,,,Men,353280
+198,187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2.0,353281,Masters,,,Masters,353281
+199,187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2.0,353282,Junior Girls,,,Junior Girls,353282
+200,187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2.0,353283,Junior Boys,,,Junior Boys,353283
+201,187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2.0,400435,Pro Junior GIrls,,,Pro Junior GIrls,400435
+202,187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2.0,400436,Pro Junior Boys,,,Pro Junior Boys,400436
+203,165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,31/01/2024,31/03/2024,Israel,2.0,316791,Men,,,Men,316791
+204,165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,31/01/2024,31/03/2024,Israel,2.0,316792,Women,,,Women,316792
+205,165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,31/01/2024,31/03/2024,Israel,2.0,390433,Pro Junior Boys,,,Pro Junior Boys,390433
+206,165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,31/01/2024,31/03/2024,Israel,2.0,316793,Masters,,,Masters,316793
+207,72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4.0,168205,Men,,,Men,168205
+208,72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4.0,168206,Women,,,Women,168206
+209,72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4.0,168208,Masters,,,Masters,168208
+210,72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4.0,168210,Open AM,,,Open AM,168210
+211,72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4.0,310717,Pro Men's Trials ,,,Pro Men's Trials ,310717
+212,72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4.0,310719,Open Juniors U20,,,Open Juniors U20,310719
+213,187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5.0,353289,Women,,,Women,353289
+214,187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5.0,353290,Men,,,Men,353290
+215,187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5.0,353291,Masters,,,Masters,353291
+216,187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5.0,400714,Pro Junior GIrls,,,Pro Junior GIrls,400714
+217,187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5.0,400715,Pro Junior Boys,,,Pro Junior Boys,400715
+218,187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5.0,353292,Junior Girls,,,Junior Girls,353292
+219,187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5.0,353293,Junior Boys,,,Junior Boys,353293
+220,214877,Germany: 2 Star The German Wave Tour ,Results Published,5,11/06/2023,16/06/2023,Germany,2.0,400732,Women,,,Women,400732
+221,214877,Germany: 2 Star The German Wave Tour ,Results Published,5,11/06/2023,16/06/2023,Germany,2.0,400733,Men,,,Men,400733
+222,214877,Germany: 2 Star The German Wave Tour ,Results Published,5,11/06/2023,16/06/2023,Germany,2.0,400734,Pro Junior GIrls,,,Pro Junior GIrls,400734
+223,214877,Germany: 2 Star The German Wave Tour ,Results Published,5,11/06/2023,16/06/2023,Germany,2.0,400735,Pro Junior Boys,,,Pro Junior Boys,400735
+224,361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2.0,656149,Men,,,Men,656149
+225,361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2.0,656150,Women,,,Women,656150
+226,361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2.0,656151,Masters,,,Masters,656151
+227,361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2.0,656152,Junior Boys,,,Junior Boys,656152
+228,361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2.0,656153,Junior Girls,,,Junior Girls,656153
+229,361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2.0,656154,Pro Junior Boys,,,Pro Junior Boys,656154
+230,361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2.0,656155,Pro Junior GIrls,,,Pro Junior GIrls,656155
+231,72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,168211,Men,,,Men,168211
+232,72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,168212,Women,,,Women,168212
+233,72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,168213,Junior Boys,,,Junior Boys,168213
+234,72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,168214,Masters,,,Masters,168214
+235,72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,336314,Pro Women's Trials,,,Pro Women's Trials,336314
+236,72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,336874,Pro Men Trials,,,Pro Men Trials,336874
+237,72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,338059,Pro Men's Double,,,Pro Men's Double,338059
+238,72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,338060,Pro Women's Double,,,Pro Women's Double,338060
+239,72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,338128,Masters Single,,,Masters Single,338128
+240,187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,21/10/2024,02/11/2024,Hawai'I,5.0,353315,Women,,,Women,353315
+241,187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,21/10/2024,02/11/2024,Hawai'I,5.0,353316,Men,,,Men,353316
+242,187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,21/10/2024,02/11/2024,Hawai'I,5.0,474353,Pro Junior Boys,,,Pro Junior Boys,474353
+243,187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,21/10/2024,02/11/2024,Hawai'I,5.0,377530,Masters,,,Masters,377530
+244,321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,13/10/2025,25/10/2025,Hawaii,5.0,585008,Men,,,Men,585008
+245,321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,13/10/2025,25/10/2025,Hawaii,5.0,585009,Women,,,Women,585009
+246,321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,13/10/2025,25/10/2025,Hawaii,5.0,585010,Pro Junior Boys,,,Pro Junior Boys,585010
+247,321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,13/10/2025,25/10/2025,Hawaii,5.0,585011,Pro Junior GIrls,,,Pro Junior GIrls,585011
+248,321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,13/10/2025,25/10/2025,Hawaii,5.0,585012,Masters,,,Masters,585012
+249,321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,01/08/2025,11/08/2025,Spain,5.0,585000,Men,,,Men,585000
+250,321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,01/08/2025,11/08/2025,Spain,5.0,585001,Women,,,Women,585001
+251,321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,01/08/2025,11/08/2025,Spain,5.0,585002,Pro Junior Boys,,,Pro Junior Boys,585002
+252,321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,01/08/2025,11/08/2025,Spain,5.0,585003,Pro Junior GIrls,,,Pro Junior GIrls,585003
+253,321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,01/08/2025,11/08/2025,Spain,5.0,585004,Masters,,,Masters,585004
+254,321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,05/07/2025,14/07/2025,Spain,5.0,584995,Men,,,Men,584995
+255,321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,05/07/2025,14/07/2025,Spain,5.0,584996,Women,,,Women,584996
+256,321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,05/07/2025,14/07/2025,Spain,5.0,584998,Pro Junior Boys,,,Pro Junior Boys,584998
+257,321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,05/07/2025,14/07/2025,Spain,5.0,584999,Pro Junior GIrls,,,Pro Junior GIrls,584999
+258,321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,05/07/2025,14/07/2025,Spain,5.0,584997,Masters,,,Masters,584997
+259,81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4.0,186196,Junior Boys,,,Junior Boys,186196
+260,81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4.0,248339,Junior Girls,,,Junior Girls,248339
+261,81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4.0,248336,U17 Boys,,,U17 Boys,248336
+262,81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4.0,248337,U15 Boys,,,U15 Boys,248337
+263,81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4.0,248338,U13,,,U13,248338
+264,81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4.0,248340,U15 Girls,,,U15 Girls,248340
+265,187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2.0,353274,Women,,,Women,353274
+266,187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2.0,353276,Masters,,,Masters,353276
+267,187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2.0,363036,Pro Men's Dingle,,,Pro Men's Dingle,363036
+268,187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2.0,363037,U20 Boys,,,U20 Boys,363037
+269,187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2.0,363038,Grand Masters,,,Grand Masters,363038
+270,187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2.0,363039,Open AM,,,Open AM,363039
+271,187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2.0,363256,Pro Men's Double,,,Pro Men's Double,363256
+272,187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2.0,353275,Men,,,Men,353275
+273,199466,SPAIN: 4 STAR TBC Tenerife World Cup,Results Published,7,05/08/2024,12/08/2024,Spain,4.0,377533,Women,,,Women,377533
+274,199466,SPAIN: 4 STAR TBC Tenerife World Cup,Results Published,7,05/08/2024,12/08/2024,Spain,4.0,377534,Men,,,Men,377534
+275,72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,03/12/2022,12/12/2022,Chile,2.0,168178,Men,,,Men,168178
+276,72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,03/12/2022,12/12/2022,Chile,2.0,168179,Women,,,Women,168179
+277,72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,03/12/2022,12/12/2022,Chile,2.0,168180,Junior Boys,,,Junior Boys,168180
+278,72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,03/12/2022,12/12/2022,Chile,2.0,168181,Masters,,,Masters,168181
+279,72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,03/12/2022,12/12/2022,Chile,2.0,293480,Junior Girls,,,Junior Girls,293480
+280,74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,15/01/2023,30/01/2023,Guadeloupe,2.0,172519,Men,,,Men,172519
+281,74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,15/01/2023,30/01/2023,Guadeloupe,2.0,172520,Women,,,Women,172520
+282,74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,15/01/2023,30/01/2023,Guadeloupe,2.0,172521,Junior Boys,,,Junior Boys,172521
+283,74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,15/01/2023,30/01/2023,Guadeloupe,2.0,172522,Masters,,,Masters,172522
+284,74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,15/01/2023,30/01/2023,Guadeloupe,2.0,293482,Junior Girls,,,Junior Girls,293482
+285,74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,25/02/2023,27/02/2023,Puerto.Rico,2.0,172447,Men,,,Men,172447
+286,74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,25/02/2023,27/02/2023,Puerto.Rico,2.0,172450,Masters,,,Masters,172450
+287,74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,25/02/2023,27/02/2023,Puerto.Rico,2.0,172449,Junior Boys,,,Junior Boys,172449
+288,74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,25/02/2023,27/02/2023,Puerto.Rico,2.0,293488,Junior Girls,,,Junior Girls,293488
+289,74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,25/02/2023,27/02/2023,Puerto.Rico,2.0,172448,Women,,,Women,172448
+290,72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,04/02/2023,13/02/2023,Australia,2.0,168251,Men,,,Men,168251
+291,72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,04/02/2023,13/02/2023,Australia,2.0,168252,Women,,,Women,168252
+292,72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,04/02/2023,13/02/2023,Australia,2.0,168253,Junior Boys,,,Junior Boys,168253
+293,72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,04/02/2023,13/02/2023,Australia,2.0,168254,Masters,,,Masters,168254
+294,72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,04/02/2023,13/02/2023,Australia,2.0,293485,Junior Girls,,,Junior Girls,293485
+295,74628,Taiwan: 1 STAR Wave Jam ,Results Published,10,18/11/2022,28/11/2022,Taiwan,1.0,172513,Men,,,Men,172513
+296,74628,Taiwan: 1 STAR Wave Jam ,Results Published,10,18/11/2022,28/11/2022,Taiwan,1.0,172514,Women,,,Women,172514
+297,74628,Taiwan: 1 STAR Wave Jam ,Results Published,10,18/11/2022,28/11/2022,Taiwan,1.0,172516,Masters,,,Masters,172516
+298,272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3.0,474990,Women,,,Women,474990
+299,272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3.0,474991,Men,,,Men,474991
+300,272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3.0,474992,Masters,,,Masters,474992
+301,272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3.0,474993,Pro Junior GIrls,,,Pro Junior GIrls,474993
+302,272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3.0,474994,Pro Junior Boys,,,Pro Junior Boys,474994
+303,272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3.0,474995,Junior Girls,,,Junior Girls,474995
+304,272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3.0,474996,Junior Boys,,,Junior Boys,474996
+305,272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3.0,474997,OPEN,,,OPEN,474997
+306,72453,CHILE: 4 STAR SURAZO Infernal - Pro Men,Results Published,9,25/03/2023,03/04/2023,Chile,4.0,168199,Men,,,Men,168199
+307,72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,18/01/2023,22/01/2023,Australia,2.0,168233,Men,,,Men,168233
+308,72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,18/01/2023,22/01/2023,Australia,2.0,168234,Women,,,Women,168234
+309,72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,18/01/2023,22/01/2023,Australia,2.0,168235,Junior Boys,,,Junior Boys,168235
+310,72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,18/01/2023,22/01/2023,Australia,2.0,293483,Junior Girls,,,Junior Girls,293483
+311,72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,18/01/2023,22/01/2023,Australia,2.0,168236,Masters,,,Masters,168236
+312,74594,Ireland: 2 STAR Mayo Mayhem,Results Published,3,29/09/2023,02/10/2023,Ireland,2.0,172501,Men,,,Men,172501
+313,74594,Ireland: 2 STAR Mayo Mayhem,Results Published,3,29/09/2023,02/10/2023,Ireland,2.0,172502,Women,,,Women,172502
+314,74594,Ireland: 2 STAR Mayo Mayhem,Results Published,3,29/09/2023,02/10/2023,Ireland,2.0,172503,Junior Boys,,,Junior Boys,172503
+315,187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,04/10/2024,07/10/2024,Australia,2.0,353346,Women,,,Women,353346
+316,187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,04/10/2024,07/10/2024,Australia,2.0,353347,Men,,,Men,353347
+317,187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,04/10/2024,07/10/2024,Australia,2.0,353348,Masters,,,Masters,353348
+318,187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,04/10/2024,07/10/2024,Australia,2.0,353349,Junior Girls,,,Junior Girls,353349
+319,187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,04/10/2024,07/10/2024,Australia,2.0,353350,Junior Boys,,,Junior Boys,353350
+320,72450,France: 2 STAR Championnat De France Funboard Vagues 2023,Results Published,2,18/11/2023,20/11/2023,France,2.0,168184,Men,,,Men,168184
+321,72450,France: 2 STAR Championnat De France Funboard Vagues 2023,Results Published,2,18/11/2023,20/11/2023,France,2.0,168185,Women,,,Women,168185
+322,81557,Japan: 1 STAR Cold Breeze,Results Published,2,24/12/2022,26/12/2022,Japan,1.0,186130,Men,,,Men,186130
+323,81557,Japan: 1 STAR Cold Breeze,Results Published,2,24/12/2022,26/12/2022,Japan,1.0,186131,Women,,,Women,186131
+324,81557,Japan: 1 STAR Cold Breeze,Results Published,2,24/12/2022,26/12/2022,Japan,1.0,186132,Junior Boys,,,Junior Boys,186132
+325,81557,Japan: 1 STAR Cold Breeze,Results Published,2,24/12/2022,26/12/2022,Japan,1.0,186133,Masters,,,Masters,186133
+326,187565,PERU: 4 STAR Pacasmayo Classic World Cup,Results Published,14,03/08/2024,17/08/2024,Peru,4.0,353304,Women,,,Women,353304
+327,187565,PERU: 4 STAR Pacasmayo Classic World Cup,Results Published,14,03/08/2024,17/08/2024,Peru,4.0,353305,Men,,,Men,353305
+328,305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,15/11/2024,17/11/2024,Australia,2.0,541463,Women,,,Women,541463
+329,305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,15/11/2024,17/11/2024,Australia,2.0,541464,Men,,,Men,541464
+330,305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,15/11/2024,17/11/2024,Australia,2.0,541465,Masters,,,Masters,541465
+331,305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,15/11/2024,17/11/2024,Australia,2.0,541466,Junior Girls,,,Junior Girls,541466
+332,305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,15/11/2024,17/11/2024,Australia,2.0,541467,Junior Boys,,,Junior Boys,541467
+333,322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3.0,585973,Women,,,Women,585973
+334,322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3.0,585974,Men,,,Men,585974
+335,322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3.0,585975,Masters,,,Masters,585975
+336,322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3.0,585976,Junior Boys,,,Junior Boys,585976
+337,322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3.0,585977,Pro Junior GIrls,,,Pro Junior GIrls,585977
+338,322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3.0,585978,Pro Junior Boys,,,Pro Junior Boys,585978
+339,322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3.0,585979,Junior Girls,,,Junior Girls,585979
+340,268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3.0,467752,Women,,,Women,467752
+341,268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3.0,467753,Men,,,Men,467753
+342,268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3.0,467754,Masters,,,Masters,467754
+343,268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3.0,467758,Junior Boys,,,Junior Boys,467758
+344,268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3.0,569238,Grand Masters,,,Grand Masters,569238
+345,268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3.0,569239,Open AM,,,Open AM,569239
+346,268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3.0,467757,Junior Girls,,,Junior Girls,467757
+347,268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3.0,481449,PRE REGISTER FOR RANKINGS,,,PRE REGISTER FOR RANKINGS,481449
+348,268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3.0,467760,Men,,,Men,467760
+349,268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3.0,467763,Pro Junior Boys,,,Pro Junior Boys,467763
+350,268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3.0,467762,Pro Junior GIrls,,,Pro Junior GIrls,467762
+351,268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3.0,467761,Masters,,,Masters,467761
+352,268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3.0,533821,OPEN,,,OPEN,533821
+353,268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3.0,534578,Grand Master,,,Grand Master,534578
+354,321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,09/03/2025,10/03/2025,Puerto Rico,4.0,584943,Women,,,Women,584943
+355,321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,09/03/2025,10/03/2025,Puerto Rico,4.0,584944,Men,,,Men,584944
+356,321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,09/03/2025,10/03/2025,Puerto Rico,4.0,584945,Masters,,,Masters,584945
+357,321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,09/03/2025,10/03/2025,Puerto Rico,4.0,584950,Grand Masters,,,Grand Masters,584950
+358,322457,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,01/11/2024,01/12/2024,Taiwan,1.0,585833,Women,,,Women,585833
+359,322457,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,01/11/2024,01/12/2024,Taiwan,1.0,585834,Men,,,Men,585834
+360,266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4.0,464921,Women,,,Women,464921
+361,266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4.0,464922,Men,,,Men,464922
+362,266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4.0,464923,Masters,,,Masters,464923
+363,266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4.0,464924,Junior Girls,,,Junior Girls,464924
+364,266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4.0,464925,Junior Boys,,,Junior Boys,464925
+365,266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4.0,464926,Pro Junior GIrls,,,Pro Junior GIrls,464926
+366,266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4.0,464927,Pro Junior Boys,,,Pro Junior Boys,464927
+367,266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4.0,601831,Grand Masters,,,Grand Masters,601831
+368,321767,Chile: 3 STAR Surazo Infernal Navidad - women's results ,Results Published,4,07/11/2024,11/11/2024,Chile,3.0,584886,Women,,,Women,584886
+369,322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3.0,585965,Women,,,Women,585965
+370,322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3.0,585966,Men,,,Men,585966
+371,322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3.0,585967,Masters,,,Masters,585967
+372,322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3.0,585968,Pro Junior GIrls,,,Pro Junior GIrls,585968
+373,322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3.0,585969,Pro Junior Boys,,,Pro Junior Boys,585969
+374,322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3.0,585970,Junior Girls,,,Junior Girls,585970
+375,322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3.0,585971,Junior Boys,,,Junior Boys,585971
+376,322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3.0,585972,OPEN,,,OPEN,585972
+377,318167,Belgium 2 Star Nationals ,Results Published,4,18/10/2024,22/10/2024,Belgium 2 Star Nationals,2.0,579061,Men,,,Men,579061
+378,318167,Belgium 2 Star Nationals ,Results Published,4,18/10/2024,22/10/2024,Belgium 2 Star Nationals,2.0,579062,Women,,,Women,579062
+379,275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,31/07/2024,30/11/2024,Netherlands,2.0,478849,Women,,,Women,478849
+380,275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,31/07/2024,30/11/2024,Netherlands,2.0,478850,Men,,,Men,478850
+381,275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,31/07/2024,30/11/2024,Netherlands,2.0,478851,Masters,,,Masters,478851
+382,275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,31/07/2024,30/11/2024,Netherlands,2.0,478852,Junior Girls,,,Junior Girls,478852
+383,275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,31/07/2024,30/11/2024,Netherlands,2.0,478853,Junior Boys,,,Junior Boys,478853
+384,322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3.0,585982,Men,,,Men,585982
+385,322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3.0,585983,Women,,,Women,585983
+386,322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3.0,585984,Pro Junior Boys,,,Pro Junior Boys,585984
+387,322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3.0,585985,Pro Junior GIrls,,,Pro Junior GIrls,585985
+388,322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3.0,585980,Junior Boys,,,Junior Boys,585980
+389,322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3.0,585981,Junior Girls,,,Junior Girls,585981
+390,322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3.0,585986,Masters,,,Masters,585986
+391,322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3.0,585987,Men,,,Men,585987
+392,322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3.0,585988,Women,,,Women,585988
+393,322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3.0,585989,Junior Boys,,,Junior Boys,585989
+394,322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3.0,585990,Junior Girls,,,Junior Girls,585990
+395,322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3.0,585992,Pro Junior Boys,,,Pro Junior Boys,585992
+396,322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3.0,585993,Pro Junior GIrls,,,Pro Junior GIrls,585993
+397,322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3.0,585991,Masters,,,Masters,585991
+398,322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3.0,585999,PRE REGISTER FOR RANKINGS,,,PRE REGISTER FOR RANKINGS,585999
+399,322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3.0,585994,Men,,,Men,585994
+400,322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3.0,585995,Pro Junior Boys,,,Pro Junior Boys,585995
+401,322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3.0,585996,Pro Junior GIrls,,,Pro Junior GIrls,585996
+402,322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3.0,586000,Masters,,,Masters,586000
+403,322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3.0,585997,OPEN,,,OPEN,585997
+404,322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3.0,585998,Grand Master,,,Grand Master,585998
+405,322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3.0,586001,Women,,,Women,586001
+406,322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3.0,586002,Men,,,Men,586002
+407,322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3.0,586003,Pro Junior GIrls,,,Pro Junior GIrls,586003
+408,322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3.0,586004,Pro Junior Boys,,,Pro Junior Boys,586004
+409,322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3.0,586005,Junior Boys,,,Junior Boys,586005
+410,322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3.0,586006,Junior Girls,,,Junior Girls,586006
+411,322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3.0,586007,Masters,,,Masters,586007
+412,295232,Judges Training Event,Finished,8,01/10/2023,09/10/2023,Judges Training Event,,515438,Men,,,Men,515438
+413,321870,GERMANY: 5 STAR Sylt World Cup,Scheduled,10,26/09/2025,06/10/2025,Germany,5.0,585005,Men,,,Men,585005
+414,321870,GERMANY: 5 STAR Sylt World Cup,Scheduled,10,26/09/2025,06/10/2025,Germany,5.0,585006,Women,,,Women,585006
+415,296885,Test,Finished,2,01/01/2022,03/01/2022,Test,,519085,Women,,,Women,519085
+416,296885,Test,Finished,2,01/01/2022,03/01/2022,Test,,519086,Men,,,Men,519086
+417,296885,Test,Finished,2,01/01/2022,03/01/2022,Test,,519087,Pro Junior Boys,,,Pro Junior Boys,519087
+418,296885,Test,Finished,2,01/01/2022,03/01/2022,Test,,519088,Masters,,,Masters,519088
+419,321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4.0,584935,Women,,,Women,584935
+420,321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4.0,584936,Men,,,Men,584936
+421,321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4.0,584937,Masters,,,Masters,584937
+422,321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4.0,584938,Junior Girls,,,Junior Girls,584938
+423,321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4.0,584939,Junior Boys,,,Junior Boys,584939
+424,321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4.0,584940,Pro Junior GIrls,,,Pro Junior GIrls,584940
+425,321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4.0,584941,Pro Junior Boys,,,Pro Junior Boys,584941
+426,321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4.0,584942,Grand Masters,,,Grand Masters,584942
+427,321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4.0,625558,Expression Session,,,Expression Session,625558
+428,374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,18/01/2025,20/01/2025,Guadeloupe,2.0,672485,Men,,,Men,672485
+429,374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,18/01/2025,20/01/2025,Guadeloupe,2.0,672486,Women,,,Women,672486
+430,374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,18/01/2025,20/01/2025,Guadeloupe,2.0,672487,Junior Boys,,,Junior Boys,672487
+431,374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,18/01/2025,20/01/2025,Guadeloupe,2.0,672488,Masters,,,Masters,672488
+432,277082,Israel: 3 STAR Storm Rider Haifa,Finished,75,16/01/2025,01/04/2025,Israel,3.0,481480,PRE REGISTER FOR RANKINGS,,,PRE REGISTER FOR RANKINGS,481480
+433,277082,Israel: 3 STAR Storm Rider Haifa,Finished,75,16/01/2025,01/04/2025,Israel,3.0,607606,open,,,open,607606
+434,187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3.0,353247,Women,,,Women,353247
+435,187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3.0,353248,Men,,,Men,353248
+436,187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3.0,353249,Masters,,,Masters,353249
+437,187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3.0,353250,Junior Girls,,,Junior Girls,353250
+438,187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3.0,353251,Junior Boys,,,Junior Boys,353251
+439,187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3.0,400439,Pro Junior GIrls,,,Pro Junior GIrls,400439
+440,187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3.0,400440,Pro Junior Boys,,,Pro Junior Boys,400440
+441,321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,14/04/2025,19/04/2025,Hawaii,4.0,584956,Women,,,Women,584956
+442,321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,14/04/2025,19/04/2025,Hawaii,4.0,584957,Men,,,Men,584957
+443,321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,14/04/2025,19/04/2025,Hawaii,4.0,584958,Masters,,,Masters,584958
+444,321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,14/04/2025,19/04/2025,Hawaii,4.0,584960,Junior Boys,,,Junior Boys,584960
+445,266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464914,Junior Girls,,,Junior Girls,464914
+446,266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464915,Junior Boys,,,Junior Boys,464915
+447,266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464916,U15 Girls,,,U15 Girls,464916
+448,266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464917,U15 Boys,,,U15 Boys,464917
+449,266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464918,U13,,,U13,464918
+450,266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464919,Pro Junior GIrls,,,Pro Junior GIrls,464919
+451,266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464920,Pro Junior Boys,,,Pro Junior Boys,464920
+452,321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5.0,584951,Women,,,Women,584951
+453,321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5.0,584952,Men,,,Men,584952
+454,321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5.0,584953,Masters,,,Masters,584953
+455,321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5.0,584954,Pro Junior GIrls,,,Pro Junior GIrls,584954
+456,321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5.0,584955,Pro Junior Boys,,,Pro Junior Boys,584955
+457,321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5.0,629716,Junior Girls,,,Junior Girls,629716
+458,321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5.0,629717,Junior Boys,,,Junior Boys,629717
+459,375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,19/04/2025,21/04/2025,Argentina,2.0,672517,Women,,,Women,672517
+460,375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,19/04/2025,21/04/2025,Argentina,2.0,672518,Men,,,Men,672518
+461,375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,19/04/2025,21/04/2025,Argentina,2.0,672519,Masters,,,Masters,672519
+462,375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,19/04/2025,21/04/2025,Argentina,2.0,672521,Junior Boys,,,Junior Boys,672521
+463,322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2025,04/05/2025,Morocco,3.0,585958,Women,,,Women,585958
+464,322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2025,04/05/2025,Morocco,3.0,585959,Men,,,Men,585959
+465,322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2025,04/05/2025,Morocco,3.0,585961,Pro Junior Boys,,,Pro Junior Boys,585961
+466,322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2025,04/05/2025,Morocco,3.0,585963,Junior Boys,,,Junior Boys,585963
+467,322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2025,04/05/2025,Morocco,3.0,672781,U15,,,U15,672781
+468,2310,2024 Gran Canaria GLORIA PWA Windsurfing Grand Slam ******,Completed events,8,2024-06-29,2024-07-07,,,857,Mens 2024 Gran Canaria PWA Windsurfing Grand Slam ****** Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=357&cHash=c9720a68c542213e603b7dd18e1a98cf,Wave Men,960
+469,2310,2024 Gran Canaria GLORIA PWA Windsurfing Grand Slam ******,Completed events,8,2024-06-29,2024-07-07,,,855,Mens 2024 Gran Canaria PWA Windsurfing Grand Slam ****** Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=357&cHash=c9720a68c542213e603b7dd18e1a98cf,Wave Men,960
+470,2310,2024 Gran Canaria GLORIA PWA Windsurfing Grand Slam ******,Completed events,8,2024-06-29,2024-07-07,,,876,Womens 2024 Gran Canaria PWA Windsurfing Grand Slam ****** Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=357&cHash=c9720a68c542213e603b7dd18e1a98cf,Wave Women,961
+471,2310,2024 Gran Canaria GLORIA PWA Windsurfing Grand Slam ******,Completed events,8,2024-06-29,2024-07-07,,,856,Womens 2024 Gran Canaria PWA Windsurfing Grand Slam ****** Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=357&cHash=c9720a68c542213e603b7dd18e1a98cf,Wave Women,961
+472,2310,2024 Tenerife PWA World Cup ****,Completed events,6,2024-08-05,2024-08-11,,,926,Mens 2024 Tenerife PWA World Cup ***** Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=358&cHash=810d8779bf78e5fb75817e83f998b70b,Wave Men,964
+473,2310,2024 Tenerife PWA World Cup ****,Completed events,6,2024-08-05,2024-08-11,,,924,Mens 2024 Tenerife PWA World Cup ***** Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=358&cHash=810d8779bf78e5fb75817e83f998b70b,Wave Men,964
+474,2310,2024 Tenerife PWA World Cup ****,Completed events,6,2024-08-05,2024-08-11,,,927,Womens 2024 Tenerife PWA World Cup ***** Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=358&cHash=810d8779bf78e5fb75817e83f998b70b,Wave Women,965
+475,2310,2024 Tenerife PWA World Cup ****,Completed events,6,2024-08-05,2024-08-11,,,925,Womens 2024 Tenerife PWA World Cup ***** Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=358&cHash=810d8779bf78e5fb75817e83f998b70b,Wave Women,965
+476,2310,2024 Citroën PWA Windsurf World Cup Sylt *******,Completed events,9,2024-09-27,2024-10-06,,,929,Mens 2024 Citroen PWA Windsurf World Cup Sylt ******* Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=363&cHash=bf5225169ae75b8279dac2e81dc7def1,Wave Men,978
+477,2310,2024 Citroën PWA Windsurf World Cup Sylt *******,Completed events,9,2024-09-27,2024-10-06,,,931,Mens 2024 Citroen PWA Windsurf World Cup Sylt ******* Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=363&cHash=bf5225169ae75b8279dac2e81dc7def1,Wave Men,978
+478,2310,2024 Citroën PWA Windsurf World Cup Sylt *******,Completed events,9,2024-09-27,2024-10-06,,,928,Womens 2024 Citroen PWA Windsurf World Cup Sylt ******* Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=363&cHash=bf5225169ae75b8279dac2e81dc7def1,Wave Women,979
+479,2284,2023 Gran Canaria PWA Windsurfing Grand Slam ******,Completed events,8,2023-07-01,2023-07-09,,,759,Mens 2023 Gran Canaria PWA Windsurfing Grand Slam ****** Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=338&cHash=b9ace970f382423c0fca8363194b4212,Wave Men,918
+480,2284,2023 Gran Canaria PWA Windsurfing Grand Slam ******,Completed events,8,2023-07-01,2023-07-09,,,755,Mens 2023 Gran Canaria PWA Windsurfing Grand Slam ****** Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=338&cHash=b9ace970f382423c0fca8363194b4212,Wave Men,918
+481,2284,2023 Gran Canaria PWA Windsurfing Grand Slam ******,Completed events,8,2023-07-01,2023-07-09,,,762,Womens 2023 Gran Canaria PWA Windsurfing Grand Slam ****** Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=338&cHash=b9ace970f382423c0fca8363194b4212,Wave Women,919
+482,2284,2023 Gran Canaria PWA Windsurfing Grand Slam ******,Completed events,8,2023-07-01,2023-07-09,,,758,Womens 2023 Gran Canaria PWA Windsurfing Grand Slam ****** Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=338&cHash=b9ace970f382423c0fca8363194b4212,Wave Women,919
+483,2284,"schauinslandreisen Windsurf World Cup Sylt, presented by got2b *******",Completed events,9,2023-09-22,2023-10-01,,,826,Mens Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=342&cHash=a084d014e91db5fb85fbd4d88f159868,Wave Men,928
+484,2284,"schauinslandreisen Windsurf World Cup Sylt, presented by got2b *******",Completed events,9,2023-09-22,2023-10-01,,,835,Womens Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=342&cHash=a084d014e91db5fb85fbd4d88f159868,Wave Women,929
+485,2284,"schauinslandreisen Windsurf World Cup Sylt, presented by got2b *******",Completed events,9,2023-09-22,2023-10-01,,,825,Womens Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=342&cHash=a084d014e91db5fb85fbd4d88f159868,Wave Women,929
+486,2267,2022 Gran Canaria PWA Windsurfing World Cup *****,Completed events,8,2022-07-09,2022-07-17,,,711,Mens 2022 Gran Canaria PWA Windsurfing World Cup ***** Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=328&cHash=ea92f82f38d9aed790528c5c560bff5f,Wave Men,886
+487,2267,2022 Gran Canaria PWA Windsurfing World Cup *****,Completed events,8,2022-07-09,2022-07-17,,,708,Mens 2022 Gran Canaria PWA Windsurfing World Cup ***** Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=328&cHash=ea92f82f38d9aed790528c5c560bff5f,Wave Men,886
+488,2267,2022 Gran Canaria PWA Windsurfing World Cup *****,Completed events,8,2022-07-09,2022-07-17,,,710,Womens 2022 Gran Canaria PWA Windsurfing World Cup ***** Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=328&cHash=ea92f82f38d9aed790528c5c560bff5f,Wave Women,887
+489,2267,2022 Gran Canaria PWA Windsurfing World Cup *****,Completed events,8,2022-07-09,2022-07-17,,,709,Womens 2022 Gran Canaria PWA Windsurfing World Cup ***** Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=328&cHash=ea92f82f38d9aed790528c5c560bff5f,Wave Women,887
+490,2267,2022 Mercedes-Benz World Cup Sylt *******,Completed events,9,2022-09-24,2022-10-03,,,721,Mens 2022 Mercedes-Benz World Cup Sylt ******* Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=332&cHash=3dba48be016aafe08e7080c96be9c9e6,Wave Men,894
+491,2267,2022 Mercedes-Benz World Cup Sylt *******,Completed events,9,2022-09-24,2022-10-03,,,712,Mens 2022 Mercedes-Benz World Cup Sylt ******* Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=332&cHash=3dba48be016aafe08e7080c96be9c9e6,Wave Men,894
+492,2267,2022 Mercedes-Benz World Cup Sylt *******,Completed events,9,2022-09-24,2022-10-03,,,722,Womens 2022 Mercedes-Benz World Cup Sylt ******* Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=332&cHash=3dba48be016aafe08e7080c96be9c9e6,Wave Women,895
+493,2267,2022 Mercedes-Benz World Cup Sylt *******,Completed events,9,2022-09-24,2022-10-03,,,713,Womens 2022 Mercedes-Benz World Cup Sylt ******* Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=332&cHash=3dba48be016aafe08e7080c96be9c9e6,Wave Women,895
+494,2253,"SOMWR 10 x Marignane PWA Grand Slam, Presented by Greentech Festival******",Completed events,9,2021-11-12,2021-11-21,,,699,Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=322&cHash=a9699db711a425e197aadb6e7ff69685,Wave Men,871
+495,2253,"SOMWR 10 x Marignane PWA Grand Slam, Presented by Greentech Festival******",Completed events,9,2021-11-12,2021-11-21,,,702,"""Womens Wave elimination""",Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=322&cHash=a9699db711a425e197aadb6e7ff69685,Wave Women,872
+496,2208,2019 Gran Canaria PWA World Cup,Completed events,8,2019-07-12,2019-07-20,,,584,Mens 2019 Gran Canaria PWA World Cup Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=286&cHash=86563a7fef38b80cc2236d4be71de045,Wave Men,778
+497,2208,2019 Gran Canaria PWA World Cup,Completed events,8,2019-07-12,2019-07-20,,,579,Mens 2019 Gran Canaria PWA World Cup Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=286&cHash=86563a7fef38b80cc2236d4be71de045,Wave Men,778
+498,2208,2019 Gran Canaria PWA World Cup,Completed events,8,2019-07-12,2019-07-20,,,583,Womens 2019 Gran Canaria PWA World Cup Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=286&cHash=86563a7fef38b80cc2236d4be71de045,Wave Women,779
+499,2208,2019 Gran Canaria PWA World Cup,Completed events,8,2019-07-12,2019-07-20,,,582,Womens 2019 Gran Canaria PWA World Cup Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=286&cHash=86563a7fef38b80cc2236d4be71de045,Wave Women,779
+500,2208,2019 Tenerife PWA World Cup,Completed events,6,2019-08-05,2019-08-11,,,601,Mens 2019 Tenerife PWA World Cup Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=288&cHash=279f6bdb5eba0202a63126f9db5064c8,Wave Men,780
+501,2208,2019 Tenerife PWA World Cup,Completed events,6,2019-08-05,2019-08-11,,,602,Womens 2019 Tenerife PWA World Cup Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=288&cHash=279f6bdb5eba0202a63126f9db5064c8,Wave Women,781
+502,2208,2019 Mercedes-Benz World Cup Sylt,Completed events,9,2019-09-27,2019-10-06,,,628,Mens 2019 Mercedes-Benz World Cup Sylt Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=291&cHash=1fb8687881e6356a95cd1858c9350fc4,Wave Men,788
+503,2208,2019 Mercedes-Benz World Cup Sylt,Completed events,9,2019-09-27,2019-10-06,,,626,Mens 2019 Mercedes-Benz World Cup Sylt Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=291&cHash=1fb8687881e6356a95cd1858c9350fc4,Wave Men,788
+504,2208,2019 Mercedes-Benz World Cup Sylt,Completed events,9,2019-09-27,2019-10-06,,,627,Womens 2019 Mercedes-Benz World Cup Sylt Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=291&cHash=1fb8687881e6356a95cd1858c9350fc4,Wave Women,792
+505,2208,2019 Mercedes-Benz World Cup Sylt,Completed events,9,2019-09-27,2019-10-06,,,625,Womens 2019 Mercedes-Benz World Cup Sylt Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=291&cHash=1fb8687881e6356a95cd1858c9350fc4,Wave Women,792
+506,2208,2019 Mercedes-Benz Aloha Classic,Completed events,13,2019-10-27,2019-11-09,,,642,Mens 2019 Maui Aloha Classic Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=292&cHash=cc058d18cbcc3264d63d7f813c1a2a19,Wave Men,793
+507,2208,2019 Mercedes-Benz Aloha Classic,Completed events,13,2019-10-27,2019-11-09,,,641,Mens 2019 Maui Aloha Classic Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=292&cHash=cc058d18cbcc3264d63d7f813c1a2a19,Wave Men,793
+508,2208,2019 Mercedes-Benz Aloha Classic,Completed events,13,2019-10-27,2019-11-09,,,643,Womens 2019 Maui Aloha Classic Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=292&cHash=cc058d18cbcc3264d63d7f813c1a2a19,Wave Women,794
+509,2208,2019 Mercedes-Benz Aloha Classic,Completed events,13,2019-10-27,2019-11-09,,,640,Womens 2019 Maui Aloha Classic Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=292&cHash=cc058d18cbcc3264d63d7f813c1a2a19,Wave Women,794
+510,2180,Gran Canaria,Completed events,6,2018-07-15,2018-07-21,,,500,Mens 2018 Gran Canaria Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=275&cHash=a011a7cd90622e225e04834af776a897,Wave Men,746
+511,2180,Gran Canaria,Completed events,6,2018-07-15,2018-07-21,,,499,Mens 2018 Gran Canaria Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=275&cHash=a011a7cd90622e225e04834af776a897,Wave Men,746
+512,2180,Gran Canaria,Completed events,6,2018-07-15,2018-07-21,,,501,Womens 2018 Gran Canaria Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=275&cHash=a011a7cd90622e225e04834af776a897,Wave Women,747
+513,2180,Gran Canaria,Completed events,6,2018-07-15,2018-07-21,,,498,Womens 2018 Gran Canaria Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=275&cHash=a011a7cd90622e225e04834af776a897,Wave Women,747
+514,2180,Tenerife,Completed events,6,2018-08-05,2018-08-11,,,513,Mens 2018 Tenerife Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=277&cHash=d78002b0587a46dad91ac0b7d4a59ae8,Wave Men,751
+515,2180,Tenerife,Completed events,6,2018-08-05,2018-08-11,,,512,Mens 2018 Tenerife Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=277&cHash=d78002b0587a46dad91ac0b7d4a59ae8,Wave Men,751
+516,2180,Tenerife,Completed events,6,2018-08-05,2018-08-11,,,514,Womens 2018 Tenerife Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=277&cHash=d78002b0587a46dad91ac0b7d4a59ae8,Wave Women,752
+517,2180,Tenerife,Completed events,6,2018-08-05,2018-08-11,,,511,Womens 2018 Tenerife Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=277&cHash=d78002b0587a46dad91ac0b7d4a59ae8,Wave Women,752
+518,2180,Mercedes-Benz World Cup Sylt,Completed events,9,2018-09-28,2018-10-07,,,523,Mens 2018 Mercedes-Benz World Cup Sylt Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=278&cHash=3d18b0f380e7f3f57b7b10393a7b7f63,Wave Men,753
+519,2180,Mercedes-Benz World Cup Sylt,Completed events,9,2018-09-28,2018-10-07,,,516,Mens 2018 Mercedes-Benz World Cup Sylt Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=278&cHash=3d18b0f380e7f3f57b7b10393a7b7f63,Wave Men,753
+520,2180,Mercedes-Benz World Cup Sylt,Completed events,9,2018-09-28,2018-10-07,,,524,Womens 2018 Mercedes-Benz World Cup Sylt Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=278&cHash=3d18b0f380e7f3f57b7b10393a7b7f63,Wave Women,754
+521,2180,Mercedes-Benz World Cup Sylt,Completed events,9,2018-09-28,2018-10-07,,,515,Womens 2018 Mercedes-Benz World Cup Sylt Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=278&cHash=3d18b0f380e7f3f57b7b10393a7b7f63,Wave Women,754
+522,2151,Gran Canaria,Completed events,6,2017-07-09,2017-07-15,,,340,Mens 2017 Gran Canaria Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=264&cHash=60af7dbac52a36795726e39a3940dcdf,Wave Men,717
+523,2151,Gran Canaria,Completed events,6,2017-07-09,2017-07-15,,,337,Mens 2017 Gran Canaria Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=264&cHash=60af7dbac52a36795726e39a3940dcdf,Wave Men,717
+524,2151,Gran Canaria,Completed events,6,2017-07-09,2017-07-15,,,339,Womens 2017 Gran Canaria Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=264&cHash=60af7dbac52a36795726e39a3940dcdf,Wave Women,718
+525,2151,Gran Canaria,Completed events,6,2017-07-09,2017-07-15,,,338,Womens 2017 Gran Canaria Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=264&cHash=60af7dbac52a36795726e39a3940dcdf,Wave Women,718
+526,2151,Tenerife,Completed events,6,2017-08-06,2017-08-12,,,360,Mens 2017 Tenerife Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=266&cHash=ca589f52071d421a8009ccfa63d5b240,Wave Men,722
+527,2151,Tenerife,Completed events,6,2017-08-06,2017-08-12,,,356,Mens 2017 Tenerife Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=266&cHash=ca589f52071d421a8009ccfa63d5b240,Wave Men,722
+528,2151,Tenerife,Completed events,6,2017-08-06,2017-08-12,,,359,Womens 2017 Tenerife Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=266&cHash=ca589f52071d421a8009ccfa63d5b240,Wave Women,723
+529,2151,Tenerife,Completed events,6,2017-08-06,2017-08-12,,,358,Womens 2017 Tenerife Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=266&cHash=ca589f52071d421a8009ccfa63d5b240,Wave Women,723
+530,2151,Mercedes-Benz World Cup Sylt,Completed events,9,2017-09-29,2017-10-08,,,385,Mens 2017 Mercedes-Benz World Cup Sylt Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=268&cHash=8100ba3a663cdc201537b161dac23c34,Wave Men,726
+531,2151,Mercedes-Benz World Cup Sylt,Completed events,9,2017-09-29,2017-10-08,,,375,Mens 2017 Mercedes-Benz World Cup Sylt Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=268&cHash=8100ba3a663cdc201537b161dac23c34,Wave Men,726
+532,2151,Mercedes-Benz World Cup Sylt,Completed events,9,2017-09-29,2017-10-08,,,386,Womens 2017 Mercedes-Benz World Cup Sylt Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=268&cHash=8100ba3a663cdc201537b161dac23c34,Wave Women,727
+533,2151,Mercedes-Benz World Cup Sylt,Completed events,9,2017-09-29,2017-10-08,,,376,Womens 2017 Mercedes-Benz World Cup Sylt Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=268&cHash=8100ba3a663cdc201537b161dac23c34,Wave Women,727
+534,2114,"Pozo Izquierdo, Gran Canaria",Completed events,6,2016-07-03,2016-07-09,,,265,Mens Gran Canaria Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=250&cHash=7ed612ace28a6a0e2b122a6e45682438,Wave Men,689
+535,2114,"Pozo Izquierdo, Gran Canaria",Completed events,6,2016-07-03,2016-07-09,,,263,Mens Gran Canaria Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=250&cHash=7ed612ace28a6a0e2b122a6e45682438,Wave Men,689
+536,2114,"Pozo Izquierdo, Gran Canaria",Completed events,6,2016-07-03,2016-07-09,,,266,Womens Gran Canaria Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=250&cHash=7ed612ace28a6a0e2b122a6e45682438,Wave Women,690
+537,2114,"Pozo Izquierdo, Gran Canaria",Completed events,6,2016-07-03,2016-07-09,,,264,Womens Gran Canaria Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=250&cHash=7ed612ace28a6a0e2b122a6e45682438,Wave Women,690
+538,2114,"El Medano, Tenerife",Completed events,6,2016-08-01,2016-08-07,,,287,Mens Tenerife Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=252&cHash=22b72835d905a72357024a204012c1dd,Wave Men,694
+539,2114,"El Medano, Tenerife",Completed events,6,2016-08-01,2016-08-07,,,285,Mens Tenerife Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=252&cHash=22b72835d905a72357024a204012c1dd,Wave Men,694
+540,2114,"El Medano, Tenerife",Completed events,6,2016-08-01,2016-08-07,,,286,Womens Tenerife Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=252&cHash=22b72835d905a72357024a204012c1dd,Wave Women,695
+541,2114,"El Medano, Tenerife",Completed events,6,2016-08-01,2016-08-07,,,284,Womens Tenerife Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=252&cHash=22b72835d905a72357024a204012c1dd,Wave Women,695
+542,2114,Mercedes-Benz World Cup Sylt,Completed events,9,2016-09-30,2016-10-09,,,298,Womens Sylt Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=256&cHash=e665ec90d2ac3822cac4d3b214b2d1a3,Wave Women,701
+543,2114,Mercedes-Benz World Cup Sylt,Completed events,9,2016-09-30,2016-10-09,,,296,Womens Sylt Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=256&cHash=e665ec90d2ac3822cac4d3b214b2d1a3,Wave Women,701
+544,2114,Mercedes-Benz World Cup Sylt,Completed events,9,2016-09-30,2016-10-09,,,297,Mens Sylt Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=256&cHash=e665ec90d2ac3822cac4d3b214b2d1a3,Wave Men,702
+545,2114,Mercedes-Benz World Cup Sylt,Completed events,9,2016-09-30,2016-10-09,,,299,Mens Sylt Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=256&cHash=e665ec90d2ac3822cac4d3b214b2d1a3,Wave Men,702
+546,2114,NoveNove Maui Aloha Classic,Completed events,13,2016-10-31,2016-11-13,,,314,Mens Maui Mens Wave elimination double elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=258&cHash=7c8a99dcdb6f596f416e923c85626935,Wave Men,709
+547,2114,NoveNove Maui Aloha Classic,Completed events,13,2016-10-31,2016-11-13,,,312,Mens Maui Mens Wave elimination,Men,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=258&cHash=7c8a99dcdb6f596f416e923c85626935,Wave Men,709
+548,2114,NoveNove Maui Aloha Classic,Completed events,13,2016-10-31,2016-11-13,,,315,Womens Maui Women Wave elimination double elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=258&cHash=7c8a99dcdb6f596f416e923c85626935,Wave Women,710
+549,2114,NoveNove Maui Aloha Classic,Completed events,13,2016-10-31,2016-11-13,,,313,Womens Maui Women Wave elimination,Women,https://www.pwaworldtour.com/index.php?id=38&tx_pwaevent_pi1%5BshowUid%5D=258&cHash=7c8a99dcdb6f596f416e923c85626935,Wave Women,710

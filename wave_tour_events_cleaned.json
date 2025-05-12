@@ -80,16 +80,6 @@
         "stars":"2"
     },
     {
-        "event_id":"322490",
-        "event_name":"Morocco: 3 STAR Moulay Wave Classic",
-        "results_status":"Results Published",
-        "day_window":8,
-        "start_date":"26\/04\/2025",
-        "finish_date":"04\/05\/2025",
-        "location":"Morocco",
-        "stars":"3"
-    },
-    {
         "event_id":"164717",
         "event_name":"CHILE: 2 STAR SURAZO Infernal - Men",
         "results_status":"Results Published",
@@ -998,5 +988,15 @@
         "finish_date":"21\/04\/2025",
         "location":"Argentina",
         "stars":"2"
+    },
+    {
+        "event_id":"322490",
+        "event_name":"Morocco: 3 STAR Moulay Wave Classic",
+        "results_status":"Results Published",
+        "day_window":8,
+        "start_date":"26\/04\/2025",
+        "finish_date":"04\/05\/2025",
+        "location":"Morocco",
+        "stars":"3"
     }
 ]
