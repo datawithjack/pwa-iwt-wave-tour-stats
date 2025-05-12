@@ -1,4 +1,4 @@
-source,event_id,eventDivisionId,heat_id,athleteId,result_total,winBy,needs,place,heat_id_athleteid
+source,event_id,division_id,heat_id,athlete_id,result_total,win_by,needs,place,heat_id_athlete_id
 PWA,357,857,1657_28a,GRE-73,,,,2.0,1657_28a_GRE-73
 PWA,357,857,1657_28a,J-39,,,,4.0,1657_28a_J-39
 PWA,357,857,1657_28a,BRA-105,,,,1.0,1657_28a_BRA-105

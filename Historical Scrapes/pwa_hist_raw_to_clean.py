@@ -9,7 +9,6 @@ from urllib.parse import urlparse, parse_qs
 
 # data load
 heat_scores_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_scores_raw.csv')
-heat_results_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_results_raw.csv')
 
 
 # -----------------------------------
@@ -26,13 +25,23 @@ heat_scores_df['athleteId'] = heat_scores_df['athleteId'].str.replace("K-579", "
 # -----------------------------------
 # heat results data cleaning
 # -----------------------------------
+heat_results_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_results_raw.csv')
+
 # Remove anything before "_" in athleteid so "Browne_BRA-105" becomes "BRA-105"
 heat_results_df['athleteId'] = heat_results_df['athleteId'].apply(lambda x: x.split('_')[-1])
 # Create new column by combining heat_id and athleteid
-heat_results_df['heat_id_athleteid'] = heat_results_df['heat_id'].astype(str) + '_' + heat_results_df['athleteId']
+heat_results_df['heat_id_athlete_id'] = heat_results_df['heat_id'].astype(str) + '_' + heat_results_df['athleteId']
 # Replace all occurrence of "E-510" with "E-51" in athleteid
 heat_results_df['athleteId'] = heat_results_df['athleteId'].str.replace("E-510", "E-51")
 heat_results_df['athleteId'] = heat_results_df['athleteId'].str.replace("K-579", "K-90")
+heat_results_df = heat_results_df.rename(columns={
+    'athleteId': 'athlete_id', 
+    'winBy': 'win_by',
+    'eventDivisionid': 'division_id'})
+
+
+heat_results_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_heat_results_clean.csv', index=False)
+
 
 # -----------------------------------
 # final rank data cleaning
@@ -48,15 +57,15 @@ final_rank_df = final_rank_df.drop(columns=['athlete_id', 'Points'])
 final_rank_df = final_rank_df.rename(columns={
     'sail_no': 'athlete_id', 
     'Name': 'name',
-    'eventDivisionId': 'division_id'})
+    'eventDivisionid': 'division_id'})
 
 # Add indicator for incomplete event divisions.
 # For each group (by eventid and eventDivisionid), count how many rows have place == 1.
 # If count > 1, mark 'incomplete' as True for all rows in that group.
-final_rank_df['incomplete'] = final_rank_df.groupby(['event_id', 'eventDivisionid'])['place'] \
+final_rank_df['incomplete'] = final_rank_df.groupby(['event_id', 'division_id'])['place'] \
                                              .transform(lambda x: (x == 1).sum() > 1)
 
-
+final_rank_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_final_ranks_clean.csv', index=False)
 # -----------------------------------
 # heat progression cleaning
 # -----------------------------------
@@ -104,6 +113,5 @@ heat_progression_df['y_pos'] = (
 
 # Optionally, save the cleaned data back to CSV files
 heat_scores_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_heat_scores_clean.csv', index=False)
-heat_results_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_heat_results_clean.csv', index=False)
 final_rank_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_final_ranks_clean.csv', index=False)
 heat_progression_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_heat_progression_clean.csv', index=False)
