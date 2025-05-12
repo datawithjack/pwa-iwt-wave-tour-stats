@@ -10,8 +10,7 @@ from urllib.parse import urlparse, parse_qs
 # data load
 heat_scores_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_scores_raw.csv')
 heat_results_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_results_raw.csv')
-heat_progression_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_progression_raw.csv')
-final_rank_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_final_ranks_raw.csv')
+
 
 # -----------------------------------
 # heat scores data cleaning
@@ -38,12 +37,18 @@ heat_results_df['athleteId'] = heat_results_df['athleteId'].str.replace("K-579",
 # -----------------------------------
 # final rank data cleaning
 # -----------------------------------
+
+final_rank_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_final_ranks_raw.csv')
+
 # Replace all occurrence of "E-510" with "E-51" in the new athleteid column (assumed to be from sail_no)
 final_rank_df['sail_no'] = final_rank_df['sail_no'].astype(str).str.replace("E-510", "E-51")
 # Drop the original athleteid column
-final_rank_df = final_rank_df.drop(columns=['athlete_id'])
+final_rank_df = final_rank_df.drop(columns=['athlete_id', 'Points'])
 # Rename columns: sail_no to athleteId and Name to name
-final_rank_df = final_rank_df.rename(columns={'sail_no': 'athleteId', 'Name': 'name'})
+final_rank_df = final_rank_df.rename(columns={
+    'sail_no': 'athlete_id', 
+    'Name': 'name',
+    'eventDivisionId': 'division_id'})
 
 # Add indicator for incomplete event divisions.
 # For each group (by eventid and eventDivisionid), count how many rows have place == 1.
@@ -55,7 +60,7 @@ final_rank_df['incomplete'] = final_rank_df.groupby(['event_id', 'eventDivisioni
 # -----------------------------------
 # heat progression cleaning
 # -----------------------------------
-
+heat_progression_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_progression_raw.csv')
 # Compute total heats per (eventDivisionId, round_name)
 heat_progression_df['Total_Round_Heats'] = (
     heat_progression_df

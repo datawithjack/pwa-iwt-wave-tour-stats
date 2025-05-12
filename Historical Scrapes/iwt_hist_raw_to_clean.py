@@ -10,8 +10,7 @@ from urllib.parse import urlparse, parse_qs
 # data load
 #heat_scores_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_scores_raw.csv')
 #heat_results_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_results_raw.csv')
-heat_progression_df = pd.read_csv('Historical Scrapes/Data/Raw/IWT/combined_iwt_heat_progression_format.csv')
-#final_rank_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_final_ranks_raw.csv')
+
 
 # -----------------------------------
 # heat scores data cleaning
@@ -27,11 +26,23 @@ heat_progression_df = pd.read_csv('Historical Scrapes/Data/Raw/IWT/combined_iwt_
 # final rank data cleaning
 # -----------------------------------
 
+final_rank_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_final_ranks_raw.csv')
+
+final_rank_df = final_rank_df.rename(columns={
+    'athleteId': 'athlete_id', 
+    'Name': 'name',
+    'eventDivisionId': 'division_id'})
+
+    
+final_rank_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_final_ranks_clean.csv', index=False)
+
+
+
 
 # -----------------------------------
 # heat progression cleaning
 # -----------------------------------
-
+heat_progression_df = pd.read_csv('Historical Scrapes/Data/Raw/IWT/combined_iwt_heat_progression_format.csv')
 # Compute total heats per (eventDivisionId, round_name)
 heat_progression_df['Total_Round_Heats'] = (
     heat_progression_df
@@ -66,6 +77,7 @@ heat_progression_df['y_pos'] = (
 )
 
 
+heat_progression_df.to_csv('Historical Scrapes/Data/Clean/IWT/iwt_heat_progression_clean.csv', index=False)
 
 
 
@@ -81,5 +93,4 @@ heat_progression_df['y_pos'] = (
 # Optionally, save the cleaned data back to CSV files
 #heat_scores_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_heat_scores_clean.csv', index=False)
 #heat_results_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_heat_results_clean.csv', index=False)
-#final_rank_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_final_ranks_clean.csv', index=False)
-heat_progression_df.to_csv('Historical Scrapes/Data/Clean/IWT/iwt_heat_progression_clean.csv', index=False)
+

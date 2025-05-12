@@ -1,4 +1,4 @@
-,source,event_id,eventDivisionId,sex,round_name,round_order,heat_id,heat_order,total_winners_progressing,winners_progressing_to_round_order,total_losers_progressing,losers_progressing_to_round_order,Total_Round_Heats,Max_Heats,actual_heat_order,y_pos
+,source,event_id,division_id,sex,round_name,round_order,heat_id,heat_order,total_winners_progressing,winners_progressing_to_round_order,total_losers_progressing,losers_progressing_to_round_order,Total_Round_Heats,Max_Heats,actual_heat_order,y_pos
 0,Live Heats,72449,168178,Men,Final,0,1524498,0,8.0,9.0,,,1,1,1,1.0
 1,Live Heats,72449,168179,Women,Final,0,1524531,0,8.0,9.0,,,1,1,1,1.0
 2,Live Heats,72449,168181,Masters,Final,0,1524533,0,8.0,9.0,,,1,1,1,1.0
