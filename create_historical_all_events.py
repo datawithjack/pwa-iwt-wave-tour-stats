@@ -24,7 +24,7 @@ with open('wave_tour_events_cleaned.json', 'r') as f:
     data = json.load(f)
 
 # 2. Take only the first three
-events = data[:3]
+events = data #[:3]
 # 2. Enrich each event with division IDs + names
 for ev in events:
     ev_id = int(ev['event_id'])
@@ -54,6 +54,8 @@ df["sex"] = ""
 df["event_link"] = ""
 df["division_rank_name"] = df["division_name"]
 df["division_rank_id"] = df["division_id"]
+df["source"] = "live heats"
+df["elimination"] = ""
 
 # 7. Write to CSV
 out_fn = 'Historical Scrapes/Data/Clean/IWT/iwt_event_data_with_division_clean.csv'
@@ -63,6 +65,17 @@ print(f"Wrote {len(df)} rows to {out_fn}")
 
 #### REMOVE PWA EVENTS from IWT DATA (i.e hosts and run by pwa)
 iwt_event_df = pd.read_csv('Historical Scrapes/Data/Clean/IWT/iwt_event_data_with_division_clean.csv')
+# list of IDs to remove
+exclude_div_ids = [
+    247060, 247061, 353311, 353312,
+    400442, 400473, 247053, 247054,
+    353299, 353300
+]
+# filter out rows where division_id is in exclude_div_ids
+filtered_iwt = iwt_event_df[~iwt_event_df['division_id'].isin(exclude_div_ids)]
+# if you want to overwrite the original:
+iwt_event_df = filtered_iwt
+
 
 
 ### LOAD PWA DATA  & CLEAN
@@ -100,3 +113,7 @@ print("Combined shape:", combined_df.shape)
 print("Combined columns:", combined_df.columns.tolist())
 
 combined_df.to_csv("Historical Scrapes/Data/Clean/Combined/combined_event_data.csv")
+
+# Combined data cleaning
+
+
