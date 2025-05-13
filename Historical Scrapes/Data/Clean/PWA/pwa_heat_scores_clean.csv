@@ -1,4 +1,4 @@
-source,event_id,heat_id,eventDivisionId,athleteId,score,modified_total,modifier,type,counting,total_wave,total_jump,total_points,heat_id_athleteid
+source,event_id,heat_id,division_id,athlete_id,score,modified_total,modifier,type,counting,total_wave,total_jump,total_points,heat_id_athlete_id
 PWA,357,1657_28a,857,BRA-105,5.12,,,Wave,No,13.25,16.38,29.63,1657_28a_BRA-105
 PWA,357,1657_28a,857,BRA-105,5.38,,,Wave,No,13.25,16.38,29.63,1657_28a_BRA-105
 PWA,357,1657_28a,857,BRA-105,2.25,,,Wave,No,13.25,16.38,29.63,1657_28a_BRA-105

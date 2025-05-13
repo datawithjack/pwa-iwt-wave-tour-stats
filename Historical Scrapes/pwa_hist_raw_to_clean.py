@@ -7,13 +7,11 @@ import ast
 from urllib.parse import urlparse, parse_qs
 
 
-# data load
-heat_scores_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_scores_raw.csv')
-
-
 # -----------------------------------
 # heat scores data cleaning
 # -----------------------------------
+heat_scores_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_aggregated_heat_scores_raw.csv')
+
 # Remove anything before "_" in athleteid so "Browne_BRA-105" becomes "BRA-105"
 heat_scores_df['athleteId'] = heat_scores_df['athleteId'].apply(lambda x: x.split('_')[-1])
 # Create new column by combining heat_id and athleteid
@@ -21,6 +19,13 @@ heat_scores_df['heat_id_athleteid'] = heat_scores_df['heat_id'].astype(str) + '_
 # Replace all occurrence of "E-510" with "E-51" in athleteid
 heat_scores_df['athleteId'] = heat_scores_df['athleteId'].str.replace("E-510", "E-51")
 heat_scores_df['athleteId'] = heat_scores_df['athleteId'].str.replace("K-579", "K-90")
+heat_scores_df = heat_scores_df.rename(columns={
+    'athleteId': 'athlete_id', 
+    'winBy': 'win_by',
+    'eventDivisionId': 'division_id',
+    'heat_id_athleteid' : 'heat_id_athlete_id'})
+
+heat_scores_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_heat_scores_clean.csv', index=False)
 
 # -----------------------------------
 # heat results data cleaning
@@ -37,7 +42,7 @@ heat_results_df['athleteId'] = heat_results_df['athleteId'].str.replace("K-579",
 heat_results_df = heat_results_df.rename(columns={
     'athleteId': 'athlete_id', 
     'winBy': 'win_by',
-    'eventDivisionid': 'division_id'})
+    'eventDivisionId': 'division_id'})
 
 
 heat_results_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_heat_results_clean.csv', index=False)

@@ -20,24 +20,40 @@ from urllib.parse import urlparse, parse_qs
 # -----------------------------------
 # heat results data cleaning
 # -----------------------------------
+heat_results_df = pd.read_csv('Historical Scrapes/Data/Raw/IWT/combined_iwt_heat_results.csv')
+
+# Create new column by combining heat_id and athleteid
+heat_results_df['heat_id_athlete_id'] = heat_results_df['heat_id'].astype(str) + '_' + heat_results_df['athleteId'].astype(str)
+heat_results_df = heat_results_df.rename(columns={
+    'athleteId': 'athlete_id', 
+    'winBy': 'win_by',
+    'eventDivisionId': 'division_id',
+    'roundPosition': 'round_position'})
+
+
+heat_results_df.to_csv('Historical Scrapes/Data/Clean/IWT/iwt_heat_results_clean.csv', index=False)
+
+
+
+
 
 
 # -----------------------------------
 # final rank data cleaning
 # -----------------------------------
 
-final_rank_df = pd.read_csv('Historical Scrapes/Data/Raw/PWA/pwa_final_ranks_raw.csv')
+final_rank_df = pd.read_csv('Historical Scrapes/Data/Raw/IWT/combined_iwt_final_ranks.csv')
 
 final_rank_df = final_rank_df.rename(columns={
     'athleteId': 'athlete_id', 
     'Name': 'name',
     'eventDivisionId': 'division_id'})
 
-    
-final_rank_df.to_csv('Historical Scrapes/Data/Clean/PWA/pwa_final_ranks_clean.csv', index=False)
 
+final_rank_df['incomplete'] = final_rank_df.groupby(['event_id', 'division_id'])['place'] \
+                                             .transform(lambda x: (x == 1).sum() > 1)
 
-
+final_rank_df.to_csv('Historical Scrapes/Data/Clean/IWT/iwt_final_ranks_clean.csv', index=False)
 
 # -----------------------------------
 # heat progression cleaning
