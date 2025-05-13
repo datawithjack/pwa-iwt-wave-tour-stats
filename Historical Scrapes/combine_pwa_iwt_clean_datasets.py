@@ -23,6 +23,13 @@ pwa_heat_results= pd.read_csv('Historical Scrapes/Data/Clean/PWA/pwa_heat_result
 combined_heats_results = pd.concat([iwt_heat_results, pwa_heat_results], ignore_index=True, sort=False)
 combined_heats_results.to_csv("Historical Scrapes/Data/Clean/Combined/combined_heat_results_data.csv")
 
+## combine heat scores data
+iwt_heat_scores = pd.read_csv('Historical Scrapes/Data/Clean/IWT/iwt_heat_scores_clean.csv')
+pwa_heat_scores = pd.read_csv('Historical Scrapes/Data/Clean/PWA/pwa_heat_scores_clean.csv')
+
+combined_heat_scores = pd.concat([iwt_heat_scores, pwa_heat_scores], ignore_index = True, sort = False)
+combined_heat_scores.to_csv('Historical Scrapes/Data/Clean/Combined/combined_heat_scores_data.csv')
+
 
 ### USE BELOW TO CHECK DATATSET BEFORE MERGING
 pwa_data = pwa_heat_results

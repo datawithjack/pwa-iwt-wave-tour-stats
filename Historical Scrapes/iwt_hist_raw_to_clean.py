@@ -15,7 +15,18 @@ from urllib.parse import urlparse, parse_qs
 # -----------------------------------
 # heat scores data cleaning
 # -----------------------------------
+heat_scores_df = pd.read_csv('Historical Scrapes/Data/Raw/IWT/combined_iwt_heat_scores.csv')
 
+
+# Create new column by combining heat_id and athleteid
+heat_scores_df['heat_id_athlete_id'] = heat_scores_df['heat_id'].astype(str) + '_' + heat_scores_df['athleteId'].astype(str)
+
+heat_scores_df = heat_scores_df.rename(columns={
+    'athleteId': 'athlete_id', 
+    'winBy': 'win_by',
+    'eventDivisionId': 'division_id'})
+
+heat_scores_df.to_csv('Historical Scrapes/Data/Clean/IWT/iwt_heat_scores_clean.csv', index=False)
 
 # -----------------------------------
 # heat results data cleaning
@@ -29,7 +40,6 @@ heat_results_df = heat_results_df.rename(columns={
     'winBy': 'win_by',
     'eventDivisionId': 'division_id',
     'roundPosition': 'round_position'})
-
 
 heat_results_df.to_csv('Historical Scrapes/Data/Clean/IWT/iwt_heat_results_clean.csv', index=False)
 
