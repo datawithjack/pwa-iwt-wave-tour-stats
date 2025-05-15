@@ -6,7 +6,7 @@ import pandas as pd
 import re
 
 
-from functions_iwt import (
+from utils.functions_iwt import (
     fetch_wave_tour_events,
     extract_results_published_events,
     fetch_event_divisions,
@@ -112,8 +112,46 @@ combined_df = pd.concat([iwt_event_df, pwa_event_df], ignore_index=True, sort=Fa
 print("Combined shape:", combined_df.shape)
 print("Combined columns:", combined_df.columns.tolist())
 
+
+
+# --- ADDITIONAL CLEANING STEPS ---
+
+# 1. Extract year from start_date
+#    (make sure start_date is a datetime or parseable string)
+combined_df['start_date'] = pd.to_datetime(combined_df['start_date'], errors='coerce')
+combined_df['year'] = combined_df['start_date'].dt.year
+
+# 2. Rename columns:
+#    - 'division_id' → 'elimination_id'
+#    - 'division_rank_id' → 'division_id'
+combined_df = combined_df.rename(columns={
+    'division_id': 'elimination_id',
+    'division_rank_id': 'division_id'
+})
+
+# 3. Create 'elimination_name':
+#    if source == 'live heats' → take old 'division_name'
+#    else (PWA)                → take 'elimination'
+combined_df['elimination_name'] = combined_df.apply(
+    lambda row: row['division_name'] if row['source'] == 'live heats' else row['elimination'],
+    axis=1
+)
+
+# 4. Drop the old 'division_name'
+combined_df = combined_df.drop(columns=['division_name'])
+
+# 5. Create new 'division_name':
+#    if source == 'pwa'        → take 'sex'
+#    else (live heats)        → take old 'division_rank_name'
+combined_df['division_name'] = combined_df.apply(
+    lambda row: row['sex'] if row['source'] == 'pwa' else row['division_rank_name'],
+    axis=1
+)
+
+# 6. Drop 'division_rank_name' (no longer needed)
+combined_df = combined_df.drop(columns=['division_rank_name'])
+
+
+
+
 combined_df.to_csv("Historical Scrapes/Data/Clean/Combined/combined_event_data.csv")
-
-# Combined data cleaning
-
-
