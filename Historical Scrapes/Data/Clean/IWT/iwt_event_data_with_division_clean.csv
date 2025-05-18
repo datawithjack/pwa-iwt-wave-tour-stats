@@ -1,479 +1,479 @@
-event_id,event_name,results_status,day_window,start_date,finish_date,location,stars,division_id,division_name,sex,event_link,division_rank_name,division_rank_id,source,elimination
-190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,Results Published,12,22/10/2023,03/11/2023,Hawaii,2,363706,Men,,,Men,363706,live heats,
-190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,Results Published,12,22/10/2023,03/11/2023,Hawaii,2,363707,Women,,,Women,363707,live heats,
-190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,Results Published,12,22/10/2023,03/11/2023,Hawaii,2,363708,U20 Boys,,,U20 Boys,363708,live heats,
-147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,10/06/2023,12/06/2023,Denmark,2,290156,Men,,,Men,290156,live heats,
-147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,10/06/2023,12/06/2023,Denmark,2,290157,Women,,,Women,290157,live heats,
-147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,10/06/2023,12/06/2023,Denmark,2,290158,Junior Boys,,,Junior Boys,290158,live heats,
-147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,10/06/2023,12/06/2023,Denmark,2,290159,Junior Girls,,,Junior Girls,290159,live heats,
-147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,10/06/2023,12/06/2023,Denmark,2,290160,Masters,,,Masters,290160,live heats,
-164024,PERU: 2 STAR Pacasmayo Classic,Results Published,10,25/08/2023,04/09/2023,Peru,2,315787,Men,,,Men,315787,live heats,
-72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,26/01/2023,30/01/2023,Australia,2,168257,Men,,,Men,168257,live heats,
-72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,26/01/2023,30/01/2023,Australia,2,168258,Women,,,Women,168258,live heats,
-72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,26/01/2023,30/01/2023,Australia,2,168259,Junior Boys,,,Junior Boys,168259,live heats,
-72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,26/01/2023,30/01/2023,Australia,2,168260,Masters,,,Masters,168260,live heats,
-72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,26/01/2023,30/01/2023,Australia,2,293484,Junior Girls,,,Junior Girls,293484,live heats,
-117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5,247053,Men,,,Men,247053,live heats,
-117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5,247054,Women,,,Women,247054,live heats,
-117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5,247055,Junior Boys,,,Junior Boys,247055,live heats,
-117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5,247056,Masters,,,Masters,247056,live heats,
-117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5,290080,Junior Girls,,,Junior Girls,290080,live heats,
-117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5,293776,U17 Boys,,,U17 Boys,293776,live heats,
-117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5,293777,U15 Boys,,,U15 Boys,293777,live heats,
-117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,01/07/2023,10/07/2023,Spain,5,293809,U17 Girls,,,U17 Girls,293809,live heats,
-72452,FIJI.PRO: 5 STAR 2023 FIJI SURF PRO ,Results Published,11,01/06/2023,12/06/2023,Fiji.Pro,5,168196,Men,,,Men,168196,live heats,
-72452,FIJI.PRO: 5 STAR 2023 FIJI SURF PRO ,Results Published,11,01/06/2023,12/06/2023,Fiji.Pro,5,168197,Women,,,Women,168197,live heats,
-147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5,290163,Junior Boys,,,Junior Boys,290163,live heats,
-147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5,290164,Junior Girls,,,Junior Girls,290164,live heats,
-147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5,290165,U17 Boys,,,U17 Boys,290165,live heats,
-147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5,290166,U15 Girls,,,U15 Girls,290166,live heats,
-147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5,290167,U13,,,U13,290167,live heats,
-147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,14/10/2023,21/10/2023,Denmark,5,332984,U15 Boys,,,U15 Boys,332984,live heats,
-220586,Japan: 2 STAR Cold Breeze,Results Published,2,22/12/2023,24/12/2023,Japan,2,408814,Men,,,Men,408814,live heats,
-220586,Japan: 2 STAR Cold Breeze,Results Published,2,22/12/2023,24/12/2023,Japan,2,408815,Women,,,Women,408815,live heats,
-220586,Japan: 2 STAR Cold Breeze,Results Published,2,22/12/2023,24/12/2023,Japan,2,408816,Masters,,,Masters,408816,live heats,
-220586,Japan: 2 STAR Cold Breeze,Results Published,2,22/12/2023,24/12/2023,Japan,2,408818,Junior Girls,,,Junior Girls,408818,live heats,
-220586,Japan: 2 STAR Cold Breeze,Results Published,2,22/12/2023,24/12/2023,Japan,2,408817,Junior Boys,,,Junior Boys,408817,live heats,
-164717,CHILE: 2 STAR SURAZO Infernal - Men,Results Published,9,24/03/2023,02/04/2023,Chile,2,315939,Men,,,Men,315939,live heats,
-187568,Morocco: Junior 100% Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Morocco,,353313,Junior Girls,,,Junior Girls,353313,live heats,
-187568,Morocco: Junior 100% Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Morocco,,353314,Junior Boys,,,Junior Boys,353314,live heats,
-187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,31/10/2023,30/11/2023,Taiwan,1,353252,Women,,,Women,353252,live heats,
-187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,31/10/2023,30/11/2023,Taiwan,1,353253,Men,,,Men,353253,live heats,
-187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,31/10/2023,30/11/2023,Taiwan,1,353254,Masters,,,Masters,353254,live heats,
-187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,31/10/2023,30/11/2023,Taiwan,1,353255,Junior Girls,,,Junior Girls,353255,live heats,
-187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,31/10/2023,30/11/2023,Taiwan,1,353256,Junior Boys,,,Junior Boys,353256,live heats,
-187556,Australia: 1 STAR Merimbula Classic,Results Published,4,22/11/2023,26/11/2023,Australia,1,353257,Women,,,Women,353257,live heats,
-187556,Australia: 1 STAR Merimbula Classic,Results Published,4,22/11/2023,26/11/2023,Australia,1,353258,Men,,,Men,353258,live heats,
-187556,Australia: 1 STAR Merimbula Classic,Results Published,4,22/11/2023,26/11/2023,Australia,1,353259,Masters,,,Masters,353259,live heats,
-187556,Australia: 1 STAR Merimbula Classic,Results Published,4,22/11/2023,26/11/2023,Australia,1,353260,Junior Girls,,,Junior Girls,353260,live heats,
-187556,Australia: 1 STAR Merimbula Classic,Results Published,4,22/11/2023,26/11/2023,Australia,1,353261,Junior Boys,,,Junior Boys,353261,live heats,
-187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,20/09/2024,22/09/2024,Wales,2,353358,Men,,,Men,353358,live heats,
-187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,20/09/2024,22/09/2024,Wales,2,353359,Women,,,Women,353359,live heats,
-187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,20/09/2024,22/09/2024,Wales,2,353360,Junior Boys,,,Junior Boys,353360,live heats,
-187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,20/09/2024,22/09/2024,Wales,2,353361,Masters,,,Masters,353361,live heats,
-187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,20/09/2024,22/09/2024,Wales,2,353362,Junior Girls,,,Junior Girls,353362,live heats,
-187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,353267,Junior Girls,,,Junior Girls,353267,live heats,
-187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,353268,Junior Boys,,,Junior Boys,353268,live heats,
-187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,353271,U15 Girls,,,U15 Girls,353271,live heats,
-187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,353272,U15 Boys,,,U15 Boys,353272,live heats,
-187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,353273,U13,,,U13,353273,live heats,
-187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,388585,Pro Junior GIrls,,,Pro Junior GIrls,388585,live heats,
-187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,15/01/2024,21/01/2024,Australia,,388586,Pro Junior Boys,,,Pro Junior Boys,388586,live heats,
-249495,AFRICA: 3 STAR REGIONAL FINAL Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Africa,3,441634,Men,,,Men,441634,live heats,
-187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5,353299,Women,,,Women,353299,live heats,
-187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5,353300,Men,,,Men,353300,live heats,
-187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5,353301,Masters,,,Masters,353301,live heats,
-187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5,353302,Junior Girls,,,Junior Girls,353302,live heats,
-187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5,353303,Junior Boys,,,Junior Boys,353303,live heats,
-187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5,454486,Pro Junior GIrls,,,Pro Junior GIrls,454486,live heats,
-187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,27/06/2024,07/07/2024,Spain,5,454487,Pro Junior Boys,,,Pro Junior Boys,454487,live heats,
-270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471646,Masters,,,Masters,471646,live heats,
-270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471647,Junior Girls,,,Junior Girls,471647,live heats,
-270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471648,Junior Boys,,,Junior Boys,471648,live heats,
-270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471649,Pro Junior GIrls,,,Pro Junior GIrls,471649,live heats,
-270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471650,Pro Junior Boys,,,Pro Junior Boys,471650,live heats,
-270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471656,OPEN,,,OPEN,471656,live heats,
-270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,03/08/2024,18/08/2024,Peru,,471657,Grand Masters,,,Grand Masters,471657,live heats,
-285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,23/11/2024,16/12/2024,France,2,492502,Men,,,Men,492502,live heats,
-285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,23/11/2024,16/12/2024,France,2,492503,Women,,,Women,492503,live heats,
-285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,23/11/2024,16/12/2024,France,2,492504,Junior Girls,,,Junior Girls,492504,live heats,
-285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,23/11/2024,16/12/2024,France,2,492505,Junior Boys,,,Junior Boys,492505,live heats,
-285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,23/11/2024,16/12/2024,France,2,492506,Masters,,,Masters,492506,live heats,
-147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,14/10/2023,21/10/2023,Scotland,2,290168,Men,,,Men,290168,live heats,
-147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,14/10/2023,21/10/2023,Scotland,2,290169,Women,,,Women,290169,live heats,
-147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,14/10/2023,21/10/2023,Scotland,2,290170,Junior Boys,,,Junior Boys,290170,live heats,
-147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,14/10/2023,21/10/2023,Scotland,2,290171,Masters,,,Masters,290171,live heats,
-181652,HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final,Results Published,13,22/10/2023,04/11/2023,Hawaii,5,343314,Men,,,Men,343314,live heats,
-181652,HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final,Results Published,13,22/10/2023,04/11/2023,Hawaii,5,343315,Women,,,Women,343315,live heats,
-181652,HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final,Results Published,13,22/10/2023,04/11/2023,Hawaii,5,343317,Masters,,,Masters,343317,live heats,
-147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,02/02/2024,05/02/2024,Australia,2,290222,Men,,,Men,290222,live heats,
-147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,02/02/2024,05/02/2024,Australia,2,290223,Women,,,Women,290223,live heats,
-147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,02/02/2024,05/02/2024,Australia,2,290225,Masters,,,Masters,290225,live heats,
-147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,02/02/2024,05/02/2024,Australia,2,290226,Open AM,,,Open AM,290226,live heats,
-187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,11/10/2024,18/10/2024,Scotland,3,353317,Men,,,Men,353317,live heats,
-187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,11/10/2024,18/10/2024,Scotland,3,353318,Women,,,Women,353318,live heats,
-187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,11/10/2024,18/10/2024,Scotland,3,353319,Junior Boys,,,Junior Boys,353319,live heats,
-187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,11/10/2024,18/10/2024,Scotland,3,353320,Masters,,,Masters,353320,live heats,
-187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,11/10/2024,18/10/2024,Scotland,3,353321,Junior Girls,,,Junior Girls,353321,live heats,
-118319,CHILE: 4 STAR SURAZO Infernal - Women,Results Published,9,25/03/2023,03/04/2023,Chile,4,248203,Women,,,Women,248203,live heats,
-117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,16/03/2023,22/03/2023,Japan,5,247081,Men,,,Men,247081,live heats,
-117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,16/03/2023,22/03/2023,Japan,5,247082,Women,,,Women,247082,live heats,
-117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,16/03/2023,22/03/2023,Japan,5,247083,Junior Boys,,,Junior Boys,247083,live heats,
-117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,16/03/2023,22/03/2023,Japan,5,247084,Masters,,,Masters,247084,live heats,
-118385,CHILE: 4 STAR SURAZO Infernal - Masters & Youth,Results Published,9,25/03/2023,03/04/2023,Chile,4,248368,Masters,,,Masters,248368,live heats,
-118385,CHILE: 4 STAR SURAZO Infernal - Masters & Youth,Results Published,9,25/03/2023,03/04/2023,Chile,4,248369,Junior Boys,,,Junior Boys,248369,live heats,
-118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,16/03/2023,22/03/2023,Japan,5,248731,Women,,,Women,248731,live heats,
-118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,16/03/2023,22/03/2023,Japan,5,248732,Junior Boys,,,Junior Boys,248732,live heats,
-118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,16/03/2023,22/03/2023,Japan,5,248733,Masters,,,Masters,248733,live heats,
-118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,16/03/2023,22/03/2023,Japan,5,253879,U15 Girls,,,U15 Girls,253879,live heats,
-118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,16/03/2023,22/03/2023,Japan,5,253880,U15 Boys,,,U15 Boys,253880,live heats,
-147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,11/11/2023,20/11/2023,Australia,2,290217,Men,,,Men,290217,live heats,
-147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,11/11/2023,20/11/2023,Australia,2,290218,Women,,,Women,290218,live heats,
-147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,11/11/2023,20/11/2023,Australia,2,290219,Junior Boys,,,Junior Boys,290219,live heats,
-147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,11/11/2023,20/11/2023,Australia,2,290220,Masters,,,Masters,290220,live heats,
-147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,11/11/2023,20/11/2023,Australia,2,316788,Junior Girls,,,Junior Girls,316788,live heats,
-187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5,353294,Women,,,Women,353294,live heats,
-187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5,353295,Men,,,Men,353295,live heats,
-187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5,353296,Masters,,,Masters,353296,live heats,
-187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5,402097,Pro Junior GIrls,,,Pro Junior GIrls,402097,live heats,
-187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5,353297,Junior Girls,,,Junior Girls,353297,live heats,
-187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5,402098,Pro Junior Boys,,,Pro Junior Boys,402098,live heats,
-187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5,353298,Junior Boys,,,Junior Boys,353298,live heats,
-187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,31/03/2024,12/04/2024,Chile,5,407963,Open AM,,,Open AM,407963,live heats,
-350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2,637801,Women,,,Women,637801,live heats,
-350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2,637802,Men,,,Men,637802,live heats,
-350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2,637803,Masters,,,Masters,637803,live heats,
-350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2,637804,Pro Junior GIrls,,,Pro Junior GIrls,637804,live heats,
-350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2,637805,Pro Junior Boys,,,Pro Junior Boys,637805,live heats,
-350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2,637806,Junior Girls,,,Junior Girls,637806,live heats,
-350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2,637807,Junior Boys,,,Junior Boys,637807,live heats,
-350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,08/08/2025,11/08/2025,Ireland,2,637808,OPEN,,,OPEN,637808,live heats,
-322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,26/12/2024,29/12/2024,Japan,2,586057,Pro Junior Boys,,,Pro Junior Boys,586057,live heats,
-322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,26/12/2024,29/12/2024,Japan,2,586058,Pro Junior GIrls,,,Pro Junior GIrls,586058,live heats,
-322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,26/12/2024,29/12/2024,Japan,2,586059,Junior Boys,,,Junior Boys,586059,live heats,
-322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,26/12/2024,29/12/2024,Japan,2,586060,Junior Girls,,,Junior Girls,586060,live heats,
-322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,26/12/2024,29/12/2024,Japan,2,586061,U15,,,U15,586061,live heats,
-72487,Australia: 2 STAR Sydney Classic,Results Published,3,10/12/2022,13/12/2022,Australia,2,168245,Men,,,Men,168245,live heats,
-72487,Australia: 2 STAR Sydney Classic,Results Published,3,10/12/2022,13/12/2022,Australia,2,168246,Women,,,Women,168246,live heats,
-72487,Australia: 2 STAR Sydney Classic,Results Published,3,10/12/2022,13/12/2022,Australia,2,168247,Junior Boys,,,Junior Boys,168247,live heats,
-72487,Australia: 2 STAR Sydney Classic,Results Published,3,10/12/2022,13/12/2022,Australia,2,168248,Masters,,,Masters,168248,live heats,
-72487,Australia: 2 STAR Sydney Classic,Results Published,3,10/12/2022,13/12/2022,Australia,2,293481,Junior Girls,,,Junior Girls,293481,live heats,
-270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,03/08/2024,18/08/2024,Spain,,471651,Masters,,,Masters,471651,live heats,
-270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,03/08/2024,18/08/2024,Spain,,471652,Junior Girls,,,Junior Girls,471652,live heats,
-270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,03/08/2024,18/08/2024,Spain,,471653,Junior Boys,,,Junior Boys,471653,live heats,
-270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,03/08/2024,18/08/2024,Spain,,471654,Pro Junior GIrls,,,Pro Junior GIrls,471654,live heats,
-270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,03/08/2024,18/08/2024,Spain,,471655,Pro Junior Boys,,,Pro Junior Boys,471655,live heats,
-81590,Japan: 2 STAR Winter Cup,Results Published,2,04/02/2023,06/02/2023,Japan,2,186163,Men,,,Men,186163,live heats,
-81590,Japan: 2 STAR Winter Cup,Results Published,2,04/02/2023,06/02/2023,Japan,2,186164,Women,,,Women,186164,live heats,
-81590,Japan: 2 STAR Winter Cup,Results Published,2,04/02/2023,06/02/2023,Japan,2,186165,Junior Boys,,,Junior Boys,186165,live heats,
-81590,Japan: 2 STAR Winter Cup,Results Published,2,04/02/2023,06/02/2023,Japan,2,293486,Junior Girls,,,Junior Girls,293486,live heats,
-81590,Japan: 2 STAR Winter Cup,Results Published,2,04/02/2023,06/02/2023,Japan,2,186166,Masters,,,Masters,186166,live heats,
-268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2,467766,Women,,,Women,467766,live heats,
-268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2,467767,Men,,,Men,467767,live heats,
-268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2,467768,Masters,,,Masters,467768,live heats,
-268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2,467769,Pro Junior GIrls,,,Pro Junior GIrls,467769,live heats,
-268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2,467770,Pro Junior Boys,,,Pro Junior Boys,467770,live heats,
-268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2,467771,Junior Girls,,,Junior Girls,467771,live heats,
-268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2,467772,Junior Boys,,,Junior Boys,467772,live heats,
-268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2,587986,Open AM,,,Open AM,587986,live heats,
-268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,17/01/2025,20/01/2025,Chile,2,587987,Grand Masters,,,Grand Masters,587987,live heats,
-263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3,460767,Women,,,Women,460767,live heats,
-263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3,460768,Men,,,Men,460768,live heats,
-263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3,460770,Pro Junior GIrls,,,Pro Junior GIrls,460770,live heats,
-263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3,460771,Pro Junior Boys,,,Pro Junior Boys,460771,live heats,
-263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3,460772,Junior Boys,,,Junior Boys,460772,live heats,
-263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3,460773,Junior Girls,,,Junior Girls,460773,live heats,
-263420,France: 3 STAR Wissant Wave Classic,Results Published,2,20/12/2024,22/12/2024,France,3,460769,Masters,,,Masters,460769,live heats,
-221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,13/04/2024,30/04/2024,Argentina,2,410348,Women,,,Women,410348,live heats,
-221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,13/04/2024,30/04/2024,Argentina,2,410349,Men,,,Men,410349,live heats,
-221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,13/04/2024,30/04/2024,Argentina,2,410350,Masters,,,Masters,410350,live heats,
-221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,13/04/2024,30/04/2024,Argentina,2,410351,Junior Girls,,,Junior Girls,410351,live heats,
-221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,13/04/2024,30/04/2024,Argentina,2,410352,Junior Boys,,,Junior Boys,410352,live heats,
-220652,Japan: 2 STAR All Japan,Results Published,2,05/01/2024,07/01/2024,Japan,2,408830,Men,,,Men,408830,live heats,
-220652,Japan: 2 STAR All Japan,Results Published,2,05/01/2024,07/01/2024,Japan,2,408831,Women,,,Women,408831,live heats,
-216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,31/08/2024,30/11/2024,Germany,2,402758,Women,,,Women,402758,live heats,
-216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,31/08/2024,30/11/2024,Germany,2,402759,Men,,,Men,402759,live heats,
-216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,31/08/2024,30/11/2024,Germany,2,402760,Masters,,,Masters,402760,live heats,
-216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,31/08/2024,30/11/2024,Germany,2,402761,Junior Girls,,,Junior Girls,402761,live heats,
-216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,31/08/2024,30/11/2024,Germany,2,402762,Junior Boys,,,Junior Boys,402762,live heats,
-187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3,353351,Junior Boys,,,Junior Boys,353351,live heats,
-187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3,353352,Junior Girls,,,Junior Girls,353352,live heats,
-187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3,353353,U17 Girls,,,U17 Girls,353353,live heats,
-187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3,353354,U17 Boys,,,U17 Boys,353354,live heats,
-187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3,353355,U15 Girls,,,U15 Girls,353355,live heats,
-187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3,353356,U15 Boys,,,U15 Boys,353356,live heats,
-187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,16/10/2024,20/10/2024,Denmark,3,353357,U13,,,U13,353357,live heats,
-187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,24/10/2024,28/10/2024,New Zealand,1,353341,Women,,,Women,353341,live heats,
-187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,24/10/2024,28/10/2024,New Zealand,1,353342,Men,,,Men,353342,live heats,
-187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,24/10/2024,28/10/2024,New Zealand,1,353343,Masters,,,Masters,353343,live heats,
-187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,24/10/2024,28/10/2024,New Zealand,1,353344,Junior Girls,,,Junior Girls,353344,live heats,
-187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,24/10/2024,28/10/2024,New Zealand,1,353345,Junior Boys,,,Junior Boys,353345,live heats,
-172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,29/09/2023,02/10/2023,Australia 2 Star Woolgoolga Classic Nsw,2,327546,Men,,,Men,327546,live heats,
-172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,29/09/2023,02/10/2023,Australia 2 Star Woolgoolga Classic Nsw,2,327547,Women,,,Women,327547,live heats,
-172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,29/09/2023,02/10/2023,Australia 2 Star Woolgoolga Classic Nsw,2,327548,Masters,,,Masters,327548,live heats,
-172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,29/09/2023,02/10/2023,Australia 2 Star Woolgoolga Classic Nsw,2,327549,Junior Boys,,,Junior Boys,327549,live heats,
-117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,01/04/2023,09/04/2023,Morocco,2,247047,Men,,,Men,247047,live heats,
-117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,01/04/2023,09/04/2023,Morocco,2,247048,Women,,,Women,247048,live heats,
-117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,01/04/2023,09/04/2023,Morocco,2,247049,Junior Boys,,,Junior Boys,247049,live heats,
-117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,01/04/2023,09/04/2023,Morocco,2,247050,Masters,,,Masters,247050,live heats,
-117333,GERMANY: 5 STAR Sylt World Cup,Results Published,10,22/09/2023,02/10/2023,Germany,5,247060,Men,,,Men,247060,live heats,
-117333,GERMANY: 5 STAR Sylt World Cup,Results Published,10,22/09/2023,02/10/2023,Germany,5,247061,Women,,,Women,247061,live heats,
-187553,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Morocco,3,353242,Women,,,Women,353242,live heats,
-187553,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Morocco,3,353243,Men,,,Men,353243,live heats,
-187553,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2024,04/05/2024,Morocco,3,353244,Masters,,,Masters,353244,live heats,
-187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2,353279,Women,,,Women,353279,live heats,
-187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2,353280,Men,,,Men,353280,live heats,
-187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2,353281,Masters,,,Masters,353281,live heats,
-187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2,353282,Junior Girls,,,Junior Girls,353282,live heats,
-187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2,353283,Junior Boys,,,Junior Boys,353283,live heats,
-187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2,400435,Pro Junior GIrls,,,Pro Junior GIrls,400435,live heats,
-187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,20/01/2024,21/01/2024,Guadeloupe,2,400436,Pro Junior Boys,,,Pro Junior Boys,400436,live heats,
-214686,GERMANY: 5 STAR Sylt World Cup MEN,Results Published,12,21/09/2023,03/10/2023,Germany,5,400442,Women,,,Women,400442,live heats,
-214686,GERMANY: 5 STAR Sylt World Cup MEN,Results Published,12,21/09/2023,03/10/2023,Germany,5,400473,Men,,,Men,400473,live heats,
-165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,31/01/2024,31/03/2024,Israel,2,316791,Men,,,Men,316791,live heats,
-165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,31/01/2024,31/03/2024,Israel,2,316792,Women,,,Women,316792,live heats,
-165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,31/01/2024,31/03/2024,Israel,2,390433,Pro Junior Boys,,,Pro Junior Boys,390433,live heats,
-165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,31/01/2024,31/03/2024,Israel,2,316793,Masters,,,Masters,316793,live heats,
-72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4,168205,Men,,,Men,168205,live heats,
-72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4,168206,Women,,,Women,168206,live heats,
-72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4,168208,Masters,,,Masters,168208,live heats,
-72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4,168210,Open AM,,,Open AM,168210,live heats,
-72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4,310717,Pro Men's Trials ,,,Pro Men's Trials ,310717,live heats,
-72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,26/08/2023,05/09/2023,Peru,4,310719,Open Juniors U20,,,Open Juniors U20,310719,live heats,
-187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5,353289,Women,,,Women,353289,live heats,
-187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5,353290,Men,,,Men,353290,live heats,
-187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5,353291,Masters,,,Masters,353291,live heats,
-187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5,400714,Pro Junior GIrls,,,Pro Junior GIrls,400714,live heats,
-187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5,400715,Pro Junior Boys,,,Pro Junior Boys,400715,live heats,
-187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5,353292,Junior Girls,,,Junior Girls,353292,live heats,
-187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,18/02/2024,25/02/2024,Japan,5,353293,Junior Boys,,,Junior Boys,353293,live heats,
-214877,Germany: 2 Star The German Wave Tour ,Results Published,5,11/06/2023,16/06/2023,Germany,2,400732,Women,,,Women,400732,live heats,
-214877,Germany: 2 Star The German Wave Tour ,Results Published,5,11/06/2023,16/06/2023,Germany,2,400733,Men,,,Men,400733,live heats,
-214877,Germany: 2 Star The German Wave Tour ,Results Published,5,11/06/2023,16/06/2023,Germany,2,400734,Pro Junior GIrls,,,Pro Junior GIrls,400734,live heats,
-214877,Germany: 2 Star The German Wave Tour ,Results Published,5,11/06/2023,16/06/2023,Germany,2,400735,Pro Junior Boys,,,Pro Junior Boys,400735,live heats,
-361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2,656149,Men,,,Men,656149,live heats,
-361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2,656150,Women,,,Women,656150,live heats,
-361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2,656151,Masters,,,Masters,656151,live heats,
-361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2,656152,Junior Boys,,,Junior Boys,656152,live heats,
-361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2,656153,Junior Girls,,,Junior Girls,656153,live heats,
-361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2,656154,Pro Junior Boys,,,Pro Junior Boys,656154,live heats,
-361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,11/07/2025,03/11/2025,Finalnd,2,656155,Pro Junior GIrls,,,Pro Junior GIrls,656155,live heats,
-72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,168211,Men,,,Men,168211,live heats,
-72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,168212,Women,,,Women,168212,live heats,
-72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,168213,Junior Boys,,,Junior Boys,168213,live heats,
-72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,168214,Masters,,,Masters,168214,live heats,
-72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,336314,Pro Women's Trials,,,Pro Women's Trials,336314,live heats,
-72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,336874,Pro Men Trials,,,Pro Men Trials,336874,live heats,
-72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,338059,Pro Men's Double,,,Pro Men's Double,338059,live heats,
-72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,338060,Pro Women's Double,,,Pro Women's Double,338060,live heats,
-72455,HAWAII: detail heat results,Results Published,13,23/10/2023,05/11/2023,Hawaii,,338128,Masters Single,,,Masters Single,338128,live heats,
-187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,21/10/2024,02/11/2024,Hawai'I,5,353315,Women,,,Women,353315,live heats,
-187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,21/10/2024,02/11/2024,Hawai'I,5,353316,Men,,,Men,353316,live heats,
-187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,21/10/2024,02/11/2024,Hawai'I,5,474353,Pro Junior Boys,,,Pro Junior Boys,474353,live heats,
-187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,21/10/2024,02/11/2024,Hawai'I,5,377530,Masters,,,Masters,377530,live heats,
-321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,13/10/2025,25/10/2025,Hawaii,5,585008,Men,,,Men,585008,live heats,
-321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,13/10/2025,25/10/2025,Hawaii,5,585009,Women,,,Women,585009,live heats,
-321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,13/10/2025,25/10/2025,Hawaii,5,585010,Pro Junior Boys,,,Pro Junior Boys,585010,live heats,
-321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,13/10/2025,25/10/2025,Hawaii,5,585011,Pro Junior GIrls,,,Pro Junior GIrls,585011,live heats,
-321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,13/10/2025,25/10/2025,Hawaii,5,585012,Masters,,,Masters,585012,live heats,
-321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,01/08/2025,11/08/2025,Spain,5,585000,Men,,,Men,585000,live heats,
-321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,01/08/2025,11/08/2025,Spain,5,585001,Women,,,Women,585001,live heats,
-321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,01/08/2025,11/08/2025,Spain,5,585002,Pro Junior Boys,,,Pro Junior Boys,585002,live heats,
-321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,01/08/2025,11/08/2025,Spain,5,585003,Pro Junior GIrls,,,Pro Junior GIrls,585003,live heats,
-321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,01/08/2025,11/08/2025,Spain,5,585004,Masters,,,Masters,585004,live heats,
-321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,05/07/2025,14/07/2025,Spain,5,584995,Men,,,Men,584995,live heats,
-321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,05/07/2025,14/07/2025,Spain,5,584996,Women,,,Women,584996,live heats,
-321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,05/07/2025,14/07/2025,Spain,5,584998,Pro Junior Boys,,,Pro Junior Boys,584998,live heats,
-321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,05/07/2025,14/07/2025,Spain,5,584999,Pro Junior GIrls,,,Pro Junior GIrls,584999,live heats,
-321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,05/07/2025,14/07/2025,Spain,5,584997,Masters,,,Masters,584997,live heats,
-81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4,186196,Junior Boys,,,Junior Boys,186196,live heats,
-81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4,248339,Junior Girls,,,Junior Girls,248339,live heats,
-81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4,248336,U17 Boys,,,U17 Boys,248336,live heats,
-81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4,248337,U15 Boys,,,U15 Boys,248337,live heats,
-81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4,248338,U13,,,U13,248338,live heats,
-81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,25/02/2023,27/02/2023,Australia,4,248340,U15 Girls,,,U15 Girls,248340,live heats,
-187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2,353274,Women,,,Women,353274,live heats,
-187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2,353276,Masters,,,Masters,353276,live heats,
-187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2,363036,Pro Men's Dingle,,,Pro Men's Dingle,363036,live heats,
-187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2,363037,U20 Boys,,,U20 Boys,363037,live heats,
-187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2,363038,Grand Masters,,,Grand Masters,363038,live heats,
-187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2,363039,Open AM,,,Open AM,363039,live heats,
-187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2,363256,Pro Men's Double,,,Pro Men's Double,363256,live heats,
-187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,02/12/2023,04/12/2023,Chile,2,353275,Men,,,Men,353275,live heats,
-187567,GERMANY: 5 STAR Sylt World Cup,Results Published,10,26/09/2024,06/10/2024,Germany,5,353311,Women,,,Women,353311,live heats,
-187567,GERMANY: 5 STAR Sylt World Cup,Results Published,10,26/09/2024,06/10/2024,Germany,5,353312,Men,,,Men,353312,live heats,
-199466,SPAIN: 4 STAR TBC Tenerife World Cup,Results Published,7,05/08/2024,12/08/2024,Spain,4,377533,Women,,,Women,377533,live heats,
-199466,SPAIN: 4 STAR TBC Tenerife World Cup,Results Published,7,05/08/2024,12/08/2024,Spain,4,377534,Men,,,Men,377534,live heats,
-72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,03/12/2022,12/12/2022,Chile,2,168178,Men,,,Men,168178,live heats,
-72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,03/12/2022,12/12/2022,Chile,2,168179,Women,,,Women,168179,live heats,
-72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,03/12/2022,12/12/2022,Chile,2,168180,Junior Boys,,,Junior Boys,168180,live heats,
-72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,03/12/2022,12/12/2022,Chile,2,168181,Masters,,,Masters,168181,live heats,
-72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,03/12/2022,12/12/2022,Chile,2,293480,Junior Girls,,,Junior Girls,293480,live heats,
-74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,15/01/2023,30/01/2023,Guadeloupe,2,172519,Men,,,Men,172519,live heats,
-74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,15/01/2023,30/01/2023,Guadeloupe,2,172520,Women,,,Women,172520,live heats,
-74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,15/01/2023,30/01/2023,Guadeloupe,2,172521,Junior Boys,,,Junior Boys,172521,live heats,
-74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,15/01/2023,30/01/2023,Guadeloupe,2,172522,Masters,,,Masters,172522,live heats,
-74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,15/01/2023,30/01/2023,Guadeloupe,2,293482,Junior Girls,,,Junior Girls,293482,live heats,
-74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,25/02/2023,27/02/2023,Puerto.Rico,2,172447,Men,,,Men,172447,live heats,
-74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,25/02/2023,27/02/2023,Puerto.Rico,2,172450,Masters,,,Masters,172450,live heats,
-74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,25/02/2023,27/02/2023,Puerto.Rico,2,172449,Junior Boys,,,Junior Boys,172449,live heats,
-74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,25/02/2023,27/02/2023,Puerto.Rico,2,293488,Junior Girls,,,Junior Girls,293488,live heats,
-74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,25/02/2023,27/02/2023,Puerto.Rico,2,172448,Women,,,Women,172448,live heats,
-72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,04/02/2023,13/02/2023,Australia,2,168251,Men,,,Men,168251,live heats,
-72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,04/02/2023,13/02/2023,Australia,2,168252,Women,,,Women,168252,live heats,
-72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,04/02/2023,13/02/2023,Australia,2,168253,Junior Boys,,,Junior Boys,168253,live heats,
-72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,04/02/2023,13/02/2023,Australia,2,168254,Masters,,,Masters,168254,live heats,
-72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,04/02/2023,13/02/2023,Australia,2,293485,Junior Girls,,,Junior Girls,293485,live heats,
-74628,Taiwan: 1 STAR Wave Jam ,Results Published,10,18/11/2022,28/11/2022,Taiwan,1,172513,Men,,,Men,172513,live heats,
-74628,Taiwan: 1 STAR Wave Jam ,Results Published,10,18/11/2022,28/11/2022,Taiwan,1,172514,Women,,,Women,172514,live heats,
-74628,Taiwan: 1 STAR Wave Jam ,Results Published,10,18/11/2022,28/11/2022,Taiwan,1,172516,Masters,,,Masters,172516,live heats,
-272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3,474990,Women,,,Women,474990,live heats,
-272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3,474991,Men,,,Men,474991,live heats,
-272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3,474992,Masters,,,Masters,474992,live heats,
-272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3,474993,Pro Junior GIrls,,,Pro Junior GIrls,474993,live heats,
-272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3,474994,Pro Junior Boys,,,Pro Junior Boys,474994,live heats,
-272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3,474995,Junior Girls,,,Junior Girls,474995,live heats,
-272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3,474996,Junior Boys,,,Junior Boys,474996,live heats,
-272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,26/09/2024,06/10/2024,Ireland,3,474997,OPEN,,,OPEN,474997,live heats,
-72453,CHILE: 4 STAR SURAZO Infernal - Pro Men,Results Published,9,25/03/2023,03/04/2023,Chile,4,168199,Men,,,Men,168199,live heats,
-72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,18/01/2023,22/01/2023,Australia,2,168233,Men,,,Men,168233,live heats,
-72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,18/01/2023,22/01/2023,Australia,2,168234,Women,,,Women,168234,live heats,
-72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,18/01/2023,22/01/2023,Australia,2,168235,Junior Boys,,,Junior Boys,168235,live heats,
-72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,18/01/2023,22/01/2023,Australia,2,293483,Junior Girls,,,Junior Girls,293483,live heats,
-72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,18/01/2023,22/01/2023,Australia,2,168236,Masters,,,Masters,168236,live heats,
-74594,Ireland: 2 STAR Mayo Mayhem,Results Published,3,29/09/2023,02/10/2023,Ireland,2,172501,Men,,,Men,172501,live heats,
-74594,Ireland: 2 STAR Mayo Mayhem,Results Published,3,29/09/2023,02/10/2023,Ireland,2,172502,Women,,,Women,172502,live heats,
-74594,Ireland: 2 STAR Mayo Mayhem,Results Published,3,29/09/2023,02/10/2023,Ireland,2,172503,Junior Boys,,,Junior Boys,172503,live heats,
-187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,04/10/2024,07/10/2024,Australia,2,353346,Women,,,Women,353346,live heats,
-187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,04/10/2024,07/10/2024,Australia,2,353347,Men,,,Men,353347,live heats,
-187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,04/10/2024,07/10/2024,Australia,2,353348,Masters,,,Masters,353348,live heats,
-187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,04/10/2024,07/10/2024,Australia,2,353349,Junior Girls,,,Junior Girls,353349,live heats,
-187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,04/10/2024,07/10/2024,Australia,2,353350,Junior Boys,,,Junior Boys,353350,live heats,
-72450,France: 2 STAR Championnat De France Funboard Vagues 2023,Results Published,2,18/11/2023,20/11/2023,France,2,168184,Men,,,Men,168184,live heats,
-72450,France: 2 STAR Championnat De France Funboard Vagues 2023,Results Published,2,18/11/2023,20/11/2023,France,2,168185,Women,,,Women,168185,live heats,
-81557,Japan: 1 STAR Cold Breeze,Results Published,2,24/12/2022,26/12/2022,Japan,1,186130,Men,,,Men,186130,live heats,
-81557,Japan: 1 STAR Cold Breeze,Results Published,2,24/12/2022,26/12/2022,Japan,1,186131,Women,,,Women,186131,live heats,
-81557,Japan: 1 STAR Cold Breeze,Results Published,2,24/12/2022,26/12/2022,Japan,1,186132,Junior Boys,,,Junior Boys,186132,live heats,
-81557,Japan: 1 STAR Cold Breeze,Results Published,2,24/12/2022,26/12/2022,Japan,1,186133,Masters,,,Masters,186133,live heats,
-187565,PERU: 4 STAR Pacasmayo Classic World Cup,Results Published,14,03/08/2024,17/08/2024,Peru,4,353304,Women,,,Women,353304,live heats,
-187565,PERU: 4 STAR Pacasmayo Classic World Cup,Results Published,14,03/08/2024,17/08/2024,Peru,4,353305,Men,,,Men,353305,live heats,
-305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,15/11/2024,17/11/2024,Australia,2,541463,Women,,,Women,541463,live heats,
-305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,15/11/2024,17/11/2024,Australia,2,541464,Men,,,Men,541464,live heats,
-305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,15/11/2024,17/11/2024,Australia,2,541465,Masters,,,Masters,541465,live heats,
-305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,15/11/2024,17/11/2024,Australia,2,541466,Junior Girls,,,Junior Girls,541466,live heats,
-305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,15/11/2024,17/11/2024,Australia,2,541467,Junior Boys,,,Junior Boys,541467,live heats,
-322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3,585973,Women,,,Women,585973,live heats,
-322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3,585974,Men,,,Men,585974,live heats,
-322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3,585975,Masters,,,Masters,585975,live heats,
-322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3,585976,Junior Boys,,,Junior Boys,585976,live heats,
-322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3,585977,Pro Junior GIrls,,,Pro Junior GIrls,585977,live heats,
-322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3,585978,Pro Junior Boys,,,Pro Junior Boys,585978,live heats,
-322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,23/08/2025,01/09/2025,Peru,3,585979,Junior Girls,,,Junior Girls,585979,live heats,
-268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3,467752,Women,,,Women,467752,live heats,
-268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3,467753,Men,,,Men,467753,live heats,
-268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3,467754,Masters,,,Masters,467754,live heats,
-268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3,467758,Junior Boys,,,Junior Boys,467758,live heats,
-268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3,569238,Grand Masters,,,Grand Masters,569238,live heats,
-268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3,569239,Open AM,,,Open AM,569239,live heats,
-268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,12/12/2024,15/12/2024,Chile,3,467757,Junior Girls,,,Junior Girls,467757,live heats,
-268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3,481449,PRE REGISTER FOR RANKINGS,,,PRE REGISTER FOR RANKINGS,481449,live heats,
-268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3,467760,Men,,,Men,467760,live heats,
-268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3,467763,Pro Junior Boys,,,Pro Junior Boys,467763,live heats,
-268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3,467762,Pro Junior GIrls,,,Pro Junior GIrls,467762,live heats,
-268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3,467761,Masters,,,Masters,467761,live heats,
-268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3,533821,OPEN,,,OPEN,533821,live heats,
-268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,07/11/2024,11/11/2024,Chile,3,534578,Grand Master,,,Grand Master,534578,live heats,
-321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,09/03/2025,10/03/2025,Puerto Rico,4,584943,Women,,,Women,584943,live heats,
-321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,09/03/2025,10/03/2025,Puerto Rico,4,584944,Men,,,Men,584944,live heats,
-321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,09/03/2025,10/03/2025,Puerto Rico,4,584945,Masters,,,Masters,584945,live heats,
-321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,09/03/2025,10/03/2025,Puerto Rico,4,584950,Grand Masters,,,Grand Masters,584950,live heats,
-322457,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,01/11/2024,01/12/2024,Taiwan,1,585833,Women,,,Women,585833,live heats,
-322457,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,01/11/2024,01/12/2024,Taiwan,1,585834,Men,,,Men,585834,live heats,
-266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4,464921,Women,,,Women,464921,live heats,
-266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4,464922,Men,,,Men,464922,live heats,
-266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4,464923,Masters,,,Masters,464923,live heats,
-266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4,464924,Junior Girls,,,Junior Girls,464924,live heats,
-266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4,464925,Junior Boys,,,Junior Boys,464925,live heats,
-266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4,464926,Pro Junior GIrls,,,Pro Junior GIrls,464926,live heats,
-266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4,464927,Pro Junior Boys,,,Pro Junior Boys,464927,live heats,
-266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,31/01/2025,03/02/2025,Australia,4,601831,Grand Masters,,,Grand Masters,601831,live heats,
-321767,Chile: 3 STAR Surazo Infernal Navidad - women's results ,Results Published,4,07/11/2024,11/11/2024,Chile,3,584886,Women,,,Women,584886,live heats,
-322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3,585965,Women,,,Women,585965,live heats,
-322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3,585966,Men,,,Men,585966,live heats,
-322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3,585967,Masters,,,Masters,585967,live heats,
-322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3,585968,Pro Junior GIrls,,,Pro Junior GIrls,585968,live heats,
-322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3,585969,Pro Junior Boys,,,Pro Junior Boys,585969,live heats,
-322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3,585970,Junior Girls,,,Junior Girls,585970,live heats,
-322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3,585971,Junior Boys,,,Junior Boys,585971,live heats,
-322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,01/09/2025,01/10/2025,Ireland,3,585972,OPEN,,,OPEN,585972,live heats,
-318167,Belgium 2 Star Nationals ,Results Published,4,18/10/2024,22/10/2024,Belgium 2 Star Nationals,2,579061,Men,,,Men,579061,live heats,
-318167,Belgium 2 Star Nationals ,Results Published,4,18/10/2024,22/10/2024,Belgium 2 Star Nationals,2,579062,Women,,,Women,579062,live heats,
-275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,31/07/2024,30/11/2024,Netherlands,2,478849,Women,,,Women,478849,live heats,
-275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,31/07/2024,30/11/2024,Netherlands,2,478850,Men,,,Men,478850,live heats,
-275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,31/07/2024,30/11/2024,Netherlands,2,478851,Masters,,,Masters,478851,live heats,
-275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,31/07/2024,30/11/2024,Netherlands,2,478852,Junior Girls,,,Junior Girls,478852,live heats,
-275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,31/07/2024,30/11/2024,Netherlands,2,478853,Junior Boys,,,Junior Boys,478853,live heats,
-322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3,585982,Men,,,Men,585982,live heats,
-322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3,585983,Women,,,Women,585983,live heats,
-322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3,585984,Pro Junior Boys,,,Pro Junior Boys,585984,live heats,
-322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3,585985,Pro Junior GIrls,,,Pro Junior GIrls,585985,live heats,
-322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3,585980,Junior Boys,,,Junior Boys,585980,live heats,
-322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3,585981,Junior Girls,,,Junior Girls,585981,live heats,
-322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,01/09/2025,01/10/2025,Denmark,3,585986,Masters,,,Masters,585986,live heats,
-322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3,585987,Men,,,Men,585987,live heats,
-322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3,585988,Women,,,Women,585988,live heats,
-322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3,585989,Junior Boys,,,Junior Boys,585989,live heats,
-322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3,585990,Junior Girls,,,Junior Girls,585990,live heats,
-322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3,585992,Pro Junior Boys,,,Pro Junior Boys,585992,live heats,
-322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3,585993,Pro Junior GIrls,,,Pro Junior GIrls,585993,live heats,
-322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,11/10/2025,18/10/2025,Scotland,3,585991,Masters,,,Masters,585991,live heats,
-322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3,585999,PRE REGISTER FOR RANKINGS,,,PRE REGISTER FOR RANKINGS,585999,live heats,
-322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3,585994,Men,,,Men,585994,live heats,
-322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3,585995,Pro Junior Boys,,,Pro Junior Boys,585995,live heats,
-322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3,585996,Pro Junior GIrls,,,Pro Junior GIrls,585996,live heats,
-322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3,586000,Masters,,,Masters,586000,live heats,
-322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3,585997,OPEN,,,OPEN,585997,live heats,
-322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,01/11/2025,01/12/2025,Chile,3,585998,Grand Master,,,Grand Master,585998,live heats,
-322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3,586001,Women,,,Women,586001,live heats,
-322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3,586002,Men,,,Men,586002,live heats,
-322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3,586003,Pro Junior GIrls,,,Pro Junior GIrls,586003,live heats,
-322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3,586004,Pro Junior Boys,,,Pro Junior Boys,586004,live heats,
-322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3,586005,Junior Boys,,,Junior Boys,586005,live heats,
-322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3,586006,Junior Girls,,,Junior Girls,586006,live heats,
-322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,01/11/2025,01/12/2025,France,3,586007,Masters,,,Masters,586007,live heats,
-295232,Judges Training Event,Finished,8,01/10/2023,09/10/2023,Judges Training Event,,515438,Men,,,Men,515438,live heats,
-321870,GERMANY: 5 STAR Sylt World Cup,Scheduled,10,26/09/2025,06/10/2025,Germany,5,585005,Men,,,Men,585005,live heats,
-321870,GERMANY: 5 STAR Sylt World Cup,Scheduled,10,26/09/2025,06/10/2025,Germany,5,585006,Women,,,Women,585006,live heats,
-296885,Test,Finished,2,01/01/2022,03/01/2022,Test,,519085,Women,,,Women,519085,live heats,
-296885,Test,Finished,2,01/01/2022,03/01/2022,Test,,519086,Men,,,Men,519086,live heats,
-296885,Test,Finished,2,01/01/2022,03/01/2022,Test,,519087,Pro Junior Boys,,,Pro Junior Boys,519087,live heats,
-296885,Test,Finished,2,01/01/2022,03/01/2022,Test,,519088,Masters,,,Masters,519088,live heats,
-321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4,584935,Women,,,Women,584935,live heats,
-321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4,584936,Men,,,Men,584936,live heats,
-321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4,584937,Masters,,,Masters,584937,live heats,
-321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4,584938,Junior Girls,,,Junior Girls,584938,live heats,
-321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4,584939,Junior Boys,,,Junior Boys,584939,live heats,
-321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4,584940,Pro Junior GIrls,,,Pro Junior GIrls,584940,live heats,
-321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4,584941,Pro Junior Boys,,,Pro Junior Boys,584941,live heats,
-321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4,584942,Grand Masters,,,Grand Masters,584942,live heats,
-321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,17/02/2025,24/02/2025,Japan,4,625558,Expression Session,,,Expression Session,625558,live heats,
-374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,18/01/2025,20/01/2025,Guadeloupe,2,672485,Men,,,Men,672485,live heats,
-374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,18/01/2025,20/01/2025,Guadeloupe,2,672486,Women,,,Women,672486,live heats,
-374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,18/01/2025,20/01/2025,Guadeloupe,2,672487,Junior Boys,,,Junior Boys,672487,live heats,
-374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,18/01/2025,20/01/2025,Guadeloupe,2,672488,Masters,,,Masters,672488,live heats,
-277082,Israel: 3 STAR Storm Rider Haifa,Finished,75,16/01/2025,01/04/2025,Israel,3,481480,PRE REGISTER FOR RANKINGS,,,PRE REGISTER FOR RANKINGS,481480,live heats,
-277082,Israel: 3 STAR Storm Rider Haifa,Finished,75,16/01/2025,01/04/2025,Israel,3,607606,open,,,open,607606,live heats,
-187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3,353247,Women,,,Women,353247,live heats,
-187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3,353248,Men,,,Men,353248,live heats,
-187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3,353249,Masters,,,Masters,353249,live heats,
-187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3,353250,Junior Girls,,,Junior Girls,353250,live heats,
-187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3,353251,Junior Boys,,,Junior Boys,353251,live heats,
-187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3,400439,Pro Junior GIrls,,,Pro Junior GIrls,400439,live heats,
-187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,02/02/2024,03/02/2024,Australia,3,400440,Pro Junior Boys,,,Pro Junior Boys,400440,live heats,
-321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,14/04/2025,19/04/2025,Hawaii,4,584956,Women,,,Women,584956,live heats,
-321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,14/04/2025,19/04/2025,Hawaii,4,584957,Men,,,Men,584957,live heats,
-321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,14/04/2025,19/04/2025,Hawaii,4,584958,Masters,,,Masters,584958,live heats,
-321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,14/04/2025,19/04/2025,Hawaii,4,584960,Junior Boys,,,Junior Boys,584960,live heats,
-266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464914,Junior Girls,,,Junior Girls,464914,live heats,
-266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464915,Junior Boys,,,Junior Boys,464915,live heats,
-266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464916,U15 Girls,,,U15 Girls,464916,live heats,
-266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464917,U15 Boys,,,U15 Boys,464917,live heats,
-266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464918,U13,,,U13,464918,live heats,
-266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464919,Pro Junior GIrls,,,Pro Junior GIrls,464919,live heats,
-266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,14/01/2025,20/01/2025,Australia,,464920,Pro Junior Boys,,,Pro Junior Boys,464920,live heats,
-321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5,584951,Women,,,Women,584951,live heats,
-321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5,584952,Men,,,Men,584952,live heats,
-321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5,584953,Masters,,,Masters,584953,live heats,
-321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5,584954,Pro Junior GIrls,,,Pro Junior GIrls,584954,live heats,
-321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5,584955,Pro Junior Boys,,,Pro Junior Boys,584955,live heats,
-321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5,629716,Junior Girls,,,Junior Girls,629716,live heats,
-321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,24/03/2025,07/04/2025,Chile,5,629717,Junior Boys,,,Junior Boys,629717,live heats,
-375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,19/04/2025,21/04/2025,Argentina,2,672517,Women,,,Women,672517,live heats,
-375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,19/04/2025,21/04/2025,Argentina,2,672518,Men,,,Men,672518,live heats,
-375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,19/04/2025,21/04/2025,Argentina,2,672519,Masters,,,Masters,672519,live heats,
-375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,19/04/2025,21/04/2025,Argentina,2,672521,Junior Boys,,,Junior Boys,672521,live heats,
-322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2025,04/05/2025,Morocco,3,585958,Women,,,Women,585958,live heats,
-322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2025,04/05/2025,Morocco,3,585959,Men,,,Men,585959,live heats,
-322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2025,04/05/2025,Morocco,3,585961,Pro Junior Boys,,,Pro Junior Boys,585961,live heats,
-322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2025,04/05/2025,Morocco,3,585963,Junior Boys,,,Junior Boys,585963,live heats,
-322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,26/04/2025,04/05/2025,Morocco,3,672781,U15,,,U15,672781,live heats,
+event_id,event_name,results_status,day_window,start_date,finish_date,location,stars,division_id,division_name,sex,event_link,source,elimination_name,elimination_id,standard_event_name,year
+190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,Results Published,12,2023-10-22,2023-11-03,Hawaii,2,363706,Men,Men,https://liveheats.com/events/190953,live heats,Men,363706,Challengers - Maui Strong Aloha Classic Grand Final,2023
+190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,Results Published,12,2023-10-22,2023-11-03,Hawaii,2,363707,Women,Women,https://liveheats.com/events/190953,live heats,Women,363707,Challengers - Maui Strong Aloha Classic Grand Final,2023
+190953,HAWAII: 2 STAR Challengers - Maui Strong Aloha Classic Grand Final,Results Published,12,2023-10-22,2023-11-03,Hawaii,2,363708,U20 Boys,Men,https://liveheats.com/events/190953,live heats,U20 Boys,363708,Challengers - Maui Strong Aloha Classic Grand Final,2023
+147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,2023-06-10,2023-06-12,Denmark,2,290156,Men,Men,https://liveheats.com/events/147526,live heats,Men,290156,Open Windsurf Wave Championships,2023
+147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,2023-06-10,2023-06-12,Denmark,2,290157,Women,Women,https://liveheats.com/events/147526,live heats,Women,290157,Open Windsurf Wave Championships,2023
+147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,2023-06-10,2023-06-12,Denmark,2,290158,Junior Boys,Men,https://liveheats.com/events/147526,live heats,Junior Boys,290158,Open Windsurf Wave Championships,2023
+147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,2023-06-10,2023-06-12,Denmark,2,290159,Junior Girls,Women,https://liveheats.com/events/147526,live heats,Junior Girls,290159,Open Windsurf Wave Championships,2023
+147526,Denmark: 2 STAR Open Windsurf Wave Championships,Results Published,2,2023-06-10,2023-06-12,Denmark,2,290160,Masters,,https://liveheats.com/events/147526,live heats,Masters,290160,Open Windsurf Wave Championships,2023
+164024,PERU: 2 STAR Pacasmayo Classic,Results Published,10,2023-08-25,2023-09-04,Peru,2,315787,Men,Men,https://liveheats.com/events/164024,live heats,Men,315787,Pacasmayo Classic,2023
+72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,2023-01-26,2023-01-30,Australia,2,168257,Men,Men,https://liveheats.com/events/72489,live heats,Men,168257,Margaret River Wavesailing Classic,2023
+72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,2023-01-26,2023-01-30,Australia,2,168258,Women,Women,https://liveheats.com/events/72489,live heats,Women,168258,Margaret River Wavesailing Classic,2023
+72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,2023-01-26,2023-01-30,Australia,2,168259,Junior Boys,Men,https://liveheats.com/events/72489,live heats,Junior Boys,168259,Margaret River Wavesailing Classic,2023
+72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,2023-01-26,2023-01-30,Australia,2,168260,Masters,,https://liveheats.com/events/72489,live heats,Masters,168260,Margaret River Wavesailing Classic,2023
+72489,Australia: 2 STAR Margaret River Wavesailing Classic,Results Published,4,2023-01-26,2023-01-30,Australia,2,293484,Junior Girls,Women,https://liveheats.com/events/72489,live heats,Junior Girls,293484,Margaret River Wavesailing Classic,2023
+117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,2023-07-01,2023-07-10,Spain,5,247053,Men,Men,https://liveheats.com/events/117331,live heats,Men,247053,Gran Canaria World Cup,2023
+117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,2023-07-01,2023-07-10,Spain,5,247054,Women,Women,https://liveheats.com/events/117331,live heats,Women,247054,Gran Canaria World Cup,2023
+117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,2023-07-01,2023-07-10,Spain,5,247055,Junior Boys,Men,https://liveheats.com/events/117331,live heats,Junior Boys,247055,Gran Canaria World Cup,2023
+117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,2023-07-01,2023-07-10,Spain,5,247056,Masters,,https://liveheats.com/events/117331,live heats,Masters,247056,Gran Canaria World Cup,2023
+117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,2023-07-01,2023-07-10,Spain,5,290080,Junior Girls,Women,https://liveheats.com/events/117331,live heats,Junior Girls,290080,Gran Canaria World Cup,2023
+117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,2023-07-01,2023-07-10,Spain,5,293776,U17 Boys,Men,https://liveheats.com/events/117331,live heats,U17 Boys,293776,Gran Canaria World Cup,2023
+117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,2023-07-01,2023-07-10,Spain,5,293777,U15 Boys,Men,https://liveheats.com/events/117331,live heats,U15 Boys,293777,Gran Canaria World Cup,2023
+117331,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,9,2023-07-01,2023-07-10,Spain,5,293809,U17 Girls,Women,https://liveheats.com/events/117331,live heats,U17 Girls,293809,Gran Canaria World Cup,2023
+72452,FIJI.PRO: 5 STAR 2023 FIJI SURF PRO ,Results Published,11,2023-06-01,2023-06-12,Fiji.Pro,5,168196,Men,Men,https://liveheats.com/events/72452,live heats,Men,168196,FIJI SURF PRO,2023
+72452,FIJI.PRO: 5 STAR 2023 FIJI SURF PRO ,Results Published,11,2023-06-01,2023-06-12,Fiji.Pro,5,168197,Women,Women,https://liveheats.com/events/72452,live heats,Women,168197,FIJI SURF PRO,2023
+147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,2023-10-14,2023-10-21,Denmark,5,290163,Junior Boys,Men,https://liveheats.com/events/147528,live heats,Junior Boys,290163,PWA/IWT Cold Hawaii Youth World Tour Final,2023
+147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,2023-10-14,2023-10-21,Denmark,5,290164,Junior Girls,Women,https://liveheats.com/events/147528,live heats,Junior Girls,290164,PWA/IWT Cold Hawaii Youth World Tour Final,2023
+147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,2023-10-14,2023-10-21,Denmark,5,290165,U17 Boys,Men,https://liveheats.com/events/147528,live heats,U17 Boys,290165,PWA/IWT Cold Hawaii Youth World Tour Final,2023
+147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,2023-10-14,2023-10-21,Denmark,5,290166,U15 Girls,Women,https://liveheats.com/events/147528,live heats,U15 Girls,290166,PWA/IWT Cold Hawaii Youth World Tour Final,2023
+147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,2023-10-14,2023-10-21,Denmark,5,290167,U13,,https://liveheats.com/events/147528,live heats,U13,290167,PWA/IWT Cold Hawaii Youth World Tour Final,2023
+147528,DENMARK: 5 STAR PWA/IWT Cold Hawaii Youth World Tour Final,Results Published,7,2023-10-14,2023-10-21,Denmark,5,332984,U15 Boys,Men,https://liveheats.com/events/147528,live heats,U15 Boys,332984,PWA/IWT Cold Hawaii Youth World Tour Final,2023
+220586,Japan: 2 STAR Cold Breeze,Results Published,2,2023-12-22,2023-12-24,Japan,2,408814,Men,Men,https://liveheats.com/events/220586,live heats,Men,408814,Cold Breeze,2023
+220586,Japan: 2 STAR Cold Breeze,Results Published,2,2023-12-22,2023-12-24,Japan,2,408815,Women,Women,https://liveheats.com/events/220586,live heats,Women,408815,Cold Breeze,2023
+220586,Japan: 2 STAR Cold Breeze,Results Published,2,2023-12-22,2023-12-24,Japan,2,408816,Masters,,https://liveheats.com/events/220586,live heats,Masters,408816,Cold Breeze,2023
+220586,Japan: 2 STAR Cold Breeze,Results Published,2,2023-12-22,2023-12-24,Japan,2,408818,Junior Girls,Women,https://liveheats.com/events/220586,live heats,Junior Girls,408818,Cold Breeze,2023
+220586,Japan: 2 STAR Cold Breeze,Results Published,2,2023-12-22,2023-12-24,Japan,2,408817,Junior Boys,Men,https://liveheats.com/events/220586,live heats,Junior Boys,408817,Cold Breeze,2023
+164717,CHILE: 2 STAR SURAZO Infernal - Men,Results Published,9,2023-03-24,2023-04-02,Chile,2,315939,Men,Men,https://liveheats.com/events/164717,live heats,Men,315939,SURAZO Infernal - Men,2023
+187568,Morocco: Junior 100% Moulay Wave Classic,Results Published,8,2024-04-26,2024-05-04,Morocco,,353313,Junior Girls,Women,https://liveheats.com/events/187568,live heats,Junior Girls,353313,Junior 100% Moulay Wave Classic,2024
+187568,Morocco: Junior 100% Moulay Wave Classic,Results Published,8,2024-04-26,2024-05-04,Morocco,,353314,Junior Boys,Men,https://liveheats.com/events/187568,live heats,Junior Boys,353314,Junior 100% Moulay Wave Classic,2024
+187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,2023-10-31,2023-11-30,Taiwan,1,353252,Women,Women,https://liveheats.com/events/187555,live heats,Women,353252,Taitung Wave Classic,2023
+187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,2023-10-31,2023-11-30,Taiwan,1,353253,Men,Men,https://liveheats.com/events/187555,live heats,Men,353253,Taitung Wave Classic,2023
+187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,2023-10-31,2023-11-30,Taiwan,1,353254,Masters,,https://liveheats.com/events/187555,live heats,Masters,353254,Taitung Wave Classic,2023
+187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,2023-10-31,2023-11-30,Taiwan,1,353255,Junior Girls,Women,https://liveheats.com/events/187555,live heats,Junior Girls,353255,Taitung Wave Classic,2023
+187555,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,2023-10-31,2023-11-30,Taiwan,1,353256,Junior Boys,Men,https://liveheats.com/events/187555,live heats,Junior Boys,353256,Taitung Wave Classic,2023
+187556,Australia: 1 STAR Merimbula Classic,Results Published,4,2023-11-22,2023-11-26,Australia,1,353257,Women,Women,https://liveheats.com/events/187556,live heats,Women,353257,Merimbula Classic,2023
+187556,Australia: 1 STAR Merimbula Classic,Results Published,4,2023-11-22,2023-11-26,Australia,1,353258,Men,Men,https://liveheats.com/events/187556,live heats,Men,353258,Merimbula Classic,2023
+187556,Australia: 1 STAR Merimbula Classic,Results Published,4,2023-11-22,2023-11-26,Australia,1,353259,Masters,,https://liveheats.com/events/187556,live heats,Masters,353259,Merimbula Classic,2023
+187556,Australia: 1 STAR Merimbula Classic,Results Published,4,2023-11-22,2023-11-26,Australia,1,353260,Junior Girls,Women,https://liveheats.com/events/187556,live heats,Junior Girls,353260,Merimbula Classic,2023
+187556,Australia: 1 STAR Merimbula Classic,Results Published,4,2023-11-22,2023-11-26,Australia,1,353261,Junior Boys,Men,https://liveheats.com/events/187556,live heats,Junior Boys,353261,Merimbula Classic,2023
+187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,2024-09-20,2024-09-22,Wales,2,353358,Men,Men,https://liveheats.com/events/187578,live heats,Men,353358,Rhosneigr Wave Classic,2024
+187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,2024-09-20,2024-09-22,Wales,2,353359,Women,Women,https://liveheats.com/events/187578,live heats,Women,353359,Rhosneigr Wave Classic,2024
+187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,2024-09-20,2024-09-22,Wales,2,353360,Junior Boys,Men,https://liveheats.com/events/187578,live heats,Junior Boys,353360,Rhosneigr Wave Classic,2024
+187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,2024-09-20,2024-09-22,Wales,2,353361,Masters,,https://liveheats.com/events/187578,live heats,Masters,353361,Rhosneigr Wave Classic,2024
+187578,Wales: 2 STAR Rhosneigr Wave Classic 2024,Results Published,2,2024-09-20,2024-09-22,Wales,2,353362,Junior Girls,Women,https://liveheats.com/events/187578,live heats,Junior Girls,353362,Rhosneigr Wave Classic,2024
+187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2024-01-15,2024-01-21,Australia,,353267,Junior Girls,Women,https://liveheats.com/events/187558,live heats,Junior Girls,353267,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2024
+187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2024-01-15,2024-01-21,Australia,,353268,Junior Boys,Men,https://liveheats.com/events/187558,live heats,Junior Boys,353268,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2024
+187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2024-01-15,2024-01-21,Australia,,353271,U15 Girls,Women,https://liveheats.com/events/187558,live heats,U15 Girls,353271,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2024
+187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2024-01-15,2024-01-21,Australia,,353272,U15 Boys,Men,https://liveheats.com/events/187558,live heats,U15 Boys,353272,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2024
+187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2024-01-15,2024-01-21,Australia,,353273,U13,,https://liveheats.com/events/187558,live heats,U13,353273,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2024
+187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2024-01-15,2024-01-21,Australia,,388585,Pro Junior GIrls,Women,https://liveheats.com/events/187558,live heats,Pro Junior GIrls,388585,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2024
+187558,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2024-01-15,2024-01-21,Australia,,388586,Pro Junior Boys,Men,https://liveheats.com/events/187558,live heats,Pro Junior Boys,388586,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2024
+249495,AFRICA: 3 STAR REGIONAL FINAL Moulay Wave Classic,Results Published,8,2024-04-26,2024-05-04,Africa,3,441634,Men,Men,https://liveheats.com/events/249495,live heats,Men,441634,REGIONAL FINAL Moulay Wave Classic,2024
+187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,2024-06-27,2024-07-07,Spain,5,353299,Women,Women,https://liveheats.com/events/187564,live heats,Women,353299,Gran Canaria World Cup,2024
+187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,2024-06-27,2024-07-07,Spain,5,353300,Men,Men,https://liveheats.com/events/187564,live heats,Men,353300,Gran Canaria World Cup,2024
+187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,2024-06-27,2024-07-07,Spain,5,353301,Masters,,https://liveheats.com/events/187564,live heats,Masters,353301,Gran Canaria World Cup,2024
+187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,2024-06-27,2024-07-07,Spain,5,353302,Junior Girls,Women,https://liveheats.com/events/187564,live heats,Junior Girls,353302,Gran Canaria World Cup,2024
+187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,2024-06-27,2024-07-07,Spain,5,353303,Junior Boys,Men,https://liveheats.com/events/187564,live heats,Junior Boys,353303,Gran Canaria World Cup,2024
+187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,2024-06-27,2024-07-07,Spain,5,454486,Pro Junior GIrls,Women,https://liveheats.com/events/187564,live heats,Pro Junior GIrls,454486,Gran Canaria World Cup,2024
+187564,SPAIN: 5 STAR Gran Canaria World Cup,Results Published,10,2024-06-27,2024-07-07,Spain,5,454487,Pro Junior Boys,Men,https://liveheats.com/events/187564,live heats,Pro Junior Boys,454487,Gran Canaria World Cup,2024
+270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,2024-08-03,2024-08-18,Peru,,471646,Masters,,https://liveheats.com/events/270680,live heats,Masters,471646,100% Masters Juniors Peru World Cup,2024
+270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,2024-08-03,2024-08-18,Peru,,471647,Junior Girls,Women,https://liveheats.com/events/270680,live heats,Junior Girls,471647,100% Masters Juniors Peru World Cup,2024
+270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,2024-08-03,2024-08-18,Peru,,471648,Junior Boys,Men,https://liveheats.com/events/270680,live heats,Junior Boys,471648,100% Masters Juniors Peru World Cup,2024
+270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,2024-08-03,2024-08-18,Peru,,471649,Pro Junior GIrls,Women,https://liveheats.com/events/270680,live heats,Pro Junior GIrls,471649,100% Masters Juniors Peru World Cup,2024
+270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,2024-08-03,2024-08-18,Peru,,471650,Pro Junior Boys,Men,https://liveheats.com/events/270680,live heats,Pro Junior Boys,471650,100% Masters Juniors Peru World Cup,2024
+270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,2024-08-03,2024-08-18,Peru,,471656,OPEN,,https://liveheats.com/events/270680,live heats,OPEN,471656,100% Masters Juniors Peru World Cup,2024
+270680,PERU: 100% Masters Juniors Peru World Cup,Results Published,15,2024-08-03,2024-08-18,Peru,,471657,Grand Masters,,https://liveheats.com/events/270680,live heats,Grand Masters,471657,100% Masters Juniors Peru World Cup,2024
+285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,2024-11-23,2024-12-16,France,2,492502,Men,Men,https://liveheats.com/events/285332,live heats,Men,492502,French Windsurf Championship at Pole Nautique Hague,2024
+285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,2024-11-23,2024-12-16,France,2,492503,Women,Women,https://liveheats.com/events/285332,live heats,Women,492503,French Windsurf Championship at Pole Nautique Hague,2024
+285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,2024-11-23,2024-12-16,France,2,492504,Junior Girls,Women,https://liveheats.com/events/285332,live heats,Junior Girls,492504,French Windsurf Championship at Pole Nautique Hague,2024
+285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,2024-11-23,2024-12-16,France,2,492505,Junior Boys,Men,https://liveheats.com/events/285332,live heats,Junior Boys,492505,French Windsurf Championship at Pole Nautique Hague,2024
+285332,France: 2 STAR French Windsurf Championship at Pole Nautique Hague,Results Published,23,2024-11-23,2024-12-16,France,2,492506,Masters,,https://liveheats.com/events/285332,live heats,Masters,492506,French Windsurf Championship at Pole Nautique Hague,2024
+147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,2023-10-14,2023-10-21,Scotland,2,290168,Men,Men,https://liveheats.com/events/147529,live heats,Men,290168,Tiree Wave Classic,2023
+147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,2023-10-14,2023-10-21,Scotland,2,290169,Women,Women,https://liveheats.com/events/147529,live heats,Women,290169,Tiree Wave Classic,2023
+147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,2023-10-14,2023-10-21,Scotland,2,290170,Junior Boys,Men,https://liveheats.com/events/147529,live heats,Junior Boys,290170,Tiree Wave Classic,2023
+147529,Scotland: 2 STAR Tiree Wave Classic,Results Published,7,2023-10-14,2023-10-21,Scotland,2,290171,Masters,,https://liveheats.com/events/147529,live heats,Masters,290171,Tiree Wave Classic,2023
+181652,HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final,Results Published,13,2023-10-22,2023-11-04,Hawaii,5,343314,Men,Men,https://liveheats.com/events/181652,live heats,Men,343314,Maui Strong Aloha Classic Grand Final,2023
+181652,HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final,Results Published,13,2023-10-22,2023-11-04,Hawaii,5,343315,Women,Women,https://liveheats.com/events/181652,live heats,Women,343315,Maui Strong Aloha Classic Grand Final,2023
+181652,HAWAII: 5 STAR Maui Strong Aloha Classic Grand Final,Results Published,13,2023-10-22,2023-11-04,Hawaii,5,343317,Masters,,https://liveheats.com/events/181652,live heats,Masters,343317,Maui Strong Aloha Classic Grand Final,2023
+147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,2024-02-02,2024-02-05,Australia,2,290222,Men,Men,https://liveheats.com/events/147592,live heats,Men,290222,North Windsurfing East Coast Titles. Sydney,2024
+147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,2024-02-02,2024-02-05,Australia,2,290223,Women,Women,https://liveheats.com/events/147592,live heats,Women,290223,North Windsurfing East Coast Titles. Sydney,2024
+147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,2024-02-02,2024-02-05,Australia,2,290225,Masters,,https://liveheats.com/events/147592,live heats,Masters,290225,North Windsurfing East Coast Titles. Sydney,2024
+147592,Australia: 2 STAR North Windsurfing East Coast Titles. Sydney,Results Published,3,2024-02-02,2024-02-05,Australia,2,290226,Open AM,,https://liveheats.com/events/147592,live heats,Open AM,290226,North Windsurfing East Coast Titles. Sydney,2024
+187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,2024-10-11,2024-10-18,Scotland,3,353317,Men,Men,https://liveheats.com/events/187570,live heats,Men,353317,Tiree Wave Classic,2024
+187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,2024-10-11,2024-10-18,Scotland,3,353318,Women,Women,https://liveheats.com/events/187570,live heats,Women,353318,Tiree Wave Classic,2024
+187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,2024-10-11,2024-10-18,Scotland,3,353319,Junior Boys,Men,https://liveheats.com/events/187570,live heats,Junior Boys,353319,Tiree Wave Classic,2024
+187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,2024-10-11,2024-10-18,Scotland,3,353320,Masters,,https://liveheats.com/events/187570,live heats,Masters,353320,Tiree Wave Classic,2024
+187570,Scotland: 3 STAR Tiree Wave Classic,Results Published,7,2024-10-11,2024-10-18,Scotland,3,353321,Junior Girls,Women,https://liveheats.com/events/187570,live heats,Junior Girls,353321,Tiree Wave Classic,2024
+118319,CHILE: 4 STAR SURAZO Infernal - Women,Results Published,9,2023-03-25,2023-04-03,Chile,4,248203,Women,Women,https://liveheats.com/events/118319,live heats,Women,248203,SURAZO Infernal - Women,2023
+117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,2023-03-16,2023-03-22,Japan,5,247081,Men,Men,https://liveheats.com/events/117362,live heats,Men,247081,SPICARE Omaezaki Japan Cup - OPEN PRO,2023
+117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,2023-03-16,2023-03-22,Japan,5,247082,Women,Women,https://liveheats.com/events/117362,live heats,Women,247082,SPICARE Omaezaki Japan Cup - OPEN PRO,2023
+117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,2023-03-16,2023-03-22,Japan,5,247083,Junior Boys,Men,https://liveheats.com/events/117362,live heats,Junior Boys,247083,SPICARE Omaezaki Japan Cup - OPEN PRO,2023
+117362,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - OPEN PRO,Results Published,6,2023-03-16,2023-03-22,Japan,5,247084,Masters,,https://liveheats.com/events/117362,live heats,Masters,247084,SPICARE Omaezaki Japan Cup - OPEN PRO,2023
+118385,CHILE: 4 STAR SURAZO Infernal - Masters & Youth,Results Published,9,2023-03-25,2023-04-03,Chile,4,248368,Masters,,https://liveheats.com/events/118385,live heats,Masters,248368,SURAZO Infernal - Masters & Youth,2023
+118385,CHILE: 4 STAR SURAZO Infernal - Masters & Youth,Results Published,9,2023-03-25,2023-04-03,Chile,4,248369,Junior Boys,Men,https://liveheats.com/events/118385,live heats,Junior Boys,248369,SURAZO Infernal - Masters & Youth,2023
+118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,2023-03-16,2023-03-22,Japan,5,248731,Women,Women,https://liveheats.com/events/118715,live heats,Women,248731,SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,2023
+118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,2023-03-16,2023-03-22,Japan,5,248732,Junior Boys,Men,https://liveheats.com/events/118715,live heats,Junior Boys,248732,SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,2023
+118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,2023-03-16,2023-03-22,Japan,5,248733,Masters,,https://liveheats.com/events/118715,live heats,Masters,248733,SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,2023
+118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,2023-03-16,2023-03-22,Japan,5,253879,U15 Girls,Women,https://liveheats.com/events/118715,live heats,U15 Girls,253879,SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,2023
+118715,JAPAN: 5 STAR 2023 SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,Results Published,6,2023-03-16,2023-03-22,Japan,5,253880,U15 Boys,Men,https://liveheats.com/events/118715,live heats,U15 Boys,253880,SPICARE Omaezaki Japan Cup - WOMEN.Youth.Masters,2023
+147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,2023-11-11,2023-11-20,Australia,2,290217,Men,Men,https://liveheats.com/events/147591,live heats,Men,290217,Severne Wavesailing Nationals,2023
+147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,2023-11-11,2023-11-20,Australia,2,290218,Women,Women,https://liveheats.com/events/147591,live heats,Women,290218,Severne Wavesailing Nationals,2023
+147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,2023-11-11,2023-11-20,Australia,2,290219,Junior Boys,Men,https://liveheats.com/events/147591,live heats,Junior Boys,290219,Severne Wavesailing Nationals,2023
+147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,2023-11-11,2023-11-20,Australia,2,290220,Masters,,https://liveheats.com/events/147591,live heats,Masters,290220,Severne Wavesailing Nationals,2023
+147591,Australia: 2 STAR Severne Wavesailing Nationals,Results Published,9,2023-11-11,2023-11-20,Australia,2,316788,Junior Girls,Women,https://liveheats.com/events/147591,live heats,Junior Girls,316788,Severne Wavesailing Nationals,2023
+187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,2024-03-31,2024-04-12,Chile,5,353294,Women,Women,https://liveheats.com/events/187563,live heats,Women,353294,Surazo Infernal World Cup,2024
+187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,2024-03-31,2024-04-12,Chile,5,353295,Men,Men,https://liveheats.com/events/187563,live heats,Men,353295,Surazo Infernal World Cup,2024
+187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,2024-03-31,2024-04-12,Chile,5,353296,Masters,,https://liveheats.com/events/187563,live heats,Masters,353296,Surazo Infernal World Cup,2024
+187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,2024-03-31,2024-04-12,Chile,5,402097,Pro Junior GIrls,Women,https://liveheats.com/events/187563,live heats,Pro Junior GIrls,402097,Surazo Infernal World Cup,2024
+187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,2024-03-31,2024-04-12,Chile,5,353297,Junior Girls,Women,https://liveheats.com/events/187563,live heats,Junior Girls,353297,Surazo Infernal World Cup,2024
+187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,2024-03-31,2024-04-12,Chile,5,402098,Pro Junior Boys,Men,https://liveheats.com/events/187563,live heats,Pro Junior Boys,402098,Surazo Infernal World Cup,2024
+187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,2024-03-31,2024-04-12,Chile,5,353298,Junior Boys,Men,https://liveheats.com/events/187563,live heats,Junior Boys,353298,Surazo Infernal World Cup,2024
+187563,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,12,2024-03-31,2024-04-12,Chile,5,407963,Open AM,,https://liveheats.com/events/187563,live heats,Open AM,407963,Surazo Infernal World Cup,2024
+350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,2025-08-08,2025-08-11,Ireland,2,637801,Women,Women,https://liveheats.com/events/350012,live heats,Women,637801,Magheroarty Classic,2025
+350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,2025-08-08,2025-08-11,Ireland,2,637802,Men,Men,https://liveheats.com/events/350012,live heats,Men,637802,Magheroarty Classic,2025
+350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,2025-08-08,2025-08-11,Ireland,2,637803,Masters,,https://liveheats.com/events/350012,live heats,Masters,637803,Magheroarty Classic,2025
+350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,2025-08-08,2025-08-11,Ireland,2,637804,Pro Junior GIrls,Women,https://liveheats.com/events/350012,live heats,Pro Junior GIrls,637804,Magheroarty Classic,2025
+350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,2025-08-08,2025-08-11,Ireland,2,637805,Pro Junior Boys,Men,https://liveheats.com/events/350012,live heats,Pro Junior Boys,637805,Magheroarty Classic,2025
+350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,2025-08-08,2025-08-11,Ireland,2,637806,Junior Girls,Women,https://liveheats.com/events/350012,live heats,Junior Girls,637806,Magheroarty Classic,2025
+350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,2025-08-08,2025-08-11,Ireland,2,637807,Junior Boys,Men,https://liveheats.com/events/350012,live heats,Junior Boys,637807,Magheroarty Classic,2025
+350012,Ireland: 2 STAR Magheroarty Classic,Scheduled,3,2025-08-08,2025-08-11,Ireland,2,637808,OPEN,,https://liveheats.com/events/350012,live heats,OPEN,637808,Magheroarty Classic,2025
+322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,2024-12-26,2024-12-29,Japan,2,586057,Pro Junior Boys,Men,https://liveheats.com/events/322589,live heats,Pro Junior Boys,586057,JWA Junior Wave,2024
+322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,2024-12-26,2024-12-29,Japan,2,586058,Pro Junior GIrls,Women,https://liveheats.com/events/322589,live heats,Pro Junior GIrls,586058,JWA Junior Wave,2024
+322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,2024-12-26,2024-12-29,Japan,2,586059,Junior Boys,Men,https://liveheats.com/events/322589,live heats,Junior Boys,586059,JWA Junior Wave,2024
+322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,2024-12-26,2024-12-29,Japan,2,586060,Junior Girls,Women,https://liveheats.com/events/322589,live heats,Junior Girls,586060,JWA Junior Wave,2024
+322589,Japan: 2 STAR JWA Junior Wave ,Results Published,3,2024-12-26,2024-12-29,Japan,2,586061,U15,,https://liveheats.com/events/322589,live heats,U15,586061,JWA Junior Wave,2024
+72487,Australia: 2 STAR Sydney Classic,Results Published,3,2022-12-10,2022-12-13,Australia,2,168245,Men,Men,https://liveheats.com/events/72487,live heats,Men,168245,Sydney Classic,2022
+72487,Australia: 2 STAR Sydney Classic,Results Published,3,2022-12-10,2022-12-13,Australia,2,168246,Women,Women,https://liveheats.com/events/72487,live heats,Women,168246,Sydney Classic,2022
+72487,Australia: 2 STAR Sydney Classic,Results Published,3,2022-12-10,2022-12-13,Australia,2,168247,Junior Boys,Men,https://liveheats.com/events/72487,live heats,Junior Boys,168247,Sydney Classic,2022
+72487,Australia: 2 STAR Sydney Classic,Results Published,3,2022-12-10,2022-12-13,Australia,2,168248,Masters,,https://liveheats.com/events/72487,live heats,Masters,168248,Sydney Classic,2022
+72487,Australia: 2 STAR Sydney Classic,Results Published,3,2022-12-10,2022-12-13,Australia,2,293481,Junior Girls,Women,https://liveheats.com/events/72487,live heats,Junior Girls,293481,Sydney Classic,2022
+270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,2024-08-03,2024-08-18,Spain,,471651,Masters,,https://liveheats.com/events/270681,live heats,Masters,471651,Tenerife World Cup,2024
+270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,2024-08-03,2024-08-18,Spain,,471652,Junior Girls,Women,https://liveheats.com/events/270681,live heats,Junior Girls,471652,Tenerife World Cup,2024
+270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,2024-08-03,2024-08-18,Spain,,471653,Junior Boys,Men,https://liveheats.com/events/270681,live heats,Junior Boys,471653,Tenerife World Cup,2024
+270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,2024-08-03,2024-08-18,Spain,,471654,Pro Junior GIrls,Women,https://liveheats.com/events/270681,live heats,Pro Junior GIrls,471654,Tenerife World Cup,2024
+270681,SPAIN: 100% Masters Juniors Tenerife Classic World Cup,Results Published,15,2024-08-03,2024-08-18,Spain,,471655,Pro Junior Boys,Men,https://liveheats.com/events/270681,live heats,Pro Junior Boys,471655,Tenerife World Cup,2024
+81590,Japan: 2 STAR Winter Cup,Results Published,2,2023-02-04,2023-02-06,Japan,2,186163,Men,Men,https://liveheats.com/events/81590,live heats,Men,186163,Winter Cup,2023
+81590,Japan: 2 STAR Winter Cup,Results Published,2,2023-02-04,2023-02-06,Japan,2,186164,Women,Women,https://liveheats.com/events/81590,live heats,Women,186164,Winter Cup,2023
+81590,Japan: 2 STAR Winter Cup,Results Published,2,2023-02-04,2023-02-06,Japan,2,186165,Junior Boys,Men,https://liveheats.com/events/81590,live heats,Junior Boys,186165,Winter Cup,2023
+81590,Japan: 2 STAR Winter Cup,Results Published,2,2023-02-04,2023-02-06,Japan,2,293486,Junior Girls,Women,https://liveheats.com/events/81590,live heats,Junior Girls,293486,Winter Cup,2023
+81590,Japan: 2 STAR Winter Cup,Results Published,2,2023-02-04,2023-02-06,Japan,2,186166,Masters,,https://liveheats.com/events/81590,live heats,Masters,186166,Winter Cup,2023
+268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,2025-01-17,2025-01-20,Chile,2,467766,Women,Women,https://liveheats.com/events/268537,live heats,Women,467766,Llico Historico Vichuquen,2025
+268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,2025-01-17,2025-01-20,Chile,2,467767,Men,Men,https://liveheats.com/events/268537,live heats,Men,467767,Llico Historico Vichuquen,2025
+268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,2025-01-17,2025-01-20,Chile,2,467768,Masters,,https://liveheats.com/events/268537,live heats,Masters,467768,Llico Historico Vichuquen,2025
+268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,2025-01-17,2025-01-20,Chile,2,467769,Pro Junior GIrls,Women,https://liveheats.com/events/268537,live heats,Pro Junior GIrls,467769,Llico Historico Vichuquen,2025
+268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,2025-01-17,2025-01-20,Chile,2,467770,Pro Junior Boys,Men,https://liveheats.com/events/268537,live heats,Pro Junior Boys,467770,Llico Historico Vichuquen,2025
+268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,2025-01-17,2025-01-20,Chile,2,467771,Junior Girls,Women,https://liveheats.com/events/268537,live heats,Junior Girls,467771,Llico Historico Vichuquen,2025
+268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,2025-01-17,2025-01-20,Chile,2,467772,Junior Boys,Men,https://liveheats.com/events/268537,live heats,Junior Boys,467772,Llico Historico Vichuquen,2025
+268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,2025-01-17,2025-01-20,Chile,2,587986,Open AM,,https://liveheats.com/events/268537,live heats,Open AM,587986,Llico Historico Vichuquen,2025
+268537,Chile: 2 STAR Llico Historico Vichuquen,Results Published,3,2025-01-17,2025-01-20,Chile,2,587987,Grand Masters,,https://liveheats.com/events/268537,live heats,Grand Masters,587987,Llico Historico Vichuquen,2025
+263420,France: 3 STAR Wissant Wave Classic,Results Published,2,2024-12-20,2024-12-22,France,3,460767,Women,Women,https://liveheats.com/events/263420,live heats,Women,460767,Wissant Wave Classic,2024
+263420,France: 3 STAR Wissant Wave Classic,Results Published,2,2024-12-20,2024-12-22,France,3,460768,Men,Men,https://liveheats.com/events/263420,live heats,Men,460768,Wissant Wave Classic,2024
+263420,France: 3 STAR Wissant Wave Classic,Results Published,2,2024-12-20,2024-12-22,France,3,460770,Pro Junior GIrls,Women,https://liveheats.com/events/263420,live heats,Pro Junior GIrls,460770,Wissant Wave Classic,2024
+263420,France: 3 STAR Wissant Wave Classic,Results Published,2,2024-12-20,2024-12-22,France,3,460771,Pro Junior Boys,Men,https://liveheats.com/events/263420,live heats,Pro Junior Boys,460771,Wissant Wave Classic,2024
+263420,France: 3 STAR Wissant Wave Classic,Results Published,2,2024-12-20,2024-12-22,France,3,460772,Junior Boys,Men,https://liveheats.com/events/263420,live heats,Junior Boys,460772,Wissant Wave Classic,2024
+263420,France: 3 STAR Wissant Wave Classic,Results Published,2,2024-12-20,2024-12-22,France,3,460773,Junior Girls,Women,https://liveheats.com/events/263420,live heats,Junior Girls,460773,Wissant Wave Classic,2024
+263420,France: 3 STAR Wissant Wave Classic,Results Published,2,2024-12-20,2024-12-22,France,3,460769,Masters,,https://liveheats.com/events/263420,live heats,Masters,460769,Wissant Wave Classic,2024
+221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,2024-04-13,2024-04-30,Argentina,2,410348,Women,Women,https://liveheats.com/events/221942,live heats,Women,410348,Mar Del Plata,2024
+221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,2024-04-13,2024-04-30,Argentina,2,410349,Men,Men,https://liveheats.com/events/221942,live heats,Men,410349,Mar Del Plata,2024
+221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,2024-04-13,2024-04-30,Argentina,2,410350,Masters,,https://liveheats.com/events/221942,live heats,Masters,410350,Mar Del Plata,2024
+221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,2024-04-13,2024-04-30,Argentina,2,410351,Junior Girls,Women,https://liveheats.com/events/221942,live heats,Junior Girls,410351,Mar Del Plata,2024
+221942,Argentina : 2 Star Mar Del Plata ,Results Published,17,2024-04-13,2024-04-30,Argentina,2,410352,Junior Boys,Men,https://liveheats.com/events/221942,live heats,Junior Boys,410352,Mar Del Plata,2024
+220652,Japan: 2 STAR All Japan,Results Published,2,2024-01-05,2024-01-07,Japan,2,408830,Men,Men,https://liveheats.com/events/220652,live heats,Men,408830,All Japan,2024
+220652,Japan: 2 STAR All Japan,Results Published,2,2024-01-05,2024-01-07,Japan,2,408831,Women,Women,https://liveheats.com/events/220652,live heats,Women,408831,All Japan,2024
+216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,2024-08-31,2024-11-30,Germany,2,402758,Women,Women,https://liveheats.com/events/216630,live heats,Women,402758,German Wave Tour Event #2,2024
+216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,2024-08-31,2024-11-30,Germany,2,402759,Men,Men,https://liveheats.com/events/216630,live heats,Men,402759,German Wave Tour Event #2,2024
+216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,2024-08-31,2024-11-30,Germany,2,402760,Masters,,https://liveheats.com/events/216630,live heats,Masters,402760,German Wave Tour Event #2,2024
+216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,2024-08-31,2024-11-30,Germany,2,402761,Junior Girls,Women,https://liveheats.com/events/216630,live heats,Junior Girls,402761,German Wave Tour Event #2,2024
+216630,Germany : 2 Star German Wave Tour Event #2,Finished,91,2024-08-31,2024-11-30,Germany,2,402762,Junior Boys,Men,https://liveheats.com/events/216630,live heats,Junior Boys,402762,German Wave Tour Event #2,2024
+187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,2024-10-16,2024-10-20,Denmark,3,353351,Junior Boys,Men,https://liveheats.com/events/187577,live heats,Junior Boys,353351,EUROPEAN REGIONAL FINAL Danish Open Wave Championships,2024
+187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,2024-10-16,2024-10-20,Denmark,3,353352,Junior Girls,Women,https://liveheats.com/events/187577,live heats,Junior Girls,353352,EUROPEAN REGIONAL FINAL Danish Open Wave Championships,2024
+187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,2024-10-16,2024-10-20,Denmark,3,353353,U17 Girls,Women,https://liveheats.com/events/187577,live heats,U17 Girls,353353,EUROPEAN REGIONAL FINAL Danish Open Wave Championships,2024
+187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,2024-10-16,2024-10-20,Denmark,3,353354,U17 Boys,Men,https://liveheats.com/events/187577,live heats,U17 Boys,353354,EUROPEAN REGIONAL FINAL Danish Open Wave Championships,2024
+187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,2024-10-16,2024-10-20,Denmark,3,353355,U15 Girls,Women,https://liveheats.com/events/187577,live heats,U15 Girls,353355,EUROPEAN REGIONAL FINAL Danish Open Wave Championships,2024
+187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,2024-10-16,2024-10-20,Denmark,3,353356,U15 Boys,Men,https://liveheats.com/events/187577,live heats,U15 Boys,353356,EUROPEAN REGIONAL FINAL Danish Open Wave Championships,2024
+187577,Denmark: 3 STAR EUROPEAN REGIONAL FINAL Danish Open Wave Championships,Cancelled,4,2024-10-16,2024-10-20,Denmark,3,353357,U13,,https://liveheats.com/events/187577,live heats,U13,353357,EUROPEAN REGIONAL FINAL Danish Open Wave Championships,2024
+187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,2024-10-24,2024-10-28,New Zealand,1,353341,Women,Women,https://liveheats.com/events/187575,live heats,Women,353341,Taranki Wave Classic,2024
+187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,2024-10-24,2024-10-28,New Zealand,1,353342,Men,Men,https://liveheats.com/events/187575,live heats,Men,353342,Taranki Wave Classic,2024
+187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,2024-10-24,2024-10-28,New Zealand,1,353343,Masters,,https://liveheats.com/events/187575,live heats,Masters,353343,Taranki Wave Classic,2024
+187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,2024-10-24,2024-10-28,New Zealand,1,353344,Junior Girls,Women,https://liveheats.com/events/187575,live heats,Junior Girls,353344,Taranki Wave Classic,2024
+187575,New Zealand: 1 STAR Taranki Wave Classic,Finished,4,2024-10-24,2024-10-28,New Zealand,1,353345,Junior Boys,Men,https://liveheats.com/events/187575,live heats,Junior Boys,353345,Taranki Wave Classic,2024
+172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,2023-09-29,2023-10-02,Australia 2 Star Woolgoolga Classic Nsw,2,327546,Men,Men,https://liveheats.com/events/172539,live heats,Men,327546,Woolgoolga Classic NSW,2023
+172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,2023-09-29,2023-10-02,Australia 2 Star Woolgoolga Classic Nsw,2,327547,Women,Women,https://liveheats.com/events/172539,live heats,Women,327547,Woolgoolga Classic NSW,2023
+172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,2023-09-29,2023-10-02,Australia 2 Star Woolgoolga Classic Nsw,2,327548,Masters,,https://liveheats.com/events/172539,live heats,Masters,327548,Woolgoolga Classic NSW,2023
+172539,Australia 2 STAR Woolgoolga Classic NSW,Results Published,3,2023-09-29,2023-10-02,Australia 2 Star Woolgoolga Classic Nsw,2,327549,Junior Boys,Men,https://liveheats.com/events/172539,live heats,Junior Boys,327549,Woolgoolga Classic NSW,2023
+117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,2023-04-01,2023-04-09,Morocco,2,247047,Men,Men,https://liveheats.com/events/117330,live heats,Men,247047,Wave Classic Moulay,2023
+117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,2023-04-01,2023-04-09,Morocco,2,247048,Women,Women,https://liveheats.com/events/117330,live heats,Women,247048,Wave Classic Moulay,2023
+117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,2023-04-01,2023-04-09,Morocco,2,247049,Junior Boys,Men,https://liveheats.com/events/117330,live heats,Junior Boys,247049,Wave Classic Moulay,2023
+117330,Morocco: 2 STAR Wave Classic Moulay,Results Published,8,2023-04-01,2023-04-09,Morocco,2,247050,Masters,,https://liveheats.com/events/117330,live heats,Masters,247050,Wave Classic Moulay,2023
+117333,GERMANY: 5 STAR Sylt World Cup,Results Published,10,2023-09-22,2023-10-02,Germany,5,247060,Men,Men,https://liveheats.com/events/117333,live heats,Men,247060,Sylt World Cup,2023
+117333,GERMANY: 5 STAR Sylt World Cup,Results Published,10,2023-09-22,2023-10-02,Germany,5,247061,Women,Women,https://liveheats.com/events/117333,live heats,Women,247061,Sylt World Cup,2023
+187553,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,2024-04-26,2024-05-04,Morocco,3,353242,Women,Women,https://liveheats.com/events/187553,live heats,Women,353242,Moulay Wave Classic,2024
+187553,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,2024-04-26,2024-05-04,Morocco,3,353243,Men,Men,https://liveheats.com/events/187553,live heats,Men,353243,Moulay Wave Classic,2024
+187553,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,2024-04-26,2024-05-04,Morocco,3,353244,Masters,,https://liveheats.com/events/187553,live heats,Masters,353244,Moulay Wave Classic,2024
+187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,2024-01-20,2024-01-21,Guadeloupe,2,353279,Women,Women,https://liveheats.com/events/187560,live heats,Women,353279,King Of Moule,2024
+187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,2024-01-20,2024-01-21,Guadeloupe,2,353280,Men,Men,https://liveheats.com/events/187560,live heats,Men,353280,King Of Moule,2024
+187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,2024-01-20,2024-01-21,Guadeloupe,2,353281,Masters,,https://liveheats.com/events/187560,live heats,Masters,353281,King Of Moule,2024
+187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,2024-01-20,2024-01-21,Guadeloupe,2,353282,Junior Girls,Women,https://liveheats.com/events/187560,live heats,Junior Girls,353282,King Of Moule,2024
+187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,2024-01-20,2024-01-21,Guadeloupe,2,353283,Junior Boys,Men,https://liveheats.com/events/187560,live heats,Junior Boys,353283,King Of Moule,2024
+187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,2024-01-20,2024-01-21,Guadeloupe,2,400435,Pro Junior GIrls,Women,https://liveheats.com/events/187560,live heats,Pro Junior GIrls,400435,King Of Moule,2024
+187560,Guadeloupe: 2 STAR King Of Moule,Results Published,1,2024-01-20,2024-01-21,Guadeloupe,2,400436,Pro Junior Boys,Men,https://liveheats.com/events/187560,live heats,Pro Junior Boys,400436,King Of Moule,2024
+214686,GERMANY: 5 STAR Sylt World Cup MEN,Results Published,12,2023-09-21,2023-10-03,Germany,5,400442,Women,Women,https://liveheats.com/events/214686,live heats,Women,400442,Sylt World Cup MEN,2023
+214686,GERMANY: 5 STAR Sylt World Cup MEN,Results Published,12,2023-09-21,2023-10-03,Germany,5,400473,Men,Men,https://liveheats.com/events/214686,live heats,Men,400473,Sylt World Cup MEN,2023
+165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,2024-01-31,2024-03-31,Israel,2,316791,Men,Men,https://liveheats.com/events/165509,live heats,Men,316791,Znavot Wave Classic - Chemical Riders,2024
+165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,2024-01-31,2024-03-31,Israel,2,316792,Women,Women,https://liveheats.com/events/165509,live heats,Women,316792,Znavot Wave Classic - Chemical Riders,2024
+165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,2024-01-31,2024-03-31,Israel,2,390433,Pro Junior Boys,Men,https://liveheats.com/events/165509,live heats,Pro Junior Boys,390433,Znavot Wave Classic - Chemical Riders,2024
+165509,Israel: 2 STAR Znavot Wave Classic - Chemical Riders,Results Published,60,2024-01-31,2024-03-31,Israel,2,316793,Masters,,https://liveheats.com/events/165509,live heats,Masters,316793,Znavot Wave Classic - Chemical Riders,2024
+72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,2023-08-26,2023-09-05,Peru,4,168205,Men,Men,https://liveheats.com/events/72454,live heats,Men,168205,Pacasmayo Classic,2023
+72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,2023-08-26,2023-09-05,Peru,4,168206,Women,Women,https://liveheats.com/events/72454,live heats,Women,168206,Pacasmayo Classic,2023
+72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,2023-08-26,2023-09-05,Peru,4,168208,Masters,,https://liveheats.com/events/72454,live heats,Masters,168208,Pacasmayo Classic,2023
+72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,2023-08-26,2023-09-05,Peru,4,168210,Open AM,,https://liveheats.com/events/72454,live heats,Open AM,168210,Pacasmayo Classic,2023
+72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,2023-08-26,2023-09-05,Peru,4,310717,Pro Men's Trials ,Men,https://liveheats.com/events/72454,live heats,Pro Men's Trials ,310717,Pacasmayo Classic,2023
+72454,PERU: 4 STAR Pacasmayo Classic,Results Published,10,2023-08-26,2023-09-05,Peru,4,310719,Open Juniors U20,,https://liveheats.com/events/72454,live heats,Open Juniors U20,310719,Pacasmayo Classic,2023
+187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,2024-02-18,2024-02-25,Japan,5,353289,Women,Women,https://liveheats.com/events/187562,live heats,Women,353289,SPiCARE Omaezaki Japan World Cup,2024
+187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,2024-02-18,2024-02-25,Japan,5,353290,Men,Men,https://liveheats.com/events/187562,live heats,Men,353290,SPiCARE Omaezaki Japan World Cup,2024
+187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,2024-02-18,2024-02-25,Japan,5,353291,Masters,,https://liveheats.com/events/187562,live heats,Masters,353291,SPiCARE Omaezaki Japan World Cup,2024
+187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,2024-02-18,2024-02-25,Japan,5,400714,Pro Junior GIrls,Women,https://liveheats.com/events/187562,live heats,Pro Junior GIrls,400714,SPiCARE Omaezaki Japan World Cup,2024
+187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,2024-02-18,2024-02-25,Japan,5,400715,Pro Junior Boys,Men,https://liveheats.com/events/187562,live heats,Pro Junior Boys,400715,SPiCARE Omaezaki Japan World Cup,2024
+187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,2024-02-18,2024-02-25,Japan,5,353292,Junior Girls,Women,https://liveheats.com/events/187562,live heats,Junior Girls,353292,SPiCARE Omaezaki Japan World Cup,2024
+187562,JAPAN: 5 STAR SPiCARE Omaezaki Japan World Cup,Results Published,7,2024-02-18,2024-02-25,Japan,5,353293,Junior Boys,Men,https://liveheats.com/events/187562,live heats,Junior Boys,353293,SPiCARE Omaezaki Japan World Cup,2024
+214877,Germany: 2 Star The German Wave Tour ,Results Published,5,2023-06-11,2023-06-16,Germany,2,400732,Women,Women,https://liveheats.com/events/214877,live heats,Women,400732,The German Wave Tour,2023
+214877,Germany: 2 Star The German Wave Tour ,Results Published,5,2023-06-11,2023-06-16,Germany,2,400733,Men,Men,https://liveheats.com/events/214877,live heats,Men,400733,The German Wave Tour,2023
+214877,Germany: 2 Star The German Wave Tour ,Results Published,5,2023-06-11,2023-06-16,Germany,2,400734,Pro Junior GIrls,Women,https://liveheats.com/events/214877,live heats,Pro Junior GIrls,400734,The German Wave Tour,2023
+214877,Germany: 2 Star The German Wave Tour ,Results Published,5,2023-06-11,2023-06-16,Germany,2,400735,Pro Junior Boys,Men,https://liveheats.com/events/214877,live heats,Pro Junior Boys,400735,The German Wave Tour,2023
+361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,2025-07-11,2025-11-03,Finalnd,2,656149,Men,Men,https://liveheats.com/events/361991,live heats,Men,656149,Surfsport Wave Champs,2025
+361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,2025-07-11,2025-11-03,Finalnd,2,656150,Women,Women,https://liveheats.com/events/361991,live heats,Women,656150,Surfsport Wave Champs,2025
+361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,2025-07-11,2025-11-03,Finalnd,2,656151,Masters,,https://liveheats.com/events/361991,live heats,Masters,656151,Surfsport Wave Champs,2025
+361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,2025-07-11,2025-11-03,Finalnd,2,656152,Junior Boys,Men,https://liveheats.com/events/361991,live heats,Junior Boys,656152,Surfsport Wave Champs,2025
+361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,2025-07-11,2025-11-03,Finalnd,2,656153,Junior Girls,Women,https://liveheats.com/events/361991,live heats,Junior Girls,656153,Surfsport Wave Champs,2025
+361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,2025-07-11,2025-11-03,Finalnd,2,656154,Pro Junior Boys,Men,https://liveheats.com/events/361991,live heats,Pro Junior Boys,656154,Surfsport Wave Champs,2025
+361991,FINALND: 2 STAR Surfsport Wave Champs,Scheduled,115,2025-07-11,2025-11-03,Finalnd,2,656155,Pro Junior GIrls,Women,https://liveheats.com/events/361991,live heats,Pro Junior GIrls,656155,Surfsport Wave Champs,2025
+72455,HAWAII: detail heat results,Results Published,13,2023-10-23,2023-11-05,Hawaii,,168211,Men,Men,https://liveheats.com/events/72455,live heats,Men,168211,detail heat results,2023
+72455,HAWAII: detail heat results,Results Published,13,2023-10-23,2023-11-05,Hawaii,,168212,Women,Women,https://liveheats.com/events/72455,live heats,Women,168212,detail heat results,2023
+72455,HAWAII: detail heat results,Results Published,13,2023-10-23,2023-11-05,Hawaii,,168213,Junior Boys,Men,https://liveheats.com/events/72455,live heats,Junior Boys,168213,detail heat results,2023
+72455,HAWAII: detail heat results,Results Published,13,2023-10-23,2023-11-05,Hawaii,,168214,Masters,,https://liveheats.com/events/72455,live heats,Masters,168214,detail heat results,2023
+72455,HAWAII: detail heat results,Results Published,13,2023-10-23,2023-11-05,Hawaii,,336314,Pro Women's Trials,Women,https://liveheats.com/events/72455,live heats,Pro Women's Trials,336314,detail heat results,2023
+72455,HAWAII: detail heat results,Results Published,13,2023-10-23,2023-11-05,Hawaii,,336874,Pro Men Trials,Men,https://liveheats.com/events/72455,live heats,Pro Men Trials,336874,detail heat results,2023
+72455,HAWAII: detail heat results,Results Published,13,2023-10-23,2023-11-05,Hawaii,,338059,Pro Men's Double,Men,https://liveheats.com/events/72455,live heats,Pro Men's Double,338059,detail heat results,2023
+72455,HAWAII: detail heat results,Results Published,13,2023-10-23,2023-11-05,Hawaii,,338060,Pro Women's Double,Women,https://liveheats.com/events/72455,live heats,Pro Women's Double,338060,detail heat results,2023
+72455,HAWAII: detail heat results,Results Published,13,2023-10-23,2023-11-05,Hawaii,,338128,Masters Single,,https://liveheats.com/events/72455,live heats,Masters Single,338128,detail heat results,2023
+187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,2024-10-21,2024-11-02,Hawai'I,5,353315,Women,Women,https://liveheats.com/events/187569,live heats,Women,353315,Aloha Classic GRAND FINAL,2024
+187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,2024-10-21,2024-11-02,Hawai'I,5,353316,Men,Men,https://liveheats.com/events/187569,live heats,Men,353316,Aloha Classic GRAND FINAL,2024
+187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,2024-10-21,2024-11-02,Hawai'I,5,474353,Pro Junior Boys,Men,https://liveheats.com/events/187569,live heats,Pro Junior Boys,474353,Aloha Classic GRAND FINAL,2024
+187569,HAWAI'I: 5 STAR Aloha Classic GRAND FINAL,Results Published,12,2024-10-21,2024-11-02,Hawai'I,5,377530,Masters,,https://liveheats.com/events/187569,live heats,Masters,377530,Aloha Classic GRAND FINAL,2024
+321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,2025-10-13,2025-10-25,Hawaii,5,585008,Men,Men,https://liveheats.com/events/321871,live heats,Men,585008,Aloha Classic Grand Final,2025
+321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,2025-10-13,2025-10-25,Hawaii,5,585009,Women,Women,https://liveheats.com/events/321871,live heats,Women,585009,Aloha Classic Grand Final,2025
+321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,2025-10-13,2025-10-25,Hawaii,5,585010,Pro Junior Boys,Men,https://liveheats.com/events/321871,live heats,Pro Junior Boys,585010,Aloha Classic Grand Final,2025
+321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,2025-10-13,2025-10-25,Hawaii,5,585011,Pro Junior GIrls,Women,https://liveheats.com/events/321871,live heats,Pro Junior GIrls,585011,Aloha Classic Grand Final,2025
+321871,HAWAII: 5 STAR Aloha Classic Grand Final,Scheduled,12,2025-10-13,2025-10-25,Hawaii,5,585012,Masters,,https://liveheats.com/events/321871,live heats,Masters,585012,Aloha Classic Grand Final,2025
+321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,2025-08-01,2025-08-11,Spain,5,585000,Men,Men,https://liveheats.com/events/321869,live heats,Men,585000,Tenerife World Cup,2025
+321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,2025-08-01,2025-08-11,Spain,5,585001,Women,Women,https://liveheats.com/events/321869,live heats,Women,585001,Tenerife World Cup,2025
+321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,2025-08-01,2025-08-11,Spain,5,585002,Pro Junior Boys,Men,https://liveheats.com/events/321869,live heats,Pro Junior Boys,585002,Tenerife World Cup,2025
+321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,2025-08-01,2025-08-11,Spain,5,585003,Pro Junior GIrls,Women,https://liveheats.com/events/321869,live heats,Pro Junior GIrls,585003,Tenerife World Cup,2025
+321869,SPAIN: 5 STAR Tenerife World Cup,Scheduled,10,2025-08-01,2025-08-11,Spain,5,585004,Masters,,https://liveheats.com/events/321869,live heats,Masters,585004,Tenerife World Cup,2025
+321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,2025-07-05,2025-07-14,Spain,5,584995,Men,Men,https://liveheats.com/events/321868,live heats,Men,584995,Gran Canaria World Cup,2025
+321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,2025-07-05,2025-07-14,Spain,5,584996,Women,Women,https://liveheats.com/events/321868,live heats,Women,584996,Gran Canaria World Cup,2025
+321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,2025-07-05,2025-07-14,Spain,5,584998,Pro Junior Boys,Men,https://liveheats.com/events/321868,live heats,Pro Junior Boys,584998,Gran Canaria World Cup,2025
+321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,2025-07-05,2025-07-14,Spain,5,584999,Pro Junior GIrls,Women,https://liveheats.com/events/321868,live heats,Pro Junior GIrls,584999,Gran Canaria World Cup,2025
+321868, SPAIN: 5 STAR Gran Canaria World Cup,Scheduled,9,2025-07-05,2025-07-14,Spain,5,584997,Masters,,https://liveheats.com/events/321868,live heats,Masters,584997,Gran Canaria World Cup,2025
+81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,2023-02-25,2023-02-27,Australia,4,186196,Junior Boys,Men,https://liveheats.com/events/81623,live heats,Junior Boys,186196,IWT Youth Wave Titles (YOUTH ONLY),2023
+81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,2023-02-25,2023-02-27,Australia,4,248339,Junior Girls,Women,https://liveheats.com/events/81623,live heats,Junior Girls,248339,IWT Youth Wave Titles (YOUTH ONLY),2023
+81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,2023-02-25,2023-02-27,Australia,4,248336,U17 Boys,Men,https://liveheats.com/events/81623,live heats,U17 Boys,248336,IWT Youth Wave Titles (YOUTH ONLY),2023
+81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,2023-02-25,2023-02-27,Australia,4,248337,U15 Boys,Men,https://liveheats.com/events/81623,live heats,U15 Boys,248337,IWT Youth Wave Titles (YOUTH ONLY),2023
+81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,2023-02-25,2023-02-27,Australia,4,248338,U13,,https://liveheats.com/events/81623,live heats,U13,248338,IWT Youth Wave Titles (YOUTH ONLY),2023
+81623,AUSTRALIA: 4 STAR IWT Youth Wave Titles (YOUTH ONLY),Results Published,2,2023-02-25,2023-02-27,Australia,4,248340,U15 Girls,Women,https://liveheats.com/events/81623,live heats,U15 Girls,248340,IWT Youth Wave Titles (YOUTH ONLY),2023
+187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,2023-12-02,2023-12-04,Chile,2,353274,Women,Women,https://liveheats.com/events/187559,live heats,Women,353274,Sirena Wave Classic,2023
+187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,2023-12-02,2023-12-04,Chile,2,353276,Masters,,https://liveheats.com/events/187559,live heats,Masters,353276,Sirena Wave Classic,2023
+187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,2023-12-02,2023-12-04,Chile,2,363036,Pro Men's Dingle,Men,https://liveheats.com/events/187559,live heats,Pro Men's Dingle,363036,Sirena Wave Classic,2023
+187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,2023-12-02,2023-12-04,Chile,2,363037,U20 Boys,Men,https://liveheats.com/events/187559,live heats,U20 Boys,363037,Sirena Wave Classic,2023
+187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,2023-12-02,2023-12-04,Chile,2,363038,Grand Masters,,https://liveheats.com/events/187559,live heats,Grand Masters,363038,Sirena Wave Classic,2023
+187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,2023-12-02,2023-12-04,Chile,2,363039,Open AM,,https://liveheats.com/events/187559,live heats,Open AM,363039,Sirena Wave Classic,2023
+187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,2023-12-02,2023-12-04,Chile,2,363256,Pro Men's Double,Men,https://liveheats.com/events/187559,live heats,Pro Men's Double,363256,Sirena Wave Classic,2023
+187559,Chile: 2 STAR Sirena Wave Classic,Results Published,2,2023-12-02,2023-12-04,Chile,2,353275,Men,Men,https://liveheats.com/events/187559,live heats,Men,353275,Sirena Wave Classic,2023
+187567,GERMANY: 5 STAR Sylt World Cup,Results Published,10,2024-09-26,2024-10-06,Germany,5,353311,Women,Women,https://liveheats.com/events/187567,live heats,Women,353311,Sylt World Cup,2024
+187567,GERMANY: 5 STAR Sylt World Cup,Results Published,10,2024-09-26,2024-10-06,Germany,5,353312,Men,Men,https://liveheats.com/events/187567,live heats,Men,353312,Sylt World Cup,2024
+199466,SPAIN: 4 STAR TBC Tenerife World Cup,Results Published,7,2024-08-05,2024-08-12,Spain,4,377533,Women,Women,https://liveheats.com/events/199466,live heats,Women,377533,TBC Tenerife World Cup,2024
+199466,SPAIN: 4 STAR TBC Tenerife World Cup,Results Published,7,2024-08-05,2024-08-12,Spain,4,377534,Men,Men,https://liveheats.com/events/199466,live heats,Men,377534,TBC Tenerife World Cup,2024
+72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,2022-12-03,2022-12-12,Chile,2,168178,Men,Men,https://liveheats.com/events/72449,live heats,Men,168178,SIRENA Wave Classic,2022
+72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,2022-12-03,2022-12-12,Chile,2,168179,Women,Women,https://liveheats.com/events/72449,live heats,Women,168179,SIRENA Wave Classic,2022
+72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,2022-12-03,2022-12-12,Chile,2,168180,Junior Boys,Men,https://liveheats.com/events/72449,live heats,Junior Boys,168180,SIRENA Wave Classic,2022
+72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,2022-12-03,2022-12-12,Chile,2,168181,Masters,,https://liveheats.com/events/72449,live heats,Masters,168181,SIRENA Wave Classic,2022
+72449,Chile: 2 STAR SIRENA Wave Classic,Results Published,9,2022-12-03,2022-12-12,Chile,2,293480,Junior Girls,Women,https://liveheats.com/events/72449,live heats,Junior Girls,293480,SIRENA Wave Classic,2022
+74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,2023-01-15,2023-01-30,Guadeloupe,2,172519,Men,Men,https://liveheats.com/events/74629,live heats,Men,172519,Wanalao Wave Classic,2023
+74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,2023-01-15,2023-01-30,Guadeloupe,2,172520,Women,Women,https://liveheats.com/events/74629,live heats,Women,172520,Wanalao Wave Classic,2023
+74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,2023-01-15,2023-01-30,Guadeloupe,2,172521,Junior Boys,Men,https://liveheats.com/events/74629,live heats,Junior Boys,172521,Wanalao Wave Classic,2023
+74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,2023-01-15,2023-01-30,Guadeloupe,2,172522,Masters,,https://liveheats.com/events/74629,live heats,Masters,172522,Wanalao Wave Classic,2023
+74629,Guadeloupe: 2 STAR Wanalao Wave Classic,Results Published,15,2023-01-15,2023-01-30,Guadeloupe,2,293482,Junior Girls,Women,https://liveheats.com/events/74629,live heats,Junior Girls,293482,Wanalao Wave Classic,2023
+74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,2023-02-25,2023-02-27,Puerto.Rico,2,172447,Men,Men,https://liveheats.com/events/74528,live heats,Men,172447,Wind Warriors,2023
+74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,2023-02-25,2023-02-27,Puerto.Rico,2,172450,Masters,,https://liveheats.com/events/74528,live heats,Masters,172450,Wind Warriors,2023
+74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,2023-02-25,2023-02-27,Puerto.Rico,2,172449,Junior Boys,Men,https://liveheats.com/events/74528,live heats,Junior Boys,172449,Wind Warriors,2023
+74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,2023-02-25,2023-02-27,Puerto.Rico,2,293488,Junior Girls,Women,https://liveheats.com/events/74528,live heats,Junior Girls,293488,Wind Warriors,2023
+74528,Puerto.Rico: 2 STAR Wind Warriors,Results Published,2,2023-02-25,2023-02-27,Puerto.Rico,2,172448,Women,Women,https://liveheats.com/events/74528,live heats,Women,172448,Wind Warriors,2023
+72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,2023-02-04,2023-02-13,Australia,2,168251,Men,Men,https://liveheats.com/events/72488,live heats,Men,168251,SEVERNE East Coast Titles,2023
+72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,2023-02-04,2023-02-13,Australia,2,168252,Women,Women,https://liveheats.com/events/72488,live heats,Women,168252,SEVERNE East Coast Titles,2023
+72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,2023-02-04,2023-02-13,Australia,2,168253,Junior Boys,Men,https://liveheats.com/events/72488,live heats,Junior Boys,168253,SEVERNE East Coast Titles,2023
+72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,2023-02-04,2023-02-13,Australia,2,168254,Masters,,https://liveheats.com/events/72488,live heats,Masters,168254,SEVERNE East Coast Titles,2023
+72488,Australia: 2 STAR SEVERNE East Coast Titles ,Results Published,9,2023-02-04,2023-02-13,Australia,2,293485,Junior Girls,Women,https://liveheats.com/events/72488,live heats,Junior Girls,293485,SEVERNE East Coast Titles,2023
+74628,Taiwan: 1 STAR Wave Jam ,Results Published,10,2022-11-18,2022-11-28,Taiwan,1,172513,Men,Men,https://liveheats.com/events/74628,live heats,Men,172513,Wave Jam,2022
+74628,Taiwan: 1 STAR Wave Jam ,Results Published,10,2022-11-18,2022-11-28,Taiwan,1,172514,Women,Women,https://liveheats.com/events/74628,live heats,Women,172514,Wave Jam,2022
+74628,Taiwan: 1 STAR Wave Jam ,Results Published,10,2022-11-18,2022-11-28,Taiwan,1,172516,Masters,,https://liveheats.com/events/74628,live heats,Masters,172516,Wave Jam,2022
+272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,2024-09-26,2024-10-06,Ireland,3,474990,Women,Women,https://liveheats.com/events/272891,live heats,Women,474990,Mayo Mayhem,2024
+272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,2024-09-26,2024-10-06,Ireland,3,474991,Men,Men,https://liveheats.com/events/272891,live heats,Men,474991,Mayo Mayhem,2024
+272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,2024-09-26,2024-10-06,Ireland,3,474992,Masters,,https://liveheats.com/events/272891,live heats,Masters,474992,Mayo Mayhem,2024
+272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,2024-09-26,2024-10-06,Ireland,3,474993,Pro Junior GIrls,Women,https://liveheats.com/events/272891,live heats,Pro Junior GIrls,474993,Mayo Mayhem,2024
+272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,2024-09-26,2024-10-06,Ireland,3,474994,Pro Junior Boys,Men,https://liveheats.com/events/272891,live heats,Pro Junior Boys,474994,Mayo Mayhem,2024
+272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,2024-09-26,2024-10-06,Ireland,3,474995,Junior Girls,Women,https://liveheats.com/events/272891,live heats,Junior Girls,474995,Mayo Mayhem,2024
+272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,2024-09-26,2024-10-06,Ireland,3,474996,Junior Boys,Men,https://liveheats.com/events/272891,live heats,Junior Boys,474996,Mayo Mayhem,2024
+272891,Ireland: 3 STAR Mayo Mayhem,Results Published,10,2024-09-26,2024-10-06,Ireland,3,474997,OPEN,,https://liveheats.com/events/272891,live heats,OPEN,474997,Mayo Mayhem,2024
+72453,CHILE: 4 STAR SURAZO Infernal - Pro Men,Results Published,9,2023-03-25,2023-04-03,Chile,4,168199,Men,Men,https://liveheats.com/events/72453,live heats,Men,168199,SURAZO Infernal - Pro Men,2023
+72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,2023-01-18,2023-01-22,Australia,2,168233,Men,Men,https://liveheats.com/events/72485,live heats,Men,168233,Lancelin Wave Classic,2023
+72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,2023-01-18,2023-01-22,Australia,2,168234,Women,Women,https://liveheats.com/events/72485,live heats,Women,168234,Lancelin Wave Classic,2023
+72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,2023-01-18,2023-01-22,Australia,2,168235,Junior Boys,Men,https://liveheats.com/events/72485,live heats,Junior Boys,168235,Lancelin Wave Classic,2023
+72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,2023-01-18,2023-01-22,Australia,2,293483,Junior Girls,Women,https://liveheats.com/events/72485,live heats,Junior Girls,293483,Lancelin Wave Classic,2023
+72485,Australia: 2 STAR Lancelin Wave Classic,Results Published,4,2023-01-18,2023-01-22,Australia,2,168236,Masters,,https://liveheats.com/events/72485,live heats,Masters,168236,Lancelin Wave Classic,2023
+74594,Ireland: 2 STAR Mayo Mayhem,Results Published,3,2023-09-29,2023-10-02,Ireland,2,172501,Men,Men,https://liveheats.com/events/74594,live heats,Men,172501,Mayo Mayhem,2023
+74594,Ireland: 2 STAR Mayo Mayhem,Results Published,3,2023-09-29,2023-10-02,Ireland,2,172502,Women,Women,https://liveheats.com/events/74594,live heats,Women,172502,Mayo Mayhem,2023
+74594,Ireland: 2 STAR Mayo Mayhem,Results Published,3,2023-09-29,2023-10-02,Ireland,2,172503,Junior Boys,Men,https://liveheats.com/events/74594,live heats,Junior Boys,172503,Mayo Mayhem,2023
+187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,2024-10-04,2024-10-07,Australia,2,353346,Women,Women,https://liveheats.com/events/187576,live heats,Women,353346,SurfFX North Coast Woopi Classic,2024
+187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,2024-10-04,2024-10-07,Australia,2,353347,Men,Men,https://liveheats.com/events/187576,live heats,Men,353347,SurfFX North Coast Woopi Classic,2024
+187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,2024-10-04,2024-10-07,Australia,2,353348,Masters,,https://liveheats.com/events/187576,live heats,Masters,353348,SurfFX North Coast Woopi Classic,2024
+187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,2024-10-04,2024-10-07,Australia,2,353349,Junior Girls,Women,https://liveheats.com/events/187576,live heats,Junior Girls,353349,SurfFX North Coast Woopi Classic,2024
+187576,Australia: 2 STAR SurfFX North Coast Woopi Classic,Results Published,3,2024-10-04,2024-10-07,Australia,2,353350,Junior Boys,Men,https://liveheats.com/events/187576,live heats,Junior Boys,353350,SurfFX North Coast Woopi Classic,2024
+72450,France: 2 STAR Championnat De France Funboard Vagues 2023,Results Published,2,2023-11-18,2023-11-20,France,2,168184,Men,Men,https://liveheats.com/events/72450,live heats,Men,168184,Championnat De France Funboard Vagues,2023
+72450,France: 2 STAR Championnat De France Funboard Vagues 2023,Results Published,2,2023-11-18,2023-11-20,France,2,168185,Women,Women,https://liveheats.com/events/72450,live heats,Women,168185,Championnat De France Funboard Vagues,2023
+81557,Japan: 1 STAR Cold Breeze,Results Published,2,2022-12-24,2022-12-26,Japan,1,186130,Men,Men,https://liveheats.com/events/81557,live heats,Men,186130,Cold Breeze,2022
+81557,Japan: 1 STAR Cold Breeze,Results Published,2,2022-12-24,2022-12-26,Japan,1,186131,Women,Women,https://liveheats.com/events/81557,live heats,Women,186131,Cold Breeze,2022
+81557,Japan: 1 STAR Cold Breeze,Results Published,2,2022-12-24,2022-12-26,Japan,1,186132,Junior Boys,Men,https://liveheats.com/events/81557,live heats,Junior Boys,186132,Cold Breeze,2022
+81557,Japan: 1 STAR Cold Breeze,Results Published,2,2022-12-24,2022-12-26,Japan,1,186133,Masters,,https://liveheats.com/events/81557,live heats,Masters,186133,Cold Breeze,2022
+187565,PERU: 4 STAR Pacasmayo Classic World Cup,Results Published,14,2024-08-03,2024-08-17,Peru,4,353304,Women,Women,https://liveheats.com/events/187565,live heats,Women,353304,Pacasmayo Classic World Cup,2024
+187565,PERU: 4 STAR Pacasmayo Classic World Cup,Results Published,14,2024-08-03,2024-08-17,Peru,4,353305,Men,Men,https://liveheats.com/events/187565,live heats,Men,353305,Pacasmayo Classic World Cup,2024
+305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,2024-11-15,2024-11-17,Australia,2,541463,Women,Women,https://liveheats.com/events/305429,live heats,Women,541463,WSS Sydney Wavesailing Smackfest,2024
+305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,2024-11-15,2024-11-17,Australia,2,541464,Men,Men,https://liveheats.com/events/305429,live heats,Men,541464,WSS Sydney Wavesailing Smackfest,2024
+305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,2024-11-15,2024-11-17,Australia,2,541465,Masters,,https://liveheats.com/events/305429,live heats,Masters,541465,WSS Sydney Wavesailing Smackfest,2024
+305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,2024-11-15,2024-11-17,Australia,2,541466,Junior Girls,Women,https://liveheats.com/events/305429,live heats,Junior Girls,541466,WSS Sydney Wavesailing Smackfest,2024
+305429,Australia: 2 Star WSS Sydney Wavesailing Smackfest,Results Published,2,2024-11-15,2024-11-17,Australia,2,541467,Junior Boys,Men,https://liveheats.com/events/305429,live heats,Junior Boys,541467,WSS Sydney Wavesailing Smackfest,2024
+322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,2025-08-23,2025-09-01,Peru,3,585973,Women,Women,https://liveheats.com/events/322524,live heats,Women,585973,Pacasmayo Classic World Cup,2025
+322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,2025-08-23,2025-09-01,Peru,3,585974,Men,Men,https://liveheats.com/events/322524,live heats,Men,585974,Pacasmayo Classic World Cup,2025
+322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,2025-08-23,2025-09-01,Peru,3,585975,Masters,,https://liveheats.com/events/322524,live heats,Masters,585975,Pacasmayo Classic World Cup,2025
+322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,2025-08-23,2025-09-01,Peru,3,585976,Junior Boys,Men,https://liveheats.com/events/322524,live heats,Junior Boys,585976,Pacasmayo Classic World Cup,2025
+322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,2025-08-23,2025-09-01,Peru,3,585977,Pro Junior GIrls,Women,https://liveheats.com/events/322524,live heats,Pro Junior GIrls,585977,Pacasmayo Classic World Cup,2025
+322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,2025-08-23,2025-09-01,Peru,3,585978,Pro Junior Boys,Men,https://liveheats.com/events/322524,live heats,Pro Junior Boys,585978,Pacasmayo Classic World Cup,2025
+322524,PERU: 3 STAR Pacasmayo Classic World Cup,Scheduled,9,2025-08-23,2025-09-01,Peru,3,585979,Junior Girls,Women,https://liveheats.com/events/322524,live heats,Junior Girls,585979,Pacasmayo Classic World Cup,2025
+268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,2024-12-12,2024-12-15,Chile,3,467752,Women,Women,https://liveheats.com/events/268535,live heats,Women,467752,Sirena Wave Classic,2024
+268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,2024-12-12,2024-12-15,Chile,3,467753,Men,Men,https://liveheats.com/events/268535,live heats,Men,467753,Sirena Wave Classic,2024
+268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,2024-12-12,2024-12-15,Chile,3,467754,Masters,,https://liveheats.com/events/268535,live heats,Masters,467754,Sirena Wave Classic,2024
+268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,2024-12-12,2024-12-15,Chile,3,467758,Junior Boys,Men,https://liveheats.com/events/268535,live heats,Junior Boys,467758,Sirena Wave Classic,2024
+268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,2024-12-12,2024-12-15,Chile,3,569238,Grand Masters,,https://liveheats.com/events/268535,live heats,Grand Masters,569238,Sirena Wave Classic,2024
+268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,2024-12-12,2024-12-15,Chile,3,569239,Open AM,,https://liveheats.com/events/268535,live heats,Open AM,569239,Sirena Wave Classic,2024
+268535,Chile: 3 STAR Sirena Wave Classic,Results Published,3,2024-12-12,2024-12-15,Chile,3,467757,Junior Girls,Women,https://liveheats.com/events/268535,live heats,Junior Girls,467757,Sirena Wave Classic,2024
+268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,2024-11-07,2024-11-11,Chile,3,481449,PRE REGISTER FOR RANKINGS,,https://liveheats.com/events/268536,live heats,PRE REGISTER FOR RANKINGS,481449,Surazo Infernal Navidad,2024
+268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,2024-11-07,2024-11-11,Chile,3,467760,Men,Men,https://liveheats.com/events/268536,live heats,Men,467760,Surazo Infernal Navidad,2024
+268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,2024-11-07,2024-11-11,Chile,3,467763,Pro Junior Boys,Men,https://liveheats.com/events/268536,live heats,Pro Junior Boys,467763,Surazo Infernal Navidad,2024
+268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,2024-11-07,2024-11-11,Chile,3,467762,Pro Junior GIrls,Women,https://liveheats.com/events/268536,live heats,Pro Junior GIrls,467762,Surazo Infernal Navidad,2024
+268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,2024-11-07,2024-11-11,Chile,3,467761,Masters,,https://liveheats.com/events/268536,live heats,Masters,467761,Surazo Infernal Navidad,2024
+268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,2024-11-07,2024-11-11,Chile,3,533821,OPEN,,https://liveheats.com/events/268536,live heats,OPEN,533821,Surazo Infernal Navidad,2024
+268536,Chile: 3 STAR Surazo Infernal Navidad,Results Published,4,2024-11-07,2024-11-11,Chile,3,534578,Grand Master,,https://liveheats.com/events/268536,live heats,Grand Master,534578,Surazo Infernal Navidad,2024
+321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,2025-03-09,2025-03-10,Puerto Rico,4,584943,Women,Women,https://liveheats.com/events/321864,live heats,Women,584943,Puerto Rico World Cup,2025
+321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,2025-03-09,2025-03-10,Puerto Rico,4,584944,Men,Men,https://liveheats.com/events/321864,live heats,Men,584944,Puerto Rico World Cup,2025
+321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,2025-03-09,2025-03-10,Puerto Rico,4,584945,Masters,,https://liveheats.com/events/321864,live heats,Masters,584945,Puerto Rico World Cup,2025
+321864,Puerto Rico: 4 STAR Puerto Rico World Cup,Results Published,1,2025-03-09,2025-03-10,Puerto Rico,4,584950,Grand Masters,,https://liveheats.com/events/321864,live heats,Grand Masters,584950,Puerto Rico World Cup,2025
+322457,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,2024-11-01,2024-12-01,Taiwan,1,585833,Women,Women,https://liveheats.com/events/322457,live heats,Women,585833,Taitung Wave Classic,2024
+322457,Taiwan: 1 STAR Taitung Wave Classic,Results Published,30,2024-11-01,2024-12-01,Taiwan,1,585834,Men,Men,https://liveheats.com/events/322457,live heats,Men,585834,Taitung Wave Classic,2024
+266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,2025-01-31,2025-02-03,Australia,4,464921,Women,Women,https://liveheats.com/events/266589,live heats,Women,464921,Margaret River Wavesailing Classic,2025
+266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,2025-01-31,2025-02-03,Australia,4,464922,Men,Men,https://liveheats.com/events/266589,live heats,Men,464922,Margaret River Wavesailing Classic,2025
+266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,2025-01-31,2025-02-03,Australia,4,464923,Masters,,https://liveheats.com/events/266589,live heats,Masters,464923,Margaret River Wavesailing Classic,2025
+266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,2025-01-31,2025-02-03,Australia,4,464924,Junior Girls,Women,https://liveheats.com/events/266589,live heats,Junior Girls,464924,Margaret River Wavesailing Classic,2025
+266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,2025-01-31,2025-02-03,Australia,4,464925,Junior Boys,Men,https://liveheats.com/events/266589,live heats,Junior Boys,464925,Margaret River Wavesailing Classic,2025
+266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,2025-01-31,2025-02-03,Australia,4,464926,Pro Junior GIrls,Women,https://liveheats.com/events/266589,live heats,Pro Junior GIrls,464926,Margaret River Wavesailing Classic,2025
+266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,2025-01-31,2025-02-03,Australia,4,464927,Pro Junior Boys,Men,https://liveheats.com/events/266589,live heats,Pro Junior Boys,464927,Margaret River Wavesailing Classic,2025
+266589,Australia: 4 STAR Margaret River Wavesailing Classic,Results Published,3,2025-01-31,2025-02-03,Australia,4,601831,Grand Masters,,https://liveheats.com/events/266589,live heats,Grand Masters,601831,Margaret River Wavesailing Classic,2025
+321767,Chile: 3 STAR Surazo Infernal Navidad - women's results ,Results Published,4,2024-11-07,2024-11-11,Chile,3,584886,Women,Women,https://liveheats.com/events/321767,live heats,Women,584886,Surazo Infernal Navidad - women's results,2024
+322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,2025-09-01,2025-10-01,Ireland,3,585965,Women,Women,https://liveheats.com/events/322523,live heats,Women,585965,Mayo Mayhem,2025
+322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,2025-09-01,2025-10-01,Ireland,3,585966,Men,Men,https://liveheats.com/events/322523,live heats,Men,585966,Mayo Mayhem,2025
+322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,2025-09-01,2025-10-01,Ireland,3,585967,Masters,,https://liveheats.com/events/322523,live heats,Masters,585967,Mayo Mayhem,2025
+322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,2025-09-01,2025-10-01,Ireland,3,585968,Pro Junior GIrls,Women,https://liveheats.com/events/322523,live heats,Pro Junior GIrls,585968,Mayo Mayhem,2025
+322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,2025-09-01,2025-10-01,Ireland,3,585969,Pro Junior Boys,Men,https://liveheats.com/events/322523,live heats,Pro Junior Boys,585969,Mayo Mayhem,2025
+322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,2025-09-01,2025-10-01,Ireland,3,585970,Junior Girls,Women,https://liveheats.com/events/322523,live heats,Junior Girls,585970,Mayo Mayhem,2025
+322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,2025-09-01,2025-10-01,Ireland,3,585971,Junior Boys,Men,https://liveheats.com/events/322523,live heats,Junior Boys,585971,Mayo Mayhem,2025
+322523,Ireland: 3 STAR Mayo Mayhem,Scheduled,30,2025-09-01,2025-10-01,Ireland,3,585972,OPEN,,https://liveheats.com/events/322523,live heats,OPEN,585972,Mayo Mayhem,2025
+318167,Belgium 2 Star Nationals ,Results Published,4,2024-10-18,2024-10-22,Belgium 2 Star Nationals,2,579061,Men,Men,https://liveheats.com/events/318167,live heats,Men,579061,Nationals,2024
+318167,Belgium 2 Star Nationals ,Results Published,4,2024-10-18,2024-10-22,Belgium 2 Star Nationals,2,579062,Women,Women,https://liveheats.com/events/318167,live heats,Women,579062,Nationals,2024
+275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,2024-07-31,2024-11-30,Netherlands,2,478849,Women,Women,https://liveheats.com/events/275136,live heats,Women,478849,Slam Om Domburg,2024
+275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,2024-07-31,2024-11-30,Netherlands,2,478850,Men,Men,https://liveheats.com/events/275136,live heats,Men,478850,Slam Om Domburg,2024
+275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,2024-07-31,2024-11-30,Netherlands,2,478851,Masters,,https://liveheats.com/events/275136,live heats,Masters,478851,Slam Om Domburg,2024
+275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,2024-07-31,2024-11-30,Netherlands,2,478852,Junior Girls,Women,https://liveheats.com/events/275136,live heats,Junior Girls,478852,Slam Om Domburg,2024
+275136,Netherlands: 2 STAR Slam Om Domburg,Finished,122,2024-07-31,2024-11-30,Netherlands,2,478853,Junior Boys,Men,https://liveheats.com/events/275136,live heats,Junior Boys,478853,Slam Om Domburg,2024
+322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,2025-09-01,2025-10-01,Denmark,3,585982,Men,Men,https://liveheats.com/events/322525,live heats,Men,585982,Danish Open Wave Championships,2025
+322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,2025-09-01,2025-10-01,Denmark,3,585983,Women,Women,https://liveheats.com/events/322525,live heats,Women,585983,Danish Open Wave Championships,2025
+322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,2025-09-01,2025-10-01,Denmark,3,585984,Pro Junior Boys,Men,https://liveheats.com/events/322525,live heats,Pro Junior Boys,585984,Danish Open Wave Championships,2025
+322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,2025-09-01,2025-10-01,Denmark,3,585985,Pro Junior GIrls,Women,https://liveheats.com/events/322525,live heats,Pro Junior GIrls,585985,Danish Open Wave Championships,2025
+322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,2025-09-01,2025-10-01,Denmark,3,585980,Junior Boys,Men,https://liveheats.com/events/322525,live heats,Junior Boys,585980,Danish Open Wave Championships,2025
+322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,2025-09-01,2025-10-01,Denmark,3,585981,Junior Girls,Women,https://liveheats.com/events/322525,live heats,Junior Girls,585981,Danish Open Wave Championships,2025
+322525,Denmark: 3 STAR Danish Open Wave Championships,Scheduled,30,2025-09-01,2025-10-01,Denmark,3,585986,Masters,,https://liveheats.com/events/322525,live heats,Masters,585986,Danish Open Wave Championships,2025
+322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,2025-10-11,2025-10-18,Scotland,3,585987,Men,Men,https://liveheats.com/events/322556,live heats,Men,585987,Tiree Wave Classic,2025
+322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,2025-10-11,2025-10-18,Scotland,3,585988,Women,Women,https://liveheats.com/events/322556,live heats,Women,585988,Tiree Wave Classic,2025
+322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,2025-10-11,2025-10-18,Scotland,3,585989,Junior Boys,Men,https://liveheats.com/events/322556,live heats,Junior Boys,585989,Tiree Wave Classic,2025
+322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,2025-10-11,2025-10-18,Scotland,3,585990,Junior Girls,Women,https://liveheats.com/events/322556,live heats,Junior Girls,585990,Tiree Wave Classic,2025
+322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,2025-10-11,2025-10-18,Scotland,3,585992,Pro Junior Boys,Men,https://liveheats.com/events/322556,live heats,Pro Junior Boys,585992,Tiree Wave Classic,2025
+322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,2025-10-11,2025-10-18,Scotland,3,585993,Pro Junior GIrls,Women,https://liveheats.com/events/322556,live heats,Pro Junior GIrls,585993,Tiree Wave Classic,2025
+322556,Scotland: 3 STAR Tiree Wave Classic,Scheduled,7,2025-10-11,2025-10-18,Scotland,3,585991,Masters,,https://liveheats.com/events/322556,live heats,Masters,585991,Tiree Wave Classic,2025
+322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,2025-11-01,2025-12-01,Chile,3,585999,PRE REGISTER FOR RANKINGS,,https://liveheats.com/events/322557,live heats,PRE REGISTER FOR RANKINGS,585999,Surazo Infernal Navidad,2025
+322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,2025-11-01,2025-12-01,Chile,3,585994,Men,Men,https://liveheats.com/events/322557,live heats,Men,585994,Surazo Infernal Navidad,2025
+322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,2025-11-01,2025-12-01,Chile,3,585995,Pro Junior Boys,Men,https://liveheats.com/events/322557,live heats,Pro Junior Boys,585995,Surazo Infernal Navidad,2025
+322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,2025-11-01,2025-12-01,Chile,3,585996,Pro Junior GIrls,Women,https://liveheats.com/events/322557,live heats,Pro Junior GIrls,585996,Surazo Infernal Navidad,2025
+322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,2025-11-01,2025-12-01,Chile,3,586000,Masters,,https://liveheats.com/events/322557,live heats,Masters,586000,Surazo Infernal Navidad,2025
+322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,2025-11-01,2025-12-01,Chile,3,585997,OPEN,,https://liveheats.com/events/322557,live heats,OPEN,585997,Surazo Infernal Navidad,2025
+322557,Chile: 3 STAR Surazo Infernal Navidad,Scheduled,30,2025-11-01,2025-12-01,Chile,3,585998,Grand Master,,https://liveheats.com/events/322557,live heats,Grand Master,585998,Surazo Infernal Navidad,2025
+322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,2025-11-01,2025-12-01,France,3,586001,Women,Women,https://liveheats.com/events/322558,live heats,Women,586001,Wissant Wave Classic,2025
+322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,2025-11-01,2025-12-01,France,3,586002,Men,Men,https://liveheats.com/events/322558,live heats,Men,586002,Wissant Wave Classic,2025
+322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,2025-11-01,2025-12-01,France,3,586003,Pro Junior GIrls,Women,https://liveheats.com/events/322558,live heats,Pro Junior GIrls,586003,Wissant Wave Classic,2025
+322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,2025-11-01,2025-12-01,France,3,586004,Pro Junior Boys,Men,https://liveheats.com/events/322558,live heats,Pro Junior Boys,586004,Wissant Wave Classic,2025
+322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,2025-11-01,2025-12-01,France,3,586005,Junior Boys,Men,https://liveheats.com/events/322558,live heats,Junior Boys,586005,Wissant Wave Classic,2025
+322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,2025-11-01,2025-12-01,France,3,586006,Junior Girls,Women,https://liveheats.com/events/322558,live heats,Junior Girls,586006,Wissant Wave Classic,2025
+322558,France: 3 STAR Wissant Wave Classic,Scheduled,30,2025-11-01,2025-12-01,France,3,586007,Masters,,https://liveheats.com/events/322558,live heats,Masters,586007,Wissant Wave Classic,2025
+295232,Judges Training Event,Finished,8,2023-10-01,2023-10-09,Judges Training Event,,515438,Men,Men,https://liveheats.com/events/295232,live heats,Men,515438,Judges Training Event,2023
+321870,GERMANY: 5 STAR Sylt World Cup,Scheduled,10,2025-09-26,2025-10-06,Germany,5,585005,Men,Men,https://liveheats.com/events/321870,live heats,Men,585005,Sylt World Cup,2025
+321870,GERMANY: 5 STAR Sylt World Cup,Scheduled,10,2025-09-26,2025-10-06,Germany,5,585006,Women,Women,https://liveheats.com/events/321870,live heats,Women,585006,Sylt World Cup,2025
+296885,Test,Finished,2,2022-01-01,2022-01-03,Test,,519085,Women,Women,https://liveheats.com/events/296885,live heats,Women,519085,Test,2022
+296885,Test,Finished,2,2022-01-01,2022-01-03,Test,,519086,Men,Men,https://liveheats.com/events/296885,live heats,Men,519086,Test,2022
+296885,Test,Finished,2,2022-01-01,2022-01-03,Test,,519087,Pro Junior Boys,Men,https://liveheats.com/events/296885,live heats,Pro Junior Boys,519087,Test,2022
+296885,Test,Finished,2,2022-01-01,2022-01-03,Test,,519088,Masters,,https://liveheats.com/events/296885,live heats,Masters,519088,Test,2022
+321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,2025-02-17,2025-02-24,Japan,4,584935,Women,Women,https://liveheats.com/events/321863,live heats,Women,584935,Omaezaki Japan World Cup,2025
+321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,2025-02-17,2025-02-24,Japan,4,584936,Men,Men,https://liveheats.com/events/321863,live heats,Men,584936,Omaezaki Japan World Cup,2025
+321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,2025-02-17,2025-02-24,Japan,4,584937,Masters,,https://liveheats.com/events/321863,live heats,Masters,584937,Omaezaki Japan World Cup,2025
+321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,2025-02-17,2025-02-24,Japan,4,584938,Junior Girls,Women,https://liveheats.com/events/321863,live heats,Junior Girls,584938,Omaezaki Japan World Cup,2025
+321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,2025-02-17,2025-02-24,Japan,4,584939,Junior Boys,Men,https://liveheats.com/events/321863,live heats,Junior Boys,584939,Omaezaki Japan World Cup,2025
+321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,2025-02-17,2025-02-24,Japan,4,584940,Pro Junior GIrls,Women,https://liveheats.com/events/321863,live heats,Pro Junior GIrls,584940,Omaezaki Japan World Cup,2025
+321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,2025-02-17,2025-02-24,Japan,4,584941,Pro Junior Boys,Men,https://liveheats.com/events/321863,live heats,Pro Junior Boys,584941,Omaezaki Japan World Cup,2025
+321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,2025-02-17,2025-02-24,Japan,4,584942,Grand Masters,,https://liveheats.com/events/321863,live heats,Grand Masters,584942,Omaezaki Japan World Cup,2025
+321863,Japan: 4 STAR Omaezaki Japan World Cup,Results Published,7,2025-02-17,2025-02-24,Japan,4,625558,Expression Session,,https://liveheats.com/events/321863,live heats,Expression Session,625558,Omaezaki Japan World Cup,2025
+374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,2025-01-18,2025-01-20,Guadeloupe,2,672485,Men,Men,https://liveheats.com/events/374994,live heats,Men,672485,King Of Moule,2025
+374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,2025-01-18,2025-01-20,Guadeloupe,2,672486,Women,Women,https://liveheats.com/events/374994,live heats,Women,672486,King Of Moule,2025
+374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,2025-01-18,2025-01-20,Guadeloupe,2,672487,Junior Boys,Men,https://liveheats.com/events/374994,live heats,Junior Boys,672487,King Of Moule,2025
+374994,Guadeloupe: 2 STAR King Of Moule 2025,Results Published,2,2025-01-18,2025-01-20,Guadeloupe,2,672488,Masters,,https://liveheats.com/events/374994,live heats,Masters,672488,King Of Moule,2025
+277082,Israel: 3 STAR Storm Rider Haifa,Finished,75,2025-01-16,2025-04-01,Israel,3,481480,PRE REGISTER FOR RANKINGS,,https://liveheats.com/events/277082,live heats,PRE REGISTER FOR RANKINGS,481480,Storm Rider Haifa,2025
+277082,Israel: 3 STAR Storm Rider Haifa,Finished,75,2025-01-16,2025-04-01,Israel,3,607606,open,,https://liveheats.com/events/277082,live heats,open,607606,Storm Rider Haifa,2025
+187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,2024-02-02,2024-02-03,Australia,3,353247,Women,Women,https://liveheats.com/events/187554,live heats,Women,353247,Severne Margaret River Wavesailing Classic,2024
+187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,2024-02-02,2024-02-03,Australia,3,353248,Men,Men,https://liveheats.com/events/187554,live heats,Men,353248,Severne Margaret River Wavesailing Classic,2024
+187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,2024-02-02,2024-02-03,Australia,3,353249,Masters,,https://liveheats.com/events/187554,live heats,Masters,353249,Severne Margaret River Wavesailing Classic,2024
+187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,2024-02-02,2024-02-03,Australia,3,353250,Junior Girls,Women,https://liveheats.com/events/187554,live heats,Junior Girls,353250,Severne Margaret River Wavesailing Classic,2024
+187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,2024-02-02,2024-02-03,Australia,3,353251,Junior Boys,Men,https://liveheats.com/events/187554,live heats,Junior Boys,353251,Severne Margaret River Wavesailing Classic,2024
+187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,2024-02-02,2024-02-03,Australia,3,400439,Pro Junior GIrls,Women,https://liveheats.com/events/187554,live heats,Pro Junior GIrls,400439,Severne Margaret River Wavesailing Classic,2024
+187554,Australia: 3 STAR Severne Margaret River Wavesailing Classic 2024,Results Published,1,2024-02-02,2024-02-03,Australia,3,400440,Pro Junior Boys,Men,https://liveheats.com/events/187554,live heats,Pro Junior Boys,400440,Severne Margaret River Wavesailing Classic,2024
+321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,2025-04-14,2025-04-19,Hawaii,4,584956,Women,Women,https://liveheats.com/events/321866,live heats,Women,584956,Hawaii World Cup,2025
+321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,2025-04-14,2025-04-19,Hawaii,4,584957,Men,Men,https://liveheats.com/events/321866,live heats,Men,584957,Hawaii World Cup,2025
+321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,2025-04-14,2025-04-19,Hawaii,4,584958,Masters,,https://liveheats.com/events/321866,live heats,Masters,584958,Hawaii World Cup,2025
+321866,Hawaii: 4 STAR Hawaii World Cup,Results Published,5,2025-04-14,2025-04-19,Hawaii,4,584960,Junior Boys,Men,https://liveheats.com/events/321866,live heats,Junior Boys,584960,Hawaii World Cup,2025
+266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2025-01-14,2025-01-20,Australia,,464914,Junior Girls,Women,https://liveheats.com/events/266588,live heats,Junior Girls,464914,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2025
+266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2025-01-14,2025-01-20,Australia,,464915,Junior Boys,Men,https://liveheats.com/events/266588,live heats,Junior Boys,464915,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2025
+266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2025-01-14,2025-01-20,Australia,,464916,U15 Girls,Women,https://liveheats.com/events/266588,live heats,U15 Girls,464916,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2025
+266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2025-01-14,2025-01-20,Australia,,464917,U15 Boys,Men,https://liveheats.com/events/266588,live heats,U15 Boys,464917,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2025
+266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2025-01-14,2025-01-20,Australia,,464918,U13,,https://liveheats.com/events/266588,live heats,U13,464918,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2025
+266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2025-01-14,2025-01-20,Australia,,464919,Pro Junior GIrls,Women,https://liveheats.com/events/266588,live heats,Pro Junior GIrls,464919,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2025
+266588,Australia: YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,Results Published,6,2025-01-14,2025-01-20,Australia,,464920,Pro Junior Boys,Men,https://liveheats.com/events/266588,live heats,Pro Junior Boys,464920,YOUTH 100% Jaffle Shack Oceania Youth Wave Titles and Junior Windsurf Camp,2025
+321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,2025-03-24,2025-04-07,Chile,5,584951,Women,Women,https://liveheats.com/events/321865,live heats,Women,584951,Surazo Infernal World Cup,2025
+321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,2025-03-24,2025-04-07,Chile,5,584952,Men,Men,https://liveheats.com/events/321865,live heats,Men,584952,Surazo Infernal World Cup,2025
+321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,2025-03-24,2025-04-07,Chile,5,584953,Masters,,https://liveheats.com/events/321865,live heats,Masters,584953,Surazo Infernal World Cup,2025
+321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,2025-03-24,2025-04-07,Chile,5,584954,Pro Junior GIrls,Women,https://liveheats.com/events/321865,live heats,Pro Junior GIrls,584954,Surazo Infernal World Cup,2025
+321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,2025-03-24,2025-04-07,Chile,5,584955,Pro Junior Boys,Men,https://liveheats.com/events/321865,live heats,Pro Junior Boys,584955,Surazo Infernal World Cup,2025
+321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,2025-03-24,2025-04-07,Chile,5,629716,Junior Girls,Women,https://liveheats.com/events/321865,live heats,Junior Girls,629716,Surazo Infernal World Cup,2025
+321865,CHILE: 5 STAR Surazo Infernal World Cup,Results Published,14,2025-03-24,2025-04-07,Chile,5,629717,Junior Boys,Men,https://liveheats.com/events/321865,live heats,Junior Boys,629717,Surazo Infernal World Cup,2025
+375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,2025-04-19,2025-04-21,Argentina,2,672517,Women,Women,https://liveheats.com/events/375026,live heats,Women,672517,Mar Del Plata,2025
+375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,2025-04-19,2025-04-21,Argentina,2,672518,Men,Men,https://liveheats.com/events/375026,live heats,Men,672518,Mar Del Plata,2025
+375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,2025-04-19,2025-04-21,Argentina,2,672519,Masters,,https://liveheats.com/events/375026,live heats,Masters,672519,Mar Del Plata,2025
+375026,Argentina : 2 Star Mar Del Plata ,Results Published,2,2025-04-19,2025-04-21,Argentina,2,672521,Junior Boys,Men,https://liveheats.com/events/375026,live heats,Junior Boys,672521,Mar Del Plata,2025
+322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,2025-04-26,2025-05-04,Morocco,3,585958,Women,Women,https://liveheats.com/events/322490,live heats,Women,585958,Moulay Wave Classic,2025
+322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,2025-04-26,2025-05-04,Morocco,3,585959,Men,Men,https://liveheats.com/events/322490,live heats,Men,585959,Moulay Wave Classic,2025
+322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,2025-04-26,2025-05-04,Morocco,3,585961,Pro Junior Boys,Men,https://liveheats.com/events/322490,live heats,Pro Junior Boys,585961,Moulay Wave Classic,2025
+322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,2025-04-26,2025-05-04,Morocco,3,585963,Junior Boys,Men,https://liveheats.com/events/322490,live heats,Junior Boys,585963,Moulay Wave Classic,2025
+322490,Morocco: 3 STAR Moulay Wave Classic,Results Published,8,2025-04-26,2025-05-04,Morocco,3,672781,U15,,https://liveheats.com/events/322490,live heats,U15,672781,Moulay Wave Classic,2025
