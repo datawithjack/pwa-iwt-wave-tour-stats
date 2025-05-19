@@ -14,19 +14,23 @@
     [X] - remove events liek expression session and judges training etc
 
     [X] -PWA EVENT FUNCITONS needs fixing!!!!
-    [] - rewrite event cleaning scripts
+    [X] - rewrite event cleaning scripts
 
     ATHLETE data
     [] - issue with keith taboul record in athletes and in link table
     [] - issue with flo jung and julian slamon g-21? change someone to GER-21
-    [] - add sex to iwt events
+    
     [] - remove accents from name 
+    [X] - add sponsors info
+    [X] - add missing PWA sailors
+
+    
 
     ALL/OTHER?
     [] - issues with 2023 aloha classic results
     [] - remove pwa host events from combined data, heat score, results, final rank etc
     [] - rename division_id in final rank data and add in division id and below
-    
+    [] - add sex to iwt events
     [] - look at why some atheltes heats dont have athletes ids - same for scores?
     [] - add division_id_athlete_id to to final_rank data
     [] - seperate out elimination data from final rank data??
@@ -37,7 +41,7 @@
     
     
     
-    [] - issue with pwa athletes historical (i.e not in iwt). find pwa athletes not in by doing join with results databse then add these athletes to current combined athlet DB
+
     
     [] - standard round names
     [] - why null event_division_elimination_round_id
