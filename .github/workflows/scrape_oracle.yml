@@ -40,18 +40,15 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
-    - name: Setup SSH key for Oracle connection
-      env:
-        SSH_PRIVATE_KEY: ${{ secrets.ORACLE_SSH_PRIVATE_KEY }}
+    - name: Setup SSH known hosts
       run: |
         mkdir -p ~/.ssh
-        echo "$SSH_PRIVATE_KEY" > ~/.ssh/ssh-key-2025-07-09.key
-        chmod 600 ~/.ssh/ssh-key-2025-07-09.key
         ssh-keyscan -H 129.151.144.124 >> ~/.ssh/known_hosts
         
     - name: Run Oracle Events Scraper
       env:
         ORACLE_DB_PASSWORD: ${{ secrets.ORACLE_DB_PASSWORD }}
+        ORACLE_SSH_PRIVATE_KEY: ${{ secrets.ORACLE_SSH_PRIVATE_KEY }}
       run: |
         python daily_events_check_and_update_oracle.py
         

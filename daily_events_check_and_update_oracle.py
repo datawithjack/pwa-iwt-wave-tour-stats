@@ -7,6 +7,8 @@ from sshtunnel import SSHTunnelForwarder
 import pymysql
 import pymysql.cursors
 from datetime import datetime
+import paramiko
+from io import StringIO
 
 # ------------------------------
 # SSH Tunnel & Database Configuration
@@ -15,9 +17,15 @@ from datetime import datetime
 # SSH Configuration
 SSH_HOST = '129.151.144.124'
 SSH_USER = 'opc'
-SSH_KEY_PATH = r"C:\Users\jackf\.ssh\ssh-key-2025-07-09.key"
 HEATWAVE_HOST = '10.0.151.92'
 HEATWAVE_PORT = 3306
+
+# SSH Key handling - try environment variable first, then file path
+SSH_KEY_CONTENT = os.getenv('ORACLE_SSH_PRIVATE_KEY')
+SSH_KEY_PATH = (
+    os.path.expanduser('~/.ssh/ssh-key-2025-07-09.key') if os.name != 'nt' 
+    else r"C:\Users\jackf\.ssh\ssh-key-2025-07-09.key"
+)
 
 # Database credentials
 DB_USER = 'admin'
@@ -239,11 +247,32 @@ def upsert_all_events(connection, df):
 def main():
     print("\n=== Oracle HeatWave Wave Tour Events Update ===\n")
     
+    # Determine SSH key method
+    ssh_pkey = None
+    if SSH_KEY_CONTENT:
+        print("🔑 Using SSH key from environment variable")
+        try:
+            # Create paramiko key object from content
+            key_file = StringIO(SSH_KEY_CONTENT)
+            ssh_pkey = paramiko.RSAKey.from_private_key(key_file)
+            print("✅ Successfully loaded SSH key from environment")
+        except Exception as e:
+            print(f"❌ Error loading SSH key from environment: {e}")
+            print("🔄 Falling back to file path method")
+            ssh_pkey = SSH_KEY_PATH
+    else:
+        print(f"🔍 Using SSH key file: {SSH_KEY_PATH}")
+        ssh_pkey = SSH_KEY_PATH
+        if os.path.exists(SSH_KEY_PATH):
+            print(f"✅ SSH Key file exists, size: {os.path.getsize(SSH_KEY_PATH)} bytes")
+        else:
+            print("❌ SSH Key file not found!")
+    
     # Create SSH tunnel
     with SSHTunnelForwarder(
         (SSH_HOST, 22),
         ssh_username=SSH_USER,
-        ssh_pkey=SSH_KEY_PATH,
+        ssh_pkey=ssh_pkey,
         remote_bind_address=(HEATWAVE_HOST, HEATWAVE_PORT)
     ) as tunnel:
         print(f"✅ SSH Tunnel established on port: {tunnel.local_bind_port}")
